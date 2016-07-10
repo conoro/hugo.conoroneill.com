@@ -1,0 +1,25 @@
+baseurl = "http://conoroneill.com/"
+languageCode = "en-us"
+title = "Conor's Bandon Blog"
+theme = "casper"
+Paginate = 10
+disqusShortname = "conorbandon"
+rssuri = "atom.xml"
+
+[permalinks]
+  post="/:year/:month/:day/:slug/"
+
+[params]
+  twitterName = "conoro"
+  githubName = "conoro"
+  description = "Running, Food and Local stuff from a blow-in"
+  google_analytics = "UA-88610-1"
+  cover = "images/chetwynd_bw.jpg"
+  author = "Conor O'Neill"
+  authorlocation = "Bandon, Cork, Ireland"
+  authorwebsite = "http://conoroneill.com"
+  bio= "Tech guy who likes running slowly"
+  logo = "images/logo-header.png"
+  googleAnalyticsUserID = "UA-88610-1"
+  # facebookName = ""
+  # linkedinName = ""
