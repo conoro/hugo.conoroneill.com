@@ -94,3 +94,12 @@ https://www.youtube.com/watch?v=R8DeYWxmtnc
 
 
 https://my.uplift.ie/petitions/no-to-more-slash-and-burn?source=facebook-share-button&time=1453128851
+
+But this is how things have always been........in your lifetime. A pre-famine landscape looked nothing like this. A pre-deforestation landscape looked nothing like this.
+
+Douglas Adams:
+
+“I've come up with a set of rules that describe our reactions to technologies:
+1. Anything that is in the world when you’re born is normal and ordinary and is just a natural part of the way the world works.
+2. Anything that's invented between when you’re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it.
+3. Anything invented after you're thirty-five is against the natural order of things.”

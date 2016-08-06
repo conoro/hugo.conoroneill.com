@@ -7,6 +7,7 @@ tags = ["blog"]
 features = ["disqus", "google analytics","share"]
 min_version=0.14
 
+
 [author]
   name = "Valere JEANTET"
   homepage = "http://vjeantet.fr"
