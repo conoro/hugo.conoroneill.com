@@ -5,6 +5,7 @@ theme = "casper"
 Paginate = 10
 disqusShortname = "conorbandon"
 rssuri = "atom.xml"
+publishdir = "docs"
 
 [permalinks]
   post="/:year/:month/:day/:slug/"

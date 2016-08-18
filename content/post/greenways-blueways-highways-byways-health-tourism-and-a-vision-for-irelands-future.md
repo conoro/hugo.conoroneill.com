@@ -4,8 +4,8 @@ Description = "That title sure is a mouthful but I've a lot to say and it's been
 Tags = []
 draft = true
 date = "2016-08-02T18:32:32+01:00"
-title = "Greenways, Blueways, Highways, Byways, Health, Tourism and a Vision for Ireland's Future"
-slug = "greenways-blueways-highways-byways-health-tourism-and-a-vision-for-irelands-future"
+title = "Greenways, Blueways, Byways, Hedgerows, Health, Tourism and a Vision for Ireland's Future"
+slug = "greenways-blueways-byways-hedgerows-health-tourism-and-a-vision-for-irelands-future"
 +++
 
 That title sure is a mouthful but I've a lot to say and it's been weighing heavily on my mind recently.
@@ -64,11 +64,25 @@ NAMA 5000 acres in Wicklow. What else do they own that would be better kept for 
 Reforestation
 https://gearjunkie.com/india-plants-50-million-trees-one-day
 
-https://www.nps.gov/subjects/centennial/index.htm
 
 https://www.sportengland.org/research/who-plays-sport/national-picture/
 
+"The number of people taking part in athletics weekly has risen from 1.3 million in 2005-06 to almost 2.4 million today."
+
+
+Irish National Parks and Wildlife Service:
+
 http://www.npws.ie/national-parks
+
+"It is the policy of the Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs, endorsed by successive governments, to abide by the criteria and standards for National Parks as set by the IUCN."
+
+
+compared to US National Parks Service:
+
+https://www.nps.gov/subjects/centennial/index.htm
+
+"The National Park Service preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The Park Service cooperates with partners to extend the benefits of natural and cultural resource conservation and outdoor recreation throughout this country and the world. "
+
 
 "A whopping 92,432 people crossed a parkrun finish line in the UK this weekend" - Not whopping!
 
@@ -103,3 +117,30 @@ Douglas Adams:
 1. Anything that is in the world when you’re born is normal and ordinary and is just a natural part of the way the world works.
 2. Anything that's invented between when you’re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it.
 3. Anything invented after you're thirty-five is against the natural order of things.”
+
+http://www.ahrrga.gov.ie/expansion-of-the-wicklow-mountains-national-park/
+
+
+Expansion of the Wicklow Mountains National Park
+
+The Minister of State for Regional Economic Development, Mr. Michael Ring T.D., today announced that the Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs has reached an agreement to purchase 4,900 acres (or 1,983 hectares) of the Dublin Uplands, in the area known popularly as the Featherbeds. This land will be added to the Wicklow Mountains National Park, expanding the total size of the National Park to 22,000 hectares.
+
+A challenge to build a walking trail around the entire coast of Ireland. Something to make the whole work wake up and pay attention.
+
+
+How millions of trees brought a broken landscape back to life
+https://www.theguardian.com/environment/2016/aug/07/national-forest-woodland-midlands-regeneration?CMP=share_btn_tw
+
+http://www.mountaineering.ie/accessandenvironment/ComhairlenaTuaithe/TheWalksScheme/default.aspx
+http://www.housing.gov.ie/community/rural-development/walks-scheme/walks-scheme
+The scheme is not available nationwide; it was initially rolled out in the 12 areas of the country where Rural Recreation Officers are employed.  At the end of 2010 the scheme extended to 49 approved walking routes with a total of 1,819 landowners receiving an average annual payment of approximately €1,100.
+
+http://www.irishtrails.ie/national_trails_office/publications/trail_development/guide_to_planning_and_developing_recreational_trails_in_ireland.pdf
+
+
+The Regional Park and Gunpowder Trails, Ballincollig
+http://corkcoco.maps.arcgis.com/apps/MapTour/index.html?appid=a437fd5a223d4a0f89f55fe5569a6ae8#
+
+UK South West Coast Path FKT: https://www.youtube.com/watch?v=wnhd6xqTcJM&feature=youtu.be
+
+Jimmy Carter bought up farmland for the Appalachian Trail: http://www.outsideonline.com/2105176/great-trail-debate-why-wilderness-needs-more-trails
