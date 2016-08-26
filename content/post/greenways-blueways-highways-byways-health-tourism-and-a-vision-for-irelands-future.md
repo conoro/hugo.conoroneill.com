@@ -144,3 +144,57 @@ http://corkcoco.maps.arcgis.com/apps/MapTour/index.html?appid=a437fd5a223d4a0f89
 UK South West Coast Path FKT: https://www.youtube.com/watch?v=wnhd6xqTcJM&feature=youtu.be
 
 Jimmy Carter bought up farmland for the Appalachian Trail: http://www.outsideonline.com/2105176/great-trail-debate-why-wilderness-needs-more-trails
+
+
+http://www.irishtimes.com/life-and-style/people/cork-is-certainly-not-the-real-capital-but-it-could-be-great-1.2756935
+
+To complement the city of spires, we could develop a Lee Valley Park, planted with native trees, encompassing the Lee Fields, Ballincollig Regional Park, Farran Wood and, in time, the flooded sylvan graveyard of the Gearagh.
+
+
+Park Runs: Cork...Castle Demense, Macroom // Showgrounds, Clonakilty // Bere Island, Beara Peninsula) // Glengarriff // Castlehaven // Ballincollig Regional Park...
+
+
+https://www.youtube.com/watch?v=oA0v5OrdhUk
+
+KEEN Live Monumental - Full Film. Nine weeks and 7500 miles of canyons, petroglyphs, starry nights and breakdowns – KEEN Footwear’s 1976 Live Monumental RV embarks on a classic American road trip to protect the places we play. Teddy Roosevelt is the guiding star urging citizens and a gridlocked political system to create lasting change through the creation of five new national monuments. As the RV heads home, the Live Monumental movement continues driving immense support from a passionate public responding to Teddy’s message: “It is not what we have that will make us a great nation; it is the way in which we use it."
+
+
+The World Health Organization estimates that 1.25 million people die from car-related injuries per year. Half of the deaths are pedestrians, bicyclists, and motorcyclists hit by cars. Cars are the leading cause of death for people ages 15–29 years old.
+
+
+http://www.irunfar.com/2016/08/a-trail-runners-primer-on-public-lands.html
+A Trail Runner’s Primer On Public Lands.
+Today, roughly 640 million acres, or almost a third of the country, fall under the auspices of the federal government. As you move west, land-ownership asymmetry becomes apparent. In the 11 most contiguous western states a whopping 47% of the land base is public or federally owned, while east of the Mississippi River the federal government manages a scant 4%.
+
+In 1872 Yellowstone became the United States’s first national park. Today, 59 national parks, administered by the National Park Service, can be found in 27 states. The purpose of the NPS is, according to its founding legislation, the 1916 Organic Act, is to:
+“…to conserve the scenery and the natural and historic objects and wildlife therein, and to provide for the enjoyment of the same in such manner and by such means as will leave them unimpaired for the enjoyment of future generations.”
+
+https://twitter.com/BenedictEvans/status/767945080988590080
+
+"As a matter of principle, one should assume changes to urban landscape from autonomy will be at least as important as those from cars"
+
+In Paris, Plans for a Seine Reinvention
+Mayor Anne Hidalgo has announced an "almost philosophical project" to take the famed river's quayside back from cars.
+
+http://www.citylab.com/design/2015/05/in-paris-plans-for-a-river-seine-reinvention/392639/
+
+
+Crowds flock to visit ‘Irish Alcatraz’. 10,000 in August
+http://www.irishexaminer.com/ireland/crowds-flock-to-visit-irish-alcatraz-417012.html
+
+https://twitter.com/FLOTUS/status/768833425692172288
+100 years of helping families create memories across our beautiful country. Thank you, @NatlParkService! #NPS100
+
+https://twitter.com/google/status/768870587838103553
+Today’s #GoogleDoodle honors the @NatlParkService’s centennial, America’s best idea. #NPS100 https://goo.gl/CxbUvr
+https://www.google.com/doodles/celebrating-us-national-parks
+"The coolest thing about the national parks is that they exist for everyone. Whether you’re a hiker, climber, camper, or “glam”per – whether you travel by bicycle, foot, or chair – there’s a park for you. I hope this Doodle inspires everyone to enjoy the outdoors, which I think is one of the best things about America."
+
+
+Public Bike Scheme in cities shows what happens when you provide the facilities and infrastructure.
+"Public bike scheme numbers show cycling is becoming more popular" - http://www.irishexaminer.com/breakingnews/ireland/public-bike-scheme-numbers-show-cycling-is-becoming-more-popular-751422.html?utm_source=iosapp&utm_medium=share&utm_campaign=sharebutton
+
+http://www.ahrrga.gov.ie/minister-ring-announces-over-e750000-capital-investment-in-killarney-national-park-for-2016/
+Minister Ring announces over €750,000 capital investment in Killarney National Park for 2016
+
+The funding, which is part of the Department’s Capital Programme for the National Parks and Wildlife Service, is aimed at priority capital projects identified within the country’s 6 National Parks and 80 statutory Nature Reserves. "It is my intention to continue to invest in our National Parks and Nature Reserves to ensure they remain a vital tourist resource which underpin the economy, both nationally and regionally"
