@@ -86,6 +86,9 @@ https://www.nps.gov/subjects/centennial/index.htm
 
 "A whopping 92,432 people crossed a parkrun finish line in the UK this weekend" - Not whopping!
 
+154,992 people crossed a parkrun finish line at the weekend worldwide, thanks to 13,418 amazing volunteers. A new global attendance record. Minuscule.
+
+
 http://www.jfk50mile.org/
 
 http://www.jfk50mile.org/history/
@@ -198,3 +201,15 @@ http://www.ahrrga.gov.ie/minister-ring-announces-over-e750000-capital-investment
 Minister Ring announces over €750,000 capital investment in Killarney National Park for 2016
 
 The funding, which is part of the Department’s Capital Programme for the National Parks and Wildlife Service, is aimed at priority capital projects identified within the country’s 6 National Parks and 80 statutory Nature Reserves. "It is my intention to continue to invest in our National Parks and Nature Reserves to ensure they remain a vital tourist resource which underpin the economy, both nationally and regionally"
+
+
+Yes self-driving cars changes things a bit - except where it has to decide whether it kills you or the driver in the case of an unavoidable collision.
+
+Politicians want to be remembered for something? Like JFK, Teddy Roosevelt, Donagh O'Malley. Or just seat-warmers doing whatever Sir Humphry tells them to do.
+
+
+One mile paths to Inchydoney and Ring!
+
+Obama: https://www.youtube.com/watch?v=djDx6LKRFdQ
+
+Teddy Roosevelt, 1903: "We are not building this country of ours for a day. It is to last through the ages. We stand on the threshold of a new century. We look into the dim years that rise before us, knowing that if we are true that the generations that succeed us here shall fall heir to a heritage such as has never been known before. I ask that we keep in mind not only our own interests, but the interests of our children. Any generation fit to do its work must work for the future, for the people of the future, as well as for itself."
