@@ -213,3 +213,12 @@ One mile paths to Inchydoney and Ring!
 Obama: https://www.youtube.com/watch?v=djDx6LKRFdQ
 
 Teddy Roosevelt, 1903: "We are not building this country of ours for a day. It is to last through the ages. We stand on the threshold of a new century. We look into the dim years that rise before us, knowing that if we are true that the generations that succeed us here shall fall heir to a heritage such as has never been known before. I ask that we keep in mind not only our own interests, but the interests of our children. Any generation fit to do its work must work for the future, for the people of the future, as well as for itself."
+
+Sample Image URLs on S3:
+http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/09/2016-05-03%2019.04.24.jpg
+http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/09/2016-05-05%2006.29.54.jpg
+
+
+![Alt text](/path/to/img.jpg)
+
+YouTube: {{< youtube just-the-id-not-the-url >}}
