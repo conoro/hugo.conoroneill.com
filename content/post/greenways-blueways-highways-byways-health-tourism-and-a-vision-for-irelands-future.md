@@ -1,64 +1,68 @@
 +++
 Categories = []
-Description = "That title sure is a mouthful but I've a lot to say and it's been weighing heavily on my mind recently."
+Description = "It's time to stop messing around and sort out what this country and its people will look like in 20 years time."
 Tags = []
 draft = true
 date = "2016-08-02T18:32:32+01:00"
-title = "Greenways, Byways, Hedgerows, Tourism and the future of Ireland's Health"
+title = "The Walkist Manifesto - From Greenways to paths everywhere and the future of Ireland's health"
 slug = "greenways-byways-hedgerows-tourism-and-the-future-of-irelands-health"
 +++
 
 ## Intro
-I began this post several months ago. It started quite simply - I wanted to congratulate the vision of those behind the wonderful Waterford Greenway and encourage Cork County Council to embrace a West Cork Greenway and execute on it. However the more I thought about it, the bigger the "vision" got. What I'm going to present here is obvious in many places, controversial in others and probably pure fantasy. But we simply can't continue to stagger blindly forward, as we have been doing for decades. It's time for a fundamental change in how the infrastructure of this country is arranged.
+I began this post several months ago. It started quite simply - I wanted to congratulate those behind the wonderful [Waterford/Deise Greenway](http://www.deisegreenway.com/) and encourage Cork County Council to embrace a West Cork Greenway and execute on it. However the more I thought about it, the bigger the "vision" got. What I'm going to present here is obvious in many places, controversial in others and possibly pure fantasy. But we simply can't continue to stagger blindly forward, as we have been doing for decades. It's time for a fundamental change in how the infrastructure of this country is arranged.
 
 Teddy Roosevelt, 1903: "We are not building this country of ours for a day. It is to last through the ages. We stand on the threshold of a new century. We look into the dim years that rise before us, knowing that if we are true that the generations that succeed us here shall fall heir to a heritage such as has never been known before. I ask that we keep in mind not only our own interests, but the interests of our children. Any generation fit to do its work must work for the future, for the people of the future, as well as for itself."
 
 ## Let's start small and talk local first - Bandon and Clonakilty Paths
-Running or walking in Bandon for health in an exercise in aggravation. We somehow decided to name a nice short walk by the river after Graham Norton and the old railway walk after Clare O'Leary and it doesn't look like a single person in the County Council thought it would be a good idea to connect the two of them together. So if you want to make use of the railway walk, you either drive there (many do!) or you risk life and limb on a one-foot wide hard shoulder with cars whizzing by at 100kph and regularly crashing into one another.
+Running or walking in Bandon for health in an exercise in aggravation. We somehow decided to name a nice short walk by the river after Graham Norton and the old railway walk after Clare O'Leary and it doesn't look like a single person in the County Council thought it would be a good idea to connect the two of them together. So if you want to make use of the railway walk, you either drive there (many do!) or you risk life and limb on a one-foot wide hard shoulder with cars whizzing by at 100kph and regularly crashing into each other.
 
-Every road out of Bandon stops just as the houses do and leaves you in mortal danger is you want to go any further on foot. Hell anyone thinking of even cycling from Bandon to Innishannon is very brave.
+Every road out of Bandon stops just as the houses do and leaves you in mortal danger if you want to go any further on foot. Anyone who cycles from Bandon to Innishannon is very brave indeed.
 
-Like many Irish towns, Bandon has a love-hate relationship with its river. It's lovely in the few small places you can see it. But its a beast that has damaged the town too. The relationship was typified by the Bandon Marathon which was run for a few years without a single view of the river. A marathon along the river would attract thousands. Imagine a Bandon to Kinsale run via Innishannon. On a permanent trail.
+Like many Irish towns, Bandon has a love-hate relationship with its river. It's lovely in the few small places you can see it. But its a beast that has damaged the town too. That relationship was typified by the Bandon Marathon which was run for a few years without a single view of the river. I'm convinced a marathon along the river would attract big crowds. Imagine a Bandon to Kinsale run, via Innishannon, on a permanent river trail.
 
-But Bandon is just one local symptom. Look at Clonakilty and Inchydoney. A beach rated as one of the best in Europe has a path out towards it that stops at exactly one mile. From then on, grit your teeth and hope some moron doesn't plough you down if you want to walk or run the other couple of miles.
+But Bandon is just one local symptom. Look at Clonakilty and Inchydoney. A beach rated as the best in Ireland by Trip Advisor users has a path out towards it that stops at exactly one mile. From then on, grit your teeth and hope some moron doesn't plough you down if you want to walk or run the remaining miles.
 
 Most of the rest of the country is exactly the same.
 
 There are some bright lights - look at the ring road in Kilkenny any evening. It's jammed with people walking and running. Why? Because they can travel everywhere safely on foot. Literally if you build it they will come.
 
-The Public Bike Scheme in cities shows what happens when you provide the facilities and infrastructure.
-
-[Public bike scheme numbers show cycling is becoming more popular](http://www.irishexaminer.com/breakingnews/ireland/public-bike-scheme-numbers-show-cycling-is-becoming-more-popular-751422.html?utm_source=iosapp&utm_medium=share&utm_campaign=sharebutton)
+The Public Bike Scheme in cities also shows what happens when you provide the facilities and infrastructure. [Public bike scheme numbers show cycling is becoming more popular](http://www.irishexaminer.com/breakingnews/ireland/public-bike-scheme-numbers-show-cycling-is-becoming-more-popular-751422.html?utm_source=iosapp&utm_medium=share&utm_campaign=sharebutton)
 
 
 ## Waterford Greenway
-Earlier in the year I heard about the Waterford Greenway and got very excited. The idea of being able to safely run, walk or cycle from Waterford to Dungarvan along the old railway line struck me as inspirational. I'm still shocked it has actually happened. I've been on it three times now, ahead of its completion and it far exceeds every expectation I had. The views are stunning, the terrain changes all the time and everything about it puts a huge smile on my face.
+Earlier in the year I heard about the [Waterford Greenway](http://www.deisegreenway.com/) and got very excited. The idea of being able to safely run, walk or cycle from Waterford to Dungarvan along the old railway line struck me as inspirational. I'm still shocked it has actually happened. I've been on it three times now, ahead of its completion and it far exceeds every expectation I had. The views are stunning, the terrain changes all the time and everything about it puts a huge smile on my face. Given how many people I've met on the Greenway in its unfinished state, I can't wait to see it when it's finished.
 
-The important thing about the Greenway (and the Westport one and the upcoming Cavan one) is that it's a facility for everyone, not just tourists. And that idea became the heart of my thoughts on this wider topic. Given how many people I've met on the Greenway in its unfinished state, I can't wait to see it when it's finished.
+The important thing about the Greenway (and the [Great Western one](http://www.greenway.ie/) and the upcoming [Cavan/Leitrim one](http://candlgreenway.ie/)) is that it's a facility for everyone, not just tourists. And that idea became the heart of my thoughts on this wider topic.
 
 ## West Cork Greenway
-Cork CoCo has a "policy" of creating the West Cork Greenway. An [excellent study]() was carried out in 2011, which figured out the how, where and cost. But nothing has happened. I don't want to particularly slag off  the new not-Alcatraz in the the middle of a freezing cold harbour, as it seems to be off to a good start in peak tourist season. But no one is travelling to Cork to see that. Imagine spending all of that money instead on a perspex enclosed walk across the Chetwynd Viaduct followed by a renovated Ballinhassig tunnel. It would rightly become world famous.
+Cork CoCo has a "policy" of creating a West Cork Greenway. An [excellent study](http://www.corkcoco.ie/co/pdf/562780142.pdf) (warning direct PDF link) was carried out in 2011, which figured out the how, where and cost. But nothing has happened. I don't want to particularly slag off the new not-Alcatraz in the the middle of a freezing cold harbour, as it seems to be off to a good start in peak tourist season. But no one is travelling to Cork to see that. Imagine spending all of that money instead on a perspex enclosed walk across a refurbished Chetwynd Viaduct followed by a renovated Ballinhassig tunnel. It would rightly become world famous.
 
 ## Joining the dots
-Now think about an East Cork Greenway. Now think about a New Ross Greenway. Now think about a Rosslare Greenway. Now think about a Dublin to Wexford Greenway. Imagine being able to safely travel on foot or bike from Dublin to Wexford to Waterford to Cork to Barley Cove to Glengarrif to Kenmare to Killarney to Tralee and Dingle.
+Now think about an East Cork Greenway. And a New Ross Greenway. And a Rosslare Greenway. And a Dublin to Wexford Greenway. Imagine being able to safely travel on foot or bike from Dublin to Wexford to Waterford to Cork to Barley Cove to Glengarrif to Kenmare to Killarney to Tralee and Dingle.
 
 Dammit, build a walking trail around the entire coast of Ireland. Something to make the whole world wake up and pay attention.
 
 ## The 80s
-Like most Irish families in the 1970s we went on holidays in Ireland. And it was often wet. And there were campsites and caravan parks all over the country to support that. We went to Barley Cove 11 years in a row. But then Spain happened, and the Canaries and cheap flights. And over the space of 10ish years, all that business went away. But there was another business there that always existed and still exists - "Adventure tourism". All those people hiking, cycling, hillwalking, mountain climbing, kayaking etc etc. That business continues to grow globally but we have to invest to get it to come here. Greenways would be a huge boost for this and get tons more Germans, Italians, French, Nordics and Americans here.
+Like most Irish families in the 1970s, we went on holidays in Ireland. And it was often wet. And there were campsites and caravan parks all over the country to support that business. We went to Barley Cove 11 years in a row :-) 
 
-SIZE OF ADVENTURE TOURISM WORLDWIDE.
+But then Spain happened, and the Canaries and cheap flights. And over the space of 10ish years, all that business went away. 
 
-Video of UTMB.
+But there was another business there that always existed and still exists - "Adventure tourism". All those people hiking, cycling, hillwalking, mountain climbing, kayaking etc etc. That business continues to grow globally but we have to invest to get it to come here. Greenways would be a huge boost for this and get tons more Germans, Italians, French, Nordics and Americans here.
+
+According to Minister Ring, in 2014 close to 1.2 million visitors to Ireland took part in hiking or cross country walking. These activity tourists spent in the region of €915 million in the Irish economy during their stay.  Similar statistics reveal that 286,000 visitors took part in cycling activities with a related spend of some €268 million. These two sectors combined generated revenue for the Irish economy in the region of €1.2 billion in 2014.
+
+€1.2 Billion in a country that treats walkers and cyclists as little more than an annoyance. Imagine what that number would be if we changed some things.
 
 ## The Wild Atlantic Way
-I have been extremely impressed with the [Wild Atlantic Way]() marketing campaign. Heck they make me want to move to Ireland and I live here. But that's all it is, a marketing campaign. The only obvious capital spend I've seen is for signage.
+I have been extremely impressed with the [Wild Atlantic Way](http://www.wildatlanticway.com/home) marketing campaign. Hell, they make me want to move to Ireland and I live here. But that's all it is, a marketing campaign. The only obvious capital spend outside of marketing is for signage.
 
 The core problem is that they show all these amazing places you can visit in Ireland and every single one of them requires you to drive there, since walking or running there would be suicidal.
 
 We live on a stunning beautiful island. The Wild Atlantic Way should be The Wild Irish way for all of us, not just tourists.
 
-https://www.youtube.com/watch?v=R8DeYWxmtnc
+What percentage of the Wild Atlantic Way is car-free vs [The West Highland Way](https://www.youtube.com/watch?v=u4QeHPn0NWI)?
+
+{{< youtube R8DeYWxmtnc >}}
 
 ## National Parks
 This is a long section and after Greenways was supposed to be the bulk of this post. But it just made me have even bigger ideas. So bear with me, we'll get there.
@@ -75,72 +79,26 @@ vs
 
 Jesus. Are you as depressed as I was when I read the Irish one?
 
+
 I had to Google to find out if we even had a National Parks service. I have been in one and to be fair, it's bloody brilliant - Killarney National Park. Check my earlier post on my Marathon there. But I've also done the Half Marathon down from Moll's Gap. The park is just fantastic. And in keeping with my theme, was full of both tourists and locals when I was there.
 
+There have been some very positive things happening around the National Parks. The government [bought 5000 acres](http://www.ahrrga.gov.ie/expansion-of-the-wicklow-mountains-national-park/) in Wicklow that NAMA was trying to hawk to some vulture funds.
 
 
+But why do we only have six parks? Why not one in every county? Why aren't we buying up land that is of minimal agricultural use and using it in the style of the Americans? Roughly [640 million acres](http://www.irunfar.com/2016/08/a-trail-runners-primer-on-public-lands.html), or almost a third of the US, fall under the auspices of the federal government.
 
-NAMA 5000 acres in Wicklow. What else do they own that would be better kept for the Nation?
-Reforestation
-https://gearjunkie.com/india-plants-50-million-trees-one-day
+Obama gets it, why don't we?
 
+{{< djDx6LKRFdQ >}}
 
-:
-
-
+[Google gets it](https://www.google.com/doodles/celebrating-us-national-parks), why don't we?
 
 
-
-
-compared to :
-
-
-
-
-
-
-
-
-http://www.ahrrga.gov.ie/expansion-of-the-wicklow-mountains-national-park/
-
-
-Expansion of the Wicklow Mountains National Park
-
-The Minister of State for Regional Economic Development, Mr. Michael Ring T.D., today announced that the Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs has reached an agreement to purchase 4,900 acres (or 1,983 hectares) of the Dublin Uplands, in the area known popularly as the Featherbeds. This land will be added to the Wicklow Mountains National Park, expanding the total size of the National Park to 22,000 hectares.
-
-http://www.ahrrga.gov.ie/minister-ring-announces-over-e750000-capital-investment-in-killarney-national-park-for-2016/
-Minister Ring announces over €750,000 capital investment in Killarney National Park for 2016
-
-The funding, which is part of the Department’s Capital Programme for the National Parks and Wildlife Service, is aimed at priority capital projects identified within the country’s 6 National Parks and 80 statutory Nature Reserves. "It is my intention to continue to invest in our National Parks and Nature Reserves to ensure they remain a vital tourist resource which underpin the economy, both nationally and regionally"
-
-
-
-Obama: https://www.youtube.com/watch?v=djDx6LKRFdQ
-
-
-
-http://www.irunfar.com/2016/08/a-trail-runners-primer-on-public-lands.html
-A Trail Runner’s Primer On Public Lands.
-Today, roughly 640 million acres, or almost a third of the country, fall under the auspices of the federal government. As you move west, land-ownership asymmetry becomes apparent. In the 11 most contiguous western states a whopping 47% of the land base is public or federally owned, while east of the Mississippi River the federal government manages a scant 4%.
-
-In 1872 Yellowstone became the United States’s first national park. Today, 59 national parks, administered by the National Park Service, can be found in 27 states. The purpose of the NPS is, according to its founding legislation, the 1916 Organic Act, is to:
-“…to conserve the scenery and the natural and historic objects and wildlife therein, and to provide for the enjoyment of the same in such manner and by such means as will leave them unimpaired for the enjoyment of future generations.”
-
-
-https://twitter.com/FLOTUS/status/768833425692172288
-100 years of helping families create memories across our beautiful country. Thank you, @NatlParkService! #NPS100
-
-https://twitter.com/google/status/768870587838103553
-Today’s #GoogleDoodle honors the @NatlParkService’s centennial, America’s best idea. #NPS100 https://goo.gl/CxbUvr
-https://www.google.com/doodles/celebrating-us-national-parks
-"The coolest thing about the national parks is that they exist for everyone. Whether you’re a hiker, climber, camper, or “glam”per – whether you travel by bicycle, foot, or chair – there’s a park for you. I hope this Doodle inspires everyone to enjoy the outdoors, which I think is one of the best things about America."
-
-
-
+But hillwalkers and outdoorsey people are a very specific segment. We need to be casting the net much wider and make walking the default for everyone, not the exception.
 
 
 ## Pedestrian Hostile in Two generations
-How did we go in two generations from a piss poor country that couldn't afford cars to one which is actively pedestrian hostile. From every kid cycling or walking to school and even university to no parent considering that a safe thing to do.
+How did we go in two generations from being a piss poor country that couldn't afford cars to one which is actively pedestrian hostile? We went from every kid cycling or walking to school and even university to almost zero.
 
 Why did we sleepwalk into this?
 
@@ -148,59 +106,45 @@ The World Health Organization estimates that 1.25 million people die from car-re
 
 Let's not forget cyclists who are regularly killed. The recent decision in Dublin to [postpone the bicycle greenways](http://www.thejournal.ie/cycling-greenways-2964771-Sep2016/) does not bode well for anything I'm proposing here.
 
+On a positive note, [COUNCILS GET INTO GEAR FOR MORE CYCLE TRACKS](http://www.eveningecho.ie/cork-news/councils-get-gear-cycle-tracks/2524009/). A blueprint for the development of new cycle lanes and tracks across Cork city and its suburbs has been published jointly by Cork city and county councils.
+
+['It's bananas!'](http://www.thejournal.ie/cycling-greenways-2964771-Sep2016/) Fury as funding pulled for Dublin cycling projects.
+
+
 ## Health
+There are lots of people trying to do good work around health and fitness here, in the private, public and quango sectors. Parkruns, But it's mostly siloed, piecemeal or, in the case of something like National Fitness Day, tokenistic.
 
-"A whopping 92,432 people crossed a parkrun finish line in the UK this weekend" - Not whopping!
+Take something like Parkruns. A superb idea. A recent tweet by the org in the UK said "A whopping 92,432 people crossed a parkrun finish line in the UK this weekend". But 92k is not whopping in a country of 64 million people where 62% of people are overweight or obese. A more fundamental change is needed rather than events which will never be more than niche for people who already want to change.
 
-154,992 people crossed a parkrun finish line at the weekend worldwide, thanks to 13,418 amazing volunteers. A new global attendance record. Minuscule.
+This isn't a new problem. In 1963 JFK was horrified by the stats he saw about the declining fitness of young people. He kicked off a range initiatives including a set of 50 mile events which were hugely popular that year. RFK even completed a 50 miler. But then JFK was assassinated. Very quickly the events petered out and now there is [only one 50 miler left](http://www.jfk50mile.org/history/). Which someday I hope to do.
 
-Operation Transformation - Great but tiny numbers
-Sli na Slainte - Great but tiny numbers
-Obesity
-https://www.sportengland.org/research/who-plays-sport/national-picture/
+How do we get the people who need to move the most moving, but who are least likely to do so?
 
-"The number of people taking part in athletics weekly has risen from 1.3 million in 2005-06 to almost 2.4 million today."
-
-Charity Walks - wonderful but one offs
-People walking for health but not particularly enjoying same urban loops over and over
-Similar to meat consumption, people want to show wealth via car ownership. Between environment and vision of Uber and Tesla, in future many won't own cars. Need to make walking the default again. Without ruining town centres like the UK. Carrot not stick has to be the default
-
-How to get the people who need to move the most moving, but who are least likely to do so? Do we just have to focus on kids?
-Cannot expect people to willingly walk around boring rural towns for "the good of their health". However people might take advantage of country, forest and river trails because they are beautiful and are good for the mind and body.
-
-http://www.jfk50mile.org/
-
-http://www.jfk50mile.org/history/
-
-The JFK 50 Mile was first held in the spring of 1963.  It was one of numerous such 50 mile events held around the country as part of President John F. Kennedy’s push to bring the country back to physical fitness.
-
+There is a great piece in the Irish Times on this. [Ian O’Riordan: We are sports mad but sanity needed to tackle obesity](http://www.irishtimes.com/sport/ian-o-riordan-we-are-sports-mad-but-sanity-needed-to-tackle-obesity-1.2794132#.V9xTtrZY9qI.twitter): "Indeed there is something strangely contradictory about all this talk of overweight adults and children and the rise of obesity, which according to some reports, will be hovering somewhere around 90 per cent of the population by 2030, the highest projected level Europe. You don’t need me to repeat the scary thought that one in four Irish children is now considered to be overweight, because for a country that prides itself on being so mad about sport, that makes little sense."
 
 
 ## France
-France has lots of problems. But it seems to have some concern for pedestrians, at least where I was on holidays this summer. We went to a holiday/caravan park in Marennes, south of la Rochelle, for the second time. Many people who go to these kind of places, never leave except maybe to drive to the supermarket. I know we've been guilty of that.
+France has lots of problems. But it seems to have some vision for pedestrians. We went to a holiday/caravan park in Marennes this year, south of La Rochelle, for the second time. Many people who go to these kind of places never leave the camp except maybe to drive to the supermarket. I know we've been guilty of that.
 
+This year I decided to be different and went for two runs in the locality. I was, to be honest, a bit freaked out beforehand, as I didn't know the roads at all. A bit of Google Streetview calmed me. On my first run, I did a short 4km loop around some back roads. And it was an absolute joy. Why? No damned hedges and a grass verge that was flush with the road. Plenty of the usual little white French vans passed me but [a] I could see them coming for ages and [b] I could take a small step sideways to be 100% safe.
 
-And in an urban context:
+For my second run, I went much further afield and was thrilled to discover an offical nature trail. This was created just with basic crushed white rock and was a lovely surface to run on. The return leg was on a very busy road. But again, it wasn't a problem. No hedges, and big flat verge. We'll get back to hedges in a moment.
 
-In Paris, Plans for a Seine Reinvention
-Mayor Anne Hidalgo has announced an "almost philosophical project" to take the famed river's quayside back from cars.
+But it's not just summer holiday locations where the French are looking a thtis. [In Paris, Plans for a Seine Reinvention](http://www.citylab.com/design/2015/05/in-paris-plans-for-a-river-seine-reinvention/392639/). Mayor Anne Hidalgo has announced an "almost philosophical project" to take the famed river's quayside back from cars. Meanwhile in Dublin.........
 
-http://www.citylab.com/design/2015/05/in-paris-plans-for-a-river-seine-reinvention/392639/
+## Reforestation
+This bit is critical for the next bit. We need a massive reforestion of the country. Every idle bit of land and farmland should be planted with native species (not poxy pines obviously). This is not for commercial purposes, tho that needn't be excluded. It ties into the National Park idea but more importantly, it gives wildlife and birds somewhere permanent away from the regular cutting of hedgerows.
 
+And before you tell me that will take decades, [India Plants 50 million trees in one day](https://gearjunkie.com/india-plants-50-million-trees-one-day). Or [How millions of trees brought a broken landscape back to life](https://www.theguardian.com/environment/2016/aug/07/national-forest-woodland-midlands-regeneration).
+It's that vision thing again.
 
-
-French Country roads. No hedges, wide flat verges. Why do we rely on land owners to maintain?
-Could we remake our countryside without major damage to wildlife. On roads only, not all hedgerows. Does France have fewer birds or bees? I saw wild deer on a run on a normal country road in France. Chances of that happening here?
 
 ## Hedgerows
-OK, now for the controversial bit. It's time to get rid of all our our roadside hedgerows. All of them. Wait, wait, before you blow a gasket and start calling me names. First, we need a massive re-forestation program to ensure that birds and wildlife have somewhere to go to.
+OK, now for the controversial bit that I'm sure you saw coming. It's time to get rid of all our our roadside hedgerows and ditches. All of them. Wait, wait, before you blow a gasket and start calling me names. First, we need that massive re-forestation programme to ensure that birds and wildlife have somewhere to go.
 
-Oh but it'll take years.
+The main impediment to people being able to walk safely everywhere is [a] visibility and [b] having somewhere to put their feet. The removal of all hedges and the covering over of all ditches deals with this. I've noticed a lot of ditch covering locally recently but of course it's not being done in a way that anyone could actually walk on. So this is eminently possible.
 
-How millions of trees brought a broken landscape back to life
-https://www.theguardian.com/environment/2016/aug/07/national-forest-woodland-midlands-regeneration?CMP=share_btn_tw
-
-
+The government should CPO every roadside ditch and hedge. This removes the current nonsense where hedge cuttting is the landowners responsibility and can only happen during certain months due to nests. Get rid of the lot and the birds can go back to their natural pre-road habitats.
 
 
 ## A New Ireland
@@ -273,6 +217,9 @@ Figures available from Fáilte Ireland reveal that in 2014, close to 1.2million 
 
 And this is in a country that's actively hostile to both walkers and cyclists. Imagine how much revenue we could generate if we made their lives easy?
 
+IBEC: THE Cork region needs the Dunkettle Interchange, the Ballyvourney Macroom scheme, the Ringaskiddy road and the M20 Cork to Limerick motorway progressed as a matter of priority if it is to unlock its potential. <<<<< No, do none of this. Spend it all one pedestrian facilities.
+
+
 
 ## But but, this is how things have always been
 ........in your lifetime. A pre-famine landscape looked nothing like this. A pre-deforestation landscape looked nothing like this.
@@ -296,3 +243,24 @@ http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/09/2016-05-05%20
 ![Alt text](/path/to/img.jpg)
 
 YouTube: {{< youtube just-the-id-not-the-url >}}
+
+
+
+
+Massive Pelican Crossing expansion. Everywhere. Force drivers to slow the fuck down.
+
+
+
+Funding allocation for the development of a major walk at Mallow Town Park
+
+Mr. James Fogarty, Divisional Manager Cork County Council is delighted to announce the allocation of more than €128,000.00 for the development of a major walk at Mallow Town Park. The successful application made by Avondhu Blackwater Partnership in association with Cork County Council, was announced by Mr. Michael Ring T.D., Minister of State for Regional Economic Development at the Department of Arts, Heritage, Regional, Rural & Gaeltacht Affairs.
+
+This represents the largest individual allocation to any project in Ireland in the current round of Rural Recreation funding approvals. 
+Announcing the news Mr. James Fogarty commented that this key infrastructure project is a huge success for the development of local amenities in Mallow. It represents the first of many potential partnership opportunities between Cork County Council and Avondhu Blackwater under the umbrella of the Local and Community Development Committee. We can now look forward to significant further funding being made available to the North Cork Region with the roll out of the new LEADER programme 2014-2020.  
+
+Minister Ring said: "Investment in recreational facilities has a proven effect in boosting local economies and assisting in the creation and retention of employment in the hospitality, tourism and services sectors in rural Ireland."
+Ms. Valerie Murphy CEO Avondhu Blackwater added, This project is key to our overall strategic investment in walking and rural recreation in North Cork. The provision of significant recreation infrastructure within Mallow town will benefit local residents and visitors alike.  
+Congratulating Cork County Council and Avondhu Blackwater, Cllr John Paul O' Shea remarked that this allocation represents the culmination of a long history of investment and promotion of walking. The current project is wonderful news for Mallow and represents the first major investment in Mallow Town Park under the ownership of Cork County Council, linking the East and West of the town, while also providing a connection to Mallow Castle.   
+Figures available from Fáilte Ireland reveal that in 2014, close to 1.2million visitors to Ireland took part in hiking or cross country walking. These activity tourists spent in the region of €915 million in the Irish economy during their stay.  Similar statistics reveal that 286,000 visitors took part in cycling activities with a related spend of some €268 million. These two sectors combined generated revenue for the Irish economy in the region of €1.2 billion in 2014.
+In total 75 projects are being funded in this first round of allocations under the 2016 Rural Recreation Scheme. These projects cover a broad spectrum, and range from Walking Trails to Greenways and feature a number of water based initiatives covering Blueways and Angling activities. The projects cover a wide geographical area, with 20 counties receiving funding for both development and maintenance works in this round.
+
