@@ -3,7 +3,7 @@ Categories = []
 Description = "Great trail running shoes"
 Tags = []
 draft = false
-date = "2016-09-19T18:33:32+01:00"
+date = "2016-09-19T18:43:32+01:00"
 title = "Altra Lone Peak 3.0 first impressions"
 slug = "altra-lone-peak-30-first-impressions"
 +++

@@ -3,7 +3,7 @@ Categories = []
 Description = "My first trail race with two of my kids on some of the best bits of the Wild Atlantic Way"
 Tags = []
 draft = false
-date = "2016-09-19T18:43:32+01:00"
+date = "2016-09-19T18:33:32+01:00"
 title = "Run Forest Run trail race report. Loved it!"
 slug = "run-forest-run-trail-race-report"
 +++
