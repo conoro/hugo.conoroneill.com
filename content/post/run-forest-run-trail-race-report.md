@@ -57,3 +57,5 @@ The [IMRA also did an event here](https://www.imra.ie/events/details/id/1339/) i
 If you know of any other trail events like this in West Cork, do let me know!
 
 Oh and yes, I think I'll be fine for Berlin.
+
+Update 1: There is now a [Running in Cork post](http://corkrunning.blogspot.ie/2016/09/results-photos-of-run-forest-run-5m-in.html) about it and a [gallery of pics on Facebook](https://www.facebook.com/Run-Forest-Run-175750705775650/photos/?tab=album&album_id=1445859345431440).
