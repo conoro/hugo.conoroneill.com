@@ -20,7 +20,7 @@ But the real test came yesterday during Run Forest Run and they were fantastic. 
 
 ![LP30](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/09/runforestrun/lone_peak_30.jpg)
 
-I know lots of other people have the same criticism of Altra that I do. I love their products but this sizing nonsense has to stop. It's bad enough that two of your products fit completely differently for the same nominal size, but when you are doing it between versions of the same product, it's just ridiculous! From waht I can see, every review of the 3.0 on the Altra site is complaining about the sizing. 
+I know lots of other people have the same criticism of Altra that I do. I love their products but this sizing nonsense has to stop. It's bad enough that two of your products fit completely differently for the same nominal size, but when you are doing it between versions of the same product, it's just ridiculous! From what I can see, every review of the 3.0 on the Altra site is complaining about the sizing. 
 
 So in summary - I'm a big fan of the LP 3.0. But go 1 Euro size up from your usual running shoes. Unfortunately no one in Ireland seems to sell them so, if they don't fit, you may be in the usual world of product returns cost hell that we suffer from over here.
 
