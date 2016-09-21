@@ -95,7 +95,7 @@ Obama gets it, why don't we?
 Let's stop playing with [mickey-mouse Rural Recreation funding](http://www.ahrrga.gov.ie/e4-455-million-approved-by-minister-ring-for-75-rural-recreation-projects/), welcome tho it is, and do this right. 
 
 
-## Pedestrian Hostile in Two generations
+## Pedestrian hostile in two generations
 Hillwalkers and outdoorsey people are a very specific segment. We need to be casting the net much wider and make walking the default for everyone, not the exception.
 
 How did we go in two generations from being a piss poor country that couldn't afford cars to one which is actively pedestrian hostile? We went from every kid cycling or walking to school and even university to almost zero.
@@ -139,7 +139,7 @@ There is a great piece in the Irish Times on this. [Ian O’Riordan: We are spor
 > Indeed there is something strangely contradictory about all this talk of overweight adults and children and the rise of obesity, which according to some reports, will be hovering somewhere around 90 per cent of the population by 2030, the highest projected level Europe. You don’t need me to repeat the scary thought that one in four Irish children is now considered to be overweight, because for a country that prides itself on being so mad about sport, that makes little sense.
 
 
-## Sidenote - Dogs and Dog shit
+## Sidenote - Dogs and dog shit
 I'm getting to the point where I think dogs need to be temporarily banned from all public footpaths until a large proportion of their idiot owners stop behaving like 12th century peasants throwing their shit out onto the street. 
 
 Pick up your dogs' shit and put your dog on a goddammed leash, you morons. I've had two little unleashed runt-sized dogs snapping at my heels recently when out on runs. The next one gets a kick in the face. 
