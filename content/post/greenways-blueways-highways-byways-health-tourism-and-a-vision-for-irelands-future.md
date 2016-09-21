@@ -24,7 +24,7 @@ Running or walking in Bandon for health in an exercise in aggravation. We someho
 
 Every road out of Bandon stops just as the houses do and leaves you in mortal danger if you want to go any further on foot. Anyone who cycles from Bandon to Innishannon is very brave indeed.
 
-Like many Irish towns, Bandon has a love-hate relationship with its river. It's lovely in the few small places you can see it. But it's a beast that has damaged the town too. That relationship was typified by the Bandon Marathon which was run for a few years without a single view of the river. I'm convinced a marathon along the river would attract big crowds. Imagine a Bandon to Kinsale run, via Innishannon, on a permanent river trail.
+Like many Irish towns, Bandon has a love-hate relationship with its river. It's lovely in the few small places you can see it. But it's a beast that has damaged the town too. That relationship was typified by the Bandon Half Marathon and 10K which was run for a few years without a single view of the river. I'm convinced a marathon along the river would attract big crowds. Imagine a Bandon to Kinsale run, via Innishannon, on a permanent river trail.
 
 But Bandon is just one local symptom. Look at Clonakilty and Inchydoney. A beach rated as the best in Ireland by Trip Advisor users has a path out towards it that stops at exactly one mile. From then on, grit your teeth and hope some moron doesn't plough you down if you want to walk or run the remaining miles.
 
