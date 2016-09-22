@@ -114,11 +114,13 @@ On a positive note, in Cork [COUNCILS GET INTO GEAR FOR MORE CYCLE TRACKS](http:
 ## Health
 There are lots of people trying to do good work around health and fitness here, in the private, public and quango sectors. But it's mostly siloed, piecemeal or, in the case of something like National Fitness Day, tokenistic.
 
-A good example are [Parkruns](http://www.parkrun.com/). A superb idea. A recent tweet by the organisation in the UK said:
+A great example of looking like you are doing something but really just ticking boxes is [A Healthy Weight for Ireland: Obesity Policy and Action Plan 2016-2025](http://health.gov.ie/blog/press-release/ministers-launch-a-healthy-weight-for-ireland-obesity-policy-and-action-plan-2016-2025/). Even the most naive of us go into full eyeroll mode when we see press releases that prattle on about guidelines, forums and stakeholders. The only surprise is that they didn't announce another taskforce.
+
+In contrast, a great example of actually doing something practical is the [Parkrun](http://www.parkrun.com/) movement. A recent tweet by the organisation in the UK said:
 
 > A whopping 92,432 people crossed a parkrun finish line in the UK this weekend 
 
-But 92k is not whopping in a country of 64 million people where 62% of people are overweight or obese. A more fundamental change is needed rather than events which will never be more than niche for people who already want to change.
+The problem is that 92k is not whopping in a country of 64 million people where 62% of people are overweight or obese. A more fundamental change is needed rather than events which will never be more than niche for people who already want to change.
 
 And whilst it's great to see Coillte adding things like Zipit in Farran wood, it costs money to use those things. It also costs money to park there. And you'd be suicidal to try and get there on foot. 
 
