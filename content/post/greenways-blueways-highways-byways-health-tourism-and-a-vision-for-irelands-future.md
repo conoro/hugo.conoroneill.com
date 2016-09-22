@@ -51,6 +51,8 @@ Now think about an East Cork Greenway. And a New Ross Greenway. And a Rosslare G
 
 Dammit, build a walking trail around the entire coast of Ireland. Something to make the whole world wake up and pay attention.
 
+It looks like Northern Ireland has the right idea. [NI greenways: 600-mile network could get Stormont green light](http://www.bbc.com/news/uk-northern-ireland-37355509)
+
 ## The Wild Atlantic Way
 I have been extremely impressed with the [Wild Atlantic Way](http://www.wildatlanticway.com/home) marketing campaign. Hell, they make me want to move to Ireland and I live here. But that's all it is, a marketing campaign. The only obvious capital spend outside of marketing is for signage.
 
