@@ -20,7 +20,7 @@ Teddy Roosevelt, 1903:
 > We are not building this country of ours for a day. It is to last through the ages. We stand on the threshold of a new century. We look into the dim years that rise before us, knowing that if we are true that the generations that succeed us here shall fall heir to a heritage such as has never been known before. I ask that we keep in mind not only our own interests, but the interests of our children. Any generation fit to do its work must work for the future, for the people of the future, as well as for itself.
 
 ## Let's start small and talk local first - Bandon and Clonakilty Paths
-Running or walking in Bandon for health in an exercise in aggravation. We somehow decided to name a nice short walk by the river after Graham Norton and the old railway walk after Clare O'Leary and it doesn't look like a single person in the County Council thought it would be a good idea to connect the two of them together. So if you want to make use of the railway walk, you either drive there (many do!) or you risk life and limb on a one-foot wide hard shoulder with cars whizzing by at 100kph and regularly crashing into each other.
+Running or walking in Bandon for health in an exercise in aggravation. I was really pleased when they decided to name a nice short walk by the river after Graham Norton and the old railway walk after Clare O'Leary. But it doesn't look like a single person in the County Council thought it would be a good idea to connect the two of them together. So if you want to make use of the nearby railway walk, you either drive there (many do!) or you risk life and limb on a one-foot wide hard shoulder with cars racing by at 100+kph and regularly crashing into each other.
 
 Every road out of Bandon stops just as the houses do and leaves you in mortal danger if you want to go any further on foot. Anyone who cycles from Bandon to Innishannon is very brave indeed.
 
@@ -187,6 +187,7 @@ If you do one of the loops of the wonderful [Lusitania Trail](http://conoroneill
 
 The government should CPO every roadside ditch and hedge. This removes the current nonsense where hedge cuttting is the landowners responsibility and can only happen during certain months due to nests. Get rid of the lot and the birds can go back to their natural pre-road habitats.
 
+UPDATE 1: [A good link](http://www.heritagecouncil.ie/county-heritage-services/news/view-article/article/new-initiatives-launched-to-safeguard-irelands-unique-hedgerows/) from my sister around a new initiative to safeguard hedgerows in Ireland. Just to be clear, I'm talking about creating far more hedgerows and wilderness areas than we have now, just not beside roads.
 
 ## A New Ireland
 This has been a very long run up to the idea that a whole new outlook is needed in Ireland. We need a grand revolutionary vision and plan for the health of our people and then the execution of that plan quickly. It can't be years of consultants reports and local government jollies and civil servant conservatism. 
