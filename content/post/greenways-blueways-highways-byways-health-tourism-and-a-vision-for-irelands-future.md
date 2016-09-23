@@ -114,7 +114,7 @@ On a positive note, in Cork [COUNCILS GET INTO GEAR FOR MORE CYCLE TRACKS](http:
 ## Health
 There are lots of people trying to do good work around health and fitness here, in the private, public and quango sectors. But it's mostly siloed, piecemeal or, in the case of something like National Fitness Day, tokenistic.
 
-A great example of looking like you are doing something but really just ticking boxes is [A Healthy Weight for Ireland: Obesity Policy and Action Plan 2016-2025](http://health.gov.ie/blog/press-release/ministers-launch-a-healthy-weight-for-ireland-obesity-policy-and-action-plan-2016-2025/). Even the most naive of us go into full eyeroll mode when we see press releases that prattle on about guidelines, forums and stakeholders. The only surprise is that they didn't announce another taskforce.
+UPDATE 2: A great example of looking like you are doing something but really just ticking boxes is [A Healthy Weight for Ireland: Obesity Policy and Action Plan 2016-2025](http://health.gov.ie/blog/press-release/ministers-launch-a-healthy-weight-for-ireland-obesity-policy-and-action-plan-2016-2025/). Even the most naive of us go into full eyeroll mode when we see press releases that prattle on about guidelines, forums and stakeholders. The only surprise is that they didn't announce another taskforce.
 
 In contrast, a great example of actually doing something practical is the [Parkrun](http://www.parkrun.com/) movement. A recent tweet by the organisation in the UK said:
 
@@ -138,7 +138,13 @@ Things like Autonomous cars are only going to make things worse. Do we really wa
 
 &nbsp;
 
-There is a great piece in the Irish Times on this. [Ian O’Riordan: We are sports mad but sanity needed to tackle obesity](http://www.irishtimes.com/sport/ian-o-riordan-we-are-sports-mad-but-sanity-needed-to-tackle-obesity-1.2794132#.V9xTtrZY9qI.twitter): 
+UPDATE 3: As an aside, I completely agree with [@thoughtwax](https://twitter.com/thoughtwax/status/778915462683979776) that 
+
+> autonomous cars will present a once in a lifetime opportunity to reclaim public space for people 
+
+Once we are 100% autonomous, driving related deaths should also drop to almost zero. And drink driving becomes a thing of the past. It could even herald the return of the rural pub. But I'm still concerned that an always-available fleet of autonomous Uber vehicles will have us all eventually looking like characters out of Wall-E.
+
+There is a great piece in the Irish Times on obesity. [Ian O’Riordan: We are sports mad but sanity needed to tackle obesity](http://www.irishtimes.com/sport/ian-o-riordan-we-are-sports-mad-but-sanity-needed-to-tackle-obesity-1.2794132#.V9xTtrZY9qI.twitter): 
 
 > Indeed there is something strangely contradictory about all this talk of overweight adults and children and the rise of obesity, which according to some reports, will be hovering somewhere around 90 per cent of the population by 2030, the highest projected level Europe. You don’t need me to repeat the scary thought that one in four Irish children is now considered to be overweight, because for a country that prides itself on being so mad about sport, that makes little sense.
 
