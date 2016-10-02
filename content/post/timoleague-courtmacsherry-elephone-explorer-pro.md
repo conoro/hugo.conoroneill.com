@@ -32,9 +32,9 @@ Main thoughts:
 
 
 * No problem taking a 32GB SD Card
-* The remote control is great and has differnet buttons for video and stills
+* The remote control is great and has different buttons for video and stills
 * I zip-tied the remote control to the selfie-stick (the stick makes video less wobbly)
-* The screen is rubbish so it's hard to see in sunlight when video is on
+* The screen is rubbish so it's hard to see in sunlight whether video is recording or not
 * There is a status led but it's tiny so it doesn't help
 * The waterproof case seems great but I haven't tried it properly
 * The bunch of adapters is also great but the back-mount is strange since it has a camera mount, not a GoPro one
