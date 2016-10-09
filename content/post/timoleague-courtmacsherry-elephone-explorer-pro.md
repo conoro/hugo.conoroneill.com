@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = "A solid device with which to dip your toes into action cameras without breaking the bank or buying a toy"
+Description = "Whilst you can dip your toes into action cameras with this, the video quality just isn't very good."
 Tags = []
 draft = false
 date = "2016-10-02T18:45:00+01:00"
@@ -63,9 +63,15 @@ However, comparing to the source, that generated file is much lower quality. Mos
 
 [One of the source files](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016_1002_101235_007.MP4) for comparison.
 
-So basically, I like it a lot so far, particularly the size. I'll be taking it on some more runs and will post more videos then.
-
 UPDATE 1: I did another run on the Lusitania Trail this morning and it's proven that the battery is a bad joke. From full charge I got 10 minutes recording time whilst it was powered up for one hour, before it shut down with low battery. That's completely useless. I'll be asking for a replacement battery from GearBest now as hopefully it's not a design flaw in the camera. I'll post the video footage later.
+
+UPDATE 2: Looking at the video quality from today's run, it's pretty rubbish, even before Pinnacle pixellates it. Everything is either burnt out or too dark and its all blurry. I just compared it to some footage I took of the same location on the old Contour GPS a few months ago and the 5 year old Contour kicks its ass.
+
+See today's: 
+
+{{< youtube 4CHjbieSGSI >}}
+
+So do I have a dud camera or are my settings wrong or is this as good as it gets for <$100?
 
 
 
