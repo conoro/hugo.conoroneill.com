@@ -65,5 +65,7 @@ However, comparing to the source, that generated file is much lower quality. Mos
 
 So basically, I like it a lot so far, particularly the size. I'll be taking it on some more runs and will post more videos then.
 
+UPDATE 1: I did another run on the Lusitania Trail this morning and it's proven that the battery is a bad joke. From full charge I got 10 minutes recording time whilst it was powered up for one hour, before it shut down with low battery. That's completely useless. I'll be asking for a replacement battery from GearBest now as hopefully it's not a design flaw in the camera. I'll post the video footage later.
+
 
 
