@@ -36,8 +36,8 @@ Couple of notes:
 * The supporters were fantastic as always. More bands like Berlin and London would be good tho.
 * I had far more chats than usual due to my Berlin Marathon running top. It's a great conversation starter for others.
 * They need to rearrange the bag drop-off. Despite our hotel being 5 mins from the start line, I think we walked 2+ miles going to/from bag-drop
-* RTE is a laughable embarassment. Did RTE Sport hide under their desks for the day, as we ran past their offices? Instead of live broadcasting the largest single mass participatory sporting event in the country and the fourth largest marathon in Europe? If RTE doesn't think that's public service broadcasting then it should be shutdown and give us all our money back.
+* RTE is a laughable embarassment. Did RTE Sport hide under their desks for the day, as we ran past their offices? Rather than live broadcasting the largest single mass participatory sporting event in the country and the fourth largest marathon in Europe? If RTE doesn't think that's public service broadcasting then it should be shutdown and give us all our money back.
 * The Marathon should forget about the RTE dinosaurs and arrange live streaming themselves like UTMB does. Thousands of people watched UTMB this year and that's a tiny niche race compared to Dublin. With the right global promotion, Dublin could be a huge online media event.
 
 
-If you are thinking about your first marathon or first Irish marathon, you should seriously consider Dublin. Yes, it's very hilly comapred to Berlin, London or Manchester. But it's easier than many and the crowds really are superb.
+If you are thinking about your first marathon or first Irish marathon, you should seriously consider Dublin. Yes, it's very hilly compared to Berlin, London or Manchester. But it's easier than many and the crowds really are superb.
