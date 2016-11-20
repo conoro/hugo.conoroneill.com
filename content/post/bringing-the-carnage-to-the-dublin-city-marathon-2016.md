@@ -1,14 +1,12 @@
 +++
 Categories = []
-Description = "Yup, I did it. 4 years after a disastrous first marathon, I did my slow version of nailing the Dublin Marathon."
+Description = "Yup, I did it. 4 years after a disastrous first marathon, I did my version of nailing the Dublin Marathon."
 Tags = []
 draft = false
 date = "2016-11-20T20:20:00+00:00"
 title = "Bringing the carnage to the Dublin Marathon 2016"
 slug = "bringing-the-carnage-to-the-dublin-city-marathon-2016"
 +++
-
-This won't be a long post, I just wanted to get it off my chest.
 
 Four years ago I ran my first marathon, in Dublin, and it was a disaster. Everything seized up at the top of my right calf around mile 10, followed a few miles later by my left calf. I hobbled the remaining 16 miles in pain. It had never happened before and it hasn't happened since. 
 
