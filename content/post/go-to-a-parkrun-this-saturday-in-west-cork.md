@@ -10,6 +10,8 @@ slug = "go-to-a-parkrun-this-saturday-in-west-cork"
 
 I talked about [parkrun](http://www.parkrun.com/) in my monster post last year on the [future of Ireland's health](http://conoroneill.com/2016/09/21/greenways-byways-hedgerows-tourism-and-the-future-of-irelands-health/). It was started in the UK in 2010 and has spread around the world. In [parkrun Ireland](https://www.parkrun.ie/) there are over 50 events every week. You may have heard it mentioned on [Operation Transformation](https://ot.rte.ie/) too.
 
+![Parkrun](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/01/parkrun.jpg)
+
 The idea is incredibly simple. Every Saturday at 9.30am, you turn up to your local parkrun and do 5km. You can sprint, run, jog, walk or amble. If you sign up on the web-site, you get a printable barcode so your time can be recorded every week. A few hours after taking part, you'll get all the stats by email.
 
 * [Clonakilty](http://www.parkrun.ie/clonakilty/)
