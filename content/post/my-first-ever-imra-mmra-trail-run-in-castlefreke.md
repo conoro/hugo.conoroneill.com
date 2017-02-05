@@ -24,10 +24,11 @@ The course today had to be changed due to flooding on the path out to Kilkern La
 
 The view as you come to the top of the hill on the road out of Rathbarry is utter perfection. If I hadn't been so intent on not coming last, I'd have stopped for 5 minutes just to soak it in.
 
-The run was brilliant. The bit along Long Strand was pure torture, just like the last time I did a run here, so I had to walk a lot of it. There is no hard packed sand on that beach so you sink in with every footstep. At least now I know I'm never doing [Marathon Des Sables](http://marathondessables.co.uk/) :-) The climb up to the big cross got the heart pumping and the hell for leather run down the other side to the end was a blast.
+The run was brilliant. The bit along Long Strand was pure torture, just like the last time I did a run here, so I had to walk most of it. There is no hard packed sand on that beach so you sink in with every footstep. At least now I know I'm never doing [Marathon Des Sables](http://marathondessables.co.uk/) :-) 
+
+![Long Strand](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/02/16422850_1267538586672655_2746855433585271530_o.jpg)
+(Pic from [MMRA Facebook Group](https://www.facebook.com/405709882855534/photos/pcb.1267541266672387/1267538586672655/?type=3&theater))
+
+The climb up to the big cross got the heart pumping and the hell-for-leather run down the other side to the end was a blast.
 
 I can't recommend runs like this highly enough. They are cheap, mostly short, friendly, fun and have everyone from mountain goats to blobs like me. Check out that list on [the events page](https://www.imra.ie/events/) and get yourself out there for the next one. In the meantime [the MMRA Facebook Page](https://www.facebook.com/MMRA-Munster-Mountain-Running-Association-405709882855534/) has lots of [pics from today](https://www.facebook.com/permalink.php?story_fbid=1267492480010599&id=405709882855534).
-
-![The view](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/02/2017-02-05%2010.45.55b.jpg)
-
-
