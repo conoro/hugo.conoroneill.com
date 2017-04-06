@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = "People often wonder if there can be another Red Hat. Yes there can, and it will be nearForm."
+Description = "This might surprise you, but the most exciting tech company in Ireland is based in Tramore."
 Tags = []
 draft = false
 date = "2017-04-06T18:17:32+00:00"
@@ -18,15 +18,11 @@ Red Hat is one of the world's great companies. What they have achieved with Linu
 
 What makes Red Hat special is its culture. They manage to combine an absolute commitment to Open Source with a completely rigorous commercial sensibility.
 
-In nearForm I see the next Red Hat. It too has that magical combination of community and commercial. In the coming months we'll be talking a lot more about nearForm's Open Source contributions. It goes far far beyond what most people realise. Yet we are also growing at an amazing rate.
+The reason I've always found nearForm so interesting is that it also has that magical combination of community and commercial, but as a startup. In the coming months we'll be talking a lot more about nearForm's Open Source contributions. It goes far far beyond what most people realise. Yet we are also growing at an amazing rate.
 
-I strongly recommend you read [yesterday's blog post by Paul Cormier](https://www.redhat.com/en/about/blog/what-makes-us-red-hat), President of PnT in Red Hat, on Open Source. Two of the most important takeaways for me were:
+I strongly recommend you read [yesterday's blog post by Paul Cormier](https://www.redhat.com/en/about/blog/what-makes-us-red-hat), President of PnT in Red Hat, on Open Source. This line particularly resonated with me:
 
 > We don’t believe in open core models, or in being just consumers but not contributors to the projects we depend on. We do this because we still believe in our core that the open source development model is THE best model to foster innovation, faster.
-
-&nbsp;
-
-> Will there be another Red Hat? I hope and expect that there will be several. Open source is now the proven methodology for developing software. The days of enterprises relying strictly on proprietary software has ended.
 
 I've never been more excited to start a new job. 
 
