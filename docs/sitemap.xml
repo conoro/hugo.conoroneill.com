@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://conoroneill.com/2017/04/15/all-my-current-running-technology/</loc>
+    <lastmod>2017-04-15T19:49:50+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://conoroneill.com/2017/04/06/on-joining-nearform-as-chief-product-officer/</loc>
     <lastmod>2017-04-06T18:17:32+00:00</lastmod>
   </url>
@@ -4058,13 +4063,13 @@
   
   <url>
     <loc>http://conoroneill.com/</loc>
-    <lastmod>2017-04-06T18:17:32+00:00</lastmod>
+    <lastmod>2017-04-15T19:49:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://conoroneill.com/post/</loc>
-    <lastmod>2017-04-06T18:17:32+00:00</lastmod>
+    <lastmod>2017-04-15T19:49:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
