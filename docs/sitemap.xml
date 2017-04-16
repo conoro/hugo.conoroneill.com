@@ -4052,6 +4052,11 @@
   </url>
   
   <url>
+    <loc>http://conoroneill.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://conoroneill.com/</loc>
     <lastmod>2017-04-06T18:17:32+00:00</lastmod>
     <priority>0</priority>
@@ -4060,6 +4065,11 @@
   <url>
     <loc>http://conoroneill.com/post/</loc>
     <lastmod>2017-04-06T18:17:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://conoroneill.com/tags/</loc>
     <priority>0</priority>
   </url>
   
