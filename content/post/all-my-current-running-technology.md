@@ -101,8 +101,7 @@ When I was in the massive Decathlon store in Paris last December, I got the [Kal
 
 ![Cheapo Sunglasses](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2017/04/sunglasses.jpg)
 
-## Contact Lenses
-Acuvue Trueye do the job for me. The only time I really wear lenses is when I run. [FeelGoodContacts in the UK](https://www.feelgoodcontacts.com/contact-lenses/1-day-acuvue-trueye) are the best value I've found.
+As for contact lenses, Acuvue Trueye do the job for me. The only time I really wear lenses is when I run. [FeelGoodContacts in the UK](https://www.feelgoodcontacts.com/contact-lenses/1-day-acuvue-trueye) are the best value I've found.
 
 ## Go Pro Knock-Offs
 I've [already reviewed](http://conoroneill.com/2016/10/02/timoleague-courtmacsherry-elephone-explorer-pro/) the [Elephone Explorer Pro](http://www.gearbest.com/action-cameras/pp_314991.html). Poor battery life alone means I can't recommend it. If I was serious I'd get the [Go Pro Hero 5 Black](https://www.dcrainmaker.com/2016/10/gopro-hero5-black-review.html). But I'm not, so I'll probably get the [Yi II](http://www.gearbest.com/action-cameras/pp_360137.html?wid=3) for less than half the price soon and retire the Elephone to dashcam duties.
