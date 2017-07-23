@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = "A very readbale and useful guide to starting ultra running. Big thumbs up."
+Description = "A very readable and useful guide to starting ultra running. Big thumbs up."
 Tags = []
 draft = true
 date = "2017-07-01T12:00:00+01:00"
