@@ -45,7 +45,7 @@ Then I started worrying about the pain in my right foot that had been there for 
 
 The trip to Center Parcs was hassle-free but I was more tense than I've ever been before a run. I decided to read Cory Reese's book that night, [Nowhere Near First: Ultramarathon Adventures From The Back Of The Pack](https://www.amazon.com/Nowhere-Near-First-Ultramarathon-Adventures-ebook/dp/B01KW37P5M/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) as recommended by Sarah Lavender Smith in her book, [The Trail Runner's Companion](https://www.amazon.com/Trail-Runners-Companion-Step-Step-ebook/dp/B071WDHGCW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500834677&sr=1-1&keywords=the+trail+runners+companion) (review coming shortly). I am so glad I did. After the initial shock of what he had to deal with as a kid, this is a truly uplifting, funny and, dare I say it again, inspirational, book. I went to bed feeling a lot better about the run and actually slept ok.
 
-The usual insanity of a Google Maps back-road route got me to Prices Risborough school with tons of time to spare. There were a lot more people than I was expecting. We were the non-elite 9am group. The walkers started at 8am and the elites would hunt us down like prey starting at 10am. Weather predictions still varied wildly but so far it was dull and drizzly so I was a very happy camper.
+The usual insanity of a Google Maps back-road route got me to Princes Risborough school with tons of time to spare. There were a lot more people than I was expecting. We were the non-elite 9am group. The walkers started at 8am and the elites would hunt us down like prey starting at 10am. Weather predictions still varied wildly but so far it was dull and drizzly so I was a very happy camper.
 
 The RD gave a great pep talk and really settled my nerves. His show-of-hands proved that there were a lot of first-timers with me, which also helped.
 
@@ -59,7 +59,7 @@ The 70+ yo woman passed me pretty quickly. I'm not bitter :-) She was fast!
 
 People started walking very early which was frustrating as it hadn't got hilly yet and it was almost single-track. But then we quickly got to an extremely steep piece with wooden steps and had a queue at the top to get through the stile.
 
-Despite all the RD warnings, people went off-course almost immediately. But they were called back in each case. It turned out that my paper map, compass, OS Maps on Android, paper map photos, Open Street Maps, route on my Garmin watch and Offline Google Maps were not just overkill, they were completely unnecessary. Between the signs, painted arrows on the ground and the knotted tape, there was only one spot in the entire 50k where I was unsure where to go because some arsehole had torn down an arrow (we could see the zipties).
+Despite all the RD warnings, people went off-course almost immediately. But they were called back in each case. It turned out that my paper map, compass, OS Maps on Android, paper map photos, Open Street Maps, route on my Garmin watch and Offline Google Maps were not just overkill, they were completely unnecessary. Between the signs, painted arrows on the ground and the knotted tape, there was only one spot in the entire 50k where I was unsure where to go because some arsehole had torn down an arrow (we could see the zip-ties).
 
 I'm not going to do a mile by mile account, don't worry.
 
@@ -85,17 +85,17 @@ There were 4 check-points, all of which had drinks, food and very very friendly 
 
 Obviously this is not a race with crowds of supporters but there were a couple of places where people gave me a big cheer and it was bloody wonderful.
 
-As the day progressed, I was just in fantastic mental form. The best ever in a race. I was loving every minute of it and had no issues apart from a pain that was forming in my left calf and two squished bloody little toes.
+As the day progressed, I was in top mental form. The best ever in a race. I was loving every minute of it and had no issues apart from a pain that was growing in my left calf and two squished bloody little toes.
 
 ![Another field](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2015.31.41.jpg)
 
-I had long chats in my head about the amazing Public Rights of Way and Freedom to Roam rules in the UK. The areas where I was running has a maze of routes, paths and tracks over private land. The gates and stiles work well and I saw no rubbish anywhere. Meanwhile in Ireland, we're still living in some sort of John B Keane play.
+I had long chats in my head about the amazing [Public Rights of Way](https://en.wikipedia.org/wiki/Rights_of_way_in_England_and_Wales) and [Freedom to Roam](https://en.wikipedia.org/wiki/Freedom_to_roam) rules in the UK. The areas where I was running has a maze of routes, paths and tracks over private land. The gates and stiles worked well and I saw no rubbish anywhere. Meanwhile in Ireland, we're still living in some sort of John B Keane play.
 
-There were lots of pre-warning about briars and nettles so I had also done an emergency purchase of cheap Kalenji leg sleeves. They worked brilliantly for the nettles apart from the head-height ones.
+There were lots of pre-warnings about briars and nettles so I had also done an emergency purchase of cheap Kalenji leg sleeves in the week before. They worked brilliantly for the nettles apart from the head-height ones.
 
 ![Nettles](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2014.48.41.jpg)
 
-They also seemed to help a lot with the left calf pain.
+The sleeves also seemed to help a lot with the left calf pain.
 
 There was a stretch of a couple of miles on a road which I hated. Not only was it incredibly steep in places, I also had to deal with cars. This was by far my slowest segment. All of the others were within minutes of each other.
 
@@ -105,9 +105,9 @@ The comedy highlight was me thinking someone was shouting encouragement to me fr
 
 About 5km from the end I caught up with a group of 4 young people and had a bit of a natter. They were n00bs too and some of them were struggling. I walked for a bit with them but when they said they were going to walk all the rest, I decided to move on.
 
-I got to a brilliant steep downhill section and bombed it, which was possibly not the most sensible thing to do near the end but it was fun. Then a run across a big field, a tiny bit more walking and OMG, there's the school. I ran into the playground, got a big cheer and crossed the finish line feeling amazing.
+I got to a brilliant steep downhill section and bombed it, which was possibly not the most sensible thing to do near the end but it was fun. Then a run across a big field, a tiny bit more walking and OMG, there's the school. I ran into the playground, got a big cheer and crossed the finish line feeling like a million dollars.
 
-I bloody did it. And I didn't hurt too much. And if I had to do some more, I'd be up for that.
+I bloody did it. And I didn't hurt too much. And if I had to go further to go, I'd have been ok with that.
 
 ![Finish Line](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2016.52.11-1.jpg)
 
@@ -115,10 +115,18 @@ I got some pics taken and had a magical cup of tea.
 
 Then into the car and back to Woburn with a smile on my face which would not go away.
 
+I was over the moon to see my brilliant wife and 15yo standing at the entrance to the giant Center Parcs car park. They took the car off me so I could wander over to the holiday home and find the best-damned-tasting curry and beer in years waiting for me.
+
 ![Medal](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-16%2009.00.51.jpg)
 
-In the week since, I've been thinking about it a lot. I really did love it. And now I want to do more. Soon. And push myself harder and see what this old body can do.
+In the week since, I've been thinking about it a lot. I really did love almost every minute. I am immensely proud of myself despite the extremely slow time. And now I want to do more. Soon. And push myself harder and see what this old body can do.
 
-As for the Chiltern Challenge itself, I have only good things to say about it. They are absolutely correct in saying it's a perfect first Ultra. Anyone who has run a road marathon is more than capable of doing a good time. Apart from the odd tree-root and nettle, it's not remotely technical.
+As for the [Chiltern Challenge](http://www.xnrg.co.uk/events/details/chiltern-challenge-ultra2017.aspx) itself, I have only good things to say about it and the organisers. They are absolutely correct in saying it's a perfect first Ultra. Anyone who has run a road marathon is more than capable of doing a good time. Apart from the odd tree-root and nettle, it's not remotely technical.
 
 Go on, give it a go.
+
+Oh, you're wondering about my time eh?
+
+Check out this for consistency :-)
+
+![Race Time](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/racetime2.jpg)
