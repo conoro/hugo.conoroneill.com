@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Conor&#39;s Bandon Blog</title>
-    <link>http://conoroneill.com/tags/</link>
+    <link>https://conoroneill.com/tags/</link>
     <description>Recent content in Tags on Conor&#39;s Bandon Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://conoroneill.com/tags/atom.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://conoroneill.com/tags/atom.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
