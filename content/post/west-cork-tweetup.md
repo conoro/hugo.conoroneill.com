@@ -8,7 +8,7 @@ comment: false
 ---
 
 If you had never heard of [Twitter](http://twitter.com/conoro) before, the relentless coverage of it on RTE and elsewhere recently must surely have changed that. It's a simple system for messaging people who follow you but in a completely public way. You can pick whose messages you see by default too. Here's a quick snapshot of those I follow:
-![twitter_snap](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2009/03/twitter_snap.jpg "twitter_snap")
+![twitter_snap](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2009/03/twitter_snap.jpg "twitter_snap")
 
 One of the nice aspects of Twitter is that it leads to real-world interactions too. There are regular meet-ups called Tweetups where people can have a few drinks, maybe a bite to eat and have a bit of proper social interaction.
 

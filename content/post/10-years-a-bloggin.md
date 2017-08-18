@@ -9,11 +9,11 @@ comment: false
 
 Hard to believe. Little did I think, this day 10 years ago, that I'd still be blogging away like fury. I originally started with Blogspot as I wasn't keeping my Geocities home page up to date. It was not an auspicious start:
 
-[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/04/blogger01.png "blogger01")](http://conoro.blogspot.com)
+[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2011/04/blogger01.png "blogger01")](http://conoro.blogspot.com)
 
 And didn't exactly take off like a rocket with only 3 posts in 2001!
 
-[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/04/blogger02-300x292.png "blogger02")](http://conoro.blogspot.com)
+[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2011/04/blogger02-300x292.png "blogger02")](http://conoro.blogspot.com)
 
 2005 was the year I really got going when I moved from Blogspot to Wordpress. Luckily I managed to import everything in the move.
 

@@ -9,7 +9,7 @@ comment: false
 
 The second year of the Engage Arts festival is fast approaching and it looks fantastic. Something for everyone, no matter what their interests or age.
 
-[![engage_biglogo](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2009/09/engage_biglogo.png "engage_biglogo")](http://engage.posterous.com/)
+[![engage_biglogo](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2009/09/engage_biglogo.png "engage_biglogo")](http://engage.posterous.com/)
 
 I've put together a simple mini-blog for the event over here [on Posterous](http://engage.posterous.com). The aim is that people can upload information, pictures, videos etc very easily over the weekend.It has the full line-up for the two days and contact details too.
 

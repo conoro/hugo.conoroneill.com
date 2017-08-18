@@ -11,4 +11,4 @@ I know I said I'd keep most of the tech over on [conoroneill.net](http://conoron
 
 But now I have an even better reason for Munster residents to sign-up. [Cork Airport is now on Twitter](http://twitter.com/corkairport) and they are doing an absolutely amazing job. Fully up-to-the-minute information on delays, cancellations, closures and more. No more hoping the web-site has been updated or sitting on hold trying to find out if your flight is leaving on-time. If you travel much through the airport, join Twitter now and follow even that one account.
 
-[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2010/12/cork_airport.png "cork_airport")](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2010/12/cork_airport.png)
+[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2010/12/cork_airport.png "cork_airport")](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2010/12/cork_airport.png)

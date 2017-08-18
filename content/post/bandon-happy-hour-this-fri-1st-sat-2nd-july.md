@@ -9,7 +9,7 @@ comment: false
 
 This is a really great initiative by the Bandon Co-Marketing Group. From 12–3PM this Friday and Saturday, the town will be offering an unbeatable range of discounts and special offers on goods and professional services.
 
-[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/06/Bandon-Happy-Hour2-225x300.jpg "Bandon Happy Hour2")](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/06/Bandon-Happy-Hour2.jpg)
+[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2011/06/Bandon-Happy-Hour2-225x300.jpg "Bandon Happy Hour2")](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2011/06/Bandon-Happy-Hour2.jpg)
 
 More than 63 businesses have signed up to offer deals and there is also the chance to enter Bandon’s Lucky Dip and win one of six vouchers worth €200, redeemable in any member business.
 

@@ -22,7 +22,7 @@ Finally the day came. A 6am wake-up and we arrived at the start area by coach wi
 
 At 10am I shed my Christmas jumper and lined up the podcasts on my phone. Catherine headed to the faster zone and I went to the rear. At 10:10 I started RunKeeper and the shuffle to the start line began. As soon as we crossed the line, I began running and had none of the predicted start-stop that London is infamous for.
 
-![Marathon Start Line](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2015/05/conor_marathon_start.jpg)
+![Marathon Start Line](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2015/05/conor_marathon_start.jpg)
 
 The next 5 hours and 40 minutes were like nothing I've ever experienced in my life. I'm going to struggle to describe just how it felt. If you've heard that the crowds in London are great then you still haven't the vaguest idea of what the people of London do for the Marathon. It's on an epic scale. Imagine 26.2 miles of people all lined up on both sides of the roads winding through London all cheering shouting, banging, singing, playing and dancing. And all of that energy is targeted at you. Non stop. It's a completely transcendent experience. At times I felt like I wasn't running and they were just carrying my sore legs along. I came close to tears on Tower Bridge with the location and the "moment". I nearly lost it completely at mile 23 with the emotional impact of all the crowds and the music and the pain and the encouragement.
 
@@ -30,12 +30,12 @@ I don't know London well, I've never worked there. My semi-regular visits have n
 
 Crossing that line is a life moment that's now burned into my mind forever.
 
-![Marathon Finish Line](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2015/05/conor_marathon_finish_line.jpg)
+![Marathon Finish Line](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2015/05/conor_marathon_finish_line.jpg)
 
 I've run races in Amsterdam, Cork, Dublin, Galway, Kerry and Wexford. I've watched my wife run more in Paris and Rome. None of them, none, come even close to what happened on the streets of London. My time is irrelevant, you can't measure the effect that day had on me.
 
 I now finally know why many people rate it as the greatest of all the major marathons. It's got nothing to do with the route. It's taking part in an incredible experience.
 
-![Marathon End](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2015/05/conor_marathon_end.jpg)
+![Marathon End](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2015/05/conor_marathon_end.jpg)
 
 I don't need a bucket list. I've done London. Thank you Londoners.

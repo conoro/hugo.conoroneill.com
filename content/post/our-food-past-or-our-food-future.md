@@ -9,7 +9,7 @@ comment: false
 
 I was given this heavy tome by the publishers to review and months later I'm finally getting my thoughts down. Whilst it is a fantastic collection of recipes and information that all Irish cooks should own, I fear that along with Darina's Forgotten Skills of Cooking, we are looking at our past.
 
-[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2010/07/9780811866705_norm.jpg "The Country Cooking of Ireland")](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2010/07/9780811866705_norm.jpg)
+[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2010/07/9780811866705_norm.jpg "The Country Cooking of Ireland")](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2010/07/9780811866705_norm.jpg)
 
 The author Colman Andrews is a very well known food-writer and co-founder of the famed Saveur magazine in the US. This may look like a coffee-table staple but it is genuinely jammed with lots of recipes that could easily have been lost forever.
 

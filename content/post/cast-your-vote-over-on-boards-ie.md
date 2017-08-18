@@ -13,4 +13,4 @@ Please don't abuse it, they are watching out for that.
 
 [Current stats for CSW](http://www.boards.ie/vote/results.php?c_id=8) are very interesting. I'd be very surprised if they match the outcome assuming that the number of remote mountain farmers on boards.ie is pretty small!
 
-[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/02/csw.jpg "Cork South West")](http://www.boards.ie/vote/results.php?c_id=8)
+[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2011/02/csw.jpg "Cork South West")](http://www.boards.ie/vote/results.php?c_id=8)

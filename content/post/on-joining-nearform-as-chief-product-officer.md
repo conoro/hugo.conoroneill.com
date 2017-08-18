@@ -10,7 +10,7 @@ slug = "on-joining-nearform-as-chief-product-officer"
 
 On April 3rd I joined [nearForm](http://nearform.com) as [Chief Product Officer](https://www.linkedin.com/in/conoroneill/). I genuinely believe nearForm is destined for all-time greatness and I want to contribute to that.
 
-![nearForm Logo](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/04/nearForm-logo.png)
+![nearForm Logo](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2017/04/nearForm-logo.png)
 
 One of my career highlights so far was playing a part in the acquisition of FeedHenry by [Red Hat](http://www.redhat.com). The day I found out that they were a potential buyer will always stay with me. I have had 2.5 amazing years with them and my opinion has only gone up as time progressed. 
 

@@ -19,7 +19,7 @@ We recently did a short family outing to the forest in [Castlefreke](http://www.
 8.  Why are we talking about selling off our forests rather than turning them into strong tourism revenue generators?
 In the case of Castlefreke, rather than just complaining, I turned on a GPS tracker on my phone during the walk and uploaded much improved data to [Open Street Map](http://www.openstreetmap.org/?lat=51.572699546813965andlon=-8.965208530426025andzoom=15) afterwards. I'd do the same on Google Maps but they don't have a Map Maker for Ireland yet. (Aside: Sign-up to be notified when it happens [here](http://code.google.com/p/google-mapmaker/wiki/MappingIE))
 
-[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2013/01/rathbarry.jpg "rathbarry")](http://www.openstreetmap.org/?lat=51.572699546813965andlon=-8.965208530426025andzoom=15)
+[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2013/01/rathbarry.jpg "rathbarry")](http://www.openstreetmap.org/?lat=51.572699546813965andlon=-8.965208530426025andzoom=15)
 
 On our next walk, my plan is to take a Contour GPS camera and video the whole thing with location info. So future walkers can see exactly what a trail is like rather than relying on vague text descriptions on web-sites.
 

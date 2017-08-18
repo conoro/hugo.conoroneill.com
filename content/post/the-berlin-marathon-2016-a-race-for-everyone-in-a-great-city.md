@@ -12,17 +12,17 @@ Our build up to Berlin had not been great. Between holidays, Red Hat Summit in S
 
 As soon as I set foot in the Expo to collect race numbers etc, the nerves started. Marathon number seven, the fourth one this year, but I felt like it was my first. The rest of the day was taken up with Checkpoint Charlie, the deeply moving Memorial to the Murdered Jews of Europe and some of the worst service we've ever had [in a restaurant](https://www.tripadvisor.ie/Restaurant_Review-g187323-d7285098-Reviews-Vino_Basilico-Berlin.html).
 
-![Memorial to the Murdered Jews of Europe](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016-09-24%2011.51.32.jpg)
+![Memorial to the Murdered Jews of Europe](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2016/10/2016-09-24%2011.51.32.jpg)
 
-![Checkpoint Charlie](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016-09-24%2014.24.51.jpg)
+![Checkpoint Charlie](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2016/10/2016-09-24%2014.24.51.jpg)
 
 A real highlight was the kids race on Saturday. Over 10,000 children took part, along with a bunch of teachers. I'd love to see the Dublin or Cork Marathons do the same.
 
-![Kid's Race](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016-09-24%2015.40.44.jpg)
+![Kid's Race](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2016/10/2016-09-24%2015.40.44.jpg)
 
 The hotel was barely a 10 minute walk to the start line. The number of people at the start line was nuts. Just like London. The buzz we got when they showed the elites taking off was fantastic. I've said it a few times on Twitter already, but in what other sport can anyone take part in the same race as the fastest people in the world by just paying your few quid entrance fee? I hope this never changes as it makes long distance running something very special indeed.
 
-![Start Line](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016-09-25%2017.18.52.jpg)
+![Start Line](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2016/10/2016-09-25%2017.18.52.jpg)
 
 The course is dead flat, which is why the world record is broken here so often. Sadly I didn't break the record on this occasion. Maybe next time.
 
@@ -36,7 +36,7 @@ I got a Personal Best by only a few minutes (my Garmin data was garbage for some
 
 Multiple pints and currywurst later and I was sorted. Thanks to Eoghan and Sabrina for that!
 
-![Currywurst](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016-09-25%2017.46.14-1.jpg)
+![Currywurst](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2016/10/2016-09-25%2017.46.14-1.jpg)
 
 Highly recommended if you want to do a fast flat marathon in an iconic city.
 

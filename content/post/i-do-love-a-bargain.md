@@ -11,6 +11,6 @@ I've mentioned Twitter many times on this blog. Bit by bit, it is going mainstre
 
 But Twitter has a ton of practical uses too, one of which is saving money. My buddies in [Nooked](http://www.nooked.com/) have created a [ryanair_ork](http://twitter.com/ryanair_ork) account there which publishes some great special offers regularly on Ryanair flights from Cork.
 
-![ryanair](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2009/02/ryanair-300x148.jpg "ryanair")
+![ryanair](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2009/02/ryanair-300x148.jpg "ryanair")
 
 Signing up on Twitter only takes a moment, then just "follow" [ryanair_ork](http://twitter.com/ryanair_ork) and enjoy the savings.
