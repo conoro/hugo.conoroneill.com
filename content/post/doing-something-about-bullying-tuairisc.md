@@ -9,7 +9,7 @@ comment: false
 
 Brian Greene contacted me last week about a new project he has just launched called [Tuairisc.me](https://tuairisc.me/). Like many good ideas, it's brilliantly simple. It's an anti-bullying form for school web-sites that can be added with a single line of HTML to any site.
 
-[![](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2013/01/tuairsc-logo-wide.png "tuairsc-logo-wide")](https://tuairisc.me/)
+[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2013/01/tuairsc-logo-wide.png "tuairsc-logo-wide")](https://tuairisc.me/)
 
 I sent some questions/thoughts over to Brian and his responses convinced me that this thing has legs. But it will only work if as many people as possible know about it.
 

@@ -10,13 +10,13 @@ slug = "my-first-ever-imra-mmra-trail-run-in-castlefreke"
 
 I only learned of the [Irish Mountain Running Assocation](https://www.imra.ie/) (and Munster Mountain Running Association branch) last year. They have [an extensive line-up of events](https://www.imra.ie/events/) all year from hard-core 127km Ultras to family friendly events like [today's run](https://www.imra.ie/events/view/id/1477) in Castlefreke Woods and Long Strand.
 
-![Castlefreke Forest](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/02/2017-02-05%2010.52.35b.jpg)
+![Castlefreke Forest](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/02/2017-02-05%2010.52.35b.jpg)
 
 And unlike a lot of running related things in recent years, it's an absolute bargain to take part. €10 annual membership and €5 for today's race.
 
 I had no idea what to expect today. Would it be 10 people or 100? Beginners or Jim Walmsleys? It was a good mixed group of people. The turnout for the junior race was really impressive. I regretted not bringing some of my brood, I think they would have enjoyed it.
 
-![Junior Race](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/02/2017-02-05%2010.36.07b.jpg)
+![Junior Race](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/02/2017-02-05%2010.36.07b.jpg)
 
 I identified the very serious mountain people by their shoes. Anyone in Salomon or Inov-8 was clearly not messing around. I had my US-trail-style Altra Lone Peaks which were perfect for today's conditions but had very poor downhill grip before Christmas when I tried to do part of St Finbarr's Way from the Gougane Barra side and landed on my arse several times coming back down in boggy muddy wet conditions.
 
@@ -26,7 +26,7 @@ The view as you come to the top of the hill on the road out of Rathbarry is utte
 
 The run was brilliant. The bit along Long Strand was pure torture, just like the last time I did a run here, so I had to walk most of it. There is no hard packed sand on that beach so you sink in with every footstep. At least now I know I'm never doing [Marathon Des Sables](http://marathondessables.co.uk/) :-) 
 
-![Long Strand](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/02/16422850_1267538586672655_2746855433585271530_o.jpg)
+![Long Strand](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/02/16422850_1267538586672655_2746855433585271530_o.jpg)
 (Pic from [MMRA Facebook Group](https://www.facebook.com/405709882855534/photos/pcb.1267541266672387/1267538586672655/?type=3&theater))
 
 The climb up to the big cross got the heart pumping and the hell-for-leather run down the other side to the end was a blast.

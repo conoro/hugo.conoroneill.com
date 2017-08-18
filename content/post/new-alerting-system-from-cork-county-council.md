@@ -9,7 +9,7 @@ comment: false
 
 It's great to see Cork CoCo finally putting an [Alerts system](http://mapalerts.corkcoco.ie/) in place. It's very easy to use. You simply go to the relevant [Map Alerts](http://mapalerts.corkcoco.ie/) site and register there with your mobile/email/etc. You can also add your home and work locations for alerts.
 
-[![](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2012/11/logo.jpg "logo")](http://mapalerts.corkcoco.ie/)
+[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2012/11/logo.jpg "logo")](http://mapalerts.corkcoco.ie/)
 
 Right now they are doing Alerts for Met Eireann Severe Weather Warnings in all of the County and for Flood Warnings in Clonakilty. I assume they'll eventually integrate [Bandon FEWS](http://bandonfloodwarning.ie/) in too rather than running two separate systems.
 

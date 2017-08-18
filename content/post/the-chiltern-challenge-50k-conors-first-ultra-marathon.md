@@ -29,7 +29,7 @@ I didn't really do any specific training for it apart from doing more forest stu
 
 I had most of my kit sorted well ahead of time. Cheap Kalenji Hydration pack, cheap Leki poles, Altra Lone Peak 3.0 runners, usual marathon top etc. I got the right OS Map from the UK and drew out the entire course on it. Hmm, some very close contour lines in places.
 
-![Map](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/chiltern_map.jpg)
+![Map](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/chiltern_map.jpg)
 
 Then I started reading the race reviews more closely and they all mentioned the stifling heat last year.
 
@@ -49,7 +49,7 @@ The usual insanity of a Google Maps back-road route got me to Princes Risborough
 
 The RD gave a great pep talk and really settled my nerves. His show-of-hands proved that there were a lot of first-timers with me, which also helped.
 
-![Start line](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2008.46.05.jpg)
+![Start line](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2008.46.05.jpg)
 
 And with zero fanfare, off we went.
 
@@ -63,19 +63,19 @@ Despite all the RD warnings, people went off-course almost immediately. But they
 
 I'm not going to do a mile by mile account, don't worry.
 
-![Field](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2010.38.11.jpg)
+![Field](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2010.38.11.jpg)
 
 The route was everything I had hoped for and nothing I had feared. A couple of steep sections but the rest of it was rolling hills. Most of it was forest.
 
-![Forest](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2015.04.51.jpg)
+![Forest](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2015.04.51.jpg)
 
 But there were also some lovely tracks through fields of wheat (a la Theresa May):
 
-![Wheat](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2014.58.13.jpg)
+![Wheat](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2014.58.13.jpg)
 
 Also fields of corn, peas and beans.
 
-![Corn](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2012.19.07.jpg)
+![Corn](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2012.19.07.jpg)
 
 I did exactly as planned and ran the downhills/flats and walked the uphills. I had one aim and that was to finish, no matter how long it took. The downside of this is that I got lazy pretty early. My legs were not having a good day and felt leaden throughout. So any sort of incline had me walking.
 
@@ -87,13 +87,13 @@ Obviously this is not a race with crowds of supporters but there were a couple o
 
 As the day progressed, I was in top mental form. The best ever in a race. I was loving every minute of it and had no issues apart from a pain that was growing in my left calf and two squished bloody little toes.
 
-![Another field](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2015.31.41.jpg)
+![Another field](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2015.31.41.jpg)
 
 I had long chats in my head about the amazing [Public Rights of Way](https://en.wikipedia.org/wiki/Rights_of_way_in_England_and_Wales) and [Freedom to Roam](https://en.wikipedia.org/wiki/Freedom_to_roam) rules in the UK. The areas where I was running has a maze of routes, paths and tracks over private land. The gates and stiles worked well and I saw no rubbish anywhere. Meanwhile in Ireland, we're still living in some sort of John B Keane play.
 
 There were lots of pre-warnings about briars and nettles so I had also done an emergency purchase of cheap Kalenji leg sleeves in the week before. They worked brilliantly for the nettles apart from the head-height ones.
 
-![Nettles](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2014.48.41.jpg)
+![Nettles](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2014.48.41.jpg)
 
 The sleeves also seemed to help a lot with the left calf pain.
 
@@ -109,7 +109,7 @@ I got to a brilliant steep downhill section and bombed it, which was possibly no
 
 I bloody did it. And I didn't hurt too much. And if I had to go further to go, I'd have been ok with that.
 
-![Finish Line](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2016.52.11-1.jpg)
+![Finish Line](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-15%2016.52.11-1.jpg)
 
 I got some pics taken and had a magical cup of tea.
 
@@ -117,7 +117,7 @@ Then into the car and back to Woburn with a smile on my face which would not go 
 
 I was over the moon to see my brilliant wife and 15yo standing at the entrance to the giant Center Parcs car park. They took the car off me so I could wander over to the holiday home and find the best-damned-tasting curry and beer in years waiting for me.
 
-![Medal](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-16%2009.00.51.jpg)
+![Medal](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/2017-07-16%2009.00.51.jpg)
 
 In the week since, I've been thinking about it a lot. I really did love almost every minute. I am immensely proud of myself despite the extremely slow time. And now I want to do more. Soon. And push myself harder and see what this old body can do.
 
@@ -129,4 +129,4 @@ Oh, you're wondering about my time eh?
 
 Check out this for consistency :-)
 
-![Race Time](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/racetime2.jpg)
+![Race Time](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/07/racetime2.jpg)

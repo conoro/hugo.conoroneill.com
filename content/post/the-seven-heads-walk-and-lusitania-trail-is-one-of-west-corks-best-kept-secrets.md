@@ -21,48 +21,48 @@ It's the ever-changing views that make this such a spectacular walk. You begin i
 
 It's a pretty easy walk apart from places where the cows have mushed the ground up badly. Lots of stiles separate the fields and it's completely safe. The Fuschia Walk is absolutely beautiful and you come back through the lovely Ramsey Hill cottages and then on footpath all the way to Courtmac.
 
-![Leaving Woods](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2010.54.36.jpg)
-![First Look](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2010.54.50.jpg)
+![Leaving Woods](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2010.54.36.jpg)
+![First Look](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2010.54.50.jpg)
 
 I was so delighted with our trip that I vowed to come back. A few weeks passed and I repeated the route but started in Timoleague and ran most of it.
 
-![Timoleague](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2010.04.42.jpg)
+![Timoleague](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2010.04.42.jpg)
 
 It was tough on the ankles in places but the weather was fantastic so I didn't need trail runners.
 
-![Ankles](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2010.54.54.jpg)
+![Ankles](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2010.54.54.jpg)
 
 Two weeks later I was back again. This time it was a 15 mile loop that again started in Timoleague. I found that the written directions on Explore West Cork were very hard to follow and I did a lot of recce via Google Maps and the Ordnance Survey map in advance.
 
-![Woods](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2011.06.28.jpg)
-![Woods2](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2011.06.54.jpg)
+![Woods](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2011.06.28.jpg)
+![Woods2](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2011.06.54.jpg)
 
 In the end, yet again, the entire route was signposted and took almost no thinking on my part. The only place I got confused was on Broadstrand where you have to go the entire length of the beach before you see the steps back up to the road.
 
-![Meelmane](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2011.27.55.jpg)
-![Broadstrand](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2011.31.20.jpg)
-![Statue](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2011.43.00.jpg)
+![Meelmane](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2011.27.55.jpg)
+![Broadstrand](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2011.31.20.jpg)
+![Statue](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2011.43.00.jpg)
 
 There is one very steep path up along some fields and then an old pre-Famine road.
 
-![Start famine Road](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07 11.52.16.jpg)
+![Start famine Road](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07 11.52.16.jpg)
 
 Which eventually brings you out to this amazing view.
 
-![Headlands](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2012.09.01.jpg)
+![Headlands](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2012.09.01.jpg)
 
 
 I got to Narry's Cross and then I returned along some very quiet roads via Lislee and a busy main road back into Courtmacsherry.
 
-![Lislee](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2012.42.17.jpg)
+![Lislee](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2012.42.17.jpg)
 
 
-![Main Road](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2012.52.43.jpg)
+![Main Road](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2012.52.43.jpg)
 
 
 I had to take a breather there and have an ice-cream and Lucozade.
 
-![Ice Cream](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2013.13.27.jpg)
+![Ice Cream](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/08/2016-08-07%2013.13.27.jpg)
 
 And then the final push back to the car in Timoleague.
 

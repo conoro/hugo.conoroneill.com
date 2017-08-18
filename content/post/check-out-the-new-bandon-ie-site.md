@@ -9,7 +9,7 @@ comment: false
 
 Brilliant job by Andrew Kingston of [Arkutech.ie](http://arkutech.ie) in building the new[ bandon.ie](http://www.bandon.ie/) site.
 
-[![](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2010/06/bandon_ie-300x61.jpg "bandon.ie")](http://www.bandon.ie/)
+[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2010/06/bandon_ie-300x61.jpg "bandon.ie")](http://www.bandon.ie/)
 
 A quick poke around confirmed that it is built on the same fantastic Wordpress foundation as this fine blog.
 

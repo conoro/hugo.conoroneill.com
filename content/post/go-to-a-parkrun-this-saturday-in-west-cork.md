@@ -10,7 +10,7 @@ slug = "go-to-a-parkrun-this-saturday-in-west-cork"
 
 I talked about [parkrun](http://www.parkrun.com/) in my monster post last year on the [future of Ireland's health](http://conoroneill.com/2016/09/21/greenways-byways-hedgerows-tourism-and-the-future-of-irelands-health/). It was started in the UK in 2010 and has spread around the world. In [parkrun Ireland](https://www.parkrun.ie/) there are over 50 events every week. You may have heard it mentioned on [Operation Transformation](https://ot.rte.ie/) too.
 
-![Parkrun](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/01/parkrun.jpg)
+![Parkrun](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/01/parkrun.jpg)
 
 The idea is incredibly simple. Every Saturday at 9.30am, you turn up to your local parkrun and do 5km. You can sprint, run, jog, walk or amble. If you sign up on the web-site, you get a printable barcode so your time can be recorded every week. A few hours after taking part, you'll get all the stats by email.
 
@@ -49,7 +49,7 @@ Say hello if I convinced you to try it :-)
 
 Here's Dawn Nisbet in the UK who started and never looked back. Her picture has [gone viral](http://www.bbc.com/news/uk-england-manchester-38731822).
 
-![Dawn Nisbet](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/01/dawn_nisbet.jpg)
+![Dawn Nisbet](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/01/dawn_nisbet.jpg)
 
 It would be remiss of me not to mention [Bandon FIT4LIFE](http://www.bandonac.org/wordpress/?page_id=573) too. You can contact the Club at 087-4340860. They have 3 different times for different levels of fitness. They also have a [Facebook Page](https://www.facebook.com/groups/1650142431918861/).
 

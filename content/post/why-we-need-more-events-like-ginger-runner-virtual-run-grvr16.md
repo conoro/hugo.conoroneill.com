@@ -12,7 +12,7 @@ If you've ever Googled for video reviews of running shoes, you've almost definit
 
 A few months back Ethan announced The Ginger Runner Virtual Run. On Nov 19th, all entrants had to run for exactly two hours anywhere in the world and upload their GPS trace to Strava. There was lots of swag and a variety of prizes. I just loved the idea of a virtual community all doing the same thing on the same day.
 
-![long strand from top of hill](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/11/long_strand_from_top_of_hill.jpg)
+![long strand from top of hill](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/11/long_strand_from_top_of_hill.jpg)
 
 So yesterday I headed out with the car thermometer at 0C and drove to the back of Long Strand. I then spent 2 hours running around Castlefreke Woods, Rathbarry, over to Owenahincha and on to Long Strand itself. It start badly with me wading through 6 inches of water on a flooded trail but I soon warmed up. The rain that followed was not welcome but I didn't mind it at all. And you know what? It was bloody great! I moved at an even slower than my usual sloth pace and took videos and [pictures](https://goo.gl/photos/KjVB9ZhdCyh3pFef8) and talked to a donkey and said hello to lots of walkers and some other runners.
 

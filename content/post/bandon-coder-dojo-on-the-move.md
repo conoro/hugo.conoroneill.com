@@ -13,7 +13,7 @@ They are currently focused on [Scratch](http://scratch.mit.edu/), HTML and JavaS
 
 Our eldest has just started using Scratch and is finding it good fun. Here's a screenshot:
 
-[![](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2012/10/Scratch-tutorials5.jpg "Scratch tutorials5")](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2012/10/Scratch-tutorials5.jpg)
+[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2012/10/Scratch-tutorials5.jpg "Scratch tutorials5")](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2012/10/Scratch-tutorials5.jpg)
 
 You currently need to have a laptop to take part in Coder Dojo. I know this excludes a lot of people but [Camara Ireland](http://coderdojo.com/2012/09/18/camara-laptops/) has stepped in to help there. You can get reconditioned laptops from them via the Coder Dojo movement for between €114 and €125, which is a great price.
 

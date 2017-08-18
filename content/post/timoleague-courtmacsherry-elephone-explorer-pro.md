@@ -16,7 +16,7 @@ I wanted to get something new but didn't want to dish out $499 for a GoPro Hero 
 
 Then 2 weeks ago whilst checking out some recent ones on Gearbest, I found the [Elephone Explorer Pro](http://www.gearbest.com/action-cameras/pp_314991.html). Unlike most of the other brands, these seem to be a serious company with a range of phones too. The various review and unboxing videos I found all looked pretty good and if they are telling the truth, they are using a Sony sensor with a Novatek NTK96660 chipset.
 
-![Elephone Explorer Pro](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/elecam_03.jpg)
+![Elephone Explorer Pro](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/elecam_03.jpg)
 
 Of course I'm not clueless and ignored the 4K claims. It's just 1080p scaled up. But I was happy to go for 1080p60 on a device that cost less than $100 and came with all the bits you'd want like a waterproof case.
 
@@ -28,7 +28,7 @@ Main thoughts:
 
 * Damn it's small! I love that
 
-![Small](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/elecam_01.jpg)
+![Small](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/elecam_01.jpg)
 
 
 * No problem taking a 32GB SD Card
@@ -40,16 +40,16 @@ Main thoughts:
 * The bunch of adapters is also great but the back-mount is strange since it has a camera mount, not a GoPro one
 * It seems to be roughly the same size as a GoPro Hero 3/4 and I could 3D print a case for it
 
-![Case](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/elecam_02.jpg)
+![Case](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/elecam_02.jpg)
 
 
 * I hope I forgot to charge the battery fully since it barely did 20 mins of recording before dying (will test more)
 * Images aren't bad
 
-![Timoleague1](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016_1002_102341_003.JPG)
-![Timoleague2](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016_1002_103207_007.JPG)
-![Timoleague3](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016_1002_104122_002.JPG)
-![Timoleague4](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016_1002_104234_005.JPG)
+![Timoleague1](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016_1002_102341_003.JPG)
+![Timoleague2](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016_1002_103207_007.JPG)
+![Timoleague3](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016_1002_104122_002.JPG)
+![Timoleague4](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016_1002_104234_005.JPG)
 
 
 * 170 degree view is good
@@ -61,7 +61,7 @@ Music is [Path of no return](http://freemusicarchive.org/music/Lobo_Loco/2016091
 
 However, comparing to the source, that generated file is much lower quality. Most of the pixellation seems to have been caused by Pinnacle Studio, rather than YouTube. 
 
-[One of the source files](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016_1002_101235_007.MP4) for comparison.
+[One of the source files](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2016/10/2016_1002_101235_007.MP4) for comparison.
 
 UPDATE 1: I did another run on the Lusitania Trail this morning and it's proven that the battery is a bad joke. From full charge I got 10 minutes recording time whilst it was powered up for one hour, before it shut down with low battery. That's completely useless. I'll be asking for a replacement battery from GearBest now as hopefully it's not a design flaw in the camera. I'll post the video footage later.
 

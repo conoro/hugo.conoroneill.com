@@ -9,7 +9,7 @@ comment: false
 
 I'm a big fan of the [Bandon FEWS system](http://www.bandonfloodwarning.ie/) which sends an SMS when the river at the bridge hits a certain level. It must be a life-saver for many businesses and people in the town.
 
-[![](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/11/fews1.png "fews1")](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/11/fews1.png)
+[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/11/fews1.png "fews1")](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/11/fews1.png)
 
 I have had a few thoughts on other things we could do with that live river-level data for the community. Web-apps, Twitter integration, Analytics, Trends etc etc.
 
@@ -17,7 +17,7 @@ However, despite several communications, I have been unable to get any response 
 
 Even something as simple as a Twitter Account could be useful and interesting. So I created one called [@BandonFEWS](https://twitter.com/#!/bandonfews). Of course then I had to get at the data despite the CoCo's silence. I dug around the Bandon Flood Warning site but it is built in such a way that the data is not machine visible or scrapable.
 
-[![](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/11/fews2.png "fews2")](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/11/fews2.png)
+[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/11/fews2.png "fews2")](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/11/fews2.png)
 
 I discussed this problem with fellow tech-person Gordon Murray of [Murrion Software](http://www.murrion.ie/) just up the road in Carrigadrohid and of course he had a solution!
 

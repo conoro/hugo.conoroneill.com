@@ -21,7 +21,7 @@ Unfortunately, I thought it was going to be mostly forest trails and wore my Alt
 
 The loop itself was lovely and the views of the river as you ran through the forest were gorgeous. I thought I'd struggle with doing loops but it was fine, particularly on the second-last loop, as I was able to prep myself mentally for the next one. 
 
-![Ballina](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/20170224_171937.jpg)
+![Ballina](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/20170224_171937.jpg)
 
 I enjoyed mixing in with the parkrun people too.
 
@@ -48,7 +48,7 @@ The first part was up some pretty steep roads with only 2 cars encountered and b
 
 Then we got to the "trail" bit. Or more accurately the bog bit. When the real fun began. 
 
-![Bog bit](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/2017_0328_103326_027.JPG)
+![Bog bit](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/2017_0328_103326_027.JPG)
 
 The day was rainy and foggy and they had lots of signs about not attempting it in bad weather unless you were experienced mountain walkers. We decided to be *those* people who ignore such signs. "How bad can it be?" I asked. We had a phone with offline maps, an actual map, the guide book, a compass, rainproofs, water and trail runners. The only bit we were missing was the experience :-) I figured being in the Scouts 35 years ago should have us covered.
 
@@ -56,7 +56,7 @@ We proceeded to stagger through horrendous mucky bog in reasonably thick fog for
 
 This brilliant sign did make us laugh. Here's an idea - maybe put the grid reference or GPS co-ordinates on a plastic plate so people might know where they actually are.
 
-![Stupid Sign](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/2017_0328_102722_026.JPG)
+![Stupid Sign](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/2017_0328_102722_026.JPG)
 
 Finally we came across a gorgeous lake and then a proper track. We were finally able to start running again and that was great fun. The fog burned off and the views were fabulous. We got back to the car after a full 2 hour loop (the book quoted 4 hours for walking).
 
@@ -77,7 +77,7 @@ As with Drimoleague, then the real fun began. We started the trail up Seefin and
 
 The route remained boggy as hell but more defined than Drimoleague. It then got so bad, they've had to put down "sleepers" which basically float on the bog and allow you to get across. The views from the top of Seefin are jaw-dropping. 
 
-![Sleepers](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/20170401_172108b.jpg)
+![Sleepers](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/20170401_172108b.jpg)
 
 The route down was much easier on a rocky track and finally we made it to a small road and broke into a trot. This brought us back to the same big road I mentioned before. I didn't feel safe attempting to walk on it, so I called my wife and she collected us.
 
@@ -87,7 +87,7 @@ I was going to say that it's not the best route for running but then I discovere
 ## Tramore
 As my new employers are HQed in Tramore, I'm spending a lot of time there. I had no idea what a superb running town it is. I've been doing some enjoyable loops starting with the flat promenade, then to the tracks near the back-strand and then up onto the cliff road and up near the Metalman. The mix of flat and hills is ideal and I intend to go further and further afield as time permits.
 
-![Tramore](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/20170404_073657.jpg)
+![Tramore](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/20170404_073657.jpg)
 
 ## Rosslare Strand
 There is a lovely route from Ford of Ling down towards Rosslare Strand and all the way down past the driving range to the smaller beach. Part of this makes up the annual Easter 10k but I just love the stretch as you get away from the dense housing area. It's mostly flat and you can do some of it on the beach if you wish. One to remember if you ever want to stretch your legs in Wexford.
@@ -102,7 +102,7 @@ But that's the bad stuff. The good and great is that most of the route is lovely
 
 Despite the heat and my head not being in the game, I still managed personal bests for both the Half Marathon and Full Marathon.
 
-![Brighton](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/IMG_20170410_121123_320.jpg)
+![Brighton](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/IMG_20170410_121123_320.jpg)
 
 Brighton is definitely in the "one to consider" category for British marathons. My top tips: [1] Make all your restaurant bookings weeks ahead of time. We struggled to even get pizza. [2] You can get amazing AirBnBs only a few yards from the prom [3] Uber was £40 from Gatwick but was £70 on the way back due to traffic. The train is only £10. [4] We went from 21C to freezing fog in the space of a few hours.
 
@@ -111,7 +111,7 @@ Whilst [Dromkeen woods](http://www.coillte.ie/site/dromkeen/) have been around s
 
 The fact that this forest is standalone and not connected to Kilmacsimon, the Clare O'Leary Walk or Graham Norton Walk really shows the complete lack of vision for active tourism, health and recreation in Cork County Council.
 
-![Dromkeen](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/20170422_162437.jpg)
+![Dromkeen](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2017/05/20170422_162437.jpg)
 
 ## Great Railway Run
 We were considering a couple a marathons for last weekend despite it only being 2 weeks since Brighton but some of my shorter runs proved that I still needed more recovery time. Then I read about the [Great Railway Run](http://www.thegreatrailwayrun.com) and figured 25K was very doable. As my buddy Walter said "it's a very civilised distance".

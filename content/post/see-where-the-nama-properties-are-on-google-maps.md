@@ -9,7 +9,7 @@ comment: false
 
 Well done to Gavin Sheridan and the crew at [The Story](http://thestory.ie/). They took NAMA's pathetic PDF release of the properties it owns, extracted the data into the fantastic Google Fusion Tables and then [mapped the results](http://thestory.ie/2011/07/30/nama-enforcement-properties-mapped) into Google Maps.
 
-[![](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/08/nama.png "nama")](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/08/nama.png)
+[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/08/nama.png "nama")](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2011/08/nama.png)
 
 Go on, you know you won't be able to help yourself. I immediately zoomed into Bandon to see what was there. Surprisingly few properties actually.
 

@@ -9,7 +9,7 @@ comment: false
 
 Catherine is delighted with this bumper crop of kitchen-grown chillis. Next year we hope to get upwards of 2.
 
-[![](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2012/03/DSCF1026-1024x768.jpg "DSCF1026")](http://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2012/03/DSCF1026.jpg)
+[![](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2012/03/DSCF1026-1024x768.jpg "DSCF1026")](https://conoroneill.com.s3.amazonaws.com/wp-content/uploads/2012/03/DSCF1026.jpg)
 
 Sidenote: The best picture quality you've ever seen on this blog. Guess who finally got a proper camera?
 
