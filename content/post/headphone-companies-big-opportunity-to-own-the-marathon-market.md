@@ -58,4 +58,8 @@ So what do we marathon runners need?
 
 So build it and start advertising on the big (and small) running sites, along with running podcasts and magazines. Heck, sponsor some marathons.
 
+What about the product name?
+
+"Marathon Headphones - For people who like to run far". Make them aspirational. Then everyone who runs 5k+ will want to own them.
+
 You'll have a slam dunk of a product. 
