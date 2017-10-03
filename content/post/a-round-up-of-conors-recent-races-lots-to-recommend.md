@@ -39,6 +39,8 @@ See [my blogpost here](https://conoroneill.com/2017/07/23/the-chiltern-challenge
 ## MMRA Glen of Aherlow LoopDeLoop "Ultra"
 Yeah, this one was interesting :-) We signed up for the Ultra on the [IMRA site](https://www.imra.ie/events/view/id/1506) despite it being rated 10/10 for difficulty. My wife asked someone she knows about it and he said "yeah it has a few hills but it's fine". The description was forest paths and coutry roads. As it was 3 Half Marathon loops, I wasn't worried about it. After any loop we could just give up. Two weeks beforehand they published the cut-off for starting the third loop - 5 hrs 20 mins. So we knew going in that there was zero chance of us doing the Ultra. A Full would be the best we could hope for with 2000 feet of elevation change per loop.
 
+![Glen of Aherlow](/images/2017/10/2017-09-24 13.53.39.jpg)
+
 As I'm only just getting into trails this year, I've never done any of the Galtees runs. This was only the second time ever to be in the area. The Bandon Hillwaking Club Open Day earlier this year was the first. 
 
 It was an early start at 8am outside the village hall of Lisvarrinane. 15 people were signed up for the Ultra with a lot more coming later for the official Full and official Half. But the nice thing was that we'd get a Full or Half time in the Ultra if we DNFed at the end of a loop.
