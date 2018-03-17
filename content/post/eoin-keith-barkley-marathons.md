@@ -32,4 +32,4 @@ The only thing that could make this year's race more perfect is if [Carol Morgan
 
 If any Irish videographer or documentary maker is looking for their next project, please consider making a movie about Eoin doing Barkley.
 
-I know I'll be checking the news about his progress as he works his way around Frozen Head State Park. Possibly even whilst I'm out on my 50 mile cake-walk :-) I may even put a temporary halt to my boycott of Twitter to follow [#BM100](https://twitter.com/hashtag/BM100) over April Fool's Weekend.
+I know I'll be checking the news about his progress as he works his way around Frozen Head State Park. Possibly even whilst I'm out on my 50 mile cake-walk :-) Today I learned a new phrase: "botanical pace". That'll be us. I may have to put a temporary halt to my boycott of Twitter to follow [#BM100](https://twitter.com/hashtag/BM100) over April Fool's Weekend.
