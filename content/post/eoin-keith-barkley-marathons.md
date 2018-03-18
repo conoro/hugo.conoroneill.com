@@ -16,7 +16,7 @@ Again, like many people, one of the main triggers for us being interested in MUT
 
 It's not just that it's considered one of the hardest races in the world, it's the wonderful mythology that's built up around it which makes it so exciting. That's mostly due to the personality of Gary Cantrell (aka Lazarus Lake) who organises several unusual and special races. In addition to Barkley, check out [Big's Backyard Ultra](https://trailrunnermag.com/people/culture/bigs-backyard-ultra-a-race-with-no-end.html), [A Race for The Ages](https://runsignup.com/Race/TN/Manchester/ARacefortheAges) and the 500km [Vol State Road Race](https://ultrasignup.com/register.aspx?did=40620).
 
-Despite the various documentaries and YouTube clips, none of us have any idea how difficult it must be for the competitors. We've only seen the start/finish line and a few famous places like the prison or ratjaw. But the fact that some of the toughest competitors in the world give up after one loop of five gives you some idea of what they are going through.
+Despite the various documentaries and YouTube clips, none of us have any idea how difficult it must be for the competitors. We've only seen the start/finish line and a few famous places like the prison, the tower or ratjaw. But the fact that some of the toughest competitors in the world give up after one loop of five gives you some idea of what they are going through.
 
 Once Barkley grabs you and you begin following various Ultra runners on Instagram, Twitter, YouTube and blogs, you discover people like Jamil Coury, The Ginger Runner, John Kelly and Gary Robbins. Jam-Jam has done Barkley a few times but never finished. He's going again this year. [Follow his vlog](https://www.youtube.com/user/runsteepgethigh/videos). Gary, oh god Gary. If you don't know his story, go over to The Ginger Runner site and give Ethan a few quid and watch ["Where Dreams go to die"](https://wheredreamsgotodie.com/).
 
@@ -30,6 +30,6 @@ I think Eoin will finish. Not just because he's an amazing athlete who has the m
 
 The only thing that could make this year's race more perfect is if [Carol Morgan](http://outsider.ie/challenges/carol-morgan-ultrarunner/) was competing too. No woman has ever finished Barkley. I can immediately think of two who could - [Amelia Boone](http://ameliabooneracing.com/) and Carol. I'd love to see them both try.
 
-If any Irish videographer or documentary maker is looking for their next project, please consider making a movie about Eoin doing Barkley.
-
 I know I'll be checking the news about his progress as he works his way around Frozen Head State Park. Possibly even whilst I'm out on my 50 mile cake-walk :-) Today I learned a new phrase: "botanical pace". That'll be us. I may have to put a temporary halt to my boycott of Twitter to follow [#BM100](https://twitter.com/hashtag/BM100) over April Fool's Weekend.
+
+Update 1: I just listened to [Ethan's excellent interview with Jamil](https://www.youtube.com/watch?v=xy4p__budj4) from last week. A lot of it covers his prep and hopes for Barkley. They also mentioned that Guillaume Calmettes [who won Big's Backyard Ultra 2017](https://ultrarunning.com/featured/one-more-hour-guillaume-calmettes-245-832-miles-at-big-dog-backyard-ultra/) is doing Barkley and you can see how much he has prepared [on Strava](https://www.strava.com/athletes/1356533).
