@@ -36,4 +36,11 @@ Update 1: I just listened to [Ethan's excellent interview with Jamil](https://ww
 
 Update 2: The race is underway and Eoin has finished one loop. But I also just discovered that [Stephanie Case](https://ultrarunnergirl.com/) and [Maggie Guterl](https://twitter.com/maggatronruns?lang=en) are running too. If I'd known that, I'd obviously have included them in the growing list of "bad-ass women who can totally finish Barkley". Fingers crossed for them all, it sounds like the weather conditions are horrendous.
 
-Update 3: Well Barkleys 2018 is over and *no one* finished it! Unbelievably bad conditions meant that only one person even managed the fun run (Gary Robbins). What an amazing effort by everyone. One of the last people out on the course, but DNFed, was Guillaume Calmettes. I listened to a [superb Billy Yang podcast](http://billyyangpodcast.libsyn.com/guillaume-calmettes-byp-011) interview with him yesterday, driving home, whilst the race was still on. Give it a listen. He'll be running [Last One Standing](https://www.sientries.co.uk/event.php?elid=Y&event_id=4476) in Florence Court in Northern Ireland in September. I can't wait to read Eoin's Barkley race report whenever his broken shoulder heals. I still think he's the man to finish it in 2019.
+Update 3: Well Barkleys 2018 is over and *no one* finished it! Unbelievably bad conditions meant that only one person even managed the fun run (Gary Robbins).
+
+{{< youtube bT2fVKpT5A8 >}}
+
+
+What an amazing effort by everyone. One of the last people out on the course, but DNFed, was Guillaume Calmettes. I listened to a [superb Billy Yang podcast](http://billyyangpodcast.libsyn.com/guillaume-calmettes-byp-011) interview with him yesterday, driving home, whilst the race was still on. Give it a listen. He'll be running [Last One Standing](https://www.sientries.co.uk/event.php?elid=Y&event_id=4476) in Florence Court in Northern Ireland in September.
+
+I can't wait to read Eoin's Barkley race report whenever his broken shoulder heals. I still think he's the man to finish it in 2019.
