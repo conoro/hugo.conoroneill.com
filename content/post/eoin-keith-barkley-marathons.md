@@ -44,3 +44,9 @@ Update 3: Well Barkleys 2018 is over and *no one* finished it! Unbelievably bad 
 What an amazing effort by everyone. One of the last people out on the course, but DNFed, was Guillaume Calmettes. I listened to a [superb Billy Yang podcast](http://billyyangpodcast.libsyn.com/guillaume-calmettes-byp-011) interview with him yesterday, driving home, whilst the race was still on. Give it a listen. He'll be running [Last One Standing](https://www.sientries.co.uk/event.php?elid=Y&event_id=4476) in Florence Court in Northern Ireland in September.
 
 I can't wait to read Eoin's Barkley race report whenever his broken shoulder heals. I still think he's the man to finish it in 2019.
+
+Update 4: A [set of short videos](https://www.facebook.com/pg/Eoin-Keith-Athlete-1180273035349427/videos/) have been uploaded to Eoin's Facebook account. And I almost missed [Alexis Berg's](https://www.instagram.com/alexis_berg/) new video about Barkley as I thought it was in French! [La Barkley Sans Pitié](https://www.lequipe.fr/explore-video/020-la-barkley-sans-pitie/) is really worth a watch.
+
+<iframe frameborder="0" width="710" height="400"
+src="https://www.dailymotion.com/embed/video/k5N2HcEEMh96SUqrS5N"
+allowfullscreen allow="autoplay"></iframe>
