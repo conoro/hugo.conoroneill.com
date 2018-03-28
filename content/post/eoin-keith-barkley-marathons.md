@@ -50,3 +50,7 @@ Update 4: A [set of short videos](https://www.facebook.com/pg/Eoin-Keith-Athlete
 <iframe frameborder="0" width="710" height="400"
 src="https://www.dailymotion.com/embed/video/k5N2HcEEMh96SUqrS5N"
 allowfullscreen allow="autoplay"></iframe>
+
+Update 5: Does Jamil ever rest? He has his video up after just a few days:
+
+{{< youtube dRpEE-82bWc >}}
