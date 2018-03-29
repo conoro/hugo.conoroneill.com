@@ -13,6 +13,7 @@ My wife and I are doing the Liverpool to Manchester 50 Mile Ultra very soon (oh 
 Again, like many people, one of the main triggers for us being interested in MUT (Mountain Ultra Trail) Running was the wonderful documentary ["The Barkley Marathons: The Race That Eats Its Young"](http://barkleymovie.com/). Anyone who visits us overnight is forced to watch it and is always shocked by how much they enjoy it.
 
 {{< youtube 79IUKC9gS-8 >}}
+&nbsp;
 
 It's not just that it's considered one of the hardest races in the world, it's the wonderful mythology that's built up around it which makes it so exciting. That's mostly due to the personality of Gary Cantrell (aka Lazarus Lake) who organises several unusual and special races. In addition to Barkley, check out [Big's Backyard Ultra](https://trailrunnermag.com/people/culture/bigs-backyard-ultra-a-race-with-no-end.html), [A Race for The Ages](https://runsignup.com/Race/TN/Manchester/ARacefortheAges) and the 500km [Vol State Road Race](https://ultrasignup.com/register.aspx?did=40620).
 
@@ -21,6 +22,7 @@ Despite the various documentaries and YouTube clips, none of us have any idea ho
 Once Barkley grabs you and you begin following various Ultra runners on Instagram, Twitter, YouTube and blogs, you discover people like Jamil Coury, The Ginger Runner, John Kelly and Gary Robbins. Jam-Jam has done Barkley a few times but never finished. He's going again this year. [Follow his vlog](https://www.youtube.com/user/runsteepgethigh/videos). Gary, oh god Gary. If you don't know his story, go over to The Ginger Runner site and give Ethan a few quid and watch ["Where Dreams go to die"](https://wheredreamsgotodie.com/).
 
 {{< youtube xgWejm_hbpA >}}
+&nbsp;
 
 Gary is also going to be back this year. You should [follow his vlog](https://www.youtube.com/user/robbinsg/videos) too.
 
@@ -39,7 +41,7 @@ Update 2: The race is underway and Eoin has finished one loop. But I also just d
 Update 3: Well Barkleys 2018 is over and *no one* finished it! Unbelievably bad conditions meant that only one person even managed the fun run (Gary Robbins).
 
 {{< youtube bT2fVKpT5A8 >}}
-
+&nbsp;
 
 What an amazing effort by everyone. One of the last people out on the course, but DNFed, was Guillaume Calmettes. I listened to a [superb Billy Yang podcast](http://billyyangpodcast.libsyn.com/guillaume-calmettes-byp-011) interview with him yesterday, driving home, whilst the race was still on. Give it a listen. He'll be running [Last One Standing](https://www.sientries.co.uk/event.php?elid=Y&event_id=4476) in Florence Court in Northern Ireland in September.
 
@@ -54,3 +56,8 @@ allowfullscreen allow="autoplay"></iframe>
 Update 5: Does Jamil ever rest? He has his video up after just a few days:
 
 {{< youtube dRpEE-82bWc >}}
+&nbsp;
+Update 6: Annnnnnd some course footage and commentary from last year's only finisher John Kelly, who was crewing this year.
+
+{{< youtube Vq8tfy8-5xQ >}}
+&nbsp;
