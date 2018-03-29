@@ -11,7 +11,6 @@ Like many people I've been enthralled by [Eoin Keith's](https://eoinkeith.wordpr
 My wife and I are doing the Liverpool to Manchester 50 Mile Ultra very soon (oh god it really is very very soon) and we flip-flop between terror and huge excitement over the adventure. It's her first run further than a marathon (but she has 22 of those) and my first further than 50k. I've thought about little else for the past few months.
 
 Again, like many people, one of the main triggers for us being interested in MUT (Mountain Ultra Trail) Running was the wonderful documentary ["The Barkley Marathons: The Race That Eats Its Young"](http://barkleymovie.com/). Anyone who visits us overnight is forced to watch it and is always shocked by how much they enjoy it.
-
 {{< youtube 79IUKC9gS-8 >}}
 &nbsp;
 
@@ -20,7 +19,6 @@ It's not just that it's considered one of the hardest races in the world, it's t
 Despite the various documentaries and YouTube clips, none of us have any idea how difficult it must be for the competitors. We've only seen the start/finish line and a few famous places like the prison, the tower or ratjaw. But the fact that some of the toughest competitors in the world give up after one loop of five gives you some idea of what they are going through.
 
 Once Barkley grabs you and you begin following various Ultra runners on Instagram, Twitter, YouTube and blogs, you discover people like Jamil Coury, The Ginger Runner, John Kelly and Gary Robbins. Jam-Jam has done Barkley a few times but never finished. He's going again this year. [Follow his vlog](https://www.youtube.com/user/runsteepgethigh/videos). Gary, oh god Gary. If you don't know his story, go over to The Ginger Runner site and give Ethan a few quid and watch ["Where Dreams go to die"](https://wheredreamsgotodie.com/).
-
 {{< youtube xgWejm_hbpA >}}
 &nbsp;
 
@@ -39,7 +37,6 @@ Update 1: I just listened to [Ethan's excellent interview with Jamil](https://ww
 Update 2: The race is underway and Eoin has finished one loop. But I also just discovered that [Stephanie Case](https://ultrarunnergirl.com/) and [Maggie Guterl](https://twitter.com/maggatronruns?lang=en) are running too. If I'd known that, I'd obviously have included them in the growing list of "bad-ass women who can totally finish Barkley". Fingers crossed for them all, it sounds like the weather conditions are horrendous.
 
 Update 3: Well Barkleys 2018 is over and *no one* finished it! Unbelievably bad conditions meant that only one person even managed the fun run (Gary Robbins).
-
 {{< youtube bT2fVKpT5A8 >}}
 &nbsp;
 
@@ -54,10 +51,8 @@ src="https://www.dailymotion.com/embed/video/k5N2HcEEMh96SUqrS5N"
 allowfullscreen allow="autoplay"></iframe>
 
 Update 5: Does Jamil ever rest? He has his video up after just a few days:
+{{< youtube dRpEE-82bWc >}} &nbsp;&nbsp;
 
-{{< youtube dRpEE-82bWc >}}
-&nbsp;
+
 Update 6: Annnnnnd some course footage and commentary from last year's only finisher John Kelly, who was crewing this year.
-
 {{< youtube Vq8tfy8-5xQ >}}
-&nbsp;
