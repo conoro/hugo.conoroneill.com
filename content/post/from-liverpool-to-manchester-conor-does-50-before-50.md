@@ -34,6 +34,10 @@ This caused me more stress in the week coming up to the race than anything else.
 
 We looked out the hotel room window at 4.45am to see very heavy rain. I decided to wear thick gloves, full length running tights and a buff, in addition to a base layer, running top and waterproof jacket. We walked out the door and were hit with bitterly cold wind to go with the stinging rain.
 
+## When you were young and your heart was an open book
+Little did we know what lay ahead.
+![Start Line](/images/2018/04/start_line.jpg)
+
 ## Penny Lane is in my knees and in my hips
 237 poor souls headed off in the rain, wind and dark along the Mersey at 6am. I was sure we were running faster than my marathon pace which really bothered me. It turned out we weren't even close to that, it was the conditions, along with two dead legs in my case, that made it feel so hard.
 
