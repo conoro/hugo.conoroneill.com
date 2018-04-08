@@ -46,7 +46,7 @@ The first 8 miles were in the streets of Liverpool. I spotted Penny Lane at one 
 ## I cannae feel ma leg
 That's ma leg ya bumpot (for [fans of Billy Connolly](https://www.youtube.com/watch?v=dZj0AkZUpDo)).
 
-Whilst we were both really feeling the cold, my wife was suffering a lot worse. She didn't bring gloves and she was wearing a running skirt. Our pace was mis-matched which caused her to stop and wait for me and then cool down excessively. She wouldn't take up my offer of my soaking wet heavy gloves and we didn't have the brilliant inspiration of Charlie Sharpe's crisp packets. Eventually it all got too much and she DNFed around mile 20. I was heartbroken for her and had a few miles of self-pity too.
+Whilst we were both really feeling the cold, my wife was suffering a lot worse. She didn't bring gloves and she was wearing a running skirt. Our pace was mis-matched which caused her to stop and wait for me and then cool down excessively. She wouldn't take up my offer of my soaking wet heavy gloves and we didn't have the brilliant inspiration of Charlie Sharpe's crisp packets. Eventually it all got too much and she DNFed around mile 20. I was heartbroken for her and then had a few miles of self-pity as I'd pictured us finishing together for months.
 
 I think the two things that saved me were the gloves and the fact that I'm obese. I know it sounds nuts but fat people stay warmer in the cold than thin people. As [this article says](https://www.popsci.com/article/science/fyi-do-fat-people-stay-warmer-thin-people) (semi-jokingly), the best thing to be in the cold is fat and fit. Bingo!
 
