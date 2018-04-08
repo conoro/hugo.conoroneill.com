@@ -1,6 +1,6 @@
 +++
 date = "2018-04-08T09:49:50+01:00"
-draft = true
+draft = false
 title = "From Liverpool to Manchester - Conor does his 50 (miles) before 50 (years)"
 description = "14 hours in terrible weather was not what I'd planned. But I did it!"
 slug = "from-liverpool-to-manchester-conor-does-50-before-50"
@@ -17,10 +17,10 @@ Training for L2M50 was a disaster. I ignored every bit of advice in books and im
 
 My wife had a better time with training and was far more diligent. She spotted MCI back-to-back marathons in Limerick in March which would have been an ideal check of how we'd handle 50 miles. In the end it was cancelled with the snow. Instead we did the EOI Lusk Marathon followed by the MCI Salthill one. All the signs were good (apart from that Salomon Sense Pro Max disaster in Salthill).
 
-## How to not be head wrecked for 50 miles
+## How to avoid being head wrecked for 50 miles
 Look, my marathon times are a disaster. I'm slowly getting faster but I'm still crazy slow. However that turns out to be a big help when getting your head sorted for a 50 miler. I'm used to spending many (many many) hours on my feet moving slowly and never DNFing marathons.
 
-It's possibly a placebo, but I get great value from [Headspace](). There have been many marathons where I've channeled Andy's calm dulcet tones and got myself out of serious negativity.
+It's possibly a placebo, but I get great value from [Headspace](https://www.headspace.com/). There have been many marathons where I've channelled Andy's calm dulcet tones and got myself out of serious negativity.
 
 The other huge help on Monday was actually The Barkley Marathons on the previous weekend. Seeing and reading about the hell everyone went through this year gave me a sense of perspective "It's only a flat 50 miles Conor. And your collar-bone isn't broken like Eoin Keith's was."
 
@@ -32,7 +32,7 @@ Whilst queuing for kit-check and photo, I overheard the best advice a nervous ul
 ## Torrential Scouse rain
 This caused me more stress in the week coming up to the race than anything else. Initially heavy snow was predicted. Then lots and lots of rain. Andddd low-temps going sub-zero with wind chill. It got to the point where I packed trekking poles and my trail runners, I was that worried. But the worry ended up working to my benefit as I'd packed every possible thing.
 
-We looked out the hotel room window at 4.45am to see very heavy rain. I decided to wear heavy gloves, full length running tights and a buff, in addition to a base layer, running top and waterproof jacket. We walked out the door and were hit with bitterly cold wind to go with the stinging rain.
+We looked out the hotel room window at 4.45am to see very heavy rain. I decided to wear thick gloves, full length running tights and a buff, in addition to a base layer, running top and waterproof jacket. We walked out the door and were hit with bitterly cold wind to go with the stinging rain.
 
 ## Penny Lane is in my knees and in my hips
 237 poor souls headed off in the rain, wind and dark along the Mersey at 6am. I was sure we were running faster than my marathon pace which really bothered me. It turned out we weren't even close to that, it was the conditions, along with two dead legs in my case, that made it feel so hard.
@@ -42,7 +42,7 @@ The first 8 miles were in the streets of Liverpool. I spotted Penny Lane at one 
 ## I cannae feel ma leg
 That's ma leg ya bumpot (for [fans of Billy Connolly](https://www.youtube.com/watch?v=dZj0AkZUpDo)).
 
-Whilst we were both really feeling the cold, my wife was suffering a lot worse. She didn't bring gloves and she was wearing a running skirt. Our pace was mis-matched which caused her to stop and wait for me and then cool down excessively. She wouldn't take up my offer of my soaking wet heavy gloves and we didn't have the brilliant inspiration of Charlie the winner to use crisp packets. Eventually it all got too much and she DNFed around mile 20. I was heartbroken for her and had a few miles of self-pity too.
+Whilst we were both really feeling the cold, my wife was suffering a lot worse. She didn't bring gloves and she was wearing a running skirt. Our pace was mis-matched which caused her to stop and wait for me and then cool down excessively. She wouldn't take up my offer of my soaking wet heavy gloves and we didn't have the brilliant inspiration of Charlie Sharpe's crisp packets. Eventually it all got too much and she DNFed around mile 20. I was heartbroken for her and had a few miles of self-pity too.
 
 I think the two things that saved me were the gloves and the fact that I'm obese. I know it sounds nuts but fat people stay warmer in the cold than thin people. As [this article says](https://www.popsci.com/article/science/fyi-do-fat-people-stay-warmer-thin-people) (semi-jokingly), the best thing to be in the cold is fat and fit. Bingo!
 
@@ -61,41 +61,57 @@ As the miles built up, the food at the checkpoints just got better and better. I
 I don't know how the volunteers did it. I'll forever be in awe of them and in their debt for getting me around. The food, the smiles, the words of encouragement, the assistance to people who were struggling, it was all amazing. Thank you thank you thank you. And to everyone (including the husband of another runner) who took care of my wife and got her to Didsbury, we will never forget your kindness.
 
 ## Oooh a nukular power station
-As anyone who [follows me on Strava]() knows, my training runs are less about running and more about a photo tour of local forests and hills. I took the sum total of 2 photos during the race. One of a nice bridge (no idea where) and another of what I thought was a nuclear power station. I had many classic Simpsons scenes in my head. I was gutted to discover afterwards that it was a boring coal-fired one.
+As anyone who [follows me on Strava](https://www.strava.com/athletes/2843314) knows, my training runs are less about running and more about a photo tour of local forests and hills. I took the sum total of 2 photos during the race. One of a nice bridge (no idea where) and another of what I thought was a nuclear power station. I had many classic Simpsons scenes in my head. I was gutted to discover afterwards that it was a boring coal-fired one.
 
 ## Looks like I'm gonna do this thing
 Getting to 25 miles had me in great mood. I was half way. But getting to 28 had me at a real low point. Oh my god there's 22 miles left. Everything hurt. In fact, so many things hurt that it kinda helped. I couldn't focus on the pain in my ITB, when I also had pains in both feet, my lower back, my wrist (WTF?), my other knee, my calves, my quads and my core.
 
 But when I got to mile 37, I knew, barring a catastrophe, that I was going to finish. I "only" had a half marathon left to do. The final CP was at mile 44. I stuffed my face again, refilled the water bottles, added the Tailwind and staggered off into the dusk.
 
+![Conor 01](/images/2018/04/conor_l2m50_01.jpg)
+
 ## Where's the bleedin' ferry across the Mersey when I need it?
 The markings all day had been great as long as you kept your wits about you. I had to shout to only two people that I saw going astray. But with 4 miles to go, my brain was fudge. I mindlessly followed some people in front of me and after maybe half a mile we realised we had gone wrong. I'd followed them and they'd followed someone else, who had disappeared.
 
-I had the [Viewranger]() app on my phone along with the route pre-loaded. A quick check proved that we were on the wrong side of the Mersey. The only way to fix it was to re-trace our steps. Arghghghghghghghghghgh. And no, I never took the compass out even once. This wasn't the Barkley Marathons. I found the turn we'd missed and started walking as fast as I could along the river in a complete mudfest of a track.
+I had the [Viewranger](http://www.viewranger.com/en-US) app on my phone along with the route pre-loaded. A quick check proved that we were on the wrong side of the Mersey. The only way to fix it was to re-trace our steps. Arghghghghghghghghghgh. Would you believe I actually packed a compass? Again I had L2M50 confused with the Barkley Marathons. I found the turn we'd missed and started walking as fast as I could along the river in a complete mudfest of a track.
 
-## Sorry mate I'm not from around here
-The trail on the river seemed endless. I kept checking Viewranger to confirm I hadn't overshot as there were no course markings. Finally I saw the footbridge into Didsbury. I marched up to the junction and saw a course marking. But I couldn't figure out whether to go left or right as I missed the blindingly obvious arrow on the same pole. I tried to ask two people going into a pub for directions but I nearly broke down in front of them. They had no idea where the club was. This turned out to be a stroke of luck as the finish line was at the rugby club not the football club.
+## Sorry mate, I'm not from around here
+The trail on the river seemed endless. I kept checking Viewranger to confirm I hadn't overshot as there were no course markings along there. Finally I saw the footbridge into Didsbury. I marched up to the junction and saw a course marking. But I couldn't figure out whether to go left or right as I missed the blindingly obvious arrow on the same pole. I tried asking two people going into a pub for directions but I nearly broke down in front of them. They had no idea where the club was. This turned out to be a stroke of luck as the finish line was at the rugby club not the football club.
 
 ## I would walk 10,000 miles and I feel like I have
-What followed was the longest mile of my life. Longer than my first marathon where both calves seized solid. Longer than Brighton where the heat got to me and I started singing out loud as I ran. Longer than my first 10k where I thought I was going to die. Yeah that long.
+What followed was the longest mile of my life. Longer than my first marathon where both calves seized solid. Longer than Brighton 2017 where the heat got to me and I started singing out loud as I ran. Longer than my first 10k where I thought I was going to die. Yeah that long.
 
 Oh wait, here's the sports club. Nooooooo, it's the golf club. Ah here we are. Nooooooo, it's the cricket club. Finally, the road is coming to an end. I must be here. What? Another bridge? FFS are you effing kidding me (last one shouted out loud).
 
-And then......is that......Catherine?????? OMFG, it is, I'm here. Surely they'll take pity on me now and not force me to do a loop of the pitch. No chance.
+And then......is that......Catherine?????? OMFG, it is, I'm here. Surely they'll take pity on me now and not force me to do a loop of the pitch.
+
+No chance.
 
 ## Cue Chariots of Fire music. Or maybe Peppa Pig
-I slowly stagger around the mudbath of a pitch. Smiling from ear to ear. But then I turn the first corner and who do I spy coming on to the pitch? The 3 people from earlier. Jogging. I'm not a competitive person (clearly) but sometimes, when I'm approaching that finish line, something in my brain kicks in.
+I slowly stagger around the mudbath of a pitch. Smiling from ear to ear. But then I turn the first corner and who do I spy coming on to the pitch? The 3 people from earlier. Jogging. I'm not a physically competitive person (clearly) but sometimes, when I'm approaching that finish line, something in my brain kicks in.
 
 Fukkit, time to drop the hammer Conor. I start running. In my mind I'm Usain Bolt. In reality I'm a fat old dude sliding around in mud at 0.00005 MPH. Can I get to the finish line without landing on my face? Maybe. The cheering starts. I hang on. One last jump to land on the rubber mat. I did it.
+
+![Finish line](/images/2018/04/finish_l2m50.jpg)
 
 ## 14:02:00
 2 hrs and 2 minutes over the cutoff for a loop of Barkleys :-) I know it's a ridiculous time to do 50 flat miles. I don't care. I had one job to do on Monday - finish. I did that job. I'm a very very happy man.
 
-My Garmin died around mile 46. I'm pretty sure I did something more like 52 miles. And despite all the pains and my inability to run any faster than I walked at the end, I think I could have done another 5 or more if I'd really had to.
+My Garmin died around mile 46. I'm pretty sure I did something more like 52 miles. And despite all the pains and my inability to run any faster than I walked at the end, I think I could have done another 5-10 miles if I'd really had to.
+
+![Medal](/images/2018/04/medal_l2m50.jpg)
 
 ## The post-race low
 It's a week later. I did 2.5 miles on the treadmill today and I'm mostly ok. Tight hip, slight ITB glitches but otherwise fine.
 
-We're both in that horrible post-race "depression" where you've thought about little else for months and now there's nothing. It's worse for Catherine as she feels deprived of the finish.
+We're both in that horrible post-race "depression" where you've thought about little else for months and now there's nothing. It's worse for Catherine as she missed out on finishing.
 
-Whilst of course we'll do the 25K Railway Run and The Surf Turf and Tar Half, we need something longer. If you know of any 50k to 50 mile non-technical non-bog non-crazy-vert Ultras coming up soonish in Ireland/UK/Europe, let me know.
+Whilst of course we'll do the 25K [Great Railway Run](http://www.thegreatrailwayrun.com/grrHome.php) and [The Surf Turf and Tar](https://surfturfntar.com/) Half, plus a couple of marathons in the next month or two, we need something longer. If you know of any 50k to 50 mile non-technical non-bog non-crazy-vert Ultras coming up soonish in Ireland/UK/Europe, let me know. I'll be trawling the usual sites.
+
+## What's next?
+Usual plan. Lose a ton of weight. Get a lot faster. Over every distance.
+
+Based on Monday, I think I have a 100k in me right now but of course I don't have anything like 100 miles in me yet. I want to look at doing a European mountain ultra.
+
+## Final words
+If you're thinking about doing an Ultra, have a look at all the events that the [GB Ultras](http://www.gbultras.com/) team organises. They really do an amazing job and [their communities](https://www.facebook.com/groups/357383037943147/) on the dreaded Facebook are extremely friendly and welcoming to ultra virgins. Go on, give it a go.
