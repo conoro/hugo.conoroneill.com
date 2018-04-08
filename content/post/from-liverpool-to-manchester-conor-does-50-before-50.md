@@ -78,7 +78,7 @@ I had the [Viewranger](http://www.viewranger.com/en-US) app on my phone along wi
 ## Sorry mate, I'm not from around here
 The trail on the river seemed endless. I kept checking Viewranger to confirm I hadn't overshot as there were no course markings along there. Finally I saw the footbridge into Didsbury. I marched up to the junction and saw a course marking. But I couldn't figure out whether to go left or right as I missed the blindingly obvious arrow on the same pole. I tried asking two people going into a pub for directions but I nearly broke down in front of them. They had no idea where the club was. This turned out to be a stroke of luck as the finish line was at the rugby club not the football club.
 
-## I would walk 10,000 miles and I feel like I have
+## I would walk 500 miles and I feel like I have
 What followed was the longest mile of my life. Longer than my first marathon where both calves seized solid. Longer than Brighton 2017 where the heat got to me and I started singing out loud as I ran. Longer than my first 10k where I thought I was going to die. Yeah that long.
 
 Oh wait, here's the sports club. Nooooooo, it's the golf club. Ah here we are. Nooooooo, it's the cricket club. Finally, the road is coming to an end. I must be here. What? Another bridge? FFS are you effing kidding me (last one shouted out loud).
