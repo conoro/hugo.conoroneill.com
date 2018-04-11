@@ -119,3 +119,23 @@ Based on Monday, I think I have a 100k in me right now but of course I don't hav
 
 ## Final words
 If you're thinking about doing an Ultra, have a look at all the events that the [GB Ultras](http://www.gbultras.com/) team organises. They really do an amazing job and [their communities](https://www.facebook.com/groups/357383037943147/) on the dreaded Facebook are extremely friendly and welcoming to ultra virgins. Go on, give it a go.
+
+Oh course, a week later and I'm already planning my next big run :-)
+
+## Update 1 - April 10th 2018 - Gear
+I'm sure everyone is dying to know what gear the 6th slowest runner in #L2M50 used :-) Well I'm going to tell you anyway. Starting from my toes: X-Socks trail socks, Hoka One One Clifton 3 running shoes, Ron Hill running tights, Runderwear briefs, Lidl long-sleeve compression top, Berlin Marathon finisher top, Ron Hill Infinity Torrent jacket, Buff, Rab Latok cap with flaps, Salomon Adv 5 Skin hydration vest and softflasks, Helly Hansen spare base layer (unused, stupidly), Tailwind nutrition, Rowntrees sour pastilles, 4 megatons of GU & Torq gels (unused), 2XU heavy cycling gloves (useless), Jaybird X3 Bluetooth headphones, Samsung Galaxy S8+ (waterproof), Eotw generic phone armband (pretty useless), Garmin Fenix 3 watch (disappointed it didn't last).
+
+## Update 2 - April 11th 2018 - Why
+I read two things about Ultra running recently that really annoyed me. I should have avoided them and I'm not going to link to them. The first was the comments section in Adharanand Finn's article on the rise of ultrarunning. The second was a Let's Run thread on the same topic. In both, the level of spite and vituperation towards people who do ultra distances was gob-smacking. You'd swear we were murderers based on the bizarre anger expressed.
+
+I read an interview with Spine Race winner Carol Morgan (which I can't currently find) where she just described it as her hobby. And that's it. No different to gardening, knitting, watching other people kick a ball, cycling or home-brewing.
+
+Is running long distances purely a middle-class thing? Not based on the very wide selection of people I've met. Is it for nut-jobs only? I've yet to meet anyone I'd describe as weird at running events, compared say to the behaviour of some ball-sports fanatics at any match. Should we all be using the time we spend running helping lepers in Africa instead? Yes maybe you should Mr Commenter.
+
+It's just a hobby. I'm sure there are assholes who act like doing 50 miles makes them a master of the universe. Again I've never met anyone like that at any running event. In fact, the winner of #L2M50, who did it in less than half the time I did, comes across as an incredibly kind, funny and low-key person. Who happens to be good at running and clearly works hard at it.
+
+So there is no specific "why" to doing 50 miles or more really. 26.2 is a completely arbitrary distance. As it 10K or 100K.
+
+I've re-discovered the outdoors via running. It helps with clearing the head. It hopefully keeps me out of an early grave, if I can sort out this weight. It lets me visit cool places and leave no trace. Recently it's the main way I manage to carve out time to listen to podcasts and audiobooks. It disconnects me from the constant noise of the internet. And it's interesting to see what longer and longer distances do to the mind and body.
+
+Oh yeah, a lot of the time, it's good fun. Like any hobby.
