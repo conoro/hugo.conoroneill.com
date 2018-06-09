@@ -1,0 +1,41 @@
++++
+date = "2018-06-09T12:00:00+01:00"
+draft = false
+title = "Castlefreke is exactly why all State lands must be immediately be removed from the hands of logging company Coillte"
+description = "Ireland loves nothing more than institutionalised conflicts of interest. Coillte is the fox guarding the henhouse"
+slug = "castelfreke-remove-state-lands-from-coillte"
++++
+
+Let's get straight to the point. [Coillte](https://www.coillte.ie/) is a logging company with a commercial mandate. Having it in charge of 440,000 hectares of state lands is so idiotically Irish, you don't know whether to laugh or cry. All state lands should be transferred to a hugely expanded and reformulated [National Parks and Wildlife Service](https://www.npws.ie/) immediately. The NPWS can then licence Coillte to plant and harvest trees in a strictly controlled fashion on a limited subset of those lands. Clear-felling must be banned and all planting must be of mixed species.
+
+State lands belong to the Irish people. I'm not going to suddenly become a rabid republican but we have enough history here to make any attempt to sell-off Castlefreke Woods deeply offensive to most people.
+
+![Castlefreke](/images/2018/06/20180527_132348.jpg)
+
+The revelation that the owners of Castlefreke want to buy the woods from Coillte is no surprise. What is completely unacceptable is that this is a "discussion" at all. The answer must always be no. Always.
+
+In fact, if Coillte wants to discuss anything with the owners of the castle, it should be to offer to buy all of their lands.
+
+The area around Castlefreke is a gem of a resource for the people of West Cork. It is one of the only places you can walk and run safely for miles, in the woods, paths, lanes, beaches and roads. You can go from the end of Quay road in Rosscarbery to Galley Head with some of the best views in the world. The idea that a family or company gets to take some of that from us is ridiculous.
+
+A few more examples of Coillte in action:
+
+Last weekend I decided to finally check out Duke's Wood near Bandon on the Crookstown Road. When we first moved here, it had a big Coillte sign and picnic tables. They have gone or rotted away and Coillte has clear-felled a huge part of it. Signs everywhere say Keep Out. In the best Irish tradition I ignored the signs and went exploring. Despite all the briars and disgraceful clear-felling, there is still a wonderful little wood here on both sides of the road. A small amount of investment would make this an amazing walking, running and leisure location. With a 25 year plan, it could be re-planted with native species and deliver long term benefits to the area. Instead I'm sure they'll just clearfell the rest of it. Because they are a logging company.
+
+![Dukes Woods](/images/2018/06/YDXJ0865.JPG)
+
+Similarly the woods in Kilmurry/Warrenscourt, whilst not the prettiest, are still a great place to have a walk and run in safety. But of course, their only real function is to generate revenue for Coillte and the State. So they are in the process of being clear-felled too. I'm just waiting for the day they decide to go after Dromkeen.
+
+(Sidebar: In Bandon, pedestrians and runners still can't get safely to the Clare O'Leary Walk. Meanwhile, how much money was spent landscaping bloody roundabouts in Halfway and at the airport?)
+
+Two years ago I wrote a very long piece on called "[The Walkist Manifesto - From Greenways to pathways everywhere and the future of Ireland's health](https://conoroneill.com/2016/09/21/greenways-byways-hedgerows-tourism-and-the-future-of-irelands-health/)". If anything, I've become even more convinced that this country is broken.
+
+**It boils down to this - What are the values of this country?**
+
+What sort of country do we want to give our kids and grandkids? One that has nice roundabouts and a few extra logging Euro in the government coffers? Or one where everyone has free access to an amazing outdoors filled with clean rivers/lakes, native forests, greenways, rights-of-way and an entire landscape they can embrace without ever having to obesely get in a car?
+
+Oh and BTW, that latter country will generate far more revenue via tourism/recreation than Coillte ever has.
+
+Castlefreke is just a symptom of a broken system. If any local politician wants to be remembered for decades to come, they need to lead the change to fix the root cause.
+
+![Castlefreke 2](/images/2018/06/20180527_135318.jpg)
