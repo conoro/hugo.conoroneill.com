@@ -3,7 +3,7 @@ date = "2018-06-09T12:00:00+01:00"
 draft = false
 title = "Castlefreke is exactly why all State lands must be immediately be removed from the hands of logging company Coillte"
 description = "Ireland loves nothing more than institutionalised conflicts of interest. Coillte is the fox guarding the henhouse"
-slug = "castelfreke-remove-state-lands-from-coillte"
+slug = "castlefreke-remove-state-lands-from-coillte"
 +++
 
 Let's get straight to the point. [Coillte](https://www.coillte.ie/) is a logging company with a commercial mandate. Having it in charge of 440,000 hectares of state lands is so idiotically Irish, you don't know whether to laugh or cry. All state lands should be transferred to a hugely expanded and reformulated [National Parks and Wildlife Service](https://www.npws.ie/) immediately. The NPWS can then licence Coillte to plant and harvest trees in a strictly controlled fashion on a limited subset of those lands. Clear-felling must be banned and all planting must be of mixed species.
