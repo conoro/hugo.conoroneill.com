@@ -11,6 +11,6 @@ uploaded to a Hugo source repo on GitHub, along with any inline images.
 
 CircleCI then automatically rebuilds and redeploys my blog to S3.
 
-[homer_woohoo.gif](/images/2018/08/13/homer_woohoo.gif)
+![homer_woohoo.gif](/images/2018/08/13/homer_woohoo.gif)
 
 I’ll post full details and source code over the next few days.
