@@ -4,7 +4,8 @@ title = "Conor's Bandon Blog"
 theme = "casper"
 Paginate = 10
 disqusShortname = "conorbandon"
-rssuri = "atom.xml"
+# rssuri = "atom.xml"
+rssLimit = 20
 publishdir = "docs"
 
 [permalinks]
@@ -22,4 +23,4 @@ publishdir = "docs"
   bio= "Tech guy who likes running slowly"
   logo = "images/conors_bandon_blog.png"
   googleAnalyticsUserID = "UA-88610-1"
-  RSSLink = "atom.xml"
+  # RSSLink = "atom.xml"

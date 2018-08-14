@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conor&#39;s Bandon Blog</title>
+    <link>https://conoroneill.com/</link>
+    <description>Recent content on Conor&#39;s Bandon Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Aug 2018 11:06:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://conoroneill.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test of my new email-to-hugo blogging tool</title>
+      <link>https://conoroneill.com/2018/08/13/test-of-my-new-email-to-hugo-blogging-tool/</link>
+      <pubDate>Mon, 13 Aug 2018 11:06:01 +0000</pubDate>
+      
+      <guid>https://conoroneill.com/2018/08/13/test-of-my-new-email-to-hugo-blogging-tool/</guid>
+      <description>I have created a simple new tool which enables me to send blog
+content via email. The emails are converted to Markdown files and then
+uploaded to a Hugo source repo on GitHub, along with any inline images.
+CircleCI then automatically rebuilds and redeploys my blog to S3.
+I’ll post full details and source code over the next few days.</description>
+    </item>
+    
+    <item>
+      <title>Walking away from Facebook after 11 years.</title>
+      <link>https://conoroneill.com/2018/08/10/walking-away-from-facebook-after-11-years/</link>
+      <pubDate>Fri, 10 Aug 2018 08:00:00 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2018/08/10/walking-away-from-facebook-after-11-years/</guid>
+      <description>I&amp;rsquo;ve been meaning to write about giving up on Twitter since last November. I think I&amp;rsquo;ll now wait until I&amp;rsquo;ve been off for 12 months.
+I kept threatening to walk on Facebook too. I&amp;rsquo;d like to thank Facebook for killing the List Feed feature today so they made the decision for me. I&amp;rsquo;m done.
+My first two posts on Facebook were in 2006 and 2007. I was complaining about it even then!</description>
+    </item>
+    
+    <item>
+      <title>Castlefreke is exactly why all State lands must be immediately be removed from the hands of logging company Coillte</title>
+      <link>https://conoroneill.com/2018/06/09/castlefreke-remove-state-lands-from-coillte/</link>
+      <pubDate>Sat, 09 Jun 2018 12:00:00 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2018/06/09/castlefreke-remove-state-lands-from-coillte/</guid>
+      <description>Let&amp;rsquo;s get straight to the point. Coillte is a logging company with a commercial mandate. Having it in charge of 440,000 hectares of state lands is so idiotically Irish, you don&amp;rsquo;t know whether to laugh or cry. All state lands should be transferred to a hugely expanded and reformulated National Parks and Wildlife Service immediately. The NPWS can then licence Coillte to plant and harvest trees in a strictly controlled fashion on a limited subset of those lands.</description>
+    </item>
+    
+    <item>
+      <title>From Liverpool to Manchester - Conor does his 50 (miles) before 50 (years)</title>
+      <link>https://conoroneill.com/2018/04/08/from-liverpool-to-manchester-conor-does-50-before-50/</link>
+      <pubDate>Sun, 08 Apr 2018 09:49:50 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2018/04/08/from-liverpool-to-manchester-conor-does-50-before-50/</guid>
+      <description>Last March I decided I wanted to run a 50 mile race before I hit the big five oh in May of this year. On Monday, in spite of freezing rain, hail, sleet and snow, I somehow managed it and I can&amp;rsquo;t stop randomly grinning.
+As always, have no fear, this won&amp;rsquo;t be a mile-by-mile race report. I&amp;rsquo;d fall asleep writing it :-) Speaking of which, one of my ultra-running top tips is &amp;ldquo;Don&amp;rsquo;t listen to the audiobook of &amp;lsquo;Why We Sleep&amp;rsquo; on miles 30-40 of a 50 miler if you want to avoid getting verrrrry verrrry sleepy.</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m more excited about Eoin Keith doing the Barkley Marathons than I am about my first 50 miler</title>
+      <link>https://conoroneill.com/2018/03/17/eoin-keith-barkley-marathons/</link>
+      <pubDate>Sat, 17 Mar 2018 09:49:50 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2018/03/17/eoin-keith-barkley-marathons/</guid>
+      <description>Like many people I&amp;rsquo;ve been enthralled by Eoin Keith&amp;rsquo;s Ultra running exploits since I first discovered this crazy sport. Whether it&amp;rsquo;s his Spine Race wins in crazy weather or his FKT from Mizen to Malin, he makes you want to push yourself and try things.
+My wife and I are doing the Liverpool to Manchester 50 Mile Ultra very soon (oh god it really is very very soon) and we flip-flop between terror and huge excitement over the adventure.</description>
+    </item>
+    
+    <item>
+      <title>The fatally flawed Salomon Sense Pro Max</title>
+      <link>https://conoroneill.com/2018/03/12/the-fatally-flawed-salomon-sense-pro-max/</link>
+      <pubDate>Mon, 12 Mar 2018 06:49:50 +0000</pubDate>
+      
+      <guid>https://conoroneill.com/2018/03/12/the-fatally-flawed-salomon-sense-pro-max/</guid>
+      <description>I read some reviews of the Sense Pro Max last year and they looked like a good pair of mixed surface running shoes. However they came with the usual Salomon price tag and I didn&amp;rsquo;t have a specific need for them.
+Fast-forward to January this year and I started getting worried about the footwear I was going to use in my first 50 Miler, the Liverpool to Manchester Ultra. Then I spotted that the Salomons were half price on Wiggle.</description>
+    </item>
+    
+    <item>
+      <title>2017 - The year of running 1000 miles</title>
+      <link>https://conoroneill.com/2017/12/30/2017-the-year-of-running-1000-miles/</link>
+      <pubDate>Sat, 30 Dec 2017 08:00:00 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2017/12/30/2017-the-year-of-running-1000-miles/</guid>
+      <description>2017 was probably the year I stopped feeling odd when calling myself a runner. I achieved a bunch of new things in running, including my first 50k, and managed to do just over 1000 miles for the year.
+Start running now If you are thinking of taking up running in the new year, go for it. No excuses. Forget about &amp;ldquo;I&amp;rsquo;ll wait until I&amp;rsquo;ve lost some weight&amp;rdquo; or &amp;ldquo;when the weather improves&amp;rdquo; or &amp;ldquo;my knee is a bit twingey&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>A round-up of Conor&#39;s recent races. Lots to recommend!</title>
+      <link>https://conoroneill.com/2017/10/02/a-round-up-of-conors-recent-races-lots-to-recommend/</link>
+      <pubDate>Mon, 02 Oct 2017 19:50:00 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2017/10/02/a-round-up-of-conors-recent-races-lots-to-recommend/</guid>
+      <description>I&amp;rsquo;ve been having fun mixing up the length and style of the races we&amp;rsquo;ve run this Summer and Autumn. Whilst my speed remains atrocious, I find that my recovery time is getting shorter and shorter, which must be a sign of something. So here goes, June to September:
+Cork City Marathon What can I say? It broke me again. I started so well - faster than last year and feeling strong.</description>
+    </item>
+    
+    <item>
+      <title>Dear headphone manufacturers - Big opportunity to own the marathon market</title>
+      <link>https://conoroneill.com/2017/09/06/headphone-companies-big-opportunity-to-own-the-marathon-market/</link>
+      <pubDate>Wed, 06 Sep 2017 06:00:00 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2017/09/06/headphone-companies-big-opportunity-to-own-the-marathon-market/</guid>
+      <description>I really wonder about headphone manufacturers and their testing. I own everything from no-name €10 Chinese wired earbuds to €100+ Jaybird X3s and every single one of them is problematic for running.
+In the US alone, over 550,000 people ran a marathon in 2016. Scale that globally (with a 13% growth rate) and that&amp;rsquo;s a substantial, defined, receptive, target market.
+My goto pair for the past 2 years are SMS In-Ear Wired Sport earbuds.</description>
+    </item>
+    
+    <item>
+      <title>Review of The Trail Runner&#39;s Companion by Sarah Lavender Smith</title>
+      <link>https://conoroneill.com/2017/08/30/review-of-the-trail-runners-companion-by-sarah-lavender-smith/</link>
+      <pubDate>Wed, 30 Aug 2017 18:00:00 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2017/08/30/review-of-the-trail-runners-companion-by-sarah-lavender-smith/</guid>
+      <description>I wrote about my first 50k a few weeks back. I still smile every time I think about it. I&amp;rsquo;m already signed up for a 40 miler in the Glen of Aherlow in September (3 loops, so I have a get-out-of-jail) and I&amp;rsquo;m trying to decide what my first 50 miler will be. Suffice to say, I&amp;rsquo;m really getting into this whole trail running thing. And one of the main reasons for that is the brilliant work done by YouTubers, Instagrammers and Podcasters in this area.</description>
+    </item>
+    
+    <item>
+      <title>The Chiltern Challenge 50k - Conor&#39;s First Ultra Marathon</title>
+      <link>https://conoroneill.com/2017/07/23/the-chiltern-challenge-50k-conors-first-ultra-marathon/</link>
+      <pubDate>Sun, 23 Jul 2017 20:00:00 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2017/07/23/the-chiltern-challenge-50k-conors-first-ultra-marathon/</guid>
+      <description>I made this comment on Twitter last week:
+Any chance we can narrow &amp;quot;inspirational&amp;quot; to mean &amp;quot;inspired me to action&amp;quot; instead of &amp;quot;isn&amp;#39;t that a nice story&amp;quot;?
+&amp;mdash; Conor O&amp;#39;Neill (@conoro) July 19, 2017 
+It was partially driven by the silly overuse of &amp;ldquo;inspirational&amp;rdquo; but also by the fact that I was inspired to run 50km last weekend by all of the amazing Ultrarunners in the US and Europe and the stories they tell via YouTube, Vimeo, Blogs, Twitter, Instagram, magazines and books.</description>
+    </item>
+    
+    <item>
+      <title>Quick reviews of Inov-8 X-CLAW 275 trail runners and Leki Voyager poles</title>
+      <link>https://conoroneill.com/2017/06/11/quick-reviews-of-inov8-xclaw-275-trail-runners-leki-voyager-poles/</link>
+      <pubDate>Sun, 11 Jun 2017 11:49:50 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2017/06/11/quick-reviews-of-inov8-xclaw-275-trail-runners-leki-voyager-poles/</guid>
+      <description>One thing I&amp;rsquo;ve learned as I&amp;rsquo;ve dipped my toe into off-road running in Ireland is that we don&amp;rsquo;t really do trails. Apart from forest paths, the bulk of what I&amp;rsquo;ve found is wet muddy bog. This causes me two problems - it&amp;rsquo;s difficult to run in it and American-style trail runners are useless in this environment. My poor Altra Lone Peak 3.0 may as well be slick tyres coming down from Mullaghmesha Mountain.</description>
+    </item>
+    
+    <item>
+      <title>Rosscarbery Surf Turf n Tar - An instant classic Half Marathon</title>
+      <link>https://conoroneill.com/2017/05/21/rosscarbery-surf-turf-n-tar-an-instant-classic-half-marathon/</link>
+      <pubDate>Sun, 21 May 2017 14:00:32 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2017/05/21/rosscarbery-surf-turf-n-tar-an-instant-classic-half-marathon/</guid>
+      <description>This is going to be a post full of superlatives.
+When I first heard about Surf Turf n Tar, I was instantly excited. I&amp;rsquo;d done most of the course in chunks already and it&amp;rsquo;s currently my favourite place to run. You have every sort of terrain and views, all in a compact area.
+The race started just opposite the Celtic Ross Hotel and headed down a little road. You hear of elite ultra runners &amp;ldquo;blowing-up&amp;rdquo; at 50 miles.</description>
+    </item>
+    
+    <item>
+      <title>Conor&#39;s Roundup of Recent Runs</title>
+      <link>https://conoroneill.com/2017/05/01/conors-roundup-of-recent-runs/</link>
+      <pubDate>Mon, 01 May 2017 23:43:32 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2017/05/01/conors-roundup-of-recent-runs/</guid>
+      <description>I&amp;rsquo;m not a great one for detailed mile-by-mile race reports so I&amp;rsquo;ve bundled a bunch of them together.
+MCI Marathon Ballina We joined the Marathon Club of Ireland last year and I&amp;rsquo;ve been very impressed by the number of events they organise. They have so many amazing athletes who have done 25, 50, 100 and even 200+ marathons.
+On the 25th of February, they arranged 3 Marathons in 2 days in Mayo.</description>
+    </item>
+    
+    <item>
+      <title>All my current running technology</title>
+      <link>https://conoroneill.com/2017/04/15/all-my-current-running-technology/</link>
+      <pubDate>Sat, 15 Apr 2017 19:49:50 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2017/04/15/all-my-current-running-technology/</guid>
+      <description>The only thing you need to run is a pair of running shoes. And some people even get by without those. This is regularly driven home to me by the guy in his GAA top/shorts and knackered shoes who laps me in parkRun.
+But if you read this blog you&amp;rsquo;re probably a geek like me and of course I&amp;rsquo;m riddled with tech when I go for a lot of my runs.</description>
+    </item>
+    
+    <item>
+      <title>On joining nearForm as Chief Product Officer</title>
+      <link>https://conoroneill.com/2017/04/06/on-joining-nearform-as-chief-product-officer/</link>
+      <pubDate>Thu, 06 Apr 2017 18:17:32 +0000</pubDate>
+      
+      <guid>https://conoroneill.com/2017/04/06/on-joining-nearform-as-chief-product-officer/</guid>
+      <description>On April 3rd I joined nearForm as Chief Product Officer. I genuinely believe nearForm is destined for all-time greatness and I want to contribute to that.
+One of my career highlights so far was playing a part in the acquisition of FeedHenry by Red Hat. The day I found out that they were a potential buyer will always stay with me. I have had 2.5 amazing years with them and my opinion has only gone up as time progressed.</description>
+    </item>
+    
+    <item>
+      <title>Carrigfadda Hill and Warrenscourt Forest are two brilliant running spots in West Cork</title>
+      <link>https://conoroneill.com/2017/03/22/carrigfadda-hill-and-warrenscourt-forest-are-two-brilliant-running-spots-in-west-cork/</link>
+      <pubDate>Wed, 22 Mar 2017 19:17:32 +0000</pubDate>
+      
+      <guid>https://conoroneill.com/2017/03/22/carrigfadda-hill-and-warrenscourt-forest-are-two-brilliant-running-spots-in-west-cork/</guid>
+      <description>A few months back I was browsing the Coillte Outdoors site for forests in West Cork that looked good for running in. The two most promising ones I found were Warrenscourt Forest and Carrigfadda Hill.
+Warrenscourt I&amp;rsquo;ve done Warrenscourt Forest twice and I highly recommend it. You can access it from either the Warrenscourt end or Kilmurry end and both are very short drives off the N22 near Lissarda. Whilst it&amp;rsquo;s quite steep in places, it&amp;rsquo;s very runnable with some beautiful views along by the stream.</description>
+    </item>
+    
+    <item>
+      <title>My first ever IMRA/MMRA trail run in Castlefreke - impressive turnout and tons of kids!</title>
+      <link>https://conoroneill.com/2017/02/05/my-first-ever-imra-mmra-trail-run-in-castlefreke/</link>
+      <pubDate>Sun, 05 Feb 2017 19:17:32 +0000</pubDate>
+      
+      <guid>https://conoroneill.com/2017/02/05/my-first-ever-imra-mmra-trail-run-in-castlefreke/</guid>
+      <description>I only learned of the Irish Mountain Running Assocation (and Munster Mountain Running Association branch) last year. They have an extensive line-up of events all year from hard-core 127km Ultras to family friendly events like today&amp;rsquo;s run in Castlefreke Woods and Long Strand.
+And unlike a lot of running related things in recent years, it&amp;rsquo;s an absolute bargain to take part. €10 annual membership and €5 for today&amp;rsquo;s race.
+I had no idea what to expect today.</description>
+    </item>
+    
+    <item>
+      <title>Go to a parkrun this Saturday in West Cork</title>
+      <link>https://conoroneill.com/2017/01/26/go-to-a-parkrun-this-saturday-in-west-cork/</link>
+      <pubDate>Thu, 26 Jan 2017 20:43:32 +0100</pubDate>
+      
+      <guid>https://conoroneill.com/2017/01/26/go-to-a-parkrun-this-saturday-in-west-cork/</guid>
+      <description>I talked about parkrun in my monster post last year on the future of Ireland&amp;rsquo;s health. It was started in the UK in 2010 and has spread around the world. In parkrun Ireland there are over 50 events every week. You may have heard it mentioned on Operation Transformation too.
+The idea is incredibly simple. Every Saturday at 9.30am, you turn up to your local parkrun and do 5km. You can sprint, run, jog, walk or amble.</description>
+    </item>
+    
+    <item>
+      <title>Acknowledging the achievement of Carol Morgan in The Spine Race</title>
+      <link>https://conoroneill.com/2017/01/22/acknowledging-the-achievement-of-carol-morgan-in-the-spine-race/</link>
+      <pubDate>Sun, 22 Jan 2017 20:20:00 +0000</pubDate>
+      
+      <guid>https://conoroneill.com/2017/01/22/acknowledging-the-achievement-of-carol-morgan-in-the-spine-race/</guid>
+      <description>I first learned of the Montane Spine Race last year when there were some mentions online of an Irish guy winning some insanely long race and breaking the record. This turned out to be Eoin Keith who is an amazing ultra runner. He had to pull out this year in third position after breaking a rib near the start. He waited 170 miles to do so :-)
+ (Image Source The Guardian) &amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>
