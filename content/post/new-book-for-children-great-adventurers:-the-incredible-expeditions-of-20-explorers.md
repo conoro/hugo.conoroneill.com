@@ -19,10 +19,7 @@ It of course includes a section on the amazing Dervla Murphy.
 
 Here's the trailer.
 
-  
-
-{{< youtube DiaGuIr0TBY >}}
-
-  
+{{< youtube DiaGuIr0TBY >}}
+    
 
 His earlier book series for kids, [The Boy Who Biked The World](https://www.amazon.co.uk/Boy-Who-Biked-World-Americas/dp/1903070872), was loved by our kids too.
