@@ -9,7 +9,7 @@ I'm a huge fan of [Alastair Humphreys](https://www.alastairhumphreys.com/great-a
 
   
 
-He is just about to release his latest book "Great Adventurers: the incredible expeditions of 20 explorers." and I have it on pre-order. I think most kids will love it.
+He is just about to release his latest book [Great Adventurers: the incredible expeditions of 20 explorers](https://www.amazon.co.uk/Alastair-Humphreys-Great-Adventurers/dp/1783708417) and I have it on pre-order. I think most kids will love it.
 
   
 
