@@ -21,7 +21,7 @@ Here's the trailer.
 
   
 
-{{ youtube DiaGuIr0TBY }}
+{{< youtube DiaGuIr0TBY >}}
 
   
 
