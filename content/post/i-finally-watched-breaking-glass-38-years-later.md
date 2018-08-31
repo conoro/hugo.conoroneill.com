@@ -12,9 +12,9 @@ It hasn't aged well. From the general cheapness to the ropey writing, acting and
 The movie is also a reminder that no matter how bad things are now, they aren't half as bad as the late 70s and early 80s.
 
 This is what enthralled me as a kid:
-
 {{< youtube 15Ij9Y--dIQ >}}
 
-And this will never get old:
+&nbsp;
 
+And this will never get old:
 {{< youtube Ou96vLl--e4 >}}
