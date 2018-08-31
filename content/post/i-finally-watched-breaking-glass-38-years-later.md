@@ -17,4 +17,4 @@ This is what enthralled me as a kid:
 
 And this will never get old:
 
-{{< youtube  Ou96vLl--e4  >}}
+{{< youtube Ou96vLl--e4 >}}
