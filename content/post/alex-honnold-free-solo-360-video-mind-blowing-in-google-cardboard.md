@@ -7,13 +7,13 @@ slug = "alex-honnold-free-solo-360-video-mind-blowing-in-google-cardboard"
 
 If you don't have a [Google Cardboard](https://vr.google.com/cardboard/), you can still get some sense of the scale of what Alex Honnold achieved this year when he free soloed [El Capitan](https://en.wikipedia.org/wiki/El_Capitan) in Yosemite if you use the 3D controls in YouTube.
 
-Free Soloing is climbing without any equipment or safety ropes. What Alex achieved is one of the greatest sporting achievements by a human ever.
+Free Soloing is climbing without any equipment or safety ropes. What Alex did is one of the greatest sporting achievements by a human ever.
 
 {{< youtube FRGF77fBAeM >}}  
 &nbsp;
 &nbsp;  
 
-I've no massive interest in climbing but after watching the Valley Uprising documentary last night (available to buy or watch or Netflix), I have a whole new appreciation for the mindset behind people like Honnold and [John Bachar](https://en.wikipedia.org/wiki/John_Bachar) before him.
+I've no massive interest in climbing but after watching the Valley Uprising documentary last night (available to buy or watch or Netflix), I have a whole new appreciation for the mindset and philosophy of people like Honnold and [John Bachar](https://en.wikipedia.org/wiki/John_Bachar) before him.
 
 {{< youtube o86TpaSBcWw >}}    
 &nbsp;
