@@ -297,7 +297,7 @@ If you treat customer service as a cost to be minimised, you are on the way to b
 
 IAG's numbers have been great over the past couple of years. I don't know how much of that revenue growth has been due to the increase in numbers of people flying globally in general or due to M&A. How much non-M&A market share growth have they had? Same question about market share for Aer Lingus. Everything was going gangbusters in 2007 too. When it all goes bang again (hello Italy), which airlines will survive?
 
-I honestly can't wait for the next generation of airlines to come along and wipe out these 20th century dinosaurs. Does anyone under 40 remember TWA? Exactly.
+I honestly can't wait for the next generation of airlines to come along and wipe out these 20th century dinosaurs. They'll be forgotten in an instant. Does anyone under 40 remember TWA? Exactly.
 
 I've just found out that my next US flight is in a week. I'll obviously be taking the safer option of ORK-LHR-RDU. Sadly that first leg will have to be with the dreaded green leprechaun.
 
