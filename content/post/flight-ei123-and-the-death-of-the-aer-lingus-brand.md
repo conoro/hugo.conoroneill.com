@@ -1,8 +1,8 @@
 +++
 date = "2018-10-15T06:42:00.000Z"
 draft = false
-title = "EI123 and the death of the Aer Lingus brand"
-slug = "ei123-and-the-death-of-the-aer-lingus-brand"
+title = "Flight EI123 and the death of the Aer Lingus brand"
+slug = "flight-ei123-and-the-death-of-the-aer-lingus-brand"
 description = "Without exaggeration, my worst passenger experience in 36 years of flying. From Aer Lingus to Aer Sleazeus"
 +++
 
