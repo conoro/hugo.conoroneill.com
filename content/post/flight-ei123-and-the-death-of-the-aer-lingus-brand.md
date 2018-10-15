@@ -34,7 +34,7 @@ Now we just needed a plan B from Aer Lingus. A big worry was that we'd arrive to
 
 It was at this point that the clusterfuck began.
 
-Aer Lingus proceeded to provide _zero_ information to passengers for hours. Even the pilot was getting extremely frustrated. We still have no idea what the hell was going on during this phase of the hellfest. What we were sure of was that there wasn't another A330 just idling around the back of Hanger 6.
+Aer Lingus proceeded to provide _zero_ information to passengers for hours. Even the pilot was getting extremely frustrated. We still have no idea what the hell was going on during this phase of the hellfest. What we were sure of was that there wasn't another A330 just idling around the back of Hangar 6.
 
 We sat there until after 4pm. Yup, close to 5hrs sitting on a plane being offered sips of water.
 
@@ -187,7 +187,7 @@ A big congratulations to everyone on that flight who finished the marathon. 20 I
 
 I would like to mention those Aer Lingus staff who showed some empathy towards the 300 passengers - specifically the captain of the original flight and the flight attendant who is also a runner and knew what a huge blow all of this was to her fellow athletes.
 
-I did not hear the worry "sorry" outside of that, apart from the classic legal-speak "we're sorry to hear that".
+I did not hear the word "sorry" outside of that, apart from the classic legal-speak "we're sorry to hear that".
 
 ### What does Aer Lingus stand for in 2018?
 
