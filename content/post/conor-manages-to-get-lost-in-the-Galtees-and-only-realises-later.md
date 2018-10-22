@@ -62,11 +62,17 @@ The final trot down was long but great fun and the Inov-8 XCLAW 275 (sadly no lo
 
 Into the forest and a final jog to the car. Bloody hell, that took 4:45hrs. So much for being a lot faster than the hikers.
 
-Home I drove and uploaded pics etc to Strava. 
+Home I drove and uploaded GPS data and pics to Strava. 
+
+![Strava](/images/2018/10/strava_galtees_01.png)
+
 
 Hmm, that bit where I went astray looks weird. 
 
 Zoom in. 
+
+![Strava](/images/2018/10/strava_galtees_02.png)
+
 
 Wait a second. 
 
