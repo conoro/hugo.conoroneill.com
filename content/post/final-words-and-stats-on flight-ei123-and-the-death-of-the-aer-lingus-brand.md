@@ -64,4 +64,6 @@ I'm sure I could drive another bunch of traffic to the site if I posted it to bo
 
 I don't know if there is anyone in Aer Lingus who thinks that great customer service can be a differentiator. It's quite clear from everything I've learned over the past few weeks that the spreadsheet jockeys running IAG are destroying the Aer Lingus brand with each passing day and people are beginning to actively avoid all IAG airlines. By the time it starts affecting the bottom line, causing them to pay attention, it'll already be too late.
 
-Finally, I almost admire the balls on the marketing person [who posted this on the 29th](https://twitter.com/AerLingus/status/1057045886340075520). "Aer Lingus, we love Chicago-bound Irish rugby players. Irish runners, on the other hand, can go fuck themselves".
+Finally, I almost admire the balls on the marketing people [who posted this on the 29th](https://twitter.com/AerLingus/status/1057045886340075520). "Aer Lingus, we love Chicago-bound Irish rugby players. Irish runners, on the other hand, can go fuck themselves". Presumably the same geniuses responsible [for this](https://simpleflying.com/aer-lingus-films-x-factor-contestants-in-misleading-business-cabin-then-moves-them-back-to-economy/). #AerSleazeus
+
+
