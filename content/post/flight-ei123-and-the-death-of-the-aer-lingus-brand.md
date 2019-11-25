@@ -232,7 +232,7 @@ Any company that uses the phrase "we apologise for any inconvenience caused" whe
 
 A real highlight of the trip was this accidental comedy routine from the Aer Lingus social media team.
 
-{{< tweet 1049277446095343619 >}}
+![Aer Sleazeus](/images/2018/10/aer_sleazeus.jpg)
 
 {{< tweet 1049283189213224960 >}}
 
