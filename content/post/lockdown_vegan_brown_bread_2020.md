@@ -58,9 +58,9 @@ Sprinkle sesame seeds all over the top and pat it into the mix with the spatula.
 
 Cut a deep line along the long dimension in the middle of the mix with a knife. 
 
-Pop it into the oven for anything from 40 mins to 55 mins. I'm finding 50 mins is currently optimal in our oven. Check at 40 to ensure it's not burning and to see the brownness. I use a K-type thermocouple to try and get a relatively accurate temperature in the oven but it varies hugely.
+Pop it into the oven for between 40 mins and 55 mins. I'm finding 50 mins is currently optimal in our oven. Check at 40 to ensure it's not burning and to check the brownness. I use a K-type thermocouple to try and get a relatively accurate temperature in the oven but it varies hugely.
 
-Maybe turn once during the cooking time if you have an inconsistent oven like ours.
+Maybe rotate once during the cooking time if you have an inconsistent oven like ours.
 
 Pop out of the tin onto a cooling rack for 30 mins or so.
 
