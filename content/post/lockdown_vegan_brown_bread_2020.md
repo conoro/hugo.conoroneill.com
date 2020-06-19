@@ -25,7 +25,7 @@ Right.
 
 Yes I've also been doing the sourdough thing. My starter is now very strong and I do one big loaf a week using the "no-knead dutch oven" method based on info from [J. Kenji Lopez-Alt](https://www.youtube.com/watch?v=uWbl3Sr2y1Y) and [King Arthur Flour](https://www.kingarthurflour.com/recipes/no-knead-sourdough-bread-recipe) in the US. But that's not what this post is about.
 
-My mother's brown bread is legendary and is sent to fans far and wide. But it is a traditional one involving buttermilk and eggs. I knew I had zero hope of replicating its perfection in vegan-form as no one has been able to, even with her original recipe. There's magic in those Ratoath fingers.
+My mother's brown bread is legendary and is sent to fans far and wide. But it is a traditional one involving buttermilk and eggs. I knew I had zero hope of replicating its perfection in vegan-form as no one has been able to, even following her original recipe to the letter. There's magic in those Ratoath fingers.
 
 So I took a range of recipes online and started playing with them. This version has been working well for me for months now, even if I'm finding the initial wetness seems very variable, so I can't give a definitive cooking time.
 
@@ -56,7 +56,7 @@ Mix well with a spatula. It should be pretty loose, not a tight ball, and flow e
 
 Sprinkle sesame seeds all over the top and pat it into the mix with the spatula.
 
-Cut a deep line along the long dimension in the middle of the mix with a knife. Do it several times.
+Cut a deep line along the long dimension in the middle of the mix with a knife. 
 
 Pop it into the oven for anything from 40 mins to 55 mins. I'm finding 50 mins is currently optimal in our oven. Check at 40 to ensure it's not burning and to see the brownness. I use a K-type thermocouple to try and get a relatively accurate temperature in the oven but it varies hugely.
 
