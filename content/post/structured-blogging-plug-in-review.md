@@ -24,7 +24,7 @@ comment: false
 **Publisher**: structuredblogging.org
 
 **Price**: Free
-   </div>    <div>**Rating**: <span class="rating">3</span> out of 5<div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-emptystar"> </div><div class="sb-emptystar"> </div><div style="clear: left"></div></div>   <div class='description'>
+   </div>    <div>**Rating**: <span class="rating">3</span> out of 5<div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-emptystar"> </div><div class="sb-emptystar"> </div></div>   <div class='description'>
 
 How about this for a bit of recursion - I am reviewing the Structured Blogging Plug-in for Wordpress using the Structured Blogging Plug-in. I think the basic idea of it should suit a lot of the posts on this blog which tend to be reviews. 
 

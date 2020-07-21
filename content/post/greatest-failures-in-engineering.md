@@ -7,6 +7,6 @@ id: 87
 comment: false
 ---
 
-<div style="clear:both;"></div>Seems to be mainly focussed on Civil. Interesting enough tho
+Seems to be mainly focussed on Civil. Interesting enough tho
 
-[http://www.eng-tips.com/viewthread.cfm?qid=95907&page=1](http://www.eng-tips.com/viewthread.cfm?qid=95907&page=1)<div style="clear:both; padding-bottom: 0.25em;"></div>
+[http://www.eng-tips.com/viewthread.cfm?qid=95907&page=1](http://www.eng-tips.com/viewthread.cfm?qid=95907&page=1)

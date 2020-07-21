@@ -7,5 +7,5 @@ id: 29
 comment: false
 ---
 
-<div style="clear:both;"></div>And the most important news of all - another wee blighter on the way! Not due until next July. Scan tomorrow. Anyone got an Espace they want to swap for a Zafira? Fingers crossed it isn't twins!
-<div style="clear:both; padding-bottom: 0.25em;"></div>
+And the most important news of all - another wee blighter on the way! Not due until next July. Scan tomorrow. Anyone got an Espace they want to swap for a Zafira? Fingers crossed it isn't twins!
+

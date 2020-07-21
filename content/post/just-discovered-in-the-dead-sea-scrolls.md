@@ -7,7 +7,7 @@ id: 62
 comment: false
 ---
 
-<div style="clear:both;"></div>
+
 
 <span style="font-size: 10pt; font-family: Arial;" lang="EN-IE">Sam's earlier homage to Yakult as read out on the Gerry Ryan radio show a few months back. I cannot believe this did not win a prize.
 </span>
@@ -137,4 +137,4 @@ Let me share with you my tale of woe,<o:p></o:p></span>
 </span>
 
 <span style="font-size: 10pt; font-family: Arial;" lang="EN-IE"><o:p></o:p></span>
-<div style="clear:both; padding-bottom: 0.25em;"></div>
+

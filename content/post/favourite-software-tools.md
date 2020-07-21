@@ -7,7 +7,7 @@ id: 37
 comment: false
 ---
 
-<div style="clear:both;"></div>Not flu - vicious throat infection and tonsil infection. Still in bits. Still agony to swallow saliva. So up late again. I got a new twin-CPU machine in work on Wednesday. I decided to write a list of all of the tools I definitely needed to install on it in addition to the corporate installs. I assumed it it would be 10 or 15\. Bloody hell, more like 40\. Some are obvious, others are quite nichey. Here's what I can remember off the top of my head (most are free apart from the obvious ones)
+Not flu - vicious throat infection and tonsil infection. Still in bits. Still agony to swallow saliva. So up late again. I got a new twin-CPU machine in work on Wednesday. I decided to write a list of all of the tools I definitely needed to install on it in addition to the corporate installs. I assumed it it would be 10 or 15\. Bloody hell, more like 40\. Some are obvious, others are quite nichey. Here's what I can remember off the top of my head (most are free apart from the obvious ones)
 
 * Firefox (+ Adblock, Sitebar, ReloadEvery, Flashgot, User Agent Switcher, ieview, Image Zoom, Linky, Jump Link, BugMeNot, Mozilla Archive Format, Slashfix, Disable Targets for Downloads, Tabbrowser Preferences, BetterSearch, Bloglines Toolkit and Livelines. Whew!)
 * Thunderbird (+ Enigmail)
@@ -57,4 +57,4 @@ comment: false
 * Crystal Reports - The best of the mid-range reporting tools
 * Crystal Enterprise - Web Portal version of Crystal Reports
 
-To come - non-work tools on my home PC and my fave Linux tools (specifically on Fedora)<div style="clear:both; padding-bottom: 0.25em;"></div>
+To come - non-work tools on my home PC and my fave Linux tools (specifically on Fedora)

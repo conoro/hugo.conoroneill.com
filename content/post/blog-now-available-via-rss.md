@@ -7,6 +7,6 @@ id: 28
 comment: false
 ---
 
-<div style="clear:both;"></div>You can now subscribe to the RSS feed for this blog. For the life of me I can't think why but hey, it's there if you've nothing better to read. Use: [http://conoro.blogspot.com/atom.xml
+You can now subscribe to the RSS feed for this blog. For the life of me I can't think why but hey, it's there if you've nothing better to read. Use: [http://conoro.blogspot.com/atom.xml
 ](http://conoro.blogspot.com/atom.xml)
-<div style="clear:both; padding-bottom: 0.25em;"></div>
+

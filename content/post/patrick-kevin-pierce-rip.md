@@ -7,7 +7,7 @@ id: 99
 comment: false
 ---
 
-<div style="clear:both;"></div>Aged 22, Patrick died in his sleep last monday night. He was buried at Shanganagh Cemetery yesterday after a heart-breaking funeral mass in Shankill. I didn't know Patrick that well, I met him maybe once or twice a year when visiting Eoin and Jill. But the short life of this young man should be celebrated as a example of achievement in the face of overwhelming adversity.
+Aged 22, Patrick died in his sleep last monday night. He was buried at Shanganagh Cemetery yesterday after a heart-breaking funeral mass in Shankill. I didn't know Patrick that well, I met him maybe once or twice a year when visiting Eoin and Jill. But the short life of this young man should be celebrated as a example of achievement in the face of overwhelming adversity.
 
 Nine years ago, Patrick was hit by a car and suffered massive head trauma. He was not expected to live. He spent 4 months in a coma. It took one and a half years for him to start re-learning how to speak and how to walk. Many of us would have given up and resigned ourselves to a silent life in a wheel-chair being waited on hand and foot. Not Patrick! With willpower the size of a planet, he refused to consider himself disabled and improved both his physical adeptness and speech clarity day by day. 
 
@@ -24,4 +24,4 @@ I had never encountered [The Peter Bradley Foundation](http://www.peterbradleyfo
 In the modern world our kids have a multitude of nonsense role-models to pick from. I dread the day one of my boys tells me he wants to be David Beckham. If (and when) they do, I'll be telling them all about young Patrick Pierce and the nature of true character.
 
 My deepest sympathies to all of the Pierce family and to Patrick's many friends.
-<div style="clear:both; padding-bottom: 0.25em;"></div>
+

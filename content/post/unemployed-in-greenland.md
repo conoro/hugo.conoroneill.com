@@ -7,7 +7,7 @@ id: 71
 comment: false
 ---
 
-<div style="clear:both;"></div>I was watching The Princess Bride for the gazillionth time the other night and had forgotten how many great one liners it has. So the next few postings are all going to have completely unrelated titles from that movie.
+I was watching The Princess Bride for the gazillionth time the other night and had forgotten how many great one liners it has. So the next few postings are all going to have completely unrelated titles from that movie.
 
 Last year I bought a Hauppauge WinTV PVR-350 video capture card. The main reason was to transfer an ancient (vintage 1980) family video to DVD and also to transfer all our Sony HandyCam Video-8 to DVD. This was my third attempt to do this.
 
@@ -23,4 +23,4 @@ In keeping with our telly-addict household, we are also getting Sky+ installed t
 
 And the poor old VCR is now is a cupboard unconnected to anything. First time I haven't had a VCR wired up to a TV in 14 years.
 
-Next job is to get TV listings for Ireland working on the WinTV (maybe using SageTV plus xmltv) and then wiring it up to the TV. Two steps forward, one step back.<div style="clear:both; padding-bottom: 0.25em;"></div>
+Next job is to get TV listings for Ireland working on the WinTV (maybe using SageTV plus xmltv) and then wiring it up to the TV. Two steps forward, one step back.

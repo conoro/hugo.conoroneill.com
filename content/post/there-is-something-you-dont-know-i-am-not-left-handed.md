@@ -7,7 +7,7 @@ id: 68
 comment: false
 ---
 
-<div style="clear:both;"></div>Finally got around to collecting together the list of other bits of software I use (mainly at home). But first off, I should be given a thorough thrashing for not including XEmacs in the first list.
+Finally got around to collecting together the list of other bits of software I use (mainly at home). But first off, I should be given a thorough thrashing for not including XEmacs in the first list.
 
 I first encountered XEmacs on HP-UX in Philips Eindhoven in 1995\. Up until then I had used the VAX editor and a few crappy freeware PC ones. This thing was a revelation - syntax highlighting, tons of extensions, call-out to make, gcc, whatever. Built-in games for the love of god. It instantly became my favourite tool of all time.
 
@@ -35,4 +35,4 @@ EmuZWin - Ditto
 AutoIT v3 - Extremely powerful scripting tool for Windows Admin.
 Fresh Download - Free Download accelerator
 Fresh UI - Free Windows UI modifier (e.g. DOS Prompt here in the context menu)
-DVD Shrink - Every DVD I buy gets processed by this. The kids are given the copies to destroy with their greasy fingers and the originals are kept pristine. A must-have tool.<div style="clear:both; padding-bottom: 0.25em;"></div>
+DVD Shrink - Every DVD I buy gets processed by this. The kids are given the copies to destroy with their greasy fingers and the originals are kept pristine. A must-have tool.

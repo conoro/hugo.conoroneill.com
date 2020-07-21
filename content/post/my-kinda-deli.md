@@ -23,7 +23,7 @@ comment: false
 
     </div>
     <div>
-      <div style="text-decoration:none;display:none" class="rating">5</div>
+      
       <div class="stars" title="5">
             ![](http://beta.loudervoice.com/static/images/small-star.png)![](http://beta.loudervoice.com/static/images/small-star.png)![](http://beta.loudervoice.com/static/images/small-star.png)![](http://beta.loudervoice.com/static/images/small-star.png)![](http://beta.loudervoice.com/static/images/small-star.png)
         </div>

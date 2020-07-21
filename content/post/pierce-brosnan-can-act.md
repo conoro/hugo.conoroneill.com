@@ -28,7 +28,7 @@ comment: false
 **UPC for dvd**: 796019791595
 
 **ID in Amazon.com**: [B000EQ5UIC](http://www.amazon.com/exec/obidos/redirect?tag=ws%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=B000EQ5UIC%2526tag=ws%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/B000EQ5UIC%25253FSubscriptionId=1GJZ3WSF1JX2981GW3R2)
-                 </div>    <div>**Rating**: <span class="rating">4</span> out of 5<div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-emptystar"> </div><div style="clear: left"></div></div>    <div class='description'>
+                 </div>    <div>**Rating**: <span class="rating">4</span> out of 5<div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-emptystar"> </div></div>    <div class='description'>
 
 I saw "The Matador" on a plane recently and raved about it. Catherine got it out on DVD last night and it still works on a second viewing. It is the story of a hitman with problems played by Pierce Brosnan, who befriends an average joe played by Greg Kinnear. The movie is full of wonderful dark one liners and some fabulous scenes.
 

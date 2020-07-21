@@ -7,7 +7,7 @@ id: 86
 comment: false
 ---
 
-<div style="clear:both;"></div>Ah yes, those Sheraton folks in Massachusetts really know their architecture. Our hotel was only bettered by the one we drove under which straddled the Massachusetts Turnpike. I've always wanted a room with cars whizzing past 20 feet under my floor.
+Ah yes, those Sheraton folks in Massachusetts really know their architecture. Our hotel was only bettered by the one we drove under which straddled the Massachusetts Turnpike. I've always wanted a room with cars whizzing past 20 feet under my floor.
 
 Shopping disaster - only had time for Toys R Us. Kids happy even if I'm still without a new keyboard and mouse. 
 
@@ -17,4 +17,4 @@ Our "Summit" was a major success. It's nice to know that the work you do, beaver
 
 Oh, and I gotta get me one of these for the Bandon-Ballincollig commute: [Lincoln Navigator](http://www.lincoln.com/vehicles/navigator/exterior/default.asp?flash=0&feature=v210)
 
-<div style="clear:both; padding-bottom: 0.25em;"></div>
+

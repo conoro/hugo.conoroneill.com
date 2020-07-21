@@ -7,6 +7,6 @@ id: 18
 comment: false
 ---
 
-<div style="clear:both;"></div>Please go to [Conor's New Home Page](http://homepage.eircom.net/~cwjoneill/) from now on to read this blog.
+Please go to [Conor's New Home Page](http://homepage.eircom.net/~cwjoneill/) from now on to read this blog.
 
- <div style="clear:both; padding-bottom: 0.25em;"></div>
+ 

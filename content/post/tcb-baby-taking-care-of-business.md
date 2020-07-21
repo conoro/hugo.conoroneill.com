@@ -7,7 +7,7 @@ id: 131
 comment: false
 ---
 
-<div style="clear:both;"></div>I finally got to see [Bubba Ho-Tep](http://www.bubbahotep.com/) recently. What an odd but completely beguiling movie.
+I finally got to see [Bubba Ho-Tep](http://www.bubbahotep.com/) recently. What an odd but completely beguiling movie.
 
 I sat down to watch it with a bunch of pre-conceptions and expectations. A low-budget ($500K) movie starring Bruce Campbell as Elvis and Ossie Davis as JFK fighting a mummy in an Old Folk's home in East Texas - how could you not have ideas as to what sort of movie it would be? I spent a summer in Stuttgart during college working in an old folk's home. Most of them thought they were Leni Riefenstahl or Field Marshall Goering.
 
@@ -41,4 +41,4 @@ Elvis: Oh, yeah? Where, man? Hustler?
 Elvis: Now the two key words for tonight - "caution" and "flammable".
 JFK: Also "watch your ass".
 
-Elvis: T.C.B., baby.<div style="clear:both; padding-bottom: 0.25em;"></div>
+Elvis: T.C.B., baby.

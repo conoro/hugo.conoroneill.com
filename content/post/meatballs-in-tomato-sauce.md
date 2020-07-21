@@ -7,7 +7,7 @@ id: 55
 comment: false
 ---
 
-<div style="clear: both;">&nbsp;</div>
+
 Update 19/09/2005: I had left out a few steps on this originally, so I'm re-publishing.
 
 I have a recipe for Meatballs with Tomato Sauce which is based mainly on Sophie Grigson's recipe in her  Meat Course  Book. That is one of the best Cookbooks of the past few years but sadly is out of print now. Hugh Fearnley-Whittingstall's  River Cottage Meat Book  is a pretty good alternative for carnivores. My family rave about this meal when I cook it and I have to admit to being partial to it myself. All of the amounts are approximate (use your judgement).
@@ -66,4 +66,4 @@ There are a million tomato sauce recipes. Use whatever you prefer e.g. add onion
 
 I'm sure I've forgotten something above so don't blame me if it is kak.
 
-<div style="clear: both; padding-bottom: 0.25em;">&nbsp;</div>
+

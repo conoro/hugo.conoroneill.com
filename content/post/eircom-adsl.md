@@ -7,5 +7,5 @@ id: 19
 comment: false
 ---
 
-<div style="clear:both;"></div>Moving Blog to new Eircom Homepage now that I have ADSL
-<div style="clear:both; padding-bottom: 0.25em;"></div>
+Moving Blog to new Eircom Homepage now that I have ADSL
+

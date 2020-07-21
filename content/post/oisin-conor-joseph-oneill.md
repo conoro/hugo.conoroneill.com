@@ -7,5 +7,5 @@ id: 4
 comment: false
 ---
 
-<div style="clear:both;"></div>Oisín Conor Joseph O'Neill, born 2pm November 30th. A stonking 9lbs 12oz. All are well.
-<div style="clear:both; padding-bottom: 0.25em;"></div>
+Oisín Conor Joseph O'Neill, born 2pm November 30th. A stonking 9lbs 12oz. All are well.
+

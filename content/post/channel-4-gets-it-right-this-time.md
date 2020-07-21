@@ -7,7 +7,7 @@ id: 53
 comment: false
 ---
 
-<div style="clear:both;"></div>"The Simpsons" is voted the best kids programme of all time.
+"The Simpsons" is voted the best kids programme of all time.
 
 And someone just said that it's the best TV show of all time. Ye know, they might be right.
 
@@ -19,4 +19,4 @@ And a huge relief that they had "The Tomorrow People". For years I thought I had
 
 Ah, nostalgia.
 
-Anyone got a MIDI of the theme music to "Play Away"? Might make a good ring tone. As a small child, I thought Brian Cant was god.<div style="clear:both; padding-bottom: 0.25em;"></div>
+Anyone got a MIDI of the theme music to "Play Away"? Might make a good ring tone. As a small child, I thought Brian Cant was god.

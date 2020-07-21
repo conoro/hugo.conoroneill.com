@@ -24,7 +24,7 @@ comment: false
 **Publisher**: Miray Software
 
 **Price**: €19.90
-   </div>    <div>**Rating**: <span class="rating">4</span> out of 5<div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-emptystar"> </div><div style="clear: left"></div></div>    <div class='description'>
+   </div>    <div>**Rating**: <span class="rating">4</span> out of 5<div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-fullstar"> </div><div class="sb-emptystar"> </div></div>    <div class='description'>
 
 My Acer 2026 laptop has very few features I don't like. But one thing which has always annoyed me is the 4800 rpm Hard Drive. It really slowed down an otherwise speedy machine. Ages ago I bought a replacement 5400 rpm drive of the same capacity (80GB) from dabs.com. Not being a complete idiot, I also purchased two 2.5" to 3.5" disk cable adapters so I could plug both the old and new drives into a spare desktop and clone one to the other.
 

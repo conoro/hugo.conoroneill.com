@@ -7,7 +7,7 @@ id: 126
 comment: false
 ---
 
-<div style="clear:both;"></div>
+
 
 After a tough labour and  a last minute race to the finish line, Fionn was born with a wail. All are well, tired and hungry. 9 lbs 7oz (4 roods metric ). Pictures to follow. 
-<div style="clear:both; padding-bottom: 0.25em;"></div>
+
