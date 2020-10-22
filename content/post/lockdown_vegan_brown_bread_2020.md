@@ -35,12 +35,15 @@ Mix together the following dry ingredients very well first:
 
 * 150g plain white flour
 * 200g wholemeal flour
-* A "shake" of each of the following to get your total weight to approx 450g:
+* A "shake" of each of the following to get your total weight to approx 450-550g:
     * Wheatgerm
     * Wheatbran
     * Milled flaxseed
     * Chia seed (milled or whole)
     * Pinhead oatmeal
+    * Poppy seeds
+    * Hemp seeds
+    * Pumpkin seeds
     * Any other tasty seeds or oatmeal etc
 * 1 tsp salt
 * 1 tsp baking soda / bread soda / bicarbonate of soda (not baking powder)
@@ -50,13 +53,13 @@ Mix the following in a jug but don't leave it too long or it'll split:
 * 300ml of oatmilk or other plant-based milk
 * 1 tbsp apple cider vinegar
 
-Add the liquid to the dry mix along with an optional squirt of maple syrup or other sweetness.
+Add the liquid to the dry mix along with an optional squirt of maple syrup or other sweetness. I've become partial to black treacle or blackstrap molasses.
 
 Mix well with a spatula. It should be pretty loose, not a tight ball, and flow easily into the loaf tin. You may need to tweak milk amounts depending on the flours and type of milk you use.
 
-Sprinkle sesame seeds all over the top and pat it into the mix with the spatula.
+Sprinkle sesame seeds or pumpkin seeds all over the top and pat it into the mix with the spatula.
 
-Cut a deep line along the long dimension in the middle of the mix with a knife. 
+Cut a deep line along the length in the middle of the mix with a knife. 
 
 Pop it into the oven for between 40 mins and 55 mins. I'm finding 50 mins is currently optimal in our oven. Check at 40 to ensure it's not burning and to check the brownness. I use a K-type thermocouple to try and get a relatively accurate temperature in the oven but it varies hugely.
 
