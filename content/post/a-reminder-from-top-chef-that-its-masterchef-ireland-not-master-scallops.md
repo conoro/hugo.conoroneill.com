@@ -7,4 +7,4 @@ id: 1221
 comment: false
 ---
 
-<iframe width="560" height="345" src="http://www.youtube.com/embed/UNNuWWtqgqs" frameborder="0" allowfullscreen></iframe>
+{{< youtube UNNuWWtqgqs >}}
