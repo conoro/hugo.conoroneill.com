@@ -41,7 +41,7 @@
       
       
     
-    <meta name="generator" content="Hugo 0.42.1" />
+    <meta name="generator" content="Hugo 0.80.0" />
 
     <link rel="canonical" href="https://conoroneill.com/2005/05/17/recording-streaming-audio-for-later-listening/" />
 
@@ -123,27 +123,17 @@
     </header>
 
     <section class="post-content">
-      I've been trying to figure out how to record streaming audio so I can listen to it later (and start/stop when I like). Actually it's specifically for [The Hitchhiker's Guide to the Galaxy Quandary Phase](http://www.bbc.co.uk/radio4/hitchhikers/). I didn't really enjoy the last radio series and the repeats of the TV series aren't that great either. But it became a technical challenge that I wanted to get to the bottom of. I finally cracked it today. Note that the solution below will not work behind some corporate firewalls but seems to work fine on my NATed setup on a Linksys Wireless Router at home.
-
-Download MPlayer for Windows and all the codecs.
-
-[http://www2.mplayerhq.hu/MPlayer/releases/win32-beta/MPlayer-mingw32-1.0pre7.zip](http://www2.mplayerhq.hu/MPlayer/releases/win32-beta/MPlayer-mingw32-1.0pre7.zip)
-
-[http://www2.mplayerhq.hu/MPlayer/releases/codecs/windows-all-20050412.zip](http://www2.mplayerhq.hu/MPlayer/releases/codecs/windows-all-20050412.zip)
-
-Unzip MPlayer and unzip the codecs.Copy the unzipped codecs to the codecs sub-dir of the mplayer dir.
-
-Open a command prompt in the Mplayer dir and type:
-
-mplayer -dumpfile hitchhikers.ra -dumpstream rtsp://rmv8.bbc.net.uk/radio4/hitchhikers/hitchhikers.ra
-
-It streams in realtime so it'll take 30 mins to download.
-
-Listen to ram file later at your leisure using realplayer (or the nifty stripped down, bloat-free [Real Alternative](http://www.codecguide.com/about_real.htm))
-
-Do that once a week to get each new episode.
-
-Don't try this with VLC. I spent ages trying to get it to work before I realised it doesn't support realaudio!
+      <p>I&rsquo;ve been trying to figure out how to record streaming audio so I can listen to it later (and start/stop when I like). Actually it&rsquo;s specifically for <a href="http://www.bbc.co.uk/radio4/hitchhikers/">The Hitchhiker&rsquo;s Guide to the Galaxy Quandary Phase</a>. I didn&rsquo;t really enjoy the last radio series and the repeats of the TV series aren&rsquo;t that great either. But it became a technical challenge that I wanted to get to the bottom of. I finally cracked it today. Note that the solution below will not work behind some corporate firewalls but seems to work fine on my NATed setup on a Linksys Wireless Router at home.</p>
+<p>Download MPlayer for Windows and all the codecs.</p>
+<p><a href="http://www2.mplayerhq.hu/MPlayer/releases/win32-beta/MPlayer-mingw32-1.0pre7.zip">http://www2.mplayerhq.hu/MPlayer/releases/win32-beta/MPlayer-mingw32-1.0pre7.zip</a></p>
+<p><a href="http://www2.mplayerhq.hu/MPlayer/releases/codecs/windows-all-20050412.zip">http://www2.mplayerhq.hu/MPlayer/releases/codecs/windows-all-20050412.zip</a></p>
+<p>Unzip MPlayer and unzip the codecs.Copy the unzipped codecs to the codecs sub-dir of the mplayer dir.</p>
+<p>Open a command prompt in the Mplayer dir and type:</p>
+<p>mplayer -dumpfile hitchhikers.ra -dumpstream rtsp://rmv8.bbc.net.uk/radio4/hitchhikers/hitchhikers.ra</p>
+<p>It streams in realtime so it&rsquo;ll take 30 mins to download.</p>
+<p>Listen to ram file later at your leisure using realplayer (or the nifty stripped down, bloat-free <a href="http://www.codecguide.com/about_real.htm">Real Alternative</a>)</p>
+<p>Do that once a week to get each new episode.</p>
+<p>Don&rsquo;t try this with VLC. I spent ages trying to get it to work before I realised it doesn&rsquo;t support realaudio!</p>
 
     </section>
 

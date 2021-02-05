@@ -41,7 +41,7 @@
       
       
     
-    <meta name="generator" content="Hugo 0.42.1" />
+    <meta name="generator" content="Hugo 0.80.0" />
 
     <link rel="canonical" href="https://conoroneill.com/2006/02/27/rte-radio-show-downloads/" />
 
@@ -124,33 +124,19 @@
 
     <section class="post-content">
       <p>I&rsquo;m not a radio person so I tend to miss a wealth of interesting programmes, particularly in the evenings. I have only just found out about <a href="http://www.rte.ie/radio1/winterfood/">Winter Food on RTE1</a> presented by Cork&rsquo;s own Clodagh McKenna. I was very happy to see that recordings of the show (and archives) were available. Unfortunately there are a few problems, but I have solutions to some of them:</p>
-
 <p>[1] The shows are in Real Player rm format rather than MP3. Luckily my MP3 player is Real Audio on a Palm so it isn&rsquo;t actually a problem for me.</p>
-
 <p>[2] There is no RSS feed for this programme. RTE actually do have RSS feeds for their top level stuff like the news but not fine-grained to enable me to subscribe to updates on Winter Food.</p>
-
 <p>In fact, what the hell is stopping them from going the whole hog and embracing podcasting properly and making all of their programming available via something like Podcast Alley? Today FM do it for Gift Grub on iTunes but obviously we don&rsquo;t want anything which makes people install that dire software on their PCs. They should have a look over at <a href="http://www.restaurantguysradio.com/sle/rg/">The Restaurant Guys</a> in New Jersey - a food programme on a commercial radio station (WCTC) that is fully setup for MP3 downloads to anyone worldwide.</p>
-
 <p>Does anyone know what RTE&rsquo;s intentions are in this area as a publicly funded broadcaster? It would take minimal capital investment to set this up. I know I&rsquo;d spend a lot more time listening to RTE programmes if I could dictate when I get to listen to their output on the move.</p>
-
 <p>[3] You can&rsquo;t actually download the files for later listening, you have to listen to them in realtime on your computer. This is the same stupid limitation set by BBC radio which I found a solution for when I wanted to grab the H2G2 broadcasts from last year. Follow my instructions over at <a href="http://conoroneill.com/2005/05/17/recording-streaming-audio-for-later-listening/">this post </a>(mainly to do with setting up <a href="http://www2.mplayerhq.hu">MPlayer</a>), find out when the programme you want was broadcast e.g. February 18th and then download it using MPlayer using a command line in a DOS prompt like the following:</p>
-
 <p>mplayer -dumpfile winterfood20060218.ra -dumpstream rtsp://streaming2.rte.ie/2006/0218/18022006rte-winterfood.rm</p>
-
 <p>Unfortunately this downloads in realtime so it&rsquo;ll take the full half hour to grab but when it is done you&rsquo;ll have a Real Audio file to use to your hearts content.</p>
-
 <p>If you need MP3 then you&rsquo;ll have to grab <a href="http://www.free-codecs.com/Lame_Encoder_download.htm">LAME from here</a> and copy it to the same dir as MPlayer. Then execute the following two commands:</p>
-
 <p>mplayer winterfood20060218.ra -ao pcm -ao pcm:file=winterfood20060218.wav</p>
-
 <p>lame -f  winterfood20060218.wav winterfood20060218.mp3</p>
-
 <p>Note that the mplayer step above takes up crazy amounts of disk space (3 meg real audio file becoming a multi-gig wav file) and you may run out if you have a small hard drive.</p>
-
 <p>Of course, what would be far better would be a little script which ran once a week and grabbed the latest episode for you and converted it if needed. I&rsquo;m gonna have a bit of spare time in the next few weeks so I may hack some travesty of a script together and make it available here.</p>
-
 <p>The above instructions apply to any of the RTE programmes which they make available for later listening. You do have to figure out the &ldquo;path&rdquo; to the file which you do as follows: right-click on the &ldquo;listen to this show&rdquo; link, save it to your desktop, open the smil file in notepad and find the rstp path in that file and use it in place of the rstp link in the command line above. Hardly slick.</p>
-
 <p>[tags]RTE, Winter Food, Clodagh McKenna, MP3, Real Audio, mplayer, Podcasting, BBC, LAME[/tags]</p>
 
     </section>
