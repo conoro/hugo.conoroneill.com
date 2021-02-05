@@ -15,4 +15,5 @@ Quick, I'm sure it'll be gone by April 2nd.
 
 And here's the video that explains it. Just fantastic.
 
-httpv://www.youtube.com/watch?v=rznYifPHxDg
+{{< youtube rznYifPHxDg >}}
+
