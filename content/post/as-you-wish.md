@@ -13,7 +13,9 @@ In association with Partnership for Change they are organising a Special Christm
 
 The movie is one of my top 5 of all time, The Princess Bride, starring the angelic Robin Wright.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/kbycH5_sr7k&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/kbycH5_sr7k&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+{{< youtube kbycH5_sr7k >}}
+
 
 If you don't live in Bandon, get into your car and drive here for this. If you don't live in Ireland, fly here. The recent showing of the original Phantom of The Opera in St Peter's was a tour-de-force.
 

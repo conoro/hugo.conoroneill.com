@@ -11,7 +11,7 @@ Patrick Naughton has been in touch to tell me about African drumming workshops t
 
 If you know of any such group that are looking for workshops or entertainers then do get in contact with him on pat.naughton@yahoo.co.uk
 
-<object width="500" height="385"><param name="movie" value="http://www.youtube.com/v/9ArDwPYGrg8&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9ArDwPYGrg8&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="385"></embed></object>
+{{< youtube 9ArDwPYGrg8 >}}
 
 Quote:
 > Full Circles African Drumming workshops are an exciting, fun, addition to any festival or gathering that you have planned. We cater for both childrens and adults workshops on the day. In the childrens workshops we encourage parents to participate as well, especially in the case of very young members.
