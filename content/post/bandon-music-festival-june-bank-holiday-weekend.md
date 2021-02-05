@@ -17,4 +17,4 @@ There has been a lot of buzz around Director recently so it's a real coup for th
 
 The [official web-site is here](www.bandonmusicfestival.com).
 
-UPDATE 1: To be honest, I'd never heard of Jennifer Lomasney. [She's seriously good](http://www.youtube.com/watch?v=ITBsdwwjqXU)!
+UPDATE 1: To be honest, I'd never heard of Jennifer Lomasney. [She's seriously good](https://www.youtube.com/watch?v=ITBsdwwjqXU)!

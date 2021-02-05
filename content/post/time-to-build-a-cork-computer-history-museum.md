@@ -25,7 +25,7 @@ Those of us who do _get_ it have despaired when talking to Randy about his compu
 
 Watch this video:
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/rXDl_LgYpcw&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rXDl_LgYpcw&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+{{< youtube rXDl_LgYpcw >}}
 
 Then think about the thousands of people who fly in and out of Cork every week and work for tech companies. Think about the brilliant but now sadly delayed idea of transforming the Cork docklands into a new tech hub. Think about all those tourists looking for something different. This could be the first step. A building full of technology that shows us the past so we can figure out the future.
 

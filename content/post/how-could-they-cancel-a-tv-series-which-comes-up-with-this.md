@@ -15,6 +15,6 @@ Then tonight they nearly go one better as he announces that he has to go home to
 
 Yeah, I'm tired, but I'm still giggling.
 
-Ye wanna know why YouTube is worth $1.6B? Cos I've just discovered [that they have the clip](http://www.youtube.com/watch?v=8TewF6FX_8k)!
+Ye wanna know why YouTube is worth $1.6B? Cos I've just discovered [that they have the clip](https://www.youtube.com/watch?v=8TewF6FX_8k)!
 
 <span class="technoratitag">Technorati Tags: [Arrested+Development](http://www.technorati.com/tags/Arrested+Development), [Bob+Loblaw](http://www.technorati.com/tags/Bob+Loblaw)</span>

@@ -33,6 +33,6 @@ Fatal flaw was then discovered - we hadn't floured the dough so all the strands 
 
 [![Cooked Pasta](http://farm1.static.flickr.com/141/373862895_6faa5a7583_m.jpg)](http://www.flickr.com/photos/bandon1/373862895/ "Photo Sharing")
 
-I'm unfazed and will go at spaghetti again. Or maybe lasagne if I lose my nerve. Any top tips for the next time? Except maybe looking at PodChef Neal's [pasta](http://www.youtube.com/watch?v=AGQ2EqU9bXQ) [videos](http://www.youtube.com/watch?v=E7vF4pw1srU) **before** we start? Should we rest the dough even when using a machine? Was the cheap book right when it said you only need minimal kneading if you are using the machine since it does it for you?
+I'm unfazed and will go at spaghetti again. Or maybe lasagne if I lose my nerve. Any top tips for the next time? Except maybe looking at PodChef Neal's [pasta](https://www.youtube.com/watch?v=AGQ2EqU9bXQ) [videos](https://www.youtube.com/watch?v=E7vF4pw1srU) **before** we start? Should we rest the dough even when using a machine? Was the cheap book right when it said you only need minimal kneading if you are using the machine since it does it for you?
 
 <span class="technoratitag">Technorati Tags: [pasta](http://www.technorati.com/tags/pasta), [pasta+maker](http://www.technorati.com/tags/pasta+maker), [Jamie+Oliver](http://www.technorati.com/tags/Jamie+Oliver)</span>

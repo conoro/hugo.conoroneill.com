@@ -23,11 +23,11 @@ Thinking of her brought to mind "Cactus World News". These guys went ballistic i
 
 If baby wasn't due very soon, I think us auld pair would head out to the gig for a reminisce.
 
-I've said it before and I'll say it again, YouTube is the greatest website ever. [They have a clip of her in action](http://www.youtube.com/watch?v=hbwXkJXaqYk)! The spectacles weren't that rose tinted.
+I've said it before and I'll say it again, YouTube is the greatest website ever. [They have a clip of her in action](https://www.youtube.com/watch?v=hbwXkJXaqYk)! The spectacles weren't that rose tinted.
 
 UPDATE 1: Looks like we may have missed it, I found something on MySpace saying it was on the 20th. Damn.
 
-UPDATE 2: Holy cactus batman, they have clips of Cactus World News [on YouTube too](http://www.youtube.com/results?search_query=cactus+world+news&search=Search). Check out ["The Bridge"](http://www.youtube.com/watch?v=uWNPKi_iVXI) which was their only real hit.
+UPDATE 2: Holy cactus batman, they have clips of Cactus World News [on YouTube too](https://www.youtube.com/results?search_query=cactus+world+news&search=Search). Check out ["The Bridge"](https://www.youtube.com/watch?v=uWNPKi_iVXI) which was their only real hit.
 
 UPDATE 3: There is still time! According to [her web-site](http://www.lesliedowdall.com/pages/live.html) the gig is on Nov 24th. She has also gone all cool and done [a MySpace page](http://www.myspace.com/lesliedowdallmusic).
 

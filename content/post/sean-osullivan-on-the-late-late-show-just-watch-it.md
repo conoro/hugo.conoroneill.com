@@ -11,4 +11,5 @@ This is probably the first and last time I'll ever post a clip from the Late Lat
 
 13 minutes really just left me wanting more. Given that the Late Late cannot compete for "celebrity" guests with the UK chatshows, how about more time on fewer meatier guests like this from now on?
 
-httpv://www.youtube.com/watch?v=-sc_i-5FivE
+{{< youtube -sc_i-5FivE >}}
+

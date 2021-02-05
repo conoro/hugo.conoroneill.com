@@ -40,8 +40,8 @@ Someone left their bike out in the rain for too long.
 
 [![IMG_2346](http://static.flickr.com/56/133456783_6cb31a5ab1.jpg)](http://www.flickr.com/photos/bandon1/133456783/ "Photo Sharing")  [
 
-<a href="http://www.youtube.com/watch?v=wgfJiN3R9FQ">Crappy Video 1 over at YouTube](http://www.youtube.com/watch?v=wgfJiN3R9FQ)
+<a href="https://www.youtube.com/watch?v=wgfJiN3R9FQ">Crappy Video 1 over at YouTube](https://www.youtube.com/watch?v=wgfJiN3R9FQ)
 
-[Crappy Video 2 over at YouTube](http://www.youtube.com/watch?v=6Yh0B6ifMB8)
+[Crappy Video 2 over at YouTube](https://www.youtube.com/watch?v=6Yh0B6ifMB8)
 
 [tags]West Cork Motorcycle Club, WCMCC, Old Chapel Drag Racing[/tags]

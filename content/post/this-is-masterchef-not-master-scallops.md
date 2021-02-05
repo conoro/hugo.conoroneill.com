@@ -11,7 +11,8 @@ It's time to put Masterchef out to pasture. I'm watching an average show in abou
 
 Scallops. If I see one more bleedin scallop on that show, I'll explode. Fabio Viviani, in the far superior US show Top Chef, described the same problem perfectly back in January 2009:
 
-<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/UNNuWWtqgqs&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/UNNuWWtqgqs&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="340"></embed></object>
+{{< youtube UNNuWWtqgqs >}}
+
 
 And to prove the point yesterday, whilst bent over double in pain from a tummy bug, I lashed this together in 5 minutes, and I'm not even a good cook!
 

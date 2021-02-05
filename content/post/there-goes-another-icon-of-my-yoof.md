@@ -19,6 +19,6 @@ comment: false
 *   Wacky Races
 *   Banana Splits
 
-And not forgetting the greatest cartoon ever: [Hong Kong Phooey](http://www.youtube.com/watch?v=w4xhhXVvNL4)! De de de de de de daaaa.
+And not forgetting the greatest cartoon ever: [Hong Kong Phooey](https://www.youtube.com/watch?v=w4xhhXVvNL4)! De de de de de de daaaa.
 
 <span class="technoratitag">Technorati Tags: [Joseph+Barbera](http://www.technorati.com/tags/Joseph+Barbera), [Hanna+Barbera](http://www.technorati.com/tags/Hanna+Barbera)</span>

@@ -55,6 +55,10 @@ It all wrapped up about 4pm and we all bought various bits n pieces from the sho
 
 As I said at the start, this is a fabulous course by a great lady. And you'll be shocked to hear the price. €300! A steal. Think of the food and drink alone! Run to the phone and book a course. +353-27-61426, info@thegoodthingscafe.com.
 
-And finally, I hope Carmel does not mind, [but here is a short video of her in action jointing a chicken](http://www.youtube.com/watch?v=QrcJqWliXoQ).
+And finally, I hope Carmel does not mind, [but here is a short video of her in action jointing a chicken]
+
+
+{{< youtube QrcJqWliXoQ >}}
+
 
 [tags]The Good Things Cafe, Durrus, Carmel Somers[/tags]
