@@ -21,7 +21,12 @@ comment: false
 
 And not forgetting the greatest cartoon ever, Hong Kong Phooey!
 
-{{< youtube w4xhhXVvNL4 >}}
+
+<video width=100% controls autoplay>
+    <source src="/images/2021/02/HKP.mp4" type="video/mp4">
+    Your browser does not support the video tag.  
+</video>
+
 
 De de de de de de daaaa.
 

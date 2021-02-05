@@ -26,3 +26,9 @@ publishdir = "docs"
   bio= "Tech guy who likes running slowly"
   logo = "images/conors_bandon_blog.png"
   # RSSLink = "atom.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
