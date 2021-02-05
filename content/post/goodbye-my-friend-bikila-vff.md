@@ -7,7 +7,8 @@ id: 1302
 comment: false
 ---
 
-httpv://www.youtube.com/watch?v=pqLRH6gS6c0
+{{< youtube pqLRH6gS6c0 >}}
+
 
 In March 2011, after doing 2 Half Marathons and a 10k, I was close to giving up on running. Every time I got on a treadmill in my ASICs, I got crippling shin-splints within minutes. It was like trying to run with two solid wooden peg legs. Running on grass was only slightly better.
 

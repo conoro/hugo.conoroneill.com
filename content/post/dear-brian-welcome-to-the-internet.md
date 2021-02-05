@@ -13,4 +13,5 @@ Here is the original RTE piece on the Cowen nudes that they removed from their s
 
 "Against us are... all timid men who prefer the calm of despotism to the boisterous sea of liberty... We are likely to preserve the liberty we have obtained only by unremitting labors and perils.."
 
-<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/rQsR09ER4Yk&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rQsR09ER4Yk&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+{{< youtube rQsR09ER4Yk >}}
+

@@ -21,8 +21,6 @@ The funeral for this man who never married, never had kids and lived in the same
 
 I've been meaning to write about him since the day he passed. What finally got me to do it was the death of [Randy Pausch](http://download.srv.cs.cmu.edu/~pausch/) the other day. For those of you unfamiliar with Randy, he was diagnosed with terminal pancreatic cancer last year and given 6 months to live. He gave a "final lecture" to his students at CMU which has become famous and resulted in a great book too. If you or your family is dealing with mortality, this life-affirming talk may prove to be great comfort to you. Randy's talk is about living not dying.
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/ji5_MqicxSoandhl=enandfs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/ji5_MqicxSoandhl=enandfs=1" allowfullscreen="true"></embed></object>
-
 {{< youtube ji5_MqicxSo >}}
 
 I cannot think of two less similar people than Bobby and Randy but so much of what Randy said applied to my uncle. Most importantly of all:

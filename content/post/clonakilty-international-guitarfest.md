@@ -11,6 +11,7 @@ Ray in deBarras in Clon mailed me to tell me about the Guitarfest starting on Se
 
 The line-up has a very rich mix of styles but the one that caught my eye has to be [Eric Bell](http://www.ericbellband.com/), the Thin Lizzy founding member who is responsible for the classic Whiskey in the Jar!
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/TehFZ38kt6o"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/TehFZ38kt6o" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+{{< youtube TehFZ38kt6o >}}
+
 
 If you are anywhere near West Cork from 20th-23rd, you owe it to yourself to get to Clon.
