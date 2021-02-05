@@ -11,7 +11,7 @@ jobs:
           command: hugo -v -s ~/project/
       - run:
           name: "Install pip"
-          command: apk add --update python python-dev py-pip
+          command: apk add --update python3 py3-pip
       - run:
           name: "Install python-dateutil"
           command: pip install python-dateutil
