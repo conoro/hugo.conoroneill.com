@@ -7,7 +7,7 @@ id: 461
 comment: false
 ---
 
-[Joe Barbera has died](http://news.bbc.co.uk/2/hi/entertainment/6191999.stm) aged 95\. I wonder how many re-runs he saw over the years? That man is responsible for a huge number of my favourite TV memories from childhood (and now with Boomerang, as an immature adult):
+[Joe Barbera has died](http://news.bbc.co.uk/2/hi/entertainment/6191999.stm) aged 95. I wonder how many re-runs he saw over the years? That man is responsible for a huge number of my favourite TV memories from childhood (and now with Boomerang, as an immature adult):
 
 *   Tom and Jerry
 *   The Flintstones
@@ -19,6 +19,10 @@ comment: false
 *   Wacky Races
 *   Banana Splits
 
-And not forgetting the greatest cartoon ever: [Hong Kong Phooey](https://www.youtube.com/watch?v=w4xhhXVvNL4)! De de de de de de daaaa.
+And not forgetting the greatest cartoon ever, Hong Kong Phooey!
+
+{{< youtube w4xhhXVvNL4 >}}
+
+De de de de de de daaaa.
 
 <span class="technoratitag">Technorati Tags: [Joseph+Barbera](http://www.technorati.com/tags/Joseph+Barbera), [Hanna+Barbera](http://www.technorati.com/tags/Hanna+Barbera)</span>
