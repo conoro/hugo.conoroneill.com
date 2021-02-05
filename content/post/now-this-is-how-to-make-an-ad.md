@@ -11,4 +11,5 @@ The new Vista ad from Microsoft. I think it's an all-time great. Brilliant writi
 
 When you get tired of "buy buy buy, buy this, NOW, do it now, limited time offer, for you, blah blah blah", then funny oddball ads like this put a smile on your face. I swear my opinion of Vista has gone up since I've watched this. Now if they did one with George Costanza, I'd go out and buy Vista Ultimate on the spot.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/afR5J7esknoandhl=enandfs=1"><param name="allowFullScreen" value="true"><embed src="http://www.youtube.com/v/afR5J7esknoandhl=enandfs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></object>
+{{< youtube afR5J7eskno >}}
+
