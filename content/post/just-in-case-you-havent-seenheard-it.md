@@ -9,4 +9,5 @@ comment: false
 
 Very very funny.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/xR_EXkSDwG0&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/xR_EXkSDwG0&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+{{< youtube xR_EXkSDwG0 >}}
+
