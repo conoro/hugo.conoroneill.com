@@ -189,7 +189,7 @@ Let me know if you try it and it works for you.
 ## In closing
 I'm not going to claim this is the ideal solution to anything but it's an option for some people and it's also a fun experiment to see what's possible with devices that maybe spend most of their time on Twitter, Snapchat or TikTok.
 
-If you find it useful or you know of other interesting things that are possible with phones outside of media, let us know.
+If you find it useful, if you have any questions, or if you know of other interesting things like this that are possible with phones, let us know.
 
 
 
