@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = "This is as good as any store-bought brown soda bread. Not as good as my mother's tho."
+Description = "This is better than any store-bought brown soda bread. Not as good as my mother's tho."
 Tags = []
 draft = false
 date = "2020-06-19T06:17:32+00:00"
@@ -29,16 +29,19 @@ My mother's brown bread is legendary and is sent to fans far and wide. But it is
 
 So I took a range of recipes online and started playing with them. This version has been working well for me for months now, even if I'm finding the initial wetness seems very variable, so I can't give a definitive cooking time.
 
-Start by pre-heating your oven to 200C (fan) and oiling a standard silicone or metal bread loaf tin.
+Start by pre-heating your oven to 210C (fan) and oiling a standard silicone or metal bread loaf tin.
 
 Mix together the following dry ingredients very well first:
 
+(March 2021 Note: I'm still making this twice a week. I continue to adjust and tweak. I have updated some of the amounts since I originally wrote this and indicated the changes below)
+
 * 150g plain white flour
-* 200g wholemeal flour
-* A "shake" of each of the following to get your total weight to approx 450-550g:
+* 200g wholemeal flour (I have used both coarse and fine ground but prefer coarse)
+* A "shake" of each of the following to get your total weight to approx 575g-600g (originally 450-550g). A shake is approx 2-3 tbsp. I'd only consider the wheat germ, wheat bran and pinhead oatmeal mandatory.
     * Wheatgerm
     * Wheatbran
     * Milled flaxseed
+    * Sprouted milled flaxseed
     * Chia seed (milled or whole)
     * Pinhead oatmeal
     * Poppy seeds
@@ -46,14 +49,14 @@ Mix together the following dry ingredients very well first:
     * Pumpkin seeds
     * Any other tasty seeds or oatmeal etc
 * 1 tsp salt
-* 1 tsp baking soda / bread soda / bicarbonate of soda (not baking powder)
+* 2 tsp baking soda / bread soda / bicarbonate of soda (not baking powder)(originally 1 tsp)
 
 Mix the following in a jug but don't leave it too long or it'll split:
 
-* 300ml of oatmilk or other plant-based milk
-* 1 tbsp apple cider vinegar
+* 350ml of oatmilk or other plant-based milk (originally 300ml)
+* 2 tbsp apple cider vinegar (originally 1 tbsp)
 
-Add the liquid to the dry mix along with an optional squirt of maple syrup or other sweetness. I've become partial to black treacle or blackstrap molasses.
+Add the liquid to the dry mix along with 2 tbsp of maple syrup or other sweetness. I now also add 1 tsp of blackstrap molasses (black treacle).
 
 Mix well with a spatula. It should be pretty loose, not a tight ball, and flow easily into the loaf tin. You may need to tweak milk amounts depending on the flours and type of milk you use.
 
