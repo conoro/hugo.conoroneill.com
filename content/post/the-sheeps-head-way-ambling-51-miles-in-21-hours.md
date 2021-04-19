@@ -130,12 +130,18 @@ And 21 hours after I started, I arrived back to my car grinning like an idiot.
 
 
 ## And I'm feeling good
-Whilst I'm disappointed I didn't finish the Way route, I'm actually over-the-moon about a bunch of things. I've never gone so far on foot. I've never done an activity which lasted so long, I've never done any sort of night-time off-road hiking/running, I've never carried a pack that far and I've never done that many miles in the hills. I was also really happy in that first 10-12 hours with how damned good I felt. I seemed to have boundless energy. I blame all those plants I've been eating since January 2020. Whilst the Sheep's Head Way doesn't have very much ascent/descent, it's not exactly flat and I did over 7000ft of elevation. 
+Whilst I'm disappointed I didn't finish the Way route, I'm actually over-the-moon about a bunch of things. I've never gone so far on foot. I've never done an activity which lasted so long, I've never done any sort of night-time off-road hiking/running, I've never carried a pack that far and I've never done that many miles in the hills. I was also really happy in that first 10-12 hours with how damned good I felt. I seemed to have boundless energy. I blame all those plants I've been eating since January 2020. Whilst the Sheep's Head Way doesn't have very much ascent/descent, it's not exactly flat and I did over 7000ft of elevation.
+
+{{< youtube Q0njKqHDVuA >}}
 
 On a different day with tougher soles (sorry Ellie and Carl) and my usual 5L Salomon pack with a few gels and bars, I think I'd be able to run much of it and finish in daylight. I won't freak myself out by checking what FKT one of the Cork and Kerry Trail Runners mountain goats has, but I'll be happy to claim the SKT (Slowest Known Time) in the future.
 
 ## Fame
 As I said afterwards on Instagram, I really do think The Sheep's Head Way should be world famous. I've lived in West Cork for 18 years and have been running for 12 years and I was only vaguely aware of it as maybe some sort of less-famous "spur" of the Beara Way. It's not just mind-bogglingly beautiful, it's very very runnable for huge chunks of it. 
+
+Here's the [Relive.cc](https://www.relive.cc/) animation of the route:
+
+<video src="/images/2021/04/VID_124520921_072824_731.mp4" controls></video>
 
 I'm aiming to run anything that looks even vaguely like a trail in Cork whilst we're still in county lockdown and I suspect I may be back on The Sheep's Head again in 2021 for another go.
 

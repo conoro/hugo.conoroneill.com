@@ -11,3 +11,8 @@ slug = "this-is-a-title"
 This is an opener and the rest of the text. Set draft to false to publish.
 
 
+![Name of Photo](/images/2021/04/2021-04-12-07.13.03.jpg)
+
+YouTube:
+
+{{< youtube w7Ft2ymGmfc >}}
