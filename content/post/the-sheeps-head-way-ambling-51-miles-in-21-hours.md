@@ -14,6 +14,8 @@ As we approached the partial lifting of pandemic lockdown in Ireland in late Mar
 ## The route
 The [official Way web-site](http://thesheepsheadway.ie/) has a ton of useful info including a trace of the whole route. After jumping through some software hoops to convert the KML/KMZ to GPX, I soon had it on Viewranger on my phone and on my Garmin InReach. So at least I wouldn't get lost or my body would be easier to find. Here's my [GPX copy](/images/2021/04/Sheeps_Head_Way_Main_Loop.gpx) in case you want to use it.
 
+![The Route](/images/2021/04/sheeps_head_route.png)
+
 The main loop is 58 miles / 93 km over a variety of surfaces and terrain. It starts in Bantry at the gatehouse of Bantry House, runs mostly off-road along the north side of the peninsula until it reaches the lighthouse and then returns mostly within spitting distance of the main road on the southside, skirting Kilcrohane, Ahakista and Durrus, before ending back where it started.
 
 ## The pack
