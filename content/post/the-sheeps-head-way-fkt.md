@@ -21,7 +21,7 @@ I managed to get to Bantry a bit earlier and set off at 5:50am from the gatehous
 
 ![Start](/images/2021/05/start.jpg)
 
-Yet again I picked a perfect day for it. Not too hot, not too cold, no rain. THe ground was a lot wetter than the previous attempt but not a quagmire. I was still very happy with how the Goretex on the Hoka Challenger ATR 5 GTX worked in those conditions. I deftly dodged any deep bog and managed to keep the feet dry all day. To avoid the blisters I went completely overboard and fully taped the front half of my feet and my toes with zinc oxide tape. And it bloody worked - not a single blister in 60 miles!
+Yet again I picked a perfect day for it. Not too hot, not too cold, no rain. The ground was a lot wetter than the previous attempt but not a quagmire. I was still very happy with how the Goretex on the Hoka Challenger ATR 5 GTX worked in those conditions. I deftly dodged any deep bog and managed to keep the feet dry all day. To avoid the blisters I went completely overboard and fully taped the front half of my feet and my toes with zinc oxide tape. And it bloody worked - not a single blister in 60 miles!
 
 ## Oh oh he's down
 Everything was going brilliantly well. I couldn't even feel the pack on my back and I was eagerly running the flats and the downs. 
