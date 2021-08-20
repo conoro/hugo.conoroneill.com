@@ -40,6 +40,7 @@ The only problem I had was my feet getting soaked from the get-go. And that's wh
 
 In summary, it's a fantastic long-distance trail running shoe that might not quite live up to the Graphene hype but easily competes with the big boys and hopefully will give hundreds of miles of use.
 
+**UPDATE:** I'm afraid my update after two longer (10 mile and 13 mile) runs is much less positive. In both cases the runs were on quite rough terrain with lots of mud, bog, rocks and steep ups and downs. These were on The Beara Way and The Kerry Way. On the first one, my feet were sliding around badly inside the shoe. But tightening the laces enough resulted in me having horrendous pains on the top of my feet after a few miles. The Trailflys also proved lethal on wet slabs. Absolutely zero grip. I basically skated across the slabs. On the second run, the problem was blisters. In over ten years of running, with lots of off-road, I have never got a blister behind my little toe. Plenty on the toe itself, sure, but never behind. It felt like there was something rough on the inside of the shoe rubbing the side of my foot but I found nothing afterwards. I suspect it's down to the upper material which is too stiff. Finally, once they get wet, they weigh an absolute ton. So overall I'm afraid these are not suitable for traditional Inov-8 terrain and seem to be much more suited to long distances on easy groomed dry trails.
 
 ![Dirty](/images/2021/06/inov-8-trailfly-ultra-g-300-max-dirty.jpg)
 

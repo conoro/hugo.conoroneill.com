@@ -41,7 +41,7 @@
       
       
     
-    <meta name="generator" content="Hugo 0.80.0" />
+    <meta name="generator" content="Hugo 0.87.0" />
 
     <link rel="canonical" href="https://conoroneill.com/2021/03/12/using_smashed_phones_as_extra_computers_at_home_during_pandemic/" />
 
@@ -218,14 +218,14 @@
 <p>But this comes with a big warning. Termux is no longer available on the Play Store for technical reasons. You need to use an alternative additional app store called <a href="https://f-droid.org/packages/com.termux/">F-Droid</a>. If you are not comfortable doing that, stop here and just enjoy all the other features I&rsquo;ve listed above. If you are comfortable, install from the link above (after enabling &ldquo;allow installation of apps from unknown sources&rdquo; on your phone).</p>
 <p><img src="/images/2021/03/termux1.jpg" alt="Termux"></p>
 <p>You can then run the Termux terminal and install Linux apps using commands like:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">pkg install python
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">pkg install python
 pkg install nodejs
 pkg install youtube-dl
 pkg install emacs
 pkg install nano
 pkg install git
 </code></pre></div><p>I won&rsquo;t dig into any more details on that but suffice to say that the classic node.js <code>hello world</code> web server can be implemented and run on your phone. Which is mad.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">http</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">require</span>(<span style="color:#e6db74">&#39;http&#39;</span>);
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">http</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">require</span>(<span style="color:#e6db74">&#39;http&#39;</span>);
 
 <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">hostname</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;127.0.0.1&#39;</span>;
 <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">port</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">3000</span>;
