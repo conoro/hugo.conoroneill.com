@@ -22,7 +22,7 @@ As always, I went deep and started buying the relevant magazines. But then somet
 
 ![48k](/images/2021/09/48k.jpg)
 
-And as I said above, my life changed forever. I'm not sure I buy into the idea that the "you would have gone down this route anyway whether via Commodore or Acorn or Oric or Dragon or Amstrad". I'm not so sure. And one of the big differences between Speccies and the others was how easy/cheap it was to build your own electronics for them. Which eventually resulted in me doing Electronic Engineering rather than Computer Science. 
+And as I said above, my life changed forever. I'm not sure I buy into the idea that the "you would have gone down this route anyway whether via Commodore or Acorn or Oric or Dragon or Amstrad". Price was critical and it was always Sir Clive's best and worst motivation. £99 was manageable whereas even the Commodore 64 was out of reach. And one of the big differences between Speccies and the others was how easy/cheap it was to build your own electronics for them. Which eventually resulted in me doing Electronic Engineering rather than Computer Science. 
 
 ![Hey Hey 16k](/images/2021/09/hey_hey_16k.png)
 
