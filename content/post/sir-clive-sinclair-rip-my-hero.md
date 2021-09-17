@@ -8,7 +8,7 @@ title = "Sir Clive Sinclair R.I.P. - My Hero"
 slug = "sir-clive-sinclair-rip-my-hero"
 +++
 
-Sir Clive Sinclair died on September 16th 2021 after a long illness. I knew this had been coming for quite a while based on internet rumblings but it's still a shock to know that the man, whose brilliant mind changed the life of a small kid from rural Ireland, is gone.
+Sir Clive Sinclair died [on September 16th 2021](https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81) after a long illness. I knew this had been coming for quite a while based on internet rumblings but it's still a shock to know that the man, whose brilliant mind changed the life of a small kid from rural Ireland, is gone.
 
 ![ZX81](/images/2021/09/sirclive_zx81_tv.png)
 
