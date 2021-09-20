@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Conor&#39;s Bandon Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Sep 2021 05:00:00 +0000</lastBuildDate><atom:link href="https://conoroneill.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Sep 2021 07:00:00 +0000</lastBuildDate><atom:link href="https://conoroneill.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twenty years of blogging on conoroneill.com</title>
+      <link>https://conoroneill.com/2021/09/20/twenty-years-of-blogging-on-conoroneill-com/</link>
+      <pubDate>Mon, 20 Sep 2021 07:00:00 +0000</pubDate>
+      
+      <guid>https://conoroneill.com/2021/09/20/twenty-years-of-blogging-on-conoroneill-com/</guid>
+      <description>I somehow missed the actual 20th Anniversary of the Blog back in April and finally noticed last week. This could be a massive post with links to highlights and lowlights over the past twenty years but I think I&amp;rsquo;d prefer to keep it short.
+After using Frontpage in the 90s and hosting a &amp;ldquo;homepage&amp;rdquo; on Indigo, Geocities and others, I made the move to Blogger on April 17th 2001. That was followed by the golden years of blogging from 2006-2010 on WordPress and eventually the move via various static site generators to Hugo a few years back.</description>
+    </item>
+    
     <item>
       <title>Sir Clive Sinclair R.I.P. - My Hero</title>
       <link>https://conoroneill.com/2021/09/17/sir-clive-sinclair-rip-my-hero/</link>
@@ -203,19 +213,6 @@ The movie is also a reminder that no matter how bad things are now, they aren&am
       <guid>https://conoroneill.com/2018/08/17/excitement-building-over-utmb/</guid>
       <description>The organisers of UTMB (Ultra Trail du Mont Blanc) do an amazing job of the coverage every year. Head over to their site at 5pm Irish on Friday Aug 31st for live footage at the race start. In the meantime here&amp;rsquo;s a lovely video by Salomon of brilliant ultra runner Ryan Sandes and his buddies doing a tour of Mont Blanc.
   </description>
-    </item>
-    
-    <item>
-      <title>Test of my new email-to-hugo blogging tool</title>
-      <link>https://conoroneill.com/2018/08/13/test-of-my-new-email-to-hugo-blogging-tool/</link>
-      <pubDate>Mon, 13 Aug 2018 11:06:01 +0000</pubDate>
-      
-      <guid>https://conoroneill.com/2018/08/13/test-of-my-new-email-to-hugo-blogging-tool/</guid>
-      <description>I have created a simple new tool which enables me to send blog
-content via email. The emails are converted to Markdown files and then
-uploaded to a Hugo source repo on GitHub, along with any inline images.
-CircleCI then automatically rebuilds and redeploys my blog to S3.
-I’ll post full details and source code over the next few days.</description>
     </item>
     
   </channel>
