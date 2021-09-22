@@ -10,9 +10,9 @@ slug = "hoka-speedgoat-4-the-perfect-trail-running-shoe"
 
 I've been having mixed success with trail runners in 2021 which you can read about in previous mini-reviews:
 
-* Hoka Challenger ATR 5 GTX - Love the comfort and waterproofedness. But very little grip in the wet
-* Saucony Peregrine 10 - Killed my heel. Unwearable. Great grip
-* Inov-8 TrailFly Ultra G 300 Max - Heavy, blister-inducing, lethal on wet rocks. Great bounce. Probably keep using for short distances.
+* [Hoka Challenger ATR 5 GTX](https://conoroneill.com/2021/04/18/the-sheeps-head-way-ambling-51-miles-in-21-hours/) - Love the comfort and waterproofedness. Great for road-to-trail. Did 50-60 mile Sheeps's Head Way twice in them. But very little grip in the wet. 
+* [Saucony Peregrine 10](https://conoroneill.com/2021/06/07/review-of-saucony-peregrine-10-11/) - Killed my heel. Unwearable. Great grip.
+* [Inov-8 TrailFly Ultra G 300 Max](https://conoroneill.com/2021/06/07/review-of-inov-8-trailfly-ultra-g-300-max/) - Heavy, blister-inducing on rough ground, lethal on wet rocks. Great bounce. Will keep using for easy terrain and hiking.
 
 So when I finally signed-up for the [Kerry Way Ultra Lite](http://www.kerrywayultra.com/kerry-way-ultralite.php) after many years of "I must I must" (blog post coming very soon!) I started getting stressed about my footwear. I'd used the above (and others) on various coourse recces over an extended period and nothing felt right.
 
