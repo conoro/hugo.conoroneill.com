@@ -38,4 +38,5 @@ I have [Ecotrail Wicklow 46K](https://wicklow.ecotrail.com/fr/course-ecotrail-wi
 
 But honestly, this is what I'll be running in offroad for the foreseeable future. Unless they release V5 :-)
 
+UPDATE: I'm just back from doing the Ecotrail Wicklow 46K and the Speedgoats were amazing again. I had a very rough day with my right calf completely cramped from mile 6 onwards but I didn't have a moment's issue with the shoes. They handled every surface perfectly and were ridiculously comfortable. I had one minor skid on a steep downhill on loose gravel which no shoe would have been able to prevent, but that's it. And yet again, no blisters. This time I only taped my toes. So I'm sticking with "the perfect trail running shoe" description.
 
