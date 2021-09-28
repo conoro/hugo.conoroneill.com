@@ -29,7 +29,7 @@ My mother's brown bread is legendary and is sent to fans far and wide. But it is
 
 So I took a range of recipes online and started playing with them. This version has been working well for me for months now, even if I'm finding the initial wetness seems very variable, so I can't give a definitive cooking time.
 
-Start by pre-heating your oven to 210C (fan) and oiling a standard silicone or metal bread loaf tin.
+Start by pre-heating your oven to 200C (fan) and oiling a standard silicone or metal bread loaf tin.
 
 Mix together the following dry ingredients very well first:
 
@@ -51,7 +51,7 @@ Mix together the following dry ingredients very well first:
 * 1 tsp salt
 * 2 tsp baking soda / bread soda / bicarbonate of soda (not baking powder)(originally 1 tsp)
 
-Mix the following in a jug but don't leave it too long or it'll split:
+Mix the following in a jug, it's ok if it splits:
 
 * 350ml of oatmilk or other plant-based milk (originally 300ml)
 * 2 tbsp apple cider vinegar (originally 1 tbsp)
@@ -64,7 +64,7 @@ Sprinkle sesame seeds or pumpkin seeds all over the top and pat it into the mix 
 
 Cut a deep line along the length in the middle of the mix with a knife. 
 
-Pop it into the oven for between 40 mins and 55 mins. I'm finding 50 mins is currently optimal in our oven. Check at 40 to ensure it's not burning and to check the brownness. I use a K-type thermocouple to try and get a relatively accurate temperature in the oven but it varies hugely.
+Pop it into the oven for between 45 mins and an hour. I'm finding an hour is currently optimal in our oven. Check at 40 to ensure it's not burning and to check the brownness. I use a K-type thermocouple to try and get a relatively accurate temperature in the oven but it varies hugely.
 
 Maybe rotate once during the cooking time if you have an inconsistent oven like ours.
 
