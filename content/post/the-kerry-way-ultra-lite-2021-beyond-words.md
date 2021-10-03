@@ -104,7 +104,7 @@ There are some small stream crossings on the Old Kenmare Road which other runner
 The big change with encountering the Full runners now was how much better condition they were in. Some of them were really moving strongly. All seemed chipper and chatty. Not that I chat much in races. Sorry to anyone who thinks I'm a grumpy unfriendly fucker in races. If you talk to me, I'll happily chat back. But basically all the blood leaves my brain and I find it impossible to form even vaguely intelligent sentences. So I rarely initiate.
 
 ## Cue The Stone Roses
-Fiiiiiiiinally I reached the first waterfall upper carpark and nearly missed the turn. It's weird how the worst signage for the Kerry Way is from Torc to Killarney itself. And it's even worse in the main park. Ye know, where all the tourists are. It's way to easy to go astray around there but there'll be tons of people around so just ask one.
+Fiiiiiiiinally I reached the first waterfall upper carpark and nearly missed the turn. It's weird how the worst signage for the Kerry Way is from Torc to Killarney itself. And it's even worse in the main park. Ye know, where all the tourists are. It's way too easy to go astray around there but there'll be tons of people around so just ask one.
 
 I trotted down the track and the rocky steps to the waterfall. Nearly face-planted again as I missed a step. Under the road I went and into the main park beside the lakes.
 
