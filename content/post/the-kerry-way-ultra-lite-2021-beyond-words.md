@@ -10,7 +10,16 @@ slug = "the-kerry-way-ultra-lite-2021-beyond-words"
 
 This post will not do [The Kerry Way Ultra Lite](http://www.kerrywayultra.com/kerry-way-ultralite.php) justice but I'll do my best to decribe a wonderful race.
 
-![Kerry Way Ultra](/images/2021/10/kwu_logo.png)
+ <table>
+  <tr>
+    <td><img src="/images/2021/10/kwu_logo.png" /></td>
+    <td>&nbsp;</td>
+    <td><img src="/images/2021/10/kerry-way-ultralite.png" /></td>
+</td>
+  </tr>
+</table> 
+
+
 
 ## Some Day
 
