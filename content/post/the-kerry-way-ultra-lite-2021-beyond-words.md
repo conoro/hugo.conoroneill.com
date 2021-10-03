@@ -4,7 +4,7 @@ Description = "No you're not doing it some day, you're doing it today"
 Tags = []
 draft = false
 date = "2021-10-03T13:00:00+00:00"
-title = "The Kerry Way Ultra Lite 2021 - Beyond words"
+title = "The Kerry Way Ultra Lite 2021 - Beyond Words"
 slug = "the-kerry-way-ultra-lite-2021-beyond-words"
 +++
 
