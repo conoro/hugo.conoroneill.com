@@ -77,11 +77,9 @@ The next off-road section is all the way into Kenmare and is the worst from a te
 ## Kenmare
 You then have another lovely downhill into Kenmare with lots of people out and about and tons of support crews. Practical note - there's free public loos right in the centre just at the carpark if you need them.
 
-I met Catherine at the far side of the town opposite Supervalu. Most of the other crews were in a carpark in the centre of town, which might have been better for me for an emotional boost. But in reality I was fine. 
+I met Catherine at the far side of the town opposite Supervalu. Most of the other crews were in a carpark in the centre of town, which might have been better for me for an emotional boost. But in reality I was fine and Catherine's energy got me buzzing again.
 
-Whilst I was having a phenomenal day leg-wise, the same was not true of my stomach or head. I was really feeling the heat and every time I ate, I got pukey. At times I felt a little light-headed too. I think it was down to overdressing for cooler weather and not drinking enough fluids. 
-
-So I stripped down the clothes, lost a bunch of crap from my pack, refilled my water/Zero/Tailwind, stuffed my face with crisps and full-fat coke, and headed off after a pretty short stop. I braced myself for the next three miles.
+I stripped down the excessive clothes, lost a bunch of crap from my pack, refilled my water/Zero/Tailwind, stuffed my face with crisps and full-fat coke, and headed off after a pretty short stop. I braced myself for the next three miles.
 
 ## Bastard Hill
 I don't know about anyone else, but those 3 miles out of Kenmare and into the old Kenmare Road are the toughest of the lot. That damned hill out of the town is hard to drive up, let alone walk/jog. And when you finally do all the ups and downs, then you have the Old Kenmare Road trail itself which is also incredibly steep at the start.
@@ -89,6 +87,13 @@ I don't know about anyone else, but those 3 miles out of Kenmare and into the ol
 Whilst I hated that hill, it made me finally realise something - I was killing it on the uphills. There were lots of people who flew past me on the downs and the flats, but I caught them every single time on the ups. I'm convinced that was due to the physio exercises and really focusing on not being bent-over going uphill. I drove everything through my glutes and the poles. For once I managed to protect my hip flexors. Hell, I even had zero quad or hamstring pain during or after the race. 
 
 Now when I say "killing it", I mean walking quickly, not running. Or power-hiking as Ryan Ploeckelman calls it. But it was way faster than many people who were easily half my age. One poor guy in his twenties kept racing past me at high speed and then would stop suddenly and start stretching. I finally asked him what was going on. His hamstrings were trashed. I'm guessing he was far too agressive earlier in the race. The slowness of old age has its advantages sometimes.
+
+## The New Hotness
+Whilst I was having a phenomenal day leg-wise, the same was not true of my stomach or head. I was really feeling the heat and every time I ate, I got pukey. At times I felt light-headed too. I originally thought it was down to overdressing for cooler weather earlier but it was still happening after the gear change. Worse, every time I tried to run at any sort of decent pace, my heart rate went through the roof.
+
+I came up with a theory that it was related to my massive weight loss in 2020/2021. I imagined that the temperature PID Controller (for Engineering nerds) in my body had been tuned over twenty years of obesity for a much bigger mass. So when it now had to deal with a very light mass, it overshot in both directions making me either too hot or too cold. I had terrible problems last winter where any hint of coldness would spiral out of control and leave me shivering completely out of proportion (P in PID) to the actual room temperature. 
+
+After doing Ecotrail Wicklow 46km three weeks later in similar heat, I'm now thinking it was more to do with lack of fluids. I had the same problem in Wicklow but I got it under control by drinking lots of fluids in the latter half of the race. I really didn't drink enough at all in Kerry.
 
 ## The Old Kenmare Road
 If you haven't run or hiked the Old Kenmare road, you should. It's just lovely and dead easy. There's only a few tiny short rocky bits. I'm convinced I have met more Germans on it in the past two years than Irish people. Maybe everyone thinks it's a road? It isn't. I assume it was one at some stage? Famine times? I tried to imagine edging forward on the lumpy ground in a pony and trap from Kenmare to Killarney 150 years ago. Not fun.
