@@ -31,7 +31,7 @@ Reinhold is talking about a very special set of peaks in the Dolomite Mountains 
 
 ![Drei Zinnen](/images/2021/10/tcl_social_share.jpg)
 
-His thesis is that many thousands of people go there every year, take a selfie, have a drink and head home without hiking around it to see the full impact of how amazing the peaks and surroundings are. The movie then takes a strange turn and decides to recreate the first ascent of Tre Cime/Drei Zinnen in 1869, by Paul Grohmann, with actors/climbers in period-appropriate clothing and climbing gear. It was all very low budget and clunky and terrifying, given their gear. It progresses to show each of the major achievements on the peaks since then, including the the still-shocking 2002 free solo of the north face. It's a fantastic informative documentary and you should seek it out.
+His thesis is that many thousands of people go there every year, take a selfie, have a drink and head home without hiking around it to see the full impact of how amazing the peaks and surroundings are. The movie then takes a strange turn and decides to recreate the first ascent of Tre Cime/Drei Zinnen in 1869, by Paul Grohmann, with actors/climbers in period-appropriate clothing and climbing gear. It was all very low budget and clunky and terrifying, given their gear. It progresses to show each of the major achievements on the peaks since then, including the still-shocking 2002 free solo of the north face. It's a fantastic informative documentary and you should seek it out.
 
 ## Step 1 - Find the right country
 Later that evening I told Catherine about it and how "we should go there sometime". At this point I still didn't know where "there" was.
@@ -43,6 +43,8 @@ I immediately switched into Hell-Yeah Mode. But first, where are they? Italy? Au
 I quickly figured out that Ryanair Dublin-Treviso and a hotel in Cortina d'Ampezzo was what we needed along with a 4WD rental car just in case (just in case Conor wants to drive a jeep for the first time more like, eh?)
 
 The plan was: Drive to Dublin because Cork Airport is run by geniuses, fly Friday night, stay in a cheap hotel in Treviso, get the car on Saturday morning along with picnic provisions, drive to Tre Cime, do the hike, stay in a good hotel in Cortina d'Ampezzo, do another hike on Sunday, go "somewhere" on Monday, fly home late Monday night, back to Cork.
+
+(Update: Ryanair has just announced flights from Cork to Venice (VCE) on Tuesdays and Saturdays from March 29, 2022!)
 
 ## Treviso
 Overall it worked out incredibly well with only minor glitches like a motorcyclist nearly killing us both on a hairpin mountain bend. It started badly with Passport Control taking over an hour to process one plane. But the [B&B Hotel Treviso](https://www.tripadvisor.ie/Hotel_Review-g187869-d13387547-Reviews-B_B_Hotel_Treviso-Treviso_Province_of_Treviso_Veneto.html) turned out to be great value, basic but clean, friendly and filled with vending machines. Less than 10 mins in a taxi. Also the only hotel where I've ever been asked if I wanted sweet or salt for my breakfast. What a brilliant compact way of putting things.
