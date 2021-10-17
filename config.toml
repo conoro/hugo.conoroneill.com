@@ -1,35 +1,73 @@
 baseurl = "https://conoroneill.com/"
-languageCode = "en-us"
 title = "Conor's Bandon Blog"
-theme = "casper"
+theme = ["cleanwhite"]
+languageCode = "en-us"
 Paginate = 10
 disqusShortname = "conorbandon"
-# rssuri = "atom.xml"
 rssLimit = 20
 publishdir = "docs"
 ignoreErrors = ["error-remote-getjson"]
+preserveTaxonomyNames = true
+authorlocation = "Bandon, Cork, Ireland"
+
+[outputs]
+home = ["HTML", "RSS"]
 
 [permalinks]
   post="/:year/:month/:day/:slug/"
 
 [params]
-  githubName = "conoro"
-  instagramName = "conor_runs"
-  otherblog = "https://conoroneill.net"
-  linkedinName = "conoroneill"
-  description = "Running, Food and Local stuff from a blow-in"
-  google_analytics = "UA-88610-1"
-  googleAnalyticsUserID = "UA-88610-1"
-  cover = "images/chetwynd_bw.jpg"
   author = "Conor O'Neill"
-  authorlocation = "Bandon, Cork, Ireland"
+  algolia_search = false
+  googleAnalytics = "UA-88610-1"
+  cover = "images/tre_cima_blog.jpg"
   authorwebsite = "https://conoroneill.com"
   bio= "Tech guy who likes running slowly"
   logo = "images/conors_bandon_blog.png"
-  # RSSLink = "atom.xml"
+  header_image = "images/tre_cima_blog.jpg"
+  SEOTitle = "Conor's Bandon Blog"
+  description = "Running, Food and Local stuff from a blow-in"
+  keyword = "running, mut, 26.2, food, vegan, plant-based, runner, cork, ireland, bandon"
+  slogan = "Running, Food and Local stuff from a blow-in"
+
+  image_404 = "img/404-bg.jpg"
+  title_404 = "Not Found :("
+  omit_categories = false
+
+  # Sidebar settings
+  sidebar_about_description = "Tech guy who likes running slowly"
+  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  #sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  featured_tags = false 
+  featured_condition_size = 1 
+
+  bookmarks = false
+  about_me = true
+
+  [params.social]
+  rss            = true 
+  email          = "conor@conoroneill.com"
+  twitter       = "https://twitter.com/conoro"
+  linkedin       = "https://www.linkedin.com/in/conoroneill"
+  instagram     = "https://www.instagram.com/conor_runs/"
+  github         = "https://github.com/conoro"
+  
+
+  [[params.addtional_menus]]
+  title =  "Tech Blog"
+  href =  "https://conoroneill.net/"
+
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-      
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"
+
+
+

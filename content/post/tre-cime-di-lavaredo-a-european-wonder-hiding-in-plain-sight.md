@@ -142,6 +142,10 @@ We were both wrecked after the effort of it all and luckily the canteen-style ca
 
 ![View From Cafe](/images/2021/10/tcl_view_from_cafe_2.jpg)
 
+## Flyover
+Here's a fairly glitchy but still cool [Fatmap flyover](https://fatmap.com/adventureid/11434623/tre-cime-di-lavaredo-hike) of the hike. Follow that Fatmap link to interact with it yourself.
+
+{{< youtube Rj13u9hobmk >}}
 
 ## Venice Schmenice
 The following day we did a few hours in Venice which is still to be avoided at all costs. I don't know how they are going to fix it but do yourself a favour - skip it and do Tre Cime instead. Up there, you won't find insane crowds in narrow passageways, ridiculous fashion shops or awful pizza, just that wonder of the natural world. But if you do insist on Venice, we had a lovely simple vegan meal in [Ogio](https://www.tripadvisor.ie/Restaurant_Review-g187870-d7147203-Reviews-Ogio-Venice_Veneto.html). My final vegan tip - the cafes in Treviso airport all have a range of soy-milk coffees as does Hotel Cortina.
@@ -156,3 +160,9 @@ My two main takeaways about our trip were:
 [2] How lucky we are to be European and to easily be able to get to such amazing places barely a few hours from our front door and hang out with our European brothers and sisters.
 
 Any questions about the trip or the logistics, just shout. 
+
+## Full Gallery
+I took a *lot* of photos. Here they all are:
+
+{{< load-photoswipe >}}
+{{< gallery dir="images/2021/10/tre-cime-di-lavaredo" />}}
