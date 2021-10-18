@@ -21,7 +21,7 @@ So they'll need to do some dodging and weaving to grow their market presence her
 Here are my couple of ideas, coming from someone in the target demographic, not as someone who knows anything about the food industry.
 
 ## Motorway Services
-Despite Irish garages coming on in leaps and bounds since the advent of breakfast-roll guy, they still have some huge gaps in their offerings, particularly for vegans, veggies and anyone intolerant to frytex :-) 
+Despite Irish garages coming on in leaps and bounds since the advent of breakfast-roll guy, they still have some huge gaps in their offerings, particularly for vegans, veggies and anyone with an intolerance to frytex :-) 
 
 Whilst things are generally good in the food courts of the big motorway services during the day, it's a complete catastrophe before 9am and after about 6pm. I have yet to find one on the M7/M8 that does plant-based milk when there isn't a barrista on duty. And it's even worse for food - try getting a vegan sandwich or similar when Subway, Chopped and Zambrero are closed. And forget McDonalds completely until the McPlant arrives in 2022.
 
