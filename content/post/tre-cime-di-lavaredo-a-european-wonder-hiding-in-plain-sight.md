@@ -162,7 +162,4 @@ My two main takeaways about our trip were:
 Any questions about the trip or the logistics, just shout. 
 
 ## Full Gallery
-I took a *lot* of photos. Here they all are:
-
-{{< load-photoswipe >}}
-{{< gallery dir="images/2021/10/tre-cime-di-lavaredo" />}}
+I took a *lot* of photos. You can see them [all here](/pages/tre-cime-di-lavaredo-gallery/)
