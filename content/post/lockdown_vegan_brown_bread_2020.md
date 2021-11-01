@@ -29,14 +29,14 @@ My mother's brown bread is legendary and is sent to fans far and wide. But it is
 
 So I took a range of recipes online and started playing with them. This version has been working well for me for months now, even if I'm finding the initial wetness seems very variable, so I can't give a definitive cooking time.
 
-Start by pre-heating your oven to 200C (fan) and oiling a standard silicone or metal bread loaf tin.
+Start by pre-heating your oven to 200C fan and (optionally oiling) a standard silicone or metal bread loaf tin.
 
 Mix together the following dry ingredients very well first:
 
 (March 2021 Note: I'm still making this twice a week. I continue to adjust and tweak. I have updated some of the amounts since I originally wrote this and indicated the changes below)
 
-* 150g plain white flour
-* 200g wholemeal flour (I have used both coarse and fine ground but prefer coarse)
+* 200g plain white flour
+* 150g wholemeal flour (I have used both coarse and fine ground but prefer coarse)
 * A "shake" of each of the following to get your total weight to approx 575g-600g (originally 450-550g). A shake is approx 2-3 tbsp. I'd only consider the wheat germ, wheat bran and pinhead oatmeal mandatory.
     * Wheatgerm
     * Wheatbran
