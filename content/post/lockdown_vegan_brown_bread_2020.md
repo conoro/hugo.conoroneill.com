@@ -1,5 +1,5 @@
 +++
-Categories = []
+Categories = ["Vegan"]
 Description = "This is better than any store-bought brown soda bread. Not as good as my mother's tho."
 Tags = []
 draft = false
