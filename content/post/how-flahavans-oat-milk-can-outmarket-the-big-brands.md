@@ -1,7 +1,7 @@
 +++
 Categories = ["Vegan"]
 Description = "There are a few areas Flahavans could dominate quickly"
-Tags = ["vegan", "food", "plant milk" "oat milk"]
+Tags = ["vegan", "food", "plant milk", "oat milk"]
 draft = false
 date = "2021-10-17T13:00:00+00:00"
 title = "How Flahavan's Oat Milk can out-market the big brands"
