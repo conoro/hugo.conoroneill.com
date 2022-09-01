@@ -1,5 +1,5 @@
 +++
-Categories = ["Running"]
+Categories = ["Trail Running and Hiking"]
 Description = "Ireland's legendary Ultra, the KWU, will be covered live this year. 120+ miles in < 40 hours."
 Tags = ["Kerry Way Ultra", "KWU", "Kerry Way", "The Kerry Way", "Kerry", "Ireland", "ultrarunning"]
 draft = false
