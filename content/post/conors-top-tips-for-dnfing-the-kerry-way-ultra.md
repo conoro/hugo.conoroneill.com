@@ -70,7 +70,7 @@ Seeing how far this old bag of bones can go is also intriguing for me.
 I'm much more inspired by the John Kelly view of ultrarunning than the hoo-hah king-of-pain nonsense you sometimes see associated with it. All of the ultrarunners and mountain runners I look up to seem like the most humble normal people who just like running far.
 
 ## What I nailed
-* Nutrition - Sandwiches, Koka noodles or potato salad at the stops with Tailwind/Maurten refill each time. Crisps and emergency Hula Hoops. I highly recommend eating a packet of Hula Hoops as you trip along in torrential rain between Glenbeigh and Foilmore. Mood improver x1000. A few Torq/Gu gels during bad times. I was never hungry but I also never over-ate.
+* Nutrition - Coke, Tea, Sandwiches, Koka noodles or potato salad at the stops with Tailwind/Maurten refill each time. Crisps and emergency Hula Hoops. I highly recommend eating a packet of Hula Hoops as you trip along in torrential rain between Glenbeigh and Foilmore. Mood improver x1000. A few Torq/Gu gels during bad times. I was never hungry but I also never over-ate.
 
 * Water - I normally chronically underdrink and have had dizzy spells in several races and recces this year. I needed to use a filter bottle in the river before Lough Acoose to top up my hydraflasks and had to pop salt tabs semi-regularly too. It worked!
 
