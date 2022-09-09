@@ -89,7 +89,7 @@ A few core things were the reason I had to DNF. They were so utterly simple, stu
   
 * Gear Change - The plan for Sneem had always been a complete change of clothes/shoes and a freshen up. But time pressure meant that I just switched out the heavy jacket for something lighter and swapped the SpeedGoat 4 GTX for Salomon Ultra Glides. This was despite my wife saying that rain was due. I left Sneem refreshed but very sore. The rain started. And got heavier and heavier and heavier as I got to the top of the exposed hills before Blackwater Bridge. The lightweight Inov-8 jacket and Salomon shoes were both saturated in minutes. 
  
-Between the leg pain and rain, my speed collapsed and my temperature plummeted. I trudged through the forest before Templenoe, knowing I was done. I had lost the ability to visualise myself at the finish line or even visualise myself in Kenmare. At the spur in the track that went up to the Hostel on the N70, I called my wife to come get me. She made sure I was sure. I was. We let Eileen know my race was over and back to Killarney we drove.
+Between the leg pain and rain, my speed collapsed and my temperature plummeted. I trudged through the forest before Templenoe, knowing I was done. I had lost the ability to visualise myself at the finish line or even visualise myself in Kenmare. At the spur in the track that went up to the hostel on the N70, I called my wife to come get me. She made sure I was sure. I was. We let Eileen know my race was over and back to Killarney we drove.
 
 
 ## Should I have DNFed?
@@ -97,7 +97,7 @@ I have asked myself this question a thousand times. If I had knuckled down, coul
 
 I'll never know. The only things I do know are that the rain got worse and barely let up for hours. And 6 days later my left leg is still in quite a bit of pain. There's also the small issue of the large red swelling that appeared on my shin and which was diagnosed the following day as cellulitis (bacterial infection of the skin). So I spent the week on antibiotics.
 
-So all in all, I think it was the right call for me. 
+All in all, I think it was the right call for me. (But still.....)
 
 I'm very disappointed I didn't finish whilst simultaneously being over the moon that I covered 150km on foot with only a sore leg to complain about. I'm also chuffed how the rest of my body is in amazing shape after a few days, at the age of 54.
 
