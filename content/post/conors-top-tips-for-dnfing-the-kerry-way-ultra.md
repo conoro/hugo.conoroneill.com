@@ -58,7 +58,7 @@ KWU 2022 Part 3: {{< youtube yDLIgYe6PK4 >}}
 KWU 2022 Part 4: {{< youtube gX5Q6b-RfWU >}}
 
 ## But why?
-I don't have any deep thoughts here. I'm not running from anything or running towards anything. I never finished Haruki Murakami. If I'm having a mid-life crisis, it's a bit late. I just love running (ok ok jogging) and I love the trails. 
+I don't have any deep thoughts here. I'm not running away from anything or running towards anything. I never finished Haruki Murakami. If I'm having a mid-life crisis, it's a bit late. I just love running (ok ok jogging) and I love the trails. 
 
 KWU gave me a chance to spend an enormous amount of time out there with my shallow thoughts, enjoying some of the best views on the planet, and sometimes dealing with a bit of temporary discomfort. 
 
