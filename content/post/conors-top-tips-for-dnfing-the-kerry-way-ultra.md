@@ -131,7 +131,13 @@ A very short steep trek through the forest followed by several miles of boring h
 Your browser does not support the video tag.
 </video>
 
-The bit I'd dreaded for months. The bit I lost sleep over. The bit I'd effectively done 4 times but was still terrified of. A gentle start leads to a brutally steep uphill and then it's viciously steep up and down on some very nasty terrain for what feels like days. Be incredibly careful with navigation. In my big recce I got turned around in the dark and ended up re-tracing most of my steps back to Foilmore. It nearly broke me. This time I had a compass/thumbpass and made sure I was always travelling between South and South East. Finally a very steep rocky track down into a farm and on to the road for a few miles to Mastergeehy. 
+The bit I'd dreaded for months. The bit I lost sleep over. The bit I'd effectively done 4 times but was still terrified of. A gentle start leads to a brutally steep uphill and then it's viciously steep up and down on some very nasty terrain for what feels like days. 
+
+Be incredibly careful with navigation. In my big recce I got turned around in the dark and ended up re-tracing most of my steps back to Foilmore. It nearly broke me. I was so tired, I even convinced myself that I hadn't gone wrong and the Russians had hacked all the GPS satellites.
+
+This time I had a compass/thumbpass and made sure I was always travelling between South and South East. Finally there's a very steep rocky track down into a farm and on to the road for a few miles to Mastergeehy. 
+
+But it's not over.
 
 Make sure you don't miss the turn here as you're about to deal with more awfulness. A very steep track up to Termon's ridge followed by a few miles of rough ankle-breaking terrain and knife-edge rocks. Then a never-ending but not very rough undulating route to the road into Waterville. More mentally hard than physically, particularly if it's heading towards 2am like it was for me.
 
