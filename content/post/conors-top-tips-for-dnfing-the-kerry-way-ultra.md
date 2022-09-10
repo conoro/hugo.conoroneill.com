@@ -113,25 +113,26 @@ Hell yes. Training starts as soon as this tendonitis eases off.
 ## Bonus Content - Crew Stop by Crew Stop
 Hopefully this is useful for someone thinking of doing KWU. By the time I got to the start line I had reccied the entire course except for 2 miles before Sneem. I had covered many parts multiple times in recent months, including that one solo 100km recce from Killarney to Waterville. So I wasn't just ready, I knew where all the gotchas were and kept my wits about me not to go off-course. But of course that's impossible if you live abroad. So here's just a few  short descriptions of how I view the course as a back-of-packer.
 
-### The Start
-The first section is a doddle (or to use formal language, a piece of piss). From the racecourse on footpaths to the touristy bit of the National Park and up to Torc. Steep steps. Then Old Kenmare Road which varies from gritted path to some lumpy bits. Then more of the same all the way to Lord Brandon's Cottage. Only thing you need to worry about is hydration if it's hot and mozzies.
+### Start to Lord Brandon's Cottage
+The first section is a doddle (or to use formal language, a piece of piss). From the racecourse on footpaths to the touristy bit of the National Park and up to Torc is easy. There's a a bunch of steep steps at Torc and then you are on to the Old Kenmare Road which varies from gritted path to some lumpy bits. After a few miles you reach a T-Junction. Do *not* go to Kenmare. Make sure you know the names of the main towns/stops. I met one guy who was standing there, not knowing which way to go. Turn right and you'll soon cross the N71 and then have more of the same easy terrain all the way to Lord Brandon's Cottage. The only things you need to worry about are hydration if it's hot, and mozzies.
 
-### Lord Brandon's Cottage
-This section messes up a lot of people. And if you only recce the initial parts you'll get the wrong idea. Roads for a few miles. Then easy off-road. Some light scrambling and steep up/down on rocky terrain before you reach the road again. You think it's going to be road from then on. Oh no no no. After a mile or so, vertical up followed by steep down. I've run out of water twice here. Then fairly easy but long off-road single-track before you hit the road to Glencar.
-
-### Glencar
+### Lord Brandon's Cottage to Glencar
+This section messes up a lot of people. And if you only recce the initial parts you'll get the wrong idea. Start with mostly uphill roads for a few miles. Then easy off-road. Some light scrambling and steep up/down on rocky terrain before you reach the road again. You think it's going to be road from then on. Oh no no no. After a mile or so, vertical up the side of a mountain to the highest part of the course, followed by steep rough slippy down. I've run out of water twice here. Then a fairly easy but long off-road single-track before you hit the road to Glencar. Any time there are similar signs pointing in two directions, you always want the simpler "Kerry Way" direction. So not the "Walking Route" or "XYZ Loop". 
+### Glencar to Glenbeigh
 This is one of the easiest sections. A mix of very easy forest paths and roads ending in a very steep slightly lumpy up and down through the Windy Gap.
 
-### Glenbeigh
+### Glenbeigh to Foilmore/Rossmore
 A very short steep trek through the forest followed by several miles of boring hilly roads. Then my favourite bit of the course. A long fairly steep trek up above the Ring of Kerry. The views on a good day back to Rossbeigh Beach and Inch are some of the best in the world. Unfortunately this was when I hit torrential rain and brick-wall wind. Once you get to the top, it's an easy undulating downhill on old track to the road. A few miles on road followed by a short trip past a bull(!) in a field and you get to Foilmore Community Centre.
 
-### Foilmore/Rossmore
+### Foilmore/Rossmore to Waterville
 <video controls>
   <source src="/images/2022/09/foilmore.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-The bit I'd dreaded for months. The bit I lost sleep over. The bit I'd effectively done 4 times but was still terrified of. A gentle start leads to a brutally steep uphill and then it's viciously steep up and down on some very nasty terrain for what feels like days. 
+The bit I'd dreaded for months. The bit I lost sleep over. The bit I'd effectively done 4 times but was still terrified of. 
+
+A gentle start leads to one of the big splits in the route. You do *not* go to Cahirsiveen in the KWU. That's a spur. You go hard left off-road and up a very steep uphill. Then it's viciously steep up and down on some very nasty terrain for what feels like days. If the weather is bad, this may break you.
 
 Be incredibly careful with navigation. In my big recce I got turned around in the dark and ended up re-tracing most of my steps back to Foilmore. It nearly broke me. I was so tired, I even convinced myself that I hadn't gone wrong and the Russians had hacked all the GPS satellites.
 
@@ -139,21 +140,21 @@ This time I had a compass/thumbpass and made sure I was always travelling betwee
 
 But it's not over.
 
-Make sure you don't miss the turn here as you're about to deal with more awfulness. A very steep track up to Termon's ridge followed by a few miles of rough ankle-breaking terrain and knife-edge rocks. Then a never-ending but not very rough undulating route to the road into Waterville. More mentally hard than physically, particularly if it's heading towards 2am like it was for me.
+Make sure you don't miss the turn here as you're about to deal with more awfulness. A very steep track up to Termon's ridge. There's a laughable "4km" sign there which some evil person has installed. I think it's more like 14km. This is followed by a few miles of rough ankle-breaking terrain and knife-edge rocks. Then a never-ending but not very rough undulating route all the way to the road into Waterville. it's more mentally hard than physically, particularly if it's heading towards 2am like it was for me.
 
-### Waterville
-First few miles out of Waterville is on road. Then a nice easy single track which crosses back over the road twice. Stunning views during the day. This is a very mixed route with a very steep up and then undulating downs. Mix of grass, rocks, roads, forest and trails. Tiring but not particularly hard.
+### Waterville to Caherdaniel
+First few miles out of Waterville are on road. Then a nice easy single track which crosses back over the road twice. Stunning views during the day. This is a very mixed route with a very steep up and then undulating downs. Mix of grass, rocks, roads, forest and trails. Tiring but not particularly hard.
 
-### Caherdaniel
-The first mile out of Caherdaniel is very steep. Then it spends a few miles on rough but ok terrain. There are a few road sections which your ankles will appreciate. Then a couple of very very steep ups which take it out of you. The downhills are fairly runnable. Eventually you'll come to the main road. Do *not* go out on it. It's very easy to miss the signs pointing down to a track which runs parallel to the road. This is a very easy section. Gentle up and down. Track, road and forest road. Finally a couple of road miles into Sneem.
+### Caherdaniel to Sneem
+The first mile out of Caherdaniel is very steep and rocky. Then it spends a few miles on rough but ok terrain. There are a few road sections which your ankles will appreciate. Then a couple of very very steep ups which take it out of you. The downhills are fairly runnable. Eventually you'll come to the main road. Do *not* go out on it. It's very easy to miss the signs pointing down to a track which runs parallel to the road. This is a very easy section. Gentle up and down. Track, road and forest road. Finally a couple of road miles into Sneem.
 
-### Sneem
+### Sneem to Templenoe
 This is the start of the Lite course. First few miles are a very easy mix of paths, roads and trails. Nothing too steep. Then there's an exposed hill section which is fine in good weather (not so much in bad) followed by a short road section and then down into gorgeous woods at Blackwater Bridge. The views out to the water here on a good day are incredible. This leads to big forest roads almost all the way to Templenoe, with a few hundred metres on the main road.
 
-### Templenoe-ish
-This was the hardest section for me in the Lite last year. It's several miles of constantly uphill road. If it's hot, be careful. Eventually you get to the top and can run hard downhill on the road for quite a while. The offroad sections are relatively easy, if mucky, with one semi-rough rocky patch before Kenmare. Then the road into and through Kenmare.
+### Templenoe to Kenmare
+This was the hardest section for me in the Lite last year. It's several miles of constantly uphill road. If it's hot, be careful with hydration. Eventually you get to the top and can run hard downhill on the road for quite a while. The off-road sections are relatively easy, if mucky, with one semi-rough rocky patch before Kenmare. Then the road into and through Kenmare.
 
-### Kenmare
+### Kenmare to Finish
 The hill out of Kenmare is a heartbreaker. It's long and steep but at least it's on-road. You get a brief respite and then you are on to the Old Kenmare Road trail and it gets even steeper. You now have a lovely bunch of miles on a great trail. It's wide, often lumpy, not remotely dangerous or particularly exposed and ever changing. And eventually you'll come back to the T-Junction you were on many hours previously. You turn right and head back down into Killarney via Torc and the Park.
 
 ## Bonus Content- DNFer Gear
@@ -164,7 +165,7 @@ I completely overpacked extra clothes and shoes and food but I'm glad I did. It 
 Your browser does not support the video tag.
 </video>
 
-* *Hoka Speedgoat 5* - Initial tests were disappointing as I slid around inside them. Bulkier socks, taping and lockdown meant they were fantastic from Killarney to Foilmore. Never slipped once.
+* *Hoka Speedgoat 5* - Initial tests were disappointing as I slid around inside them. Bulkier socks, foot taping and lace lockdown meant they were fantastic from Killarney to Foilmore. Never slipped once.
 
 * *Hoka Speedgoat 4 GTX* - Much heavier than non-GTX but absolutely perfect from Folimore to Sneem. Feet 100% dry the entire way and all of the taping stayed stuck. Never slipped once. Sore on the back of my heel going uphill tho, due to much bulkier heel counter.
 
@@ -196,11 +197,11 @@ Your browser does not support the video tag.
 
 * *Katadyn BeFree Filter 1L* - Has saved my ass multiple times on the trails when I ran out of water. Always bring it with me now. Any stream anywhere and you can safely drink.
 
-* *Patagonia Endless Run Shorts* - I was gutted to discover that my fave Salomon trail shorts are no longer made so I tried the well-reviewed Patagonias recently. Love these. Particularly the big stretchy pockets everywhere for gels etc. Zero chafing after 150km.
+* *Patagonia Endless Run Shorts* - I was gutted to discover that my fave Salomon trail shorts are no longer made so I tried the well-reviewed Patagonias recently. Love these. Particularly the big stretchy pockets everywhere for gels etc. Zero chafing after 80km.
 
 * *Odlo Ceramiwarm long tights* - Used these from Foilmore onwards. Warm, tight and comfy. Did the job well.
 
-* *OMM waterproof pants* - Nice and stretchy. Easyish to get on but not after 24hrs on the course.
+* *OMM Kamleika waterproof pants* - Nice and stretchy. Easyish to get on but not after 24hrs on the course.
 
 * *Arm Sleeves* - Any brand. Highly recommend these for the start instead of wearing a bunch of warm stuff that you have to stop and remove after a few miles. Also work well as sweat bands on your wrists once you warm up.
 
