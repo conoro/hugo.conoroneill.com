@@ -177,7 +177,7 @@ Your browser does not support the video tag.
 
 * *Inov-8 Ultrashell jacket* - Basically a windcheater that can handle drizzle. Might meet minimum standards for races but is really only a backup on short good-weather runs.
 
-* *Petzl Swift RL headlamp* - Incredible beam even on the middle setting. Made the section above Foilmore much much easier. But disappointed with the battery life and it can't take AAAs as a backup. So either pay €50 for a second battery or bring two torches if you are slow like me.
+* *Petzl Swift RL headlamp* - Incredible beam even on the middle setting. Made the section above Foilmore much much easier. But disappointed with the battery life and it can't take AAAs as a backup. So either pay €50 for a second battery or bring two torches if you are slow like me. It's also disappointingly micro-USB. So I often just bring one USB-C cable with a Garmin adapter and micro-USB adapter with me.
 
 * *Nitecore UT27 headlamp* - This has a rechargeable LiPo battery and can also take AAAs. Two beams (narrow and wide). Great torch but half the lumens of the Petzl so I used it at the start line and towards dawn.
 
