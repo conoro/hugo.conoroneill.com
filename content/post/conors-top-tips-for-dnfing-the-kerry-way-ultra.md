@@ -34,11 +34,13 @@ Nope, nope, let's thank some people first.
 
 * Everyone who toed the start line - We were all in this together. Whether you finished or not, your energy helped drive me far beyond anything I have ever done before.
 
-* The landowners - KWU can't happen without you. You are creating a long-lasting legacy in Ireland.
+* NPWS and the landowners - KWU can't happen without you. You are creating a long-lasting legacy in Ireland.
 
 * Gav Judge - For mentioning how special running at night can be. A perfectly clear sky over Foilmore made the moon look touchable. And the stars over Caherdaniel were one of the highlights of the race. I also day-hallucinated which was hilarious. That wonderful art installation of carved stone ducks were in fact just random rocks.
 
 * The three sets of people who were sure I was wrong to follow the Yellow Person signs that they were standing beside ;-)
+
+* The people of Kerry! - Thanks for hosting us. 
 
 ## What does it look like out there?
 To get you in the mood here are some great videos about the [Kerry Way Ultra](http://www.kerrywayultra.com/). 
