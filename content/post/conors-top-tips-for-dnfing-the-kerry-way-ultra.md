@@ -181,7 +181,7 @@ Your browser does not support the video tag.
 
 * *Petzl Swift RL headlamp* - Incredible beam even on the middle setting. Made the section above Foilmore much much easier. But disappointed with the battery life and it can't take AAAs as a backup. So either pay €50 for a second battery or bring two torches if you are slow like me. It's also disappointingly micro-USB. So I often just bring one USB-C cable with a Garmin adapter and micro-USB adapter with me.
 
-* *Nitecore UT27 headlamp* - This has a rechargeable LiPo battery and can also take AAAs. Two beams (narrow and wide). Great torch but half the lumens of the Petzl so I used it at the start line and towards dawn.
+* *Nitecore UT27 headlamp* - This has a rechargeable LiPo battery and can also take AAAs. Two beams (narrow and wide). Good torch but half the lumens of the Petzl so I used it at the start line and towards dawn. However, I can't really recommend it as the hinge clasp is so weak, both sides broke with normal use and it's now held together with duct tape. Despite being under warranty, I have to pay P&P to get it replaced. 
 
 * *Multiple Decathlon baselayers* - All good, particularly the skiing and merino ones.
 
@@ -211,3 +211,22 @@ Your browser does not support the video tag.
 
 * *Jungle Formula insect repellent* - I got swarmed by thousands of mozzies at Lord Brandon's Cottage. It was freaky. My entire lower legs covered. I still have all the bites. Once I covered myself in Jungle Formula, it didn't happen again.
 
+### Update 1: Ultrarunning doesn't have to be expensive
+I'm very aware that my kit list above makes ultrarunning look like a very expensive pastime. It absolutely doesn't have to be. So here's an alternative list that will totally get you around most ultras or trail races, particularly if you only want to dip your toe in. 
+
+
+* Shoes: The one place I'd stick with Hoka/Salomon/etc. My genuine top tip for running gear is to keep an eye on running shoe reviews on YouTube to see when new models are coming out. You should then be able to nab the older model for huge discounts. I've got plenty of half-price shoes. Ditto massive sales by companies like Nike just after Christmas. But remember that Aoife Mundow won KWU on her first go, wearing road shoes that she won in a competition!
+* Socks: Decathlon
+* Shorts: Decathlon
+* Tights: Decathlon
+* Tops: Decathlon
+* Jacket: Decathlon
+* Waterproof Trousers: Decathlon
+* Hydration: Decathlon
+* Pack: Decathlon
+* Poles: Decathlon or Aldi/Lidl
+* Headtorch: Decathlon?
+* Navigation: App on your phone
+* Compass: Decathlon
+
+As for the races themselves, whilst some have very high entry fees, that does not apply to any IMRA/MMRA race or the KWU itself.
