@@ -134,7 +134,7 @@ Your browser does not support the video tag.
 
 The bit I'd dreaded for months. The bit I lost sleep over. The bit I'd effectively done 4 times but was still terrified of. 
 
-A gentle start leads to one of the big splits in the route. You do *not* go to Cahirsiveen in the KWU. That's a spur. You go hard left off-road and up a very steep uphill. Then it's viciously steep up and down on some very nasty terrain for what feels like days. If the weather is bad, this may break you.
+A gentle start leads to one of the big splits in the route. You do *not* go to Cahirsiveen in the KWU. That's a spur. You go hard left off-road and up a very steep uphill. Then it's viciously steep up and down on some very nasty terrain for what feels like days. If the weather is bad, this may end your race.
 
 Be incredibly careful with navigation. In my big recce I got turned around in the dark and ended up re-tracing most of my steps back to Foilmore. It nearly broke me. I was so tired, I even convinced myself that I hadn't gone wrong and the Russians had hacked all the GPS satellites.
 
@@ -171,11 +171,11 @@ Your browser does not support the video tag.
 
 * *Hoka Speedgoat 4 GTX* - Much heavier than non-GTX but absolutely perfect from Folimore to Sneem. Feet 100% dry the entire way and all of the taping stayed stuck. Never slipped once. Sore on the back of my heel going uphill tho, due to much bulkier heel counter.
 
-* *Salomon Ultraglide* - Oh dear. They were supposed to be the comfy option for me to cruise from Sneem to Killarney. Instead they were used for wading through impromptu streams. No real opinion on them yet. 
+* *Salomon Ultraglide* - These were supposed to be the comfy option for me to cruise from Sneem to Killarney. Instead they were used for wading through impromptu streams. I've done a few runs in them and they are good but I don't feel as confident on the slippy stuff in them. 
 
 * *The North Face Futurelight jacket* - I got this for half-price luckily. Fine for light rain and wind. Utterly useless after maybe 30 minutes of medium heavy rain. Don't believe any review that doesn't include bad weather testing. Avoid.
 
-* *Columbia Outdry Extreme jacket* - Borrowed. Fantastic in heavy rain. Bin bag when not raining. Buying one soon for the bad stuff in 2023.
+* *Columbia Outdry Extreme jacket* - Borrowed. Fantastic in heavy rain but a bit of a bin-bag when you're sweating. Buying one soon for the bad stuff in 2023.
 
 * *Inov-8 Ultrashell jacket* - Basically a windcheater that can handle drizzle. Might meet minimum standards for races but is really only a backup on short good-weather runs.
 
@@ -189,7 +189,7 @@ Your browser does not support the video tag.
 
 * *Black Diamond Distance Carbon FLZ poles* - One of my all-time best purchases. Light as a feather. 
 
-* *Salomon Adv Skin 12 pack* - There's a reason this is the pack most people were wearing. Nothing comes close.
+* *Salomon Adv Skin 12 pack* - There's a reason this is the pack most people were wearing. Cannot fault it, particularly the multiple pole-holding options. I had to watch [Dom Granger's video](https://www.youtube.com/watch?v=LQASNVEq6aI) to figure that aspect out tho.
 
 * *Salomon soft flasks long neck* - I've had these for a few years. Make sure to get the hard-bottomed ones to make it easier to get them in and out.
 
@@ -212,21 +212,14 @@ Your browser does not support the video tag.
 * *Jungle Formula insect repellent* - I got swarmed by thousands of mozzies at Lord Brandon's Cottage. It was freaky. My entire lower legs covered. I still have all the bites. Once I covered myself in Jungle Formula, it didn't happen again.
 
 ### Update 1: Ultrarunning doesn't have to be expensive
-I'm very aware that my kit list above makes ultrarunning look like a very expensive pastime. It absolutely doesn't have to be. So here's an alternative list that will totally get you around most ultras or trail races, particularly if you only want to dip your toe in. 
+I'm very aware that my kit list above makes ultrarunning look like an expensive pastime. It absolutely doesn't have to be. Shoes are the one piece of gear where I'd stick with Hoka/Salomon/Saucony/etc. My main money-saving top tip is to keep an eye on running shoe reviews on YouTube to see when new models are coming out. My faves are [Seth James DeMoor](https://www.youtube.com/c/SethDeMoor), [Believe in the Run](https://www.youtube.com/c/Believeintherun), [FOD Runner](https://www.youtube.com/c/TheFODRunner), [Run4Adventure](https://www.youtube.com/c/Run4Adventure) and [The Ginger Runner](https://www.youtube.com/c/TheGingerRunner). You should then be able to nab the older model for huge discounts. I've got plenty of half-price shoes. Ditto massive sales by companies like Nike just after Christmas. But remember that Aoife Mundow won KWU on her first go, wearing road shoes that she got as a prize in a competition! 
+ 
+Ideally tho, buy your first shoes locally if you can, as sizing can sometimes be weird with some brands (looking at you Inov-8). And do not buy from Amazon as there are tons of scammers on there selling shoes. Alltricks in France is great as an online option. And plenty of sports shops around Europe will ship to Ireland inexpensively. UK is obviously problematic now.  
 
+Apart from the shoes, you can get great discounts on other gear from local shops by keeping an eye out. And obviously there is a ton of good quality cheap kit on Decathlon. 
 
-* Shoes: The one place I'd stick with Hoka/Salomon/etc. My genuine top tip for running gear is to keep an eye on running shoe reviews on YouTube to see when new models are coming out. You should then be able to nab the older model for huge discounts. I've got plenty of half-price shoes. Ditto massive sales by companies like Nike just after Christmas. But remember that Aoife Mundow won KWU on her first go, wearing road shoes that she won in a competition!
-* Socks: Decathlon
-* Shorts: Decathlon
-* Tights: Decathlon
-* Tops: Decathlon
-* Jacket: Decathlon
-* Waterproof Trousers: Decathlon
-* Hydration: Decathlon
-* Pack: Decathlon
-* Poles: Decathlon or Aldi/Lidl
-* Headtorch: Decathlon?
-* Navigation: App on your phone
-* Compass: Decathlon
+Many of the items I have are not absolutely necessary. e.g. lots of runners don't like poles and a running watch can easily be replaced by your phone. But remember most ultras have a mandatory gear list, so you can't dodge having a jacket with minimum specs etc. And you can't run any IMRA/MMRA race without a waterproof jacket.
 
 As for the races themselves, whilst some have very high entry fees, that does not apply to any IMRA/MMRA race or the KWU itself.
+
+So go on, give it a go. I bet you'll enjoy it.
