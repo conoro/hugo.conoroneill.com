@@ -24,7 +24,7 @@ comment: false
   <li class="rating"><a href="http://en.wikipedia.org/wiki/Service" rel="tag">
    Service: <span class="value">5</span>/<span class="best">5</span></a>;</li>
   <li class="rating"><a href="http://en.wikipedia.org/wiki/Price" rel="tag">
-   Price: <abbr class="value" title="2">$</abbr>...</a></li>
+   Price: <abbr class="value" title="1">$</abbr>...</a></li>
  </ul>
  <div class="description"><p>
 Two Saturdays ago, the parents, the kids and I headed off to Clon to go to the playground and then check out Deasy's in Ring. We have had several recommendations for Deasy's and I thought a good pub lunch would go down nicely and suit the sprogs too. It was deserted on our arrival and my mother eventually found someone who told her they only do evening meals and Sunday lunch. Bum. But she said the menu looked fab. The nice man then pointed us towards Grange and The Grange Tavern a few miles up the back road.
