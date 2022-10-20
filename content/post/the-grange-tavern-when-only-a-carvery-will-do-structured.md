@@ -42,6 +42,6 @@ We all had rice pudding for dessert, which again was clearly handmade as it was 
 This pub will never win a food award and it will never be a gastro-pub, it just does simple tasty traditional pub food with a surprising attention to detail. If you are down that direction and you feel like a nice pint and some solid fare, you can't go wrong.
  </p></div>
  <a href="http://microformats.org/wiki/hreview">hReview</a>
- by <span class="reviewer vcard"><span class="fn">Conor O'Neill</span></span>, 
+ by <span class="reviewer vcard"><span class="fn">Conor ONeill</span></span>, 
  <abbr class="dtreviewed" title="2006-03-07">March 7th, 2006</abbr>.
 </div>
