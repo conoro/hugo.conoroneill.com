@@ -10,21 +10,22 @@ comment: false
 <script type="application/ld+json">
 {
   "@context" : "http://schema.org",
-  "@type" : "TVEpisode",
-  "partOfTVSeries" : {
-    "@type" : "TVSeries",
-    "name" : "Anthony Bourdain: No Reservations"
-  },
-  "keywords": "bourdain,food,television,special,restaurant",
-
-  "partOfSeason" : {
-    "@type" : "TVSeason",
-    "seasonNumber" : "2"
-  },
-  "episodeNumber" : "13",
-  "image" : "[absolute/path/to/video/image.jpg](https://m.media-amazon.com/images/M/MV5BYmY4YmFlODUtZjk0Ni00OWMyLThiY2MtZDNhN2UxYjZkYTAxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY281_CR11,0,190,281_.jpg)",
   "review": {
-    "@type": "Review",
+    "@type": "TVEpisode",
+    "partOfTVSeries" : {
+      "@type" : "TVSeries",
+      "name" : "Anthony Bourdain: No Reservations"
+    },
+    "keywords": "bourdain,food,television,special,restaurant",
+    "partOfSeason" : {
+      "@type" : "TVSeason",
+      "seasonNumber" : "2"
+    },
+    "episodeNumber" : "13",
+    "image" : "[absolute/path/to/video/image.jpg](https://m.media-amazon.com/images/M/MV5BYmY4YmFlODUtZjk0Ni00OWMyLThiY2MtZDNhN2UxYjZkYTAxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY281_CR11,0,190,281_.jpg)",
+    "itemReviewed": {
+      "name": "Anthony Bourdain: No Reservations",
+    },
     "reviewRating": {
       "@type": "Rating",
       "ratingValue": "5"
