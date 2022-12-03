@@ -13,6 +13,7 @@ comment: false
   "@type": "Review",
   "itemReviewed": {
     "@type": "TVEpisode",
+    "name": "Anthony Bourdain Decoding Ferran Adria",
     "partOfTVSeries" : {
       "@type" : "TVSeries",
       "name" : "Anthony Bourdain: No Reservations"
