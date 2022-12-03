@@ -7,15 +7,40 @@ id: 559
 comment: false
 ---
 
-<div lang="en" class="hreview">
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "TVEpisode",
+  "partOfTVSeries" : {
+    "@type" : "TVSeries",
+    "name" : "Anthony Bourdain: No Reservations"
+  },
+  "keywords": "bourdain,food,television,special,restaurant",
+
+  "partOfSeason" : {
+    "@type" : "TVSeason",
+    "seasonNumber" : "2"
+  },
+  "episodeNumber" : "13",
+  "image" : "[absolute/path/to/video/image.jpg](https://m.media-amazon.com/images/M/MV5BYmY4YmFlODUtZjk0Ni00OWMyLThiY2MtZDNhN2UxYjZkYTAxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY281_CR11,0,190,281_.jpg)",
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Conor O'Neill"
+    },
+    "reviewBody": "Best programme about food I've seen in over a year. What makes the guy from El Bulli tick?"
+    }
+  }
+}
+</script>
+
 
 #### Best programme about food I've seen in over a year. What makes the guy from El Bulli tick?
-
-    <div>
-        Review of <span class="type">product</span>: <span class="item"><span class="fn">[Anthony Bourdain Decoding Ferran Adria](http://www.amazon.com/Decoding-Ferran-Adria-Anthony-Bourdain/dp/0061157074)</span></span></div> 
-Rated as <span class="rating">5</span>/5 on <span class="dtreviewed">Apr 26 2007</span> by <span class="reviewer vcard"><span class="fn">Conor O'Neill</span></span>
-    <div><span class="stars" title="5">![](http://www.loudervoice.com/static/images/small-star.png)![](http://www.loudervoice.com/static/images/small-star.png)![](http://www.loudervoice.com/static/images/small-star.png)![](http://www.loudervoice.com/static/images/small-star.png)![](http://www.loudervoice.com/static/images/small-star.png)</span></div>
-    <div class="description">
 
 I've been a big fan of Anthony Bourdain since I read Kitchen Confidential and my opinion of him just grew and grew with the TV shows and his Les Halles cookbook.
 
@@ -33,7 +58,7 @@ Aside: We get small blocks of Serrano and Jamon Curado from my parents when they
 
 Bourdain then headed to the workshop to meet the team. And it was a proper team where everyone had equal say. Adria just sees himself as the front-man for the team. This was an incredible place where they spend hours every day trying ideas out, rigorously documenting them and then deciding if they could go on a menu.
 
-A few things they showed included cooking sardines in such a way that they looked raw but were fully cooked, searing a peach so it had the texture of fois  gras and trying a chemical that you can either taste as bitter or not taste at all depending on your genetic make-up!
+A few things they showed included cooking sardines in such a way that they looked raw but were fully cooked, searing a peach so it had the texture of fois gras and trying a chemical that you can either taste as bitter or not taste at all depending on your genetic make-up!
 
 Then it was time for the meal which was just mind-blowing. You get up to 32 courses over 5 hours in a restaurant which has 55 chefs and 55 seats. Each course is barely a mouthful or two but each one is amazing in execution. I'm only going to list a few but I was drooling at every one.
 
@@ -46,7 +71,3 @@ Jamon-Tuna: Fat belly of tuna cured like jamon and sliced wafer thin. You get a 
 The amazing thing about the whole meal was that it was very relaxed, the restaurant looks pretty standard Spanish style and is not overly formal at all. I have no idea how much a meal costs and I know the waiting list is a year but some day, SOME DAY, I'm eating in El Bulli.
 
 Oh and Bourdain was utterly convinced by the end.
-</div>
-    <div class="review_tags">LouderVoice Tags: [anthony bourdain](http://www.loudervoice.com/tags/anthony+bourdain), [el bulli](http://www.loudervoice.com/tags/el+bulli), [fat duck](http://www.loudervoice.com/tags/fat+duck), [ferran adria](http://www.loudervoice.com/tags/ferran+adria), [food](http://www.loudervoice.com/tags/food), [jamon](http://www.loudervoice.com/tags/jamon), [molecular gastronomy](http://www.loudervoice.com/tags/molecular+gastronomy), [tv](http://www.loudervoice.com/tags/tv)</div>
-    <div class="rate">Rate this review at [LouderVoice](http://www.loudervoice.com/external/find?permalink=http%3A%2F%2Fconoroneill.com%2F2007%2F04%2F26%2Freview-of-anthony-bourdain-decoding-ferran-adria%2Fanditem=Anthony+Bourdain+Decoding+Ferran+Adria)</div>
-</div>
