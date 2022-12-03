@@ -24,7 +24,7 @@ comment: false
       "seasonNumber" : "2"
     },
     "episodeNumber" : "13",
-    "image" : "[absolute/path/to/video/image.jpg](https://m.media-amazon.com/images/M/MV5BYmY4YmFlODUtZjk0Ni00OWMyLThiY2MtZDNhN2UxYjZkYTAxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY281_CR11,0,190,281_.jpg)"
+    "image" : "https://m.media-amazon.com/images/M/MV5BYmY4YmFlODUtZjk0Ni00OWMyLThiY2MtZDNhN2UxYjZkYTAxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY281_CR11,0,190,281_.jpg"
   },
   "reviewRating": {
     "@type": "Rating",
