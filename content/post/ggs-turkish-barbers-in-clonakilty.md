@@ -35,7 +35,7 @@ Whether you want a manly treat or just a good hair-cut, give GG's a go.
   "@context": "https://schema.org/",
   "@type": "Review",
   "itemReviewed": {
-    "@type": "Barber",
+    "@type": "HairSalon",
     "name": "GG's Turkish Barber",
     "priceRange": "$",
     "address" :{
