@@ -28,7 +28,7 @@ As we were settling up, I asked what was the cost of the absolute cheapest walki
 
 ![Leki Voyager](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2017/06/leki_voyager.jpg)
 
-I got back to the hotel and then reliased I was a moron. How do you fit two poles into carry-on luggage? Luckily you can completely disassemble the Lekis and they fit at a squeeze diagonally in resonably tall luggage. I gritted my teeth going through LHR x-ray but they didn't bat an eyelid. Hurrah!
+I got back to the hotel and then realised I was a moron. How do you fit two poles into carry-on luggage? Luckily you can completely disassemble the Lekis and they fit at a squeeze diagonally in reasonably tall luggage. I gritted my teeth going through LHR x-ray but they didn't bat an eyelid. Hurrah!
 
 ## Mullaghmesha Mountain testing
 I [wrote recently](http://conoroneill.com/2017/05/01/conors-roundup-of-recent-runs/) about our Mullaghmesha Mountain excitement. Yesterday I decided to have another go. Yup, after a night of torrential rain and ongoing howling wind, I committed to making the same mistake twice.
@@ -37,13 +37,13 @@ I [wrote recently](http://conoroneill.com/2017/05/01/conors-roundup-of-recent-ru
 
 This time I drove up the tiny lane beside the castle at 10mph to avoid wearing out those lugs. I parked at the start of the off-road piece of the [Castledonovan Loop](http://www.activeme.ie/guides/walks/castledonovan-loop-walk-drimoleague-west-cork-ireland/) and headed out with the poles and my new Yi II action cam + gimbal (reviews of those coming shortly).
 
-The grip on the Inov-8s was immediatlely obvious. My confidence going up a steep wet muddy "trail" was much higher than with the Altras. The waterproofing was pointless as I sunk ankle deep over and over. I then put away the action cam and started using the poles. It was a real suprise to discover I loved them. I had been worried about them being awkward, heavy or even tripping me up. But they made the incline much easier.
+The grip on the Inov-8s was immediately obvious. My confidence going up a steep wet muddy "trail" was much higher than with the Altras. The waterproofing was pointless as I sunk ankle deep over and over. I then put away the action cam and started using the poles. It was a real surprise to discover I loved them. I had been worried about them being awkward, heavy or even tripping me up. But they made the incline much easier.
 
 ![Trail Mid](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2017/06/YDXJ0029.JPG)
 
 After less than a mile I headed back. The wind was incredibly strong and the fog had started to come in. Going down in these conditions is actually more difficult than going up. Despite the added traction of the 8mm lugs on the X-CLAWs, I still slipped a few times. I also took my eye off the ground for a moment and landed on my arse. The poles were a big help on the really steep bits.
 
-I found my feet were moving around inside the X-CLAWs a lot more than I expected. But checking afterwards revealed that I hadn't cinced down the laces well at all. I'll also switch to heel-lock lacing on them as soon as they dry out.
+I found my feet were moving around inside the X-CLAWs a lot more than I expected. But checking afterwards revealed that I hadn't cinched down the laces well at all. I'll also switch to heel-lock lacing on them as soon as they dry out.
 
 ![X-CLAW 275 Dirty](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2017/06/2017-06-10%2013.21.35.jpg)
 
@@ -51,7 +51,7 @@ I found my feet were moving around inside the X-CLAWs a lot more than I expected
 Here's a really cool video animation of the "run" from [relive.cc](https://www.relive.cc) (a very cool site).
 
 <video controls>
-<source src="https://video.relive.cc/strava_1029553869_1497107025206.mp4?x-ref=site" type="video/mp4">
+<source src="/images/2017/06/Relive_Castledonovan_Mullaghmesha_Loop_20170819.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
