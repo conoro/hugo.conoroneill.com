@@ -19,7 +19,7 @@ home = ["HTML", "RSS"]
 [params]
   author = "Conor O'Neill"
   algolia_search = false
-  googleAnalytics = "UA-88610-1"
+  # googleAnalytics = "UA-88610-1"
   cover = "images/tre_cima_blog.jpg"
   authorwebsite = "https://conoroneill.com"
   bio= "Tech guy who likes running slowly"
