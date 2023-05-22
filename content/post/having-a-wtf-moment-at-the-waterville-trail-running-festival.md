@@ -20,6 +20,7 @@ One of the reasons WTF is so cool is that you are up into the trails within a fe
 
 ![Termons](/images/2023/05/termons.png)
 
+## Oh WTF, not now
 That's followed by some easy downhill which of course I face-planted on, twisted my ankle and pulled a bunch of things in my right leg. Thanks to Steve for giving me a hand up. Morto and scarleh I was. The course then alternates between gentle off-road and country roads/lanes. 
 
 Did I mention the epic views? They're epic!
