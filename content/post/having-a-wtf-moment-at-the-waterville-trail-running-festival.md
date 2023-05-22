@@ -3,7 +3,7 @@ date = "2023-05-22T09:42:00.000Z"
 draft = false
 title = "Having a WTF moment at the Waterville Trail Running Festival"
 slug = "having-a-wtf-moment-at-the-waterville-trail-running-festival"
-description = "WTF could be our UTMB week if more people knew about it"
+description = "WTF could be our UTMB week if more people knew how doable it is"
 +++
 
 ## Waterville
