@@ -6,7 +6,7 @@ slug = "the-brooks-caldera-6-is-an-ultra-devouring-monster"
 description = "My absolute favourite trail running shoe for Irish conditions"
 +++
 
-My entire history with Brooks until a few months ago was one pair of Adrenaline 19s which did not suit me at all. I always associated the brand with big reliable heavy running shoes for conservative joggers. The [Caldera 6](https://www.brooksrunning.com/en_ie/caldera-6-mens-distance-trail-running-shoe/110379.html) takes that reputation and shreds it.
+My entire history with Brooks until a few months ago was one pair of Adrenaline 19s which did not suit me at all. I always associated the brand with big reliable heavy running shoes for conservative joggers. The [Caldera 6](https://www.brooksrunning.com/en_ie/caldera-6-mens-distance-trail-running-shoe/110379.html) takes that reputation and shreds it, in the best possible sense.
 
 ![Caldera 6](/images/2023/05/caldera-6-mens-trail-running-shoe.png)
 
