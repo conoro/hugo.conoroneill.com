@@ -20,7 +20,7 @@ Setup for success like this, I headed to Castletownbere at 3am from Bandon to tr
 
 ![Indy](/images/2023/06/Indy_Sword_Gun_Text2.gif)
 
-## To do the Beara you must understand the Beara. Or something.
+## To do the Beara you must first understand the Beara. Or something.
 For the [Kerry Way Ultra](https://kerrywayultra.com/) I had reccied every inch of the course. For Beara, I had done Glengarriff to Adrigole and Adrigole to Castletownbere a few years previously. I also did the Castletownbere/Allihies loop this year. 
 
 Oh and how could I forget the world's shortest recce in January. I parked outside Kenmare and tried to run back towards Lauragh. Within minutes I was wading through ice-cold water in completely useless small-lugged Salomons. After 2 miles I called it a day and slid all the way back. The water was so cold, the midsoles of the running shoes went rock hard. I may have damaged the road back to the car.
