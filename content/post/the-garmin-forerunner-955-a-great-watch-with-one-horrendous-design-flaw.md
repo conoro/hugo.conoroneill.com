@@ -24,5 +24,5 @@ Last week the annoyance got too much and I opened a support ticket directly with
 
 That's Garmin's idea of customer service? A used watch for something still under warranty? A used watch that will almost definitely have the same problem as the other two?
 
-Garmin feels a bit like mid-90s Nokia at the moment. Releasing a crazy number of devices and clearly not putting the effort in to design or manufacture them well. Apple ate Nokia's lunch and I suspect Apple + Coros will eat Garmin's. Their one big defence is their existing customer base. But if offering a used watch to a loyal customer who has bought 5 watches and an InReach is how they want to do customer retention, they are in for a nasty surprise over the next couple of years.
+Garmin feels a bit like mid-90s Nokia at the moment. Releasing a crazy number of devices for every demographic and clearly not putting the effort in to design or manufacture them well. Apple ate Nokia's lunch and I suspect Apple + Coros will eat Garmin's. Their one big defence is their existing customer base. But if offering a used watch to a loyal customer who has bought 5 watches and an InReach is how they want to do customer retention, they are in for a nasty surprise over the next couple of years.
 
