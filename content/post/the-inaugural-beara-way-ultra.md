@@ -53,7 +53,7 @@ There's one "trip and it's the bottom of the Atlantic for you matey" section aro
 ![Start Line](/images/2023/06/utb3.jpg)
 
 ## What's this core training y'all keep talking about?
-About 10 miles in, I had two horrible realisations- [1] I hadn't recovered at all from WTF and was already exhausted and [2] My core and quads were both also trashed from WTF and even running downhill hurt like hell.
+About 10 miles in, I had two horrible realisations - [1] I hadn't recovered at all from WTF and was already exhausted and [2] My core and quads were both also trashed from WTF and even running downhill hurt like hell.
 
 By the time I got to the Dursey cable car (and yay it'll be back in action next week!) I was out of water, overheated and struggling badly. But the water-station crew did a brilliant job of boosting me. And like so many lovely aid station people, they lied through their teeth - "Oh ya, there's several people behind you". Sure sure. I know I'm last.
 
