@@ -92,6 +92,8 @@ So it was the right call to quit but I don't regret giving it a go for 60km. The
 
 The main thing I've learned in the past two scorching hot weeks is that I chronically under-hydrate. And I think that's what gets me into trouble (ditto Connemarathon and Cork City last year). I drank double the amount on those post-recces as I did in the race and I had no issues at all, despite both days being hotter. So I'm going to have to learn to like carrying a water bladder.
 
+UPDATE: After feeling rubbish for quite a while, I went to the Doctor 3 weeks after Beara and got a set of blood tests. The results are in - I have a low ferritin level of 22. I think that explains why I've been struggling in these recent races with wooziness etc. Despite eating a very iron-rich vegan diet, I suspect my 15+ year use of omeprazole has finally bitten me in the ass. Let's see if things improve over the summer with iron supplements and cold-tofurkey on the acid reflux!
+
 ## Thank Yous
 The logistics of such a long race are extremely difficult, particularly with the terrain and the remoteness of much of the Beara. I take my bucket hat off to the RDs Michael McSweeney, Robbie Williams and Carol Hurley. This is the beginning of something very special. 
 
