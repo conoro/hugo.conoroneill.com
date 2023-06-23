@@ -22,7 +22,7 @@ First stop was the Salomon Ultraglide. I'll do a full review soon but overall it
 Next up was the Saucony Xodus Ultra. Again full review soon but it was a disaster for me. The lugs are amazing on wet grass and mud. They are lethal on wet stones and rock. Worse than road shoes. And they have exactly the same problem as the Peregrines for me - horrendous heel pain due to an excessively narrow heel-counter. Which is weird since I adore the fit of the Endorphin series.
 
 ## New Balance Fresh Foam X More Trail v3
-More recently, I tried the New Balance Fresh Foam X More Trail v3. This is an interesting shoe. Vibram Megagrip outsole with massive lugs. The giant slab of Fresh Foam X is incredibly comfortable and bouncy. On top of this is a roadshoe-like soft upper and 1970s Irish school-shoe laces. The NB is definitely on my short-list for the [Kerry Way Ultra](https://kerrywayultra.com/) and other less rough ultras where comfort is the key, now that I've bought proper laces. But they weren't great on a 5 mile rough loop around Coumshingaun in Waterford. The upper is far too sloppy with poor lockdown and the lugs had the same issue as the SG4/SG5 - fantastic on the mucky/wet stuff but slip-sliding on rocks. I split open my knee as a result.
+More recently, I tried the New Balance Fresh Foam X More Trail v3. This is an interesting shoe. Vibram Megagrip outsole with massive lugs. The giant slab of Fresh Foam X is incredibly comfortable and bouncy. On top of this is a roadshoe-like soft upper and 1970s Irish school-shoe laces. The NB is definitely on my short-list for the [Kerry Way Ultra](https://kerrywayultra.com/) and other less rough ultras where comfort is the key, now that I've bought proper laces. But they weren't great on a 5 mile rough loop around Coumshingaun in Waterford. The upper is far too sloppy with poor lockdown and the lugs had the same issue as the SG4/SG5 - fantastic on the mucky/wet stuff but slip-sliding on rocks. I split open my knee as a result. And a few weeks later, I fell again on some damp rocks.
 
 ## Caldera 6
 And so on to the Caldera 6. They look like moonshoes, particularly in the Black/Yellow version I bought. First impressions were of a good fit/lockdown and decent bouncy midsole but not massively cushioned despite the height. The lugs aren't particularly deep. 
@@ -40,4 +40,11 @@ The lockdown is better than it looks but very rough conditions will challenge it
 As I don't want a repeat of the SG4-SG5 disappointment, I've already bought a second pair of Calderas and put them aside. I suspect version 7 is coming soon since I just got a pair of v6 for €97 when the RRP is €150!
 
 If you're tired of tip-toeing on wet rocks, this is the shoe you've been looking for.
+
+# Update - Maybe not so perfect
+Things had continued to go well with the Calderas and I did multiple shorter trail runs after the Ultras. Then last weekend, after 150 miles, whilst out again on the Beara Way, I realised my left foot was sliding around badly. I looked down to see a complete separation of the two parts of the upper. I really can't believe Brooks only used glue to hold two highly stressed sections together with no stitching at all. It was almost guaranteed to fail eventually. For this reason I have to withdraw my recommendation unless you only run on very gentle trails. I'll continue to use the Caldera 6 but only after re-glueing and awl-stitching the two parts together on both shoes. Hopefully Brooks sees this post and my tweet and fixes the problem for the Caldera 7.
+
+![Busted Caldera 6](/images/2023/06/busted_caldera.jpg)
+
+![Sewed Caldera 6](/images/2023/06/sewed_caldera.jpg)
 
