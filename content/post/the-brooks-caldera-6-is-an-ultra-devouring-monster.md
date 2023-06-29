@@ -1,10 +1,12 @@
 +++
 date = "2023-05-22T12:00:00.000Z"
 draft = false
-title = "The Brooks Caldera 6 is an ultra-devouring monster"
+title = "The Brooks Caldera 6 is an ultra-devouring monster (but)"
 slug = "the-brooks-caldera-6-is-an-ultra-devouring-monster"
 description = "My absolute favourite trail running shoe for Irish conditions"
 +++
+
+UPDATE: See below for a major proviso to this post.
 
 My entire history with Brooks until a few months ago was one pair of Adrenaline 19s which did not suit me at all. I always associated the brand with big reliable heavy running shoes for conservative joggers. The [Caldera 6](https://www.brooksrunning.com/en_ie/caldera-6-mens-distance-trail-running-shoe/110379.html) takes that reputation and shreds it, in the best possible sense.
 
@@ -42,7 +44,7 @@ As I don't want a repeat of the SG4-SG5 disappointment, I've already bought a se
 If you're tired of tip-toeing on wet rocks, this is the shoe you've been looking for.
 
 # Update - Maybe not so perfect
-Things had continued to go well with the Calderas and I did multiple shorter trail runs after the Ultras. Then last weekend, after 150 miles, whilst out again on the Beara Way, I realised my left foot was sliding around badly. I looked down to see a complete separation of the two parts of the upper. I really can't believe Brooks only used glue to hold two highly stressed sections together with no stitching at all. It was almost guaranteed to fail eventually. For this reason I have to withdraw my recommendation unless you only run on very gentle trails. I'll continue to use the Caldera 6 but only after re-glueing and awl-stitching the two parts together on both shoes. Hopefully Brooks sees this post and my tweet and fixes the problem for the Caldera 7.
+Things had continued to go well with the Calderas and I did multiple shorter trail runs after the Ultras. Then two weeks ago, after 150 miles, whilst out again on the Beara Way, I realised my left foot was sliding around badly. I looked down to see a complete separation of the two parts of the upper. I really can't believe Brooks only used glue to hold two highly stressed sections together with no stitching at all. It was almost guaranteed to fail eventually. For this reason I have to withdraw my recommendation unless you only run on very gentle American buffed trails. I'll continue to use the Caldera 6 but only now that I have re-glued and awl-stitched the two parts together on both shoes. They happily survived a very tough 64km trail run last weekend after my repairs. Hopefully Brooks sees this post and my tweet and fixes the problem for the Caldera 7. (No response on Twitter after a week. What is going on with major brands and the complete collapse of their customer support/interaction quality?)
 
 ![Busted Caldera 6](/images/2023/06/busted_caldera.jpg)
 
