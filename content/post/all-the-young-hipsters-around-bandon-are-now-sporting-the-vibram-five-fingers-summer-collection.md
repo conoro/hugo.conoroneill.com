@@ -9,4 +9,4 @@ comment: false
 
 Think of them as Christian Louboutin's for the stylish man. These are the original [Classics](http://www.barefoot.ie/shop/index.php?main_page=product_infoandcPath=5andproducts_id=25) worn by our legendary foot-model, Conor.
 
-[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2012/07/vff_classic.png "vff_classic")](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2012/07/vff_classic.png)
+[![](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2012/07/vff_classic.png "vff_classic")](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2012/07/vff_classic.png)

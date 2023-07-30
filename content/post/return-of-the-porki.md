@@ -9,7 +9,7 @@ comment: false
 
 The [Empire](http://www.fsai.ie/) may have done its best to kill the pork industry in Ireland but the producers are fighting back. Barrie Tyner from [Slow Food Ireland](http://www.slowfoodireland.com/) just let me know that the West Cork and Cork City Conviviums are coming together to bring us 'The Pig Extravaganza'.
 
-![jedi-1](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2009/01/jedi-1.jpg "jedi-1")
+![jedi-1](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2009/01/jedi-1.jpg "jedi-1")
 
 I was disappointed to find that this did not include dancing pigs but it's the next best thing :-) To celebrate National Pork Weekend, an evening of eating and great chat is planned down west on Sunday, the 18th of January.
 

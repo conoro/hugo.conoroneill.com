@@ -11,7 +11,7 @@ Go to [Google Maps](http://maps.google.com/). Zoom into Bandon. Click Quest. Got
 
 Quick, I'm sure it'll be gone by April 2nd.
 
-[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2012/03/31-03-2012-19-29-18.png "31-03-2012 19-29-18")](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2012/03/31-03-2012-19-29-18.png)
+[![](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2012/03/31-03-2012-19-29-18.png "31-03-2012 19-29-18")](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2012/03/31-03-2012-19-29-18.png)
 
 And here's the video that explains it. Just fantastic.
 

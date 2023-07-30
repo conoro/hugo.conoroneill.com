@@ -9,7 +9,7 @@ comment: false
 
 The [Bloom Gardening Event](http://bloominthepark.com/) is back and it looks fantastic. On in the Phoenix Park from 28th May to 1st June, it seems to have something for everyone.
 
-![bloom](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2009/05/bloom.jpg "bloom")
+![bloom](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2009/05/bloom.jpg "bloom")
 
 Presented by Bord Bia, there are show gardens, craft centre, artisan food market and a family fun and learning zone.
 

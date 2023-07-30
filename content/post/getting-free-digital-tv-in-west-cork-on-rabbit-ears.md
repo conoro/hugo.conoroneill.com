@@ -15,7 +15,7 @@ Our old roof aerial hasn't been working right for years and I wasn't sure where 
 
 I wondered if that signal was enough to get the new [Saorview Digital Terrestrial](http://www.saorview.ie/) working on the Ariva box so I brought the box up into the attic and amazingly it worked instantly! Perfect digital picture on RTE1, RTE2, TV3, TG4 with full on-screen programme guide too. I had some interactions with people on Twitter last night who confirmed that even if your old analogue signal is poor, you may still be able to get Saorview.
 
-[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2011/09/saorview-300x89.png "saorview")](http://www.saorview.ie/make-the-switch/coverage-checker/coverage-map/)
+[![](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2011/09/saorview-300x89.png "saorview")](http://www.saorview.ie/make-the-switch/coverage-checker/coverage-map/)
 
 Unfortunately the rabbit ears don't have enough welly to feed a splitter box so today I'm popping into [Dwyers Electrical](http://www.dwyers.ie/store/product/381/Televes-DAT-HD-UHF/) to get this aerial and I'll fit it in the attic. This type of aerial may be necessary for a lot of people in West Cork due to all the hills. But check using your old aerial first. Hopefully this will work with the splitter so we can have old analogue TV in most rooms and then Saorview in the room with the Ariva box. If they drop in price even more, we may buy another one.
 

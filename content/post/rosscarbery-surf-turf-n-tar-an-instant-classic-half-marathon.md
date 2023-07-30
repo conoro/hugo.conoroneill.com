@@ -12,13 +12,13 @@ This is going to be a post full of superlatives.
 
 When I first heard about [Surf Turf n Tar](https://surfturfntar.com/), I was instantly excited. I'd done most of the course in chunks already and it's currently my favourite place to run. You have every sort of terrain and views, all in a compact area.
 
-![Surf Turf n Tar](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2017/05/surf-turf-ntar.jpg)
+![Surf Turf n Tar](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/05/surf-turf-ntar.jpg)
 
 The race started just opposite the Celtic Ross Hotel and headed down a little road. You hear of elite ultra runners "blowing-up" at 50 miles. I blew up at 50 yards where both calves cramped badly as I tried to keep up with my wife. 
 
 So much for my brand new schoolgirl 2XU compression socks helping with that.
 
-![2XU](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2017/05/2017-05-20%2007.57.06.jpg)
+![2XU](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/05/2017-05-20%2007.57.06.jpg)
 
 As we ran along I was trying to figure out how the hell we were supposed to get across the inlet/estuary. There's always at least some bit of stream there. We bounced out on to the sand at that really cool house right on the water and ran across the sand. A few foot-dunks in puddles confirmed that wearing Altra Lone Peak 3.0 trail runners was the right choice :-) And then I spotted it, a pontoon bridge across the stream! The wee geniuses. 
 
@@ -36,7 +36,7 @@ Back on to the road and up to the bastard Long Strand. This is my third race whi
 
 Here it is back in March on a foggy day.
 
-![Long Strand](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2017/05/2017-03-30%2015.22.26.jpg)
+![Long Strand](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/05/2017-03-30%2015.22.26.jpg)
 
 Then up the really steep hill I love to the best view in the area, past the holy cross. and another high speed bombing session down the other side of the hill. 
 
@@ -50,11 +50,11 @@ Seriously, this is the kind of course that makes you want to run all the time. I
 
 And the most amazing part of the whole thing? The medal was made of chocolate!
 
-![Medal01](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2017/05/2017-05-20%2013.41.53.jpg)
+![Medal01](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/05/2017-05-20%2013.41.53.jpg)
 
 It was delicious :-)
 
-![Medal02](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2017/05/2017-05-20%2014.32.25.jpg)
+![Medal02](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/05/2017-05-20%2014.32.25.jpg)
 
 I can't wait for next year and will be doing all the public parts of the route many times between now and then.
 

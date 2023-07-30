@@ -16,6 +16,6 @@ Scallops. If I see one more bleedin scallop on that show, I'll explode. Fabio Vi
 
 And to prove the point yesterday, whilst bent over double in pain from a tummy bug, I lashed this together in 5 minutes, and I'm not even a good cook!
 
-[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2010/02/top_scallop-300x223.jpg "top_scallop")](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2010/02/top_scallop.jpg)
+[![](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2010/02/top_scallop-300x223.jpg "top_scallop")](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2010/02/top_scallop.jpg)
 
 So Greg and John. Time to re-invent Top Chef again or give it up. I don't know what the viewing figures are like but the ways it's going, the contestants will be shown working in a chipper in the next season.

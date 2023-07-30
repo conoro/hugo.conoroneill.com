@@ -13,6 +13,6 @@ They are just at the top of town on the main street, impossible to miss. I went 
 
 The highlight for us all was this coffee maker. Slightly out of our budget but a wonderful design.
 
-[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2010/03/20032010843-300x225.jpg "20032010843")](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2010/03/20032010843.jpg)
+[![](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2010/03/20032010843-300x225.jpg "20032010843")](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2010/03/20032010843.jpg)
 
 The Cookware Company is worth a drive no matter where you are in Cork.

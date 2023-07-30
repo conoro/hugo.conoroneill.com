@@ -42,7 +42,7 @@ Couple of notes:
 
 If you are thinking about your first marathon or first Irish marathon, you should seriously consider Dublin. Yes, it's very hilly compared to Berlin, London or Manchester. But it's easier than many and the crowds really are superb.
 
-![Medal](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2016/11/dublin_marathon_medal.jpg)
+![Medal](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2016/11/dublin_marathon_medal.jpg)
 
 
 

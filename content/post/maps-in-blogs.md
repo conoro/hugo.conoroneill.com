@@ -13,6 +13,6 @@ Just to show one of the neat things that Live Writer can do, I was able to inser
 
 &nbsp;
 
- <div class="wlWriterSmartContent" id="84E294D0-71C9-4bd0-A0FE-95764E0368D9:d74892be-3568-4d38-be73-11d9bfcbcca7" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2006/08/WindowsLiveWriter/MapsinBlogs_12299/map743290764ee4.jpg)](http://local.live.com/default.aspx?v=2andcp=51.74366~-8.738594andlvl=14andstyle=r "Click to view this map on Live.com")</div>
+ <div class="wlWriterSmartContent" id="84E294D0-71C9-4bd0-A0FE-95764E0368D9:d74892be-3568-4d38-be73-11d9bfcbcca7" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[![](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2006/08/WindowsLiveWriter/MapsinBlogs_12299/map743290764ee4.jpg)](http://local.live.com/default.aspx?v=2andcp=51.74366~-8.738594andlvl=14andstyle=r "Click to view this map on Live.com")</div>
 
 tags: [Windows+Live+Writer](http://technorati.com/tag/Windows+Live+Writer), [Wordpress.com](http://technorati.com/tag/Wordpress.com)

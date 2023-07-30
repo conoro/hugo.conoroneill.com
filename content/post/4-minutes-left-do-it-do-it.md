@@ -13,6 +13,6 @@ You'll hate yourself in the morning if you don't.
 
 Just to whet your appetite, you can expect more of this sort of thing in 2007 from The Bandonites/Bandonians/OldChaplers.
 
-[![Uber Burger](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2007/02/20070205perlowburger.jpg)](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2007/02/20070205perlowburger.jpg "Uber Burger")
+[![Uber Burger](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2007/02/20070205perlowburger.jpg)](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2007/02/20070205perlowburger.jpg "Uber Burger")
 
 (Via [A Hamburger Today](http://www.ahamburgertoday.com/archives/2007/02/burger_madness.php))

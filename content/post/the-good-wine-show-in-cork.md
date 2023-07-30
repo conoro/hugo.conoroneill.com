@@ -9,7 +9,7 @@ comment: false
 
 If you haven't heard about it already, you'll want to know about the [Good Wine Show](http://goodwineshow.com/) happening this Friday 13th and Saturday 14th of November. It's a joint effort between the three best independent wine retailers in the country: [Curious Wines](http://www.curiouswines.ie/), [Bubble Brothers](http://www.bubblebrothers.com/) and [Karwig Wines](http://www.karwigwines.ie/).
 
-![goodwine](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2009/11/goodwine.png "goodwine")
+![goodwine](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2009/11/goodwine.png "goodwine")
 
 It's on in the Clarion Hotel in Cork from 3pm - 8pm on Friday and 11am - 4pm on Saturday and only costs €15\. For that you'll have over 100 international wines to taste and buy, delicious foods and gourmet treats on offer and prize draws for wine cases and food hampers.
 

@@ -42,4 +42,4 @@ Oh a final side-note. We found out recently that the main disties for VFFs in Ir
 
 UPDATE: How could I do a post on Vibram Five Fingers and not mention this brilliant XKCD from last week:
 
-[![](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2012/06/shoes.png "shoes")](http://xkcd.com/1065/)
+[![](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2012/06/shoes.png "shoes")](http://xkcd.com/1065/)

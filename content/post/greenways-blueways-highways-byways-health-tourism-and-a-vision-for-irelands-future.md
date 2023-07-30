@@ -11,7 +11,7 @@ slug = "greenways-byways-hedgerows-tourism-and-the-future-of-irelands-health"
 ## Intro
 I began this post several months ago. It started quite simply - I wanted to congratulate those behind the wonderful [Waterford/Deise Greenway](http://www.deisegreenway.com/) and encourage Cork County Council to embrace a West Cork Greenway and execute on it. The Waterford one is partially opening this week.
 
-![Waterford Greenway](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2016/09/bridge.jpg)
+![Waterford Greenway](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2016/09/bridge.jpg)
 
 However the more I thought about it, the bigger the "vision" got. What I'm going to present here is obvious in many places, controversial in others and possibly pure fantasy. But we simply can't continue to stagger blindly forward, as we have been doing for decades. It's time for a fundamental change in how the infrastructure of this country is arranged.
 
@@ -38,7 +38,7 @@ The Public Bike Scheme in cities also shows what happens when you provide the fa
 ## Waterford Greenway
 Earlier in the year I heard about the [Waterford Greenway](http://www.deisegreenway.com/) and got very excited. The idea of being able to safely run, walk or cycle from Waterford to Dungarvan along the old railway line struck me as inspirational. I'm still shocked it has actually happened. I've been on it three times now, ahead of its completion and it far exceeds every expectation I had. The views are stunning, the terrain changes all the time and everything about it puts a huge smile on my face. Given how many people I've met on the Greenway in its unfinished state, I can't wait to see it when it's finished.
 
-![Waterford Greenway 2](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2016/09/CszYeE4XgAEnIq6.jpg)
+![Waterford Greenway 2](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2016/09/CszYeE4XgAEnIq6.jpg)
 
 
 The important thing about the Greenway (and the [Great Western one](http://www.greenway.ie/) and the upcoming [Cavan/Leitrim one](http://candlgreenway.ie/)) is that it's a facility for everyone, not just tourists. And that idea became the heart of my thoughts on this wider topic.
@@ -165,12 +165,12 @@ France has lots of problems but seems to have some vision for walkers. We went t
 
 This year I decided to be different and went for two runs in the locality. I was, to be honest, a bit worried beforehand, as I didn't know the roads at all. Some Google Streetview calmed me. On my first run, I did a short 4km loop around some back roads. And it was an absolute joy. Why? No damned hedges and a grass verge that was flush with the road. Plenty of the usual little white French vans passed me but [a] I could see them coming for ages and [b] I could take a small step sideways to be 100% safe.
 
-![France Verge](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2016/09/verge.jpg)
+![France Verge](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2016/09/verge.jpg)
 
 
 For my second run, I went much further afield and was thrilled to discover an offical nature trail. This was created just with basic crushed white rock and was a lovely surface to run on. 
 
-![France 2](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2016/09/20160723_083535.jpg)
+![France 2](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2016/09/20160723_083535.jpg)
 
 The return leg was on a very busy road. But again, it wasn't a problem. No hedges, and big flat verge. We'll get back to hedges in a moment.
 
@@ -193,7 +193,7 @@ The main impediment to people being able to walk safely everywhere is [a] visibi
 
 If you do one of the loops of the wonderful [Lusitania Trail](http://conoroneill.com/2016/08/26/the-seven-heads-walk-and-lusitania-trail-is-one-of-west-corks-best-kept-secrets/), this is the road you have to walk back on, with cars whizzing by at 100kph. It's not something I would ever do by choice.
 
-![Irish Roads](https://s3-eu-west-1.amazonaws.com/conoroneill.com/wp-content/uploads/2016/09/irish_roads.jpg)
+![Irish Roads](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2016/09/irish_roads.jpg)
 
 The government should CPO every roadside ditch and hedge. This removes the current nonsense where hedge cuttting is the landowners responsibility and can only happen during certain months due to nests. Get rid of the lot and the birds can go back to their natural pre-road habitats.
 
