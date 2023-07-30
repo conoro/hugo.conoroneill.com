@@ -50,28 +50,29 @@ Things had continued to go well with the Calderas and I did multiple shorter tra
 
 ![Sewed Caldera 6](/images/2023/06/sewed_caldera.jpg)
 
-
 <script type="application/ld+json">
- {
-      "@context": "https://schema.org/",
-      "@type": "Review",
-      "itemReviewed": {
-        "@type": "Product",
-        "image": "https://conoroneill.com/images/2023/06/busted_caldera.jpg",
-        "name": "Brooks Caldera 6",
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4"
-      },
-      "name": "Amazing on wet rocks but disappointing durability of upper",
-      "author": {
-        "@type": "Person",
-        "name": "Conor O'Neill"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "conoroneill.com"
-      }
+  {
+    "@context": "https://schema.org/",
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Conor O'Neill"
+    },
+    "itemReviewed": {
+      "@type": "Product",
+      "image": "https://conoroneill.com/images/2023/06/busted_caldera.jpg",
+      "name": "Brooks Caldera 6"
+    },
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4"
+    },
+    "name": "The Brooks Caldera 6 is an ultra-devouring monster (but)",
+    "reviewBody": "Amazing on wet rocks but disappointing durability of upper",
+    "datePublished": "2023-05-22",
+    "publisher": {
+      "@type": "Organization",
+      "name": "conoroneill.com"
     }
+  }
 </script>

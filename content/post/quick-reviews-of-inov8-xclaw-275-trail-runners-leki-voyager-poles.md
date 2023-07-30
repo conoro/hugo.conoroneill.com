@@ -67,51 +67,56 @@ Two big thumbs up. For Irish mud, the X-CLAWs are perfect. For general hill walk
 
 
 <script type="application/ld+json">
- {
-      "@context": "https://schema.org/",
-      "@type": "Review",
-      "itemReviewed": {
-        "@type": "Product",
-        "image": "https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/06/2017-06-10%2013.21.35.jpg",
-        "name": "Inov-8 X-CLAW 275",
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4"
-      },
-      "name": "Two big thumbs up. For Irish mud, the X-CLAWs are perfect.",
-      "author": {
-        "@type": "Person",
-        "name": "Conor O'Neill"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "conoroneill.com"
-      }
+  {
+    "@context": "https://schema.org/",
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Conor O'Neill"
+    },
+    "itemReviewed": {
+      "@type": "Product",
+      "image": "https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/06/2017-06-10%2013.21.35.jpg",
+      "name": "Inov-8 X-CLAW 275"
+    },
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4"
+    },
+    "name": "Two big thumbs up. For Irish mud, the X-CLAWs are perfect.",
+    "reviewBody": "For nasty boggy ground these are ideal. But you'll struggle going road to trail.",
+    "datePublished": "2017-06-11",
+    "publisher": {
+      "@type": "Organization",
+      "name": "conoroneill.com"
     }
+  }
 </script>
 
+
 <script type="application/ld+json">
- {
-      "@context": "https://schema.org/",
-      "@type": "Review",
-      "itemReviewed": {
-        "@type": "Product",
-        "image": "https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/06/leki_voyager.jpg",
-        "name": "Leki Voyager poles",
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4"
-      },
-      "name": "A great set of poles for beginners.",
-      "author": {
-        "@type": "Person",
-        "name": "Conor O'Neill"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "conoroneill.com"
-      }
+  {
+    "@context": "https://schema.org/",
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Conor O'Neill"
+    },
+    "itemReviewed": {
+      "@type": "Product",
+      "image": "https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/06/leki_voyager.jpg",
+      "name": "Leki Voyager poles"
+    },
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4"
+    },
+    "name": "A great set of poles for beginners.",
+    "reviewBody": "Inexpensive and strong but you'll need something lighter over long distances.",
+    "datePublished": "2017-06-11",
+    "publisher": {
+      "@type": "Organization",
+      "name": "conoroneill.com"
     }
+  }
 </script>
