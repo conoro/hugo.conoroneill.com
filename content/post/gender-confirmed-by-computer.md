@@ -1,11 +1,10 @@
----
-title: "Gender Confirmed by computer"
-slug: "gender-confirmed-by-computer"
-date: "2005-05-22T12:25:41+00:00"
-tags:
-id: 79
-comment: false
----
++++
+title = "Gender Confirmed by computer"
+slug = "gender-confirmed-by-computer"
+date = "2005-05-22T12:25:41+00:00"
+id = 79
+comment = false
++++
 
 <div style="clear: both" />Just in case there was any doubt, [The Gender Genie](http://www.bookblog.net/gender/genie.html) confirmed that I'm a bloke. Huge sighs of relief from my wife. Interesting wee tool actually (The Gender Genie, not me). I just cut n paste some blog entries and it gave 247 male vs 146 female.
 

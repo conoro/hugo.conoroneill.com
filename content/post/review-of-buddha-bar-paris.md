@@ -1,11 +1,10 @@
----
-title: "Review of Buddha Bar Paris"
-slug: "review-of-buddha-bar-paris"
-date: "2008-01-06T16:10:33+00:00"
-tags:
-id: 630
-comment: false
----
++++
+title = "Review of Buddha Bar Paris"
+slug = "review-of-buddha-bar-paris"
+date = "2008-01-06T16:10:33+00:00"
+id = 630
+comment = false
++++
 
 We all know to expect snooty service in Paris but I've rarely found that and have enjoyed most meals that I've had there. So I was a bit gobsmacked by the Jean Marie Le Pen supporters running Buddha Bar in Paris.
 

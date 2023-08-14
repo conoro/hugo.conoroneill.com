@@ -1,11 +1,10 @@
----
-title: "Hulk Hogan vs Philip  Yaksplitter  Johnston in Warhammer Smackdown"
-slug: "hulk-hogan-vs-philip-yaksplitter-johnston-in-warhammer-smackdown"
-date: "2006-03-02T21:03:00+00:00"
-tags:
-id: 267
-comment: false
----
++++
+title = "Hulk Hogan vs Philip  Yaksplitter  Johnston in Warhammer Smackdown"
+slug = "hulk-hogan-vs-philip-yaksplitter-johnston-in-warhammer-smackdown"
+date = "2006-03-02T21:03:00+00:00"
+id = 267
+comment = false
++++
 
 Get ready Grapple Fans for the bout of the century. Exclusive Sky Sports coverage of the Warhammer 40k Premier Competition & Invitational Only, Grand Tournament.
 

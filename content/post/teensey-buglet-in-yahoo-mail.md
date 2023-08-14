@@ -1,11 +1,10 @@
----
-title: "Teensey buglet in Yahoo Mail"
-slug: "teensey-buglet-in-yahoo-mail"
-date: "2006-07-21T09:18:09+00:00"
-tags:
-id: 380
-comment: false
----
++++
+title = "Teensey buglet in Yahoo Mail"
+slug = "teensey-buglet-in-yahoo-mail"
+date = "2006-07-21T09:18:09+00:00"
+id = 380
+comment = false
++++
 
 I know the software is still in beta and I'm just being obnoxious but having -1 emails in my inbox did make me smile. 
 

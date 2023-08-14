@@ -1,11 +1,10 @@
----
-title: "How to render me speechless"
-slug: "how-to-render-me-speechless"
-date: "2007-12-13T12:48:12+00:00"
-tags:
-id: 626
-comment: false
----
++++
+title = "How to render me speechless"
+slug = "how-to-render-me-speechless"
+date = "2007-12-13T12:48:12+00:00"
+id = 626
+comment = false
++++
 
 Hand me this receipt in a bar in Paris after I order four bottles of beer:
 

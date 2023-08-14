@@ -1,11 +1,10 @@
----
-title: "Thinking of setting up a business? Watch this."
-slug: "thinking-of-setting-up-a-business-watch-this"
-date: "2009-12-10T17:21:30+00:00"
-tags:
-id: 1005
-comment: false
----
++++
+title = "Thinking of setting up a business? Watch this."
+slug = "thinking-of-setting-up-a-business-watch-this"
+date = "2009-12-10T17:21:30+00:00"
+id = 1005
+comment = false
++++
 
 The most inspirational thing I've seen in a long long time. [Gary Vaynerchuk](http://tv.winelibrary.com/) is amazing. Note, audio is NSFW.
 

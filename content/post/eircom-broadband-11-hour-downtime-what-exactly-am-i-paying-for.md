@@ -1,11 +1,10 @@
----
-title: "Eircom Broadband 11 hour downtime. What exactly am I paying for?"
-slug: "eircom-broadband-11-hour-downtime-what-exactly-am-i-paying-for"
-date: "2006-01-13T11:50:54+00:00"
-tags:
-id: 218
-comment: false
----
++++
+title = "Eircom Broadband 11 hour downtime. What exactly am I paying for?"
+slug = "eircom-broadband-11-hour-downtime-what-exactly-am-i-paying-for"
+date = "2006-01-13T11:50:54+00:00"
+id = 218
+comment = false
++++
 
 Few useful words for Network Operations in Eircom: Active/Passive Clusters, RAID, RAC, Multi-Pathing, Redundancy, 24*7*365 Network Monitoring, investment, SLA.
 

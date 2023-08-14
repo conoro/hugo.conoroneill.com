@@ -1,11 +1,10 @@
----
-title: "First posting from Performancing for Firefox"
-slug: "first-posting-from-performancing-for-firefox"
-date: "2005-12-22T08:43:22+00:00"
-tags:
-id: 206
-comment: false
----
++++
+title = "First posting from Performancing for Firefox"
+slug = "first-posting-from-performancing-for-firefox"
+date = "2005-12-22T08:43:22+00:00"
+id = 206
+comment = false
++++
 
             I installed the Performancing extension for Firefox yesterday. It is a blogging add-on and I'm writing this post in it. Looks pretty good except I don't see any handling of Wordpress categories. If this feature does not exist or is not coming soon, I won't continue to use it. From a basic UI perspective it seems fine tho. And it'll handle multiple blogs. More as I investigate. Aha, found the categories tab, excellent. 
 

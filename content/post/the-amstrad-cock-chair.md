@@ -1,11 +1,10 @@
----
-title: "The Amstrad Cock Chair"
-slug: "the-amstrad-cock-chair"
-date: "2006-04-12T21:01:28+00:00"
-tags:
-id: 324
-comment: false
----
++++
+title = "The Amstrad Cock Chair"
+slug = "the-amstrad-cock-chair"
+date = "2006-04-12T21:01:28+00:00"
+id = 324
+comment = false
++++
 
 They really missed a trick on The Apprentice tonight. What man wouldn't buy a chair shaped like a giant knob? Light Cubes for £85, me hole.
 

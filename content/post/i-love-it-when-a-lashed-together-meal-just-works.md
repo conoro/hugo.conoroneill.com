@@ -1,11 +1,10 @@
----
-title: "I love it when a lashed-together meal just works"
-slug: "i-love-it-when-a-lashed-together-meal-just-works"
-date: "2006-09-20T21:50:54+00:00"
-tags:
-id: 419
-comment: false
----
++++
+title = "I love it when a lashed-together meal just works"
+slug = "i-love-it-when-a-lashed-together-meal-just-works"
+date = "2006-09-20T21:50:54+00:00"
+id = 419
+comment = false
++++
 
 Pork chops in the fridge and no plan. What to do that we'll all eat? Check the press - a Lloyd Grossman Puttanesca sauce looks out at me. Hell, I'll make my own.
 

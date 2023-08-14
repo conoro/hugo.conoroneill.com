@@ -1,11 +1,10 @@
----
-title: "All our research gives us a gut intuition"
-slug: "all-our-research-gives-us-a-gut-intuition"
-date: "2006-06-27T21:53:53+00:00"
-tags:
-id: 372
-comment: false
----
++++
+title = "All our research gives us a gut intuition"
+slug = "all-our-research-gives-us-a-gut-intuition"
+date = "2006-06-27T21:53:53+00:00"
+id = 372
+comment = false
++++
 
 Another memorable quote from "The Apprentice, Martha Stewart".
 

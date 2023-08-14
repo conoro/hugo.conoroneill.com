@@ -1,11 +1,10 @@
----
-title: "Review of The Pressure Cooker (RTE)"
-slug: "review-of-the-pressure-cooker-rte"
-date: "2008-02-04T23:34:38+00:00"
-tags:
-id: 638
-comment: false
----
++++
+title = "Review of The Pressure Cooker (RTE)"
+slug = "review-of-the-pressure-cooker-rte"
+date = "2008-02-04T23:34:38+00:00"
+id = 638
+comment = false
++++
 
 The advertising for this programme had me hating its subject before it had even started. It depicted Dylan McGrath, who runs Mint restaurant in Dublin, as an obnoxious Ramsay-knockoff desperate to win a Michelin star. Two minutes into the show I wanted to turn it off. I had no interest in seeing this pompous, arrogant jumped-up little asshole.
 

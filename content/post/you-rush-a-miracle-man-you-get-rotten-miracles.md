@@ -1,11 +1,10 @@
----
-title: "You rush a miracle man, you get rotten miracles"
-slug: "you-rush-a-miracle-man-you-get-rotten-miracles"
-date: "2005-04-14T08:03:00+00:00"
-tags:
-id: 69
-comment: false
----
++++
+title = "You rush a miracle man, you get rotten miracles"
+slug = "you-rush-a-miracle-man-you-get-rotten-miracles"
+date = "2005-04-14T08:03:00+00:00"
+id = 69
+comment = false
++++
 
 Nostalgia time, 80's fans. Due to unprecedented public demand (currently at zero requests), I am making available my classic ZX Spectrum games at no cost. Each of these 4K masterpieces, which took months of pubescent angst to complete, requires either an actual ZX Spectrum or an emulator to play. My two favourite emulators are [EmuZWin](http://bonanzas.rinet.ru/apps/EmuZWin_Eng.htm) and [ZXSpin](http://www.zxspin.co.uk/). The current version of ZXSpin seems to have some problem finding ROMs so maybe stick with EmuZWin for the moment.
 

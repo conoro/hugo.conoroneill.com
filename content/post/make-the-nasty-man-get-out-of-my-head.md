@@ -1,11 +1,10 @@
----
-title: "Make the nasty man get out of my head"
-slug: "make-the-nasty-man-get-out-of-my-head"
-date: "2005-06-15T08:01:43+00:00"
-tags:
-id: 107
-comment: false
----
++++
+title = "Make the nasty man get out of my head"
+slug = "make-the-nasty-man-get-out-of-my-head"
+date = "2005-06-15T08:01:43+00:00"
+id = 107
+comment = false
++++
 
 <div style="clear: both" />Carl Jr's (burger chain) did a fabulous ad recently starring Paris Hilton. It's only flaw was the presence of Paris Hilton. You can see it here:
 

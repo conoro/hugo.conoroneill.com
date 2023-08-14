@@ -1,11 +1,10 @@
----
-title: "And I thought I was well travelled"
-slug: "and-i-thought-i-was-well-travelled"
-date: "2005-07-12T12:30:00+00:00"
-tags:
-id: 122
-comment: false
----
++++
+title = "And I thought I was well travelled"
+slug = "and-i-thought-i-was-well-travelled"
+date = "2005-07-12T12:30:00+00:00"
+id = 122
+comment = false
++++
 
 Still quite a bit of the planet to check-out before I check-out.
 

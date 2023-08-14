@@ -1,11 +1,10 @@
----
-title: "Nice Car Mate"
-slug: "nice-car-mate"
-date: "2005-05-04T08:36:50+00:00"
-tags:
-id: 96
-comment: false
----
++++
+title = "Nice Car Mate"
+slug = "nice-car-mate"
+date = "2005-05-04T08:36:50+00:00"
+id = 96
+comment = false
++++
 
 That Vauxhall Astra ad is an absolute stonker. I love it. Catches the concept of a petrol-head perfectly.
 

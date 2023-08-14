@@ -1,11 +1,10 @@
----
-title: "Review of The Poacher's Inn"
-slug: "review-of-the-poachers-inn"
-date: "2008-01-19T15:25:56+00:00"
-tags:
-id: 632
-comment: false
----
++++
+title = "Review of The Poacher's Inn"
+slug = "review-of-the-poachers-inn"
+date = "2008-01-19T15:25:56+00:00"
+id = 632
+comment = false
++++
 
 The Poacher's Inn is the nearest eatery/pub to our house. In a previous incarnation as Ted Amber's it was an ok pub and a pretty poor restaurant that was barely above the level of a carvery.
 

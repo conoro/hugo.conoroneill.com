@@ -1,11 +1,10 @@
----
-title: "Dillon's of Timoleague - Good food, bad value"
-slug: "dillons-of-timoleague-good-food-bad-value"
-date: "2006-02-19T17:40:53+00:00"
-tags:
-id: 259
-comment: false
----
++++
+title = "Dillon's of Timoleague - Good food, bad value"
+slug = "dillons-of-timoleague-good-food-bad-value"
+date = "2006-02-19T17:40:53+00:00"
+id = 259
+comment = false
++++
 
   <div class='hreview'>         
 

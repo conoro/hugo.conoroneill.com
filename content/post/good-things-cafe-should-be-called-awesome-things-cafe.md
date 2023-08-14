@@ -1,11 +1,10 @@
----
-title: "Good Things Cafe should be called Awesome Things Cafe"
-slug: "good-things-cafe-should-be-called-awesome-things-cafe"
-date: "2009-10-31T15:23:19+00:00"
-tags:
-id: 976
-comment: false
----
++++
+title = "Good Things Cafe should be called Awesome Things Cafe"
+slug = "good-things-cafe-should-be-called-awesome-things-cafe"
+date = "2009-10-31T15:23:19+00:00"
+id = 976
+comment = false
++++
 
 Two days of fantastic fish recipes by a wonderful teacher in  a perfect setting. Not much more to say than that. But I will.
 

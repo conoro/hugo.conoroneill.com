@@ -1,11 +1,10 @@
----
-title: "Fun Food in Arthurstown"
-slug: "fun-food-in-arthurstown"
-date: "2008-08-11T19:49:25+00:00"
-tags:
-id: 708
-comment: false
----
++++
+title = "Fun Food in Arthurstown"
+slug = "fun-food-in-arthurstown"
+date = "2008-08-11T19:49:25+00:00"
+id = 708
+comment = false
++++
 
 A brilliant gift of a cookery course in Dunbrody by my fabulous sister-in-law Paula led to one of the best day's out I've had in ages.  Interesting and enjoyable in every way without a dull moment in a gorgeous location.
 

@@ -1,11 +1,10 @@
----
-title: "First Flock Fiddling"
-slug: "first-flock-fiddling"
-date: "2005-11-24T09:23:05+00:00"
-tags:
-id: 188
-comment: false
----
++++
+title = "First Flock Fiddling"
+slug = "first-flock-fiddling"
+date = "2005-11-24T09:23:05+00:00"
+id = 188
+comment = false
++++
 
 Having a look at the [Flock ](http://www.flock.com/)browser to see if it is much cop. So far not bowled away at all. This is a test post from its blogging feature. The whole integration thing just isn't as slick as I was expecting.
 
@@ -19,5 +18,5 @@ UPDATE: I don't like all the HTML crud it inserts all over my bog standard text.
 
 <!-- technorati tags begin -->
 
-technorati tags: [flock](http://technorati.com/tag/flock), [ subscribe to comments](http://technorati.com/tag/ subecribe to comments), [ wordpress](http://technorati.com/tag/ wordpress)
+technorati tags = [flock](http://technorati.com/tag/flock), [ subscribe to comments](http://technorati.com/tag/ subecribe to comments), [ wordpress](http://technorati.com/tag/ wordpress)
 <!-- technorati tags end -->

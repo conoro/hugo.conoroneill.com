@@ -1,11 +1,10 @@
----
-title: "Review of Hairy Baby Hoodie"
-slug: "review-of-hairy-baby-hoodie"
-date: "2007-07-27T08:34:16+00:00"
-tags:
-id: 589
-comment: false
----
++++
+title = "Review of Hairy Baby Hoodie"
+slug = "review-of-hairy-baby-hoodie"
+date = "2007-07-27T08:34:16+00:00"
+id = 589
+comment = false
++++
 
 <div lang="en" class="hreview">
     <div>

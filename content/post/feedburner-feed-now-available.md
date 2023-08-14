@@ -1,11 +1,10 @@
----
-title: "Feedburner feed now available"
-slug: "feedburner-feed-now-available"
-date: "2005-06-15T13:58:21+00:00"
-tags:
-id: 105
-comment: false
----
++++
+title = "Feedburner feed now available"
+slug = "feedburner-feed-now-available"
+date = "2005-06-15T13:58:21+00:00"
+id = 105
+comment = false
++++
 
 <div style="clear: both" />For no discernable reason other than the fact that I can, this Blog is now also available via Feedburner.
 

@@ -1,11 +1,10 @@
----
-title: "Margherita Madness"
-slug: "margherita-madness"
-date: "2006-07-22T11:32:44+00:00"
-tags:
-id: 381
-comment: false
----
++++
+title = "Margherita Madness"
+slug = "margherita-madness"
+date = "2006-07-22T11:32:44+00:00"
+id = 381
+comment = false
++++
 
 Inspired by [Red Mum's recent pizza making post,](http://redmum.blogspot.com/2006/07/easy-peasy-pizza.html) the awesome [DiFara Pizza story](http://inpraiseofsardines.typepad.com/blogs/2006/07/a_taste_so_deli.html) and my experiences in [The Good Things Cafe](http://www.thegoodthingscafe.com/) recently, I decided to make some pizza-pies with the two middle childer yesterday. We made one each. Classic Margherita with simple garlic/oregano/basil/passata sauce and buffalo mozzarella.
 

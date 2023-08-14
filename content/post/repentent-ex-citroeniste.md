@@ -1,11 +1,10 @@
----
-title: "Repentent ex-Citroëniste"
-slug: "repentent-ex-citroeniste"
-date: "2005-10-18T14:09:18+00:00"
-tags:
-id: 148
-comment: false
----
++++
+title = "Repentent ex-Citroëniste"
+slug = "repentent-ex-citroeniste"
+date = "2005-10-18T14:09:18+00:00"
+id = 148
+comment = false
++++
 
 Bless me father for I have sinned. It has been four years since my last Citroën. 
 

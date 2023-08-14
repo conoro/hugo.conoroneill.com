@@ -1,11 +1,10 @@
----
-title: "Funniest Damn thing I've read in a long time"
-slug: "funniest-damn-thing-ive-read-in-a-long-time"
-date: "2005-03-17T13:16:00+00:00"
-tags:
-id: 40
-comment: false
----
++++
+title = "Funniest Damn thing I've read in a long time"
+slug = "funniest-damn-thing-ive-read-in-a-long-time"
+date = "2005-03-17T13:16:00+00:00"
+id = 40
+comment = false
++++
 
 From the Onion: [Irish-Heritage Timeline](http://theonion.com/news/index.php?issue=4111&n=12)
 

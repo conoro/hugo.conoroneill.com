@@ -1,11 +1,10 @@
----
-title: "Time to build a Cork Computer History Museum"
-slug: "time-to-build-a-cork-computer-history-museum"
-date: "2009-11-14T17:42:46+00:00"
-tags:
-id: 990
-comment: false
----
++++
+title = "Time to build a Cork Computer History Museum"
+slug = "time-to-build-a-cork-computer-history-museum"
+date = "2009-11-14T17:42:46+00:00"
+id = 990
+comment = false
++++
 
 We have buildings all over Cork, empty. We have a recession. The hospitality industry is crippled. We need something that encourages tourism, makes use of some of that property and points the way to the future.
 

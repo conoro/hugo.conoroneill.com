@@ -1,11 +1,10 @@
----
-title: "My Poxy Children"
-slug: "my-poxy-children"
-date: "2006-08-02T17:54:22+00:00"
-tags:
-id: 391
-comment: false
----
++++
+title = "My Poxy Children"
+slug = "my-poxy-children"
+date = "2006-08-02T17:54:22+00:00"
+id = 391
+comment = false
++++
 
 Is is possible to get psychosomatic Chicken Pox? I think I may have it, I've been scratching for days. 
 

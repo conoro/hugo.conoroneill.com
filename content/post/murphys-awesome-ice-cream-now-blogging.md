@@ -1,11 +1,10 @@
----
-title: "Murphy's Awesome Ice-Cream now blogging"
-slug: "murphys-awesome-ice-cream-now-blogging"
-date: "2006-02-27T10:53:39+00:00"
-tags:
-id: 262
-comment: false
----
++++
+title = "Murphy's Awesome Ice-Cream now blogging"
+slug = "murphys-awesome-ice-cream-now-blogging"
+date = "2006-02-27T10:53:39+00:00"
+id = 262
+comment = false
++++
 
 Kieran from Murphy's Ice Cream in Dingle [posted a comment](http://conoroneill.com/2005/12/12/irish-food-producers-and-the-cluetrain-manifesto/#comments) to this blog last week and let me know that they [now have a blog of their own](http://icecreamireland.blogspot.com/). I'll probably have to give Catherine a sedative when I tell her that they have a chocolate sauce recipe on it already.
 

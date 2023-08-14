@@ -1,11 +1,10 @@
----
-title: "Le Singe est dans l'arbre et peut etre l'auto aussi"
-slug: "le-singe-est-dans-larbre-et-peut-etre-lauto-aussi"
-date: "2005-11-17T23:47:26+00:00"
-tags:
-id: 181
-comment: false
----
++++
+title = "Le Singe est dans l'arbre et peut etre l'auto aussi"
+slug = "le-singe-est-dans-larbre-et-peut-etre-lauto-aussi"
+date = "2005-11-17T23:47:26+00:00"
+id = 181
+comment = false
++++
 
 [JWZ](http://www.jwz.org/) has a link to a fabulous piece of footage which will give any petrol-head goose-bumps: 
 

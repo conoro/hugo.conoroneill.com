@@ -1,11 +1,10 @@
----
-title: "Fancy a meal for two?"
-slug: "fancy-a-meal-for-two"
-date: "2008-06-27T07:38:16+00:00"
-tags:
-id: 675
-comment: false
----
++++
+title = "Fancy a meal for two?"
+slug = "fancy-a-meal-for-two"
+date = "2008-06-27T07:38:16+00:00"
+id = 675
+comment = false
++++
 
 I don't know a lot about wine and beer, but I know a man who does. Julian over at [Bubble Brothers](http://www.bubblebrothers.com/) has a nice competition on their blog. They import the gorgeous Japanese iKi beer (I had it in Wagamama a few months back) and are now supplying it to the Cafe Mao chain.
 

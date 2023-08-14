@@ -1,11 +1,10 @@
----
-title: "Yoplait has a customer for life"
-slug: "yoplait-have-a-customer-for-life"
-date: "2006-08-12T09:39:03+00:00"
-tags:
-id: 392
-comment: false
----
++++
+title = "Yoplait has a customer for life"
+slug = "yoplait-have-a-customer-for-life"
+date = "2006-08-12T09:39:03+00:00"
+id = 392
+comment = false
++++
 
 We got a call from Customer support in Yoplait last Friday week asking if we were in to take a delivery and to apologise for [the mis-labelled yoghurt](http://conoroneill.com/2006/07/29/yoplait-make-oscar-mad-again/). Shortly afterwards a courier arrived with two boxes full of these:
 

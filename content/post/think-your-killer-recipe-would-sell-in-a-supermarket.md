@@ -1,11 +1,10 @@
----
-title: "Think your killer recipe would sell in a supermarket?"
-slug: "think-your-killer-recipe-would-sell-in-a-supermarket"
-date: "2008-08-31T10:52:10+00:00"
-tags:
-id: 716
-comment: false
----
++++
+title = "Think your killer recipe would sell in a supermarket?"
+slug = "think-your-killer-recipe-would-sell-in-a-supermarket"
+date = "2008-08-31T10:52:10+00:00"
+id = 716
+comment = false
++++
 
 Aisling from RTE in Cork contacted a bunch of Irish bloggers about a new show they are doing. I'm thrilled she did, considering it's exactly what I recommended only a few weeks ago in the context of my "Heat" review.
 

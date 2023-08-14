@@ -1,11 +1,10 @@
----
-title: "Mickey D's - From not bad to bloody hell"
-slug: "mickey-ds-from-not-bad-to-bloody-hell"
-date: "2006-01-30T11:55:09+00:00"
-tags:
-id: 237
-comment: false
----
++++
+title = "Mickey D's - From not bad to bloody hell"
+slug = "mickey-ds-from-not-bad-to-bloody-hell"
+date = "2006-01-30T11:55:09+00:00"
+id = 237
+comment = false
++++
 
 We pop in to McDonald's in Roscrea on most trips from Bandon to Cavan. It is about half way and the kids are usually starving at that stage. It's a wee bit small and parking is a hassle but it is one of the best run ones in the country. They have one of those "helper" people permanently on the floor mainly doing clean-up but also offering to mind kids if you need to order the food or go to the loo. The food is fine and the place is always spotless.
 

@@ -1,11 +1,10 @@
----
-title: "Our Food Past or Our Food Future?"
-slug: "our-food-past-or-our-food-future"
-date: "2010-07-25T14:24:01+00:00"
-tags:
-id: 1079
-comment: false
----
++++
+title = "Our Food Past or Our Food Future?"
+slug = "our-food-past-or-our-food-future"
+date = "2010-07-25T14:24:01+00:00"
+id = 1079
+comment = false
++++
 
 I was given this heavy tome by the publishers to review and months later I'm finally getting my thoughts down. Whilst it is a fantastic collection of recipes and information that all Irish cooks should own, I fear that along with Darina's Forgotten Skills of Cooking, we are looking at our past.
 

@@ -1,11 +1,10 @@
----
-title: "Car Sharing in Cork City"
-slug: "car-sharing-in-cork-city"
-date: "2007-03-22T09:28:38+00:00"
-tags:
-id: 513
-comment: false
----
++++
+title = "Car Sharing in Cork City"
+slug = "car-sharing-in-cork-city"
+date = "2007-03-22T09:28:38+00:00"
+id = 513
+comment = false
++++
 
 Got an email from Cork GreenMap telling me about a new feasibility study that Cork City Council are doing in the area of Car Sharing.
 

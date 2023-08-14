@@ -1,11 +1,10 @@
----
-title: "Dilation diary"
-slug: "dilation-diary"
-date: "2005-06-07T08:51:00+00:00"
-tags:
-id: 110
-comment: false
----
++++
+title = "Dilation diary"
+slug = "dilation-diary"
+date = "2005-06-07T08:51:00+00:00"
+id = 110
+comment = false
++++
 
 <div style="clear: both" />
 

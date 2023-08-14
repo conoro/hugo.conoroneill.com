@@ -1,11 +1,10 @@
----
-title: "Favour from my  foreign  language expert readers"
-slug: "favour-from-my-foreign-language-expert-readers"
-date: "2007-07-15T20:03:28+00:00"
-tags:
-id: 586
-comment: false
----
++++
+title = "Favour from my  foreign  language expert readers"
+slug = "favour-from-my-foreign-language-expert-readers"
+date = "2007-07-15T20:03:28+00:00"
+id = 586
+comment = false
++++
 
 We're playing around with some stuff on [LouderVoice](http://www.loudervoice.com) and we need as many translations as possible for the word "review" in the sense of "a review of a movie" or "a review of a restaurant". 
 

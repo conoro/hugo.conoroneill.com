@@ -1,11 +1,10 @@
----
-title: "Politics In Ireland site re-vamp"
-slug: "politics-in-ireland-site-re-vamp"
-date: "2007-09-15T10:05:22+00:00"
-tags:
-id: 606
-comment: false
----
++++
+title = "Politics In Ireland site re-vamp"
+slug = "politics-in-ireland-site-re-vamp"
+date = "2007-09-15T10:05:22+00:00"
+id = 606
+comment = false
++++
 
 The updated [Irish Politics](http://www.politicsinireland.com/) site is now live. This is a tremendous resource for anyone interested in what people on the ground are writing about politics here.
 

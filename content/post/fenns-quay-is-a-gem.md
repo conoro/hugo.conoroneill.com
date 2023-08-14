@@ -1,11 +1,10 @@
----
-title: "Fenn's Quay is a gem"
-slug: "fenns-quay-is-a-gem"
-date: "2009-04-23T18:24:03+00:00"
-tags:
-id: 890
-comment: false
----
++++
+title = "Fenn's Quay is a gem"
+slug = "fenns-quay-is-a-gem"
+date = "2009-04-23T18:24:03+00:00"
+id = 890
+comment = false
++++
 
 This won't be a long review, it doesn't need to be. Fenn's Quay gave us a fantastic meal last Saturday night with wonderful service in a lovely room. You can't ask for more than that.
 

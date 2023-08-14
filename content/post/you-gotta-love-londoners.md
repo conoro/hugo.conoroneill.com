@@ -1,11 +1,10 @@
----
-title: "You gotta love Londoners"
-slug: "you-gotta-love-londoners"
-date: "2005-07-11T15:16:00+00:00"
-tags:
-id: 123
-comment: false
----
++++
+title = "You gotta love Londoners"
+slug = "you-gotta-love-londoners"
+date = "2005-07-11T15:16:00+00:00"
+id = 123
+comment = false
++++
 
 30 years of bombings by IRA scum achieved nothing. Mass murderers like Martin Ferris may think that cowardly bombings in places like Warrington were different to what happened last week. Civilized people know there is no difference between the actions of Irish fascists and Islamo-Fascists. These words from a Londoner say it all:
 

@@ -1,11 +1,10 @@
----
-title: "Review of Tesco Online Shopping"
-slug: "review-of-tesco-online-shopping"
-date: "2007-06-07T08:27:14+00:00"
-tags:
-id: 574
-comment: false
----
++++
+title = "Review of Tesco Online Shopping"
+slug = "review-of-tesco-online-shopping"
+date = "2007-06-07T08:27:14+00:00"
+id = 574
+comment = false
++++
 
 <div lang="en" class="hreview">
     <div>

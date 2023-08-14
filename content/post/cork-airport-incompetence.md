@@ -1,11 +1,10 @@
----
-title: "Cork Airport Incompetence"
-slug: "cork-airport-incompetence"
-date: "2008-03-12T16:20:46+00:00"
-tags:
-id: 646
-comment: false
----
++++
+title = "Cork Airport Incompetence"
+slug = "cork-airport-incompetence"
+date = "2008-03-12T16:20:46+00:00"
+id = 646
+comment = false
++++
 
 I meant to write this post a few months back and was finally reminded to yesterday when I was in Cork Airport yet again.
 

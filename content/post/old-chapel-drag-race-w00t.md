@@ -1,11 +1,10 @@
----
-title: "Old Chapel Drag Race - w00t !!"
-slug: "old-chapel-drag-race-w00t"
-date: "2006-04-23T21:35:24+00:00"
-tags:
-id: 336
-comment: false
----
++++
+title = "Old Chapel Drag Race - w00t !!"
+slug = "old-chapel-drag-race-w00t"
+date = "2006-04-23T21:35:24+00:00"
+id = 336
+comment = false
++++
 
 Bloody Brilliant, and we only watched the practice runs.
 

@@ -1,11 +1,10 @@
----
-title: "Tis Bloomin'"
-slug: "tis-bloomin"
-date: "2009-05-20T19:09:03+00:00"
-tags:
-id: 900
-comment: false
----
++++
+title = "Tis Bloomin'"
+slug = "tis-bloomin"
+date = "2009-05-20T19:09:03+00:00"
+id = 900
+comment = false
++++
 
 The [Bloom Gardening Event](http://bloominthepark.com/) is back and it looks fantastic. On in the Phoenix Park from 28th May to 1st June, it seems to have something for everyone.
 

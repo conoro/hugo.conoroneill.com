@@ -1,11 +1,10 @@
----
-title: "Is that a bullseye painted on your back?"
-slug: "is-that-a-bullseye-painted-on-your-back"
-date: "2005-05-20T15:57:31+00:00"
-tags:
-id: 80
-comment: false
----
++++
+title = "Is that a bullseye painted on your back?"
+slug = "is-that-a-bullseye-painted-on-your-back"
+date = "2005-05-20T15:57:31+00:00"
+id = 80
+comment = false
++++
 
 <div style="clear: both" />I can't help myself. I know they are world's easiest targets. [Twenty Major](http://twentymajor.blogspot.com/2005/05/eurovision.html) had tears rolling down my face talking about what a pair of utter mingers they are.
 

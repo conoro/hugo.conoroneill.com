@@ -1,11 +1,10 @@
----
-title: "SOHO Solo West Cork"
-slug: "soho-solo-west-cork"
-date: "2008-09-15T09:25:09+00:00"
-tags:
-id: 733
-comment: false
----
++++
+title = "SOHO Solo West Cork"
+slug = "soho-solo-west-cork"
+date = "2008-09-15T09:25:09+00:00"
+id = 733
+comment = false
++++
 
 SOHO Solo West Cork is the West Cork Chapter of [SOHO Solo Ireland](http://www.sohosoloireland.com/), a small business networking and support group. It offers the opportunity to connect with other independent small businesses in the region, to share, collaborate and socialise with people who face similar challenges.
 

@@ -1,11 +1,10 @@
----
-title: "So I told a little white lie"
-slug: "so-i-told-a-little-white-lie"
-date: "2006-10-19T08:13:35+00:00"
-tags:
-id: 437
-comment: false
----
++++
+title = "So I told a little white lie"
+slug = "so-i-told-a-little-white-lie"
+date = "2006-10-19T08:13:35+00:00"
+id = 437
+comment = false
++++
 
 We had an hour to kill in Cork whilst waiting for Oscar to finish one of his many activities. I told them I'd bring them to a playground.
 

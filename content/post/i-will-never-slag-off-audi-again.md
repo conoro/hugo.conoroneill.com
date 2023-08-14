@@ -1,11 +1,10 @@
----
-title: "I will never slag off Audi again"
-slug: "i-will-never-slag-off-audi-again"
-date: "2006-03-19T10:17:29+00:00"
-tags:
-id: 290
-comment: false
----
++++
+title = "I will never slag off Audi again"
+slug = "i-will-never-slag-off-audi-again"
+date = "2006-03-19T10:17:29+00:00"
+id = 290
+comment = false
++++
 
 [Jalopnik ](http://www.jalopnik.com/)is one of the two best sites on the web for petrol heads (the other being [Autoblog](http://www.autoblog.com/)).
 

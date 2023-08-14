@@ -1,11 +1,10 @@
----
-title: "Vendors I would recommend"
-slug: "vendors-i-would-recommend"
-date: "2005-07-18T12:58:00+00:00"
-tags:
-id: 117
-comment: false
----
++++
+title = "Vendors I would recommend"
+slug = "vendors-i-would-recommend"
+date = "2005-07-18T12:58:00+00:00"
+id = 117
+comment = false
++++
 
 I've bought a few bits n pieces on eBay and the web recently and all of the vedors were top-notch and I'd recommend them.
 

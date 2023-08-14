@@ -1,11 +1,10 @@
----
-title: "ZX Spectrum launched 25 years ago today!"
-slug: "zx-spectrum-launched-25-years-ago-today"
-date: "2007-04-23T07:41:20+00:00"
-tags:
-id: 554
-comment: false
----
++++
+title = "ZX Spectrum launched 25 years ago today!"
+slug = "zx-spectrum-launched-25-years-ago-today"
+date = "2007-04-23T07:41:20+00:00"
+id = 554
+comment = false
++++
 
 This mightn't be a big deal to most people but it's a huge deal to me. If my parents hadn't got me a ZX Spectrum in 1982, I wouldn't have had the life I've had. No exaggeration. Every single college and career choice I've made stems from the skills I learned on that machine, which I still have (the machine, not the skills :-) ).
 

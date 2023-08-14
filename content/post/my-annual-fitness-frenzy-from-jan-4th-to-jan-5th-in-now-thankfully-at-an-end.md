@@ -1,11 +1,10 @@
----
-title: "My annual fitness frenzy from Jan 4th to Jan 5th is now thankfully at an end"
-slug: "my-annual-fitness-frenzy-from-jan-4th-to-jan-5th-in-now-thankfully-at-an-end"
-date: "2006-01-05T13:57:51+00:00"
-tags:
-id: 213
-comment: false
----
++++
+title = "My annual fitness frenzy from Jan 4th to Jan 5th is now thankfully at an end"
+slug = "my-annual-fitness-frenzy-from-jan-4th-to-jan-5th-in-now-thankfully-at-an-end"
+date = "2006-01-05T13:57:51+00:00"
+id = 213
+comment = false
++++
 
 After walking quite quickly from the car to the office today in order to burn those extra 4 calories, I suffered slight dizziness at the bottom of the stairs with the thought of walking up them. Luckily I came to my senses and can now happily slob out for another 12 months.
 

@@ -1,11 +1,10 @@
----
-title: "Final Science Week Post: Best Invention of 2007?"
-slug: "final-science-week-post-best-invention-of-2007"
-date: "2007-11-17T09:57:13+00:00"
-tags:
-id: 619
-comment: false
----
++++
+title = "Final Science Week Post: Best Invention of 2007?"
+slug = "final-science-week-post-best-invention-of-2007"
+date = "2007-11-17T09:57:13+00:00"
+id = 619
+comment = false
++++
 
 How many people are going to plump for the jesusphone in their posts? If Steve Jobs is responsible,it must be magic. Except it's not, it's a very nice UI on a phone design that was out of date in 2006 in Europe. So if not a fashion accessory then what? I think the [Science Week](http://www.scienceweek.ie/) people really mean "new product" when they say "invention", otherwise I'm going to have to go a read some science journals to find the latest cure for cancer.
 

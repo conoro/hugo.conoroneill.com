@@ -1,11 +1,10 @@
----
-title: "Ummera do Smoked Bacon"
-slug: "ummera-do-smoked-bacon"
-date: "2005-12-05T20:40:32+00:00"
-tags:
-id: 192
-comment: false
----
++++
+title = "Ummera do Smoked Bacon"
+slug = "ummera-do-smoked-bacon"
+date = "2005-12-05T20:40:32+00:00"
+id = 192
+comment = false
++++
 
 To mix vernaculars; Holy god, [Ummera ](http://www.ummera.com/)Rox! Wifey spotted Ummera Smoked Bacon in [Urru ](http://www.urru.ie/)in Bandon today and bought a pack.
 

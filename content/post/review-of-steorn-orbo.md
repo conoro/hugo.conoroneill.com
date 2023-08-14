@@ -1,11 +1,10 @@
----
-title: "Review of Steorn Orbo"
-slug: "review-of-steorn-orbo"
-date: "2007-07-07T18:28:57+00:00"
-tags:
-id: 582
-comment: false
----
++++
+title = "Review of Steorn Orbo"
+slug = "review-of-steorn-orbo"
+date = "2007-07-07T18:28:57+00:00"
+id = 582
+comment = false
++++
 
 This super device which breaks fundamental laws of physics is sure to be a huge success with those who give their bank details to strangers.
 

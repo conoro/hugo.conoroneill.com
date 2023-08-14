@@ -1,11 +1,10 @@
----
-title: "Traffic Lights on Food - give me patience."
-slug: "traffic-lights-on-food-give-me-patience"
-date: "2007-01-25T09:48:51+00:00"
-tags:
-id: 471
-comment: false
----
++++
+title = "Traffic Lights on Food - give me patience."
+slug = "traffic-lights-on-food-give-me-patience"
+date = "2007-01-25T09:48:51+00:00"
+id = 471
+comment = false
++++
 
 It appears the opposition parties have started their campaign to lose the next general election with their latest himbo/bimbo scheme which they picked up from the UK. They want traffic lights on food to indicate the levels of salt, sugar and fat. Not only are the stuck in the 1980's with the fat obsession, but they show such a basic mis-understanding of human nature that the scheme was obviously devised by a marxist.
 

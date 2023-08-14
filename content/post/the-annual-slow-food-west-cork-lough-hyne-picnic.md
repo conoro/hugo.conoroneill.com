@@ -1,11 +1,10 @@
----
-title: "The Annual Slow Food West Cork Lough Hyne Picnic"
-slug: "the-annual-slow-food-west-cork-lough-hyne-picnic"
-date: "2008-08-11T20:16:02+00:00"
-tags:
-id: 714
-comment: false
----
++++
+title = "The Annual Slow Food West Cork Lough Hyne Picnic"
+slug = "the-annual-slow-food-west-cork-lough-hyne-picnic"
+date = "2008-08-11T20:16:02+00:00"
+id = 714
+comment = false
++++
 
 I just got a note from Anthony Creswell of Ummera Smokehouse to let me know about the annual Slow Food picnic. It is on this Sunday August 17th.
 > Climb up Lough Hyne and treat yourself to a scrumptious picnic while gazing at the spectacular view. Meet at bottom of Lough Hyne to collect your pre-ordered picnic at 1:00pm. They aim to start the climb at 1:30pm

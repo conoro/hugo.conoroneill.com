@@ -1,11 +1,10 @@
----
-title: "Danano's in Derry - Nice Italianish food with incredible value"
-slug: "dananos-in-derry-nice-italianish-food-with-incredible-value"
-date: "2006-01-30T13:55:48+00:00"
-tags:
-id: 238
-comment: false
----
++++
+title = "Danano's in Derry - Nice Italianish food with incredible value"
+slug = "dananos-in-derry-nice-italianish-food-with-incredible-value"
+date = "2006-01-30T13:55:48+00:00"
+id = 238
+comment = false
++++
 
 Eating out in Derry on a Saturday night without a booking proved to be a bigger challenge than the NI Peace Process. Eoin's unique understanding of local restaurant booking dynamics (all that chemical engineering process training didn't go to waste) meant that most places quoted us up to two hours waiting time at around 8pm.
 

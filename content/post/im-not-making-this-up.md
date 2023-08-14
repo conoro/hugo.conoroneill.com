@@ -1,11 +1,10 @@
----
-title: "I'm not making this up"
-slug: "im-not-making-this-up"
-date: "2007-02-15T21:31:51+00:00"
-tags:
-id: 492
-comment: false
----
++++
+title = "I'm not making this up"
+slug = "im-not-making-this-up"
+date = "2007-02-15T21:31:51+00:00"
+id = 492
+comment = false
++++
 
 [Ivan Pope has voted for me](http://blog.snipperoo.com/2007/02/snipperoo_users.html) in the Irish Blog Awards. Ivan runs a great tech company in the UK called, wait for it......[Snipperoo](http://www.snipperoo/). I knew there was a reason I put his widget in the sidebar of this blog rather than my business one!
 

@@ -1,11 +1,10 @@
----
-title: "I still think it is stoopid but"
-slug: "i-still-think-it-is-stoopid-but"
-date: "2007-02-26T14:07:29+00:00"
-tags:
-id: 499
-comment: false
----
++++
+title = "I still think it is stoopid but"
+slug = "i-still-think-it-is-stoopid-but"
+date = "2007-02-26T14:07:29+00:00"
+id = 499
+comment = false
++++
 
 I've gone and got [a Twitter account](http://twitter.com/conoro) anyway.
 

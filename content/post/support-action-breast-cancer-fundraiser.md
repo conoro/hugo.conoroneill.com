@@ -1,11 +1,10 @@
----
-title: "Support Action Breast Cancer Fundraiser"
-slug: "support-action-breast-cancer-fundraiser"
-date: "2010-07-01T16:02:00+00:00"
-tags:
-id: 1076
-comment: false
----
++++
+title = "Support Action Breast Cancer Fundraiser"
+slug = "support-action-breast-cancer-fundraiser"
+date = "2010-07-01T16:02:00+00:00"
+id = 1076
+comment = false
++++
 
 One of the most powerful blogs I read in recent years was Roos Demol's [One Breast Less](http://onebreastlessinireland.blogspot.com/). I'm thrilled she has re-started it and she is involved in an Action Breast Cancer fundraiser.
 

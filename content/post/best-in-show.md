@@ -1,11 +1,10 @@
----
-title: "Best In Show"
-slug: "best-in-show"
-date: "2005-06-20T08:37:51+00:00"
-tags:
-id: 103
-comment: false
----
++++
+title = "Best In Show"
+slug = "best-in-show"
+date = "2005-06-20T08:37:51+00:00"
+id = 103
+comment = false
++++
 
 <div style="clear: both" />Forget 100K for Celebrity Love Island; Oscar finally got the 10 Euro for his first place in Juniors/Seniors writing in the Bandon Show. The following is an  exceprt from his winning entry:"Pine nut, which is a nut, but it's also the name of a town. Pistachio nut. Red pistachio nut. Natural, all natural white pistachio nut."
 

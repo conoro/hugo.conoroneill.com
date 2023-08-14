@@ -1,11 +1,10 @@
----
-title: "6 Years of Electronic Engineering"
-slug: "6-years-of-electronic-engineering"
-date: "2005-04-28T09:11:41+00:00"
-tags:
-id: 47
-comment: false
----
++++
+title = "6 Years of Electronic Engineering"
+slug = "6-years-of-electronic-engineering"
+date = "2005-04-28T09:11:41+00:00"
+id = 47
+comment = false
++++
 
 I bought my first soldering iron and multimeter by mail-order from Maplin when I was about 16 (1984) to build some add-ons for my ZX Spectrum. None of my creations ever worked :-(
 

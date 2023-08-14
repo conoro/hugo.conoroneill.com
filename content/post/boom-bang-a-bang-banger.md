@@ -1,11 +1,10 @@
----
-title: "Boom Bang a Bang Banger"
-slug: "boom-bang-a-bang-banger"
-date: "2005-12-15T22:39:02+00:00"
-tags:
-id: 202
-comment: false
----
++++
+title = "Boom Bang a Bang Banger"
+slug = "boom-bang-a-bang-banger"
+date = "2005-12-15T22:39:02+00:00"
+id = 202
+comment = false
++++
 
 Sadly, attempt #2 at sausage making was not a big success. Not quite Null Points but definitely at the Norwegian end of the Eurovision chipolta contest.
 

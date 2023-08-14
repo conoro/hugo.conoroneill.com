@@ -1,11 +1,10 @@
----
-title: "Like a fine wine"
-slug: "like-a-fine-wine"
-date: "2008-07-25T16:05:55+00:00"
-tags:
-id: 688
-comment: false
----
++++
+title = "Like a fine wine"
+slug = "like-a-fine-wine"
+date = "2008-07-25T16:05:55+00:00"
+id = 688
+comment = false
++++
 
 In a change from our usual programming here at Bandon HQ, I kicked off a light-hearted conversation on Twitter earlier about great looking women who just get better and better with age (we also covered men). The results of the Twitter jury in chronological (not age) order were as follows:
 

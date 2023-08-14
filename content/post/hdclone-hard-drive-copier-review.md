@@ -1,11 +1,10 @@
----
-title: "HDClone Hard Drive Copier Review"
-slug: "hdclone-hard-drive-copier-review"
-date: "2006-03-19T12:48:36+00:00"
-tags:
-id: 291
-comment: false
----
++++
+title = "HDClone Hard Drive Copier Review"
+slug = "hdclone-hard-drive-copier-review"
+date = "2006-03-19T12:48:36+00:00"
+id = 291
+comment = false
++++
 
   <div class='hreview'>   <div>     
 

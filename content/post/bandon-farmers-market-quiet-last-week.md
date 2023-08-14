@@ -1,11 +1,10 @@
----
-title: "Bandon Farmer's Market quiet last week"
-slug: "bandon-farmers-market-quiet-last-week"
-date: "2006-08-20T19:31:07+00:00"
-tags:
-id: 400
-comment: false
----
++++
+title = "Bandon Farmer's Market quiet last week"
+slug = "bandon-farmers-market-quiet-last-week"
+date = "2006-08-20T19:31:07+00:00"
+id = 400
+comment = false
++++
 
 I finally made it down to the market last week after missing three in a row. A lot of the usual stalls were missing presumably due to holidays etc and&nbsp;it was a quick dash and grab by Fionn, Sibéal and I. 
 
@@ -28,4 +27,4 @@ For me, I think the market is superb but there is a definite tendency to the hig
 
 I'll post the next set of dates for the market when I find them out. I didn't know a few of the recent ones were happening until the day before. All in all it has been a great few months for the market and I see it getting better and better.
 
-tags: [Bandon+Farmers+Market](http://technorati.com/tag/Bandon+Farmers+Market)
+tags = [Bandon+Farmers+Market](http://technorati.com/tag/Bandon+Farmers+Market)

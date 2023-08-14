@@ -1,11 +1,10 @@
----
-title: "I'm in Far Eastern Foodie Heaven"
-slug: "im-in-far-eastern-foodie-heaven"
-date: "2009-09-26T18:01:04+00:00"
-tags:
-id: 953
-comment: false
----
++++
+title = "I'm in Far Eastern Foodie Heaven"
+slug = "im-in-far-eastern-foodie-heaven"
+date = "2009-09-26T18:01:04+00:00"
+id = 953
+comment = false
++++
 
 The recent review of CX Oriental by [Messy Chef](http://messy-chef.com/blog/2009/09/cx-oriental-cash-carry/) was the final push I needed to check this place out today after months of saying I must. It's just fantastic. If you have ever raved about Asia Market in Dublin, this is 10x better.
 

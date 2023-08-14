@@ -1,11 +1,10 @@
----
-title: "There's nothing worse than being an aging young person"
-slug: "theres-nothing-worse-than-being-an-aging-young-person"
-date: "2005-12-11T23:04:07+00:00"
-tags:
-id: 198
-comment: false
----
++++
+title = "There's nothing worse than being an aging young person"
+slug = "theres-nothing-worse-than-being-an-aging-young-person"
+date = "2005-12-11T23:04:07+00:00"
+id = 198
+comment = false
++++
 
 I don't want this blog to turn into a list of great people who have died, but I've just read that Richard Pryor has passed away. 
 

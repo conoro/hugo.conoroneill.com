@@ -1,11 +1,10 @@
----
-title: "The Swarm"
-slug: "the-swarm"
-date: "2006-08-14T14:08:37+00:00"
-tags:
-id: 398
-comment: false
----
++++
+title = "The Swarm"
+slug = "the-swarm"
+date = "2006-08-14T14:08:37+00:00"
+id = 398
+comment = false
++++
 
 What in the name of god is this yoke?
 

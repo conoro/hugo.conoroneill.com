@@ -1,11 +1,10 @@
----
-title: "Annnnnnd, the Bandon Show is on this Sunday"
-slug: "annnnnnd-the-bandon-show-is-on-this-sunday"
-date: "2007-05-18T10:10:53+00:00"
-tags:
-id: 569
-comment: false
----
++++
+title = "Annnnnnd, the Bandon Show is on this Sunday"
+slug = "annnnnnd-the-bandon-show-is-on-this-sunday"
+date = "2007-05-18T10:10:53+00:00"
+id = 569
+comment = false
++++
 
 It really is a fun day out. Most of the town seems to head up. 
 

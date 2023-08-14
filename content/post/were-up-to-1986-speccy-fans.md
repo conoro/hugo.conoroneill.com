@@ -1,11 +1,10 @@
----
-title: "We're up to 1986, Speccy Fans"
-slug: "were-up-to-1986-speccy-fans"
-date: "2006-06-06T23:05:41+00:00"
-tags:
-id: 358
-comment: false
----
++++
+title = "We're up to 1986, Speccy Fans"
+slug = "were-up-to-1986-speccy-fans"
+date = "2006-06-06T23:05:41+00:00"
+id = 358
+comment = false
++++
 
 Nick Humphries has done it again.The [1986 edition of "The Your Sinclair Rock n Roll Years TV Show"](http://www.ysrnry.co.uk/tvprog/downloads.htm) was released for download recently. All nostalgic ZX Spectrum fans should grab it and watch 8 minutes of great memories. Non-Speccy fans can listen to the music and Apprentice fans can laugh at how young Alan Sugar looks in it.
 

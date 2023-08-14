@@ -1,11 +1,10 @@
----
-title: "Blogs for Dummies"
-slug: "blogs-for-dummies"
-date: "2005-04-28T08:58:14+00:00"
-tags:
-id: 48
-comment: false
----
++++
+title = "Blogs for Dummies"
+slug = "blogs-for-dummies"
+date = "2005-04-28T08:58:14+00:00"
+id = 48
+comment = false
++++
 
 Actually it's a great tutorial on how to use Bloglines to track RSS feeds of peoples blogs. I have converted fully over to Bloglines for managing my feeds but they still have a lot of improving to do on the actual blog feature. Blogger is still far better for running your own Blog.
 

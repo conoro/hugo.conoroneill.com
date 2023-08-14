@@ -1,11 +1,10 @@
----
-title: "Tis the season for Milk Tray and cadbury's chocolate fingers"
-slug: "tis-the-season-for-milk-tray-and-cadburys-chocolate-fingers"
-date: "2005-12-24T23:42:58+00:00"
-tags:
-id: 207
-comment: false
----
++++
+title = "Tis the season for Milk Tray and cadbury's chocolate fingers"
+slug = "tis-the-season-for-milk-tray-and-cadburys-chocolate-fingers"
+date = "2005-12-24T23:42:58+00:00"
+id = 207
+comment = false
++++
 
             A big Merry Christmas to all my readers, most of whom are currently co-located with me in the sitting room in Kilkenny. We're having a grand old time in Kilk. All of us are down now except for Emer's gang who will arrive tomorrow morning. We've just assembled the various christmas presents and all of the kids are happily asleep having dreams of Mario Kart DS, Barbie Scooters, Leapad Walkers and Power Rangers. We're nothing if not an international purchasing family.
 

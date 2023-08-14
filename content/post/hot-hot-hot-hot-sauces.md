@@ -1,11 +1,10 @@
----
-title: "Hot Hot Hot Hot Sauces"
-slug: "hot-hot-hot-hot-sauces"
-date: "2008-07-10T07:43:00+00:00"
-tags:
-id: 656
-comment: false
----
++++
+title = "Hot Hot Hot Hot Sauces"
+slug = "hot-hot-hot-hot-sauces"
+date = "2008-07-10T07:43:00+00:00"
+id = 656
+comment = false
++++
 
 The offer of a free box of these sauces was irresistable and we have spent the past few months trying them in a variety of different ways. Whilst our weak-willed Irish palates found the hotter ones just too hot, the depth of flavour is just fantastic. If only they had an Irish distributor!
 

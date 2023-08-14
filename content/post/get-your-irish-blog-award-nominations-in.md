@@ -1,11 +1,10 @@
----
-title: "Get your Irish Blog Award Nominations in"
-slug: "get-your-irish-blog-award-nominations-in"
-date: "2009-01-08T09:01:25+00:00"
-tags:
-id: 791
-comment: false
----
++++
+title = "Get your Irish Blog Award Nominations in"
+slug = "get-your-irish-blog-award-nominations-in"
+date = "2009-01-08T09:01:25+00:00"
+id = 791
+comment = false
++++
 
 It's that time of year again to get your [nominations in](http://awards.ie/blogawards/nominations/) for the [Irish Blog Awards](http://awards.ie/blogawards/). The ceremony is being held in the lovely [Cork International Airport Hotel](http://www.corkinternationalairporthotel.com/) on February 21.
 

@@ -1,11 +1,10 @@
----
-title: "How to feel just a bit stupid"
-slug: "how-to-feel-just-a-bit-stupid"
-date: "2007-08-25T16:59:34+00:00"
-tags:
-id: 598
-comment: false
----
++++
+title = "How to feel just a bit stupid"
+slug = "how-to-feel-just-a-bit-stupid"
+date = "2007-08-25T16:59:34+00:00"
+id = 598
+comment = false
++++
 
 I'm very technical, I can figure most things out given sufficient time, but sometimes I just don't get it. Take for example my recent purchase of a Nokia N770 Internet Tablet.
 

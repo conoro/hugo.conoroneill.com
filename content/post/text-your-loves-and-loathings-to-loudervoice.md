@@ -1,11 +1,10 @@
----
-title: "Text Your Loves and Loathings to LouderVoice"
-slug: "text-your-loves-and-loathings-to-loudervoice"
-date: "2007-11-20T16:55:50+00:00"
-tags:
-id: 620
-comment: false
----
++++
+title = "Text Your Loves and Loathings to LouderVoice"
+slug = "text-your-loves-and-loathings-to-loudervoice"
+date = "2007-11-20T16:55:50+00:00"
+id = 620
+comment = false
++++
 
 We're really excited over on [LouderVoice](http://www.loudervoice.com/) by this latest feature. You can now SMS your reviews directly to the web-site. So if you walk out of a terrible movie or wonderful restaurant or just want to get your opinion on any product or service off your chest, now you can. Those reviews will appear within seconds on the LouderVoice site.
 

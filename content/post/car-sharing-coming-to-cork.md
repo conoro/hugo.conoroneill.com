@@ -1,11 +1,10 @@
----
-title: "Car Sharing coming to Cork"
-slug: "car-sharing-coming-to-cork"
-date: "2007-12-13T11:24:58+00:00"
-tags:
-id: 625
-comment: false
----
++++
+title = "Car Sharing coming to Cork"
+slug = "car-sharing-coming-to-cork"
+date = "2007-12-13T11:24:58+00:00"
+id = 625
+comment = false
++++
 
 Michael Newham just left a comment [on my post about car-sharing](http://conoroneill.com/2007/03/22/car-sharing-in-cork-city/#comment-101146). It looks like this is going to happen next year. It's a great idea.
 

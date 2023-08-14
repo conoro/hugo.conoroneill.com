@@ -1,11 +1,10 @@
----
-title: "Any certified “Nut Allergy Friendly” restaurants in Cork City?"
-slug: "any-certified-nut-allergy-friendly-restaurants-in-cork-city"
-date: "2007-10-15T18:36:12+00:00"
-tags:
-id: 608
-comment: false
----
++++
+title = "Any certified “Nut Allergy Friendly” restaurants in Cork City?"
+slug = "any-certified-nut-allergy-friendly-restaurants-in-cork-city"
+date = "2007-10-15T18:36:12+00:00"
+id = 608
+comment = false
++++
 
 A friend of a friend is visiting Cork soon and is wondering if any restaurants can assure him that their dishes are nut-free? This person feels that many would use vegetable oil with nut traces when cooking. 
 

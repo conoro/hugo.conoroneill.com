@@ -1,11 +1,10 @@
----
-title: "Guest Blogger Review - La Maison Troisgros"
-slug: "guest-blogger-review-la-maison-troisgros"
-date: "2006-01-19T12:35:46+00:00"
-tags:
-id: 224
-comment: false
----
++++
+title = "Guest Blogger Review - La Maison Troisgros"
+slug = "guest-blogger-review-la-maison-troisgros"
+date = "2006-01-19T12:35:46+00:00"
+id = 224
+comment = false
++++
 
 My old friend and classmate from college Dee Burke read my review of The Four Seasons and sent me her review of La Maison Troisgros in France. I asked if she'd mind if I posted it here due to the drooling all over the keyboard that resulted when I read it. She said sure. So, for the first time in the five years this blog has been in existence - a posting from someone other than Mr Creosote:
 > Peter had heard of "La Maison Troisgros" for the first time when he did a management course in the IMI years ago. The restaurant was used as an example of how customer service should be. But really it is the food that puts La Maison Troisgros on the cullinary map. It is regularly listed in the top restaurants worldwide. What it says at [www.troisgros.fr](http://www.troisgros.fr/):

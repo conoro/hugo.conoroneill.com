@@ -1,11 +1,10 @@
----
-title: "New Irish Food and Drink Magazine - EatMagazine"
-slug: "new-irish-food-drink-magazine-eatmagazine"
-date: "2011-01-20T14:30:06+00:00"
-tags:
-id: 1166
-comment: false
----
++++
+title = "New Irish Food and Drink Magazine - EatMagazine"
+slug = "new-irish-food-drink-magazine-eatmagazine"
+date = "2011-01-20T14:30:06+00:00"
+id = 1166
+comment = false
++++
 
 [EatMagazine](http://issuu.com/phonic_magazine/docs/eatmagazine1) launches today. There will be 20,000 free print copies per month in Dublin initially. It is also available [free online](http://issuu.com/phonic_magazine/docs/eatmagazine1).
 

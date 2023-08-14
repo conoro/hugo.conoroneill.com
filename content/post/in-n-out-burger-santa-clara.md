@@ -1,11 +1,10 @@
----
-title: "In-n-Out Burger Santa Clara"
-slug: "in-n-out-burger-santa-clara"
-date: "2006-06-02T06:31:17+00:00"
-tags:
-id: 357
-comment: false
----
++++
+title = "In-n-Out Burger Santa Clara"
+slug = "in-n-out-burger-santa-clara"
+date = "2006-06-02T06:31:17+00:00"
+id = 357
+comment = false
++++
 
   <div class='hreview'>         
 

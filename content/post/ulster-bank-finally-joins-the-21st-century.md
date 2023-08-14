@@ -1,11 +1,10 @@
----
-title: "Ulster Bank finally joins the 21st century"
-slug: "ulster-bank-finally-joins-the-21st-century"
-date: "2006-07-10T18:49:08+00:00"
-tags:
-id: 376
-comment: false
----
++++
+title = "Ulster Bank finally joins the 21st century"
+slug = "ulster-bank-finally-joins-the-21st-century"
+date = "2006-07-10T18:49:08+00:00"
+id = 376
+comment = false
++++
 
 Only six years after everyone else. 
 

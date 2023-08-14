@@ -1,11 +1,10 @@
----
-title: "The IT Crowd - Oh no no no no no"
-slug: "the-it-crowd-oh-no-no-no-no-no"
-date: "2006-02-05T11:15:03+00:00"
-tags:
-id: 243
-comment: false
----
++++
+title = "The IT Crowd - Oh no no no no no"
+slug = "the-it-crowd-oh-no-no-no-no-no"
+date = "2006-02-05T11:15:03+00:00"
+id = 243
+comment = false
++++
 
 If I told you that the title of the programme should have the letters "Sh" at the start, you'd probably think I wasn't very funny. Well that's how funny "The IT Crowd" is. I wanted to give up after ten minutes but lasted to the end for the same reason people rubber-neck car crashes.
 

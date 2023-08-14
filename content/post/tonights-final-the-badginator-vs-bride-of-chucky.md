@@ -1,11 +1,10 @@
----
-title: "Tonight's Final - The Badginator vs  Bride of Chucky"
-slug: "tonights-final-the-badginator-vs-bride-of-chucky"
-date: "2006-05-10T19:38:28+00:00"
-tags:
-id: 345
-comment: false
----
++++
+title = "Tonight's Final - The Badginator vs  Bride of Chucky"
+slug = "tonights-final-the-badginator-vs-bride-of-chucky"
+date = "2006-05-10T19:38:28+00:00"
+id = 345
+comment = false
++++
 
 Only 20 minutes to go before the bloodfest of the final episode of The Apprentice. Everything I have read gives it to the Princess of Darkness but I'm still rooting for the woman who puts the Badger in Ruth Badger.
 

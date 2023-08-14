@@ -1,11 +1,10 @@
----
-title: "Top Google with the LouderVoice Reviews Competition"
-slug: "top-google-with-the-loudervoice-reviews-competition"
-date: "2008-01-20T08:51:17+00:00"
-tags:
-id: 633
-comment: false
----
++++
+title = "Top Google with the LouderVoice Reviews Competition"
+slug = "top-google-with-the-loudervoice-reviews-competition"
+date = "2008-01-20T08:51:17+00:00"
+id = 633
+comment = false
++++
 
 We kicked off a competition recently over on [LouderVoice](http://www.loudervoice.com/competition01) for the most popular review each week. Your reviews can be via SMS, blog or microblog and it looks like the winner in the first week is a two line SMS review. Not only that, but it is the number one result on Google for its subject!
 

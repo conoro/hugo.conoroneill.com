@@ -1,11 +1,10 @@
----
-title: "Review of Kettyle Rib-Eye Steak"
-slug: "review-of-kettyle-rib-eye-steak"
-date: "2007-07-31T17:19:48+00:00"
-tags:
-id: 591
-comment: false
----
++++
+title = "Review of Kettyle Rib-Eye Steak"
+slug = "review-of-kettyle-rib-eye-steak"
+date = "2007-07-31T17:19:48+00:00"
+id = 591
+comment = false
++++
 
 <div lang="en" class="hreview">
     <div>

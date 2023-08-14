@@ -1,11 +1,10 @@
----
-title: "Pictures, Camera Phones, Picture Editing and that Internet "
-slug: "pictures-camera-phones-picture-editing-and-that-internet"
-date: "2006-10-15T12:10:45+00:00"
-tags:
-id: 435
-comment: false
----
++++
+title = "Pictures, Camera Phones, Picture Editing and that Internet "
+slug = "pictures-camera-phones-picture-editing-and-that-internet"
+date = "2006-10-15T12:10:45+00:00"
+id = 435
+comment = false
++++
 
 At this stage a huge number of people have camera phones and actually use the camera to take those impromptu pictures. I remember asking why anyone would want a camera phone three years ago. What the hell would you take pictures of? Well, it turns out I had no imagination and I now take pictures of everything and anything.
 

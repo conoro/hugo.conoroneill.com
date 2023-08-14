@@ -1,11 +1,10 @@
----
-title: "Gleeson's back on top form"
-slug: "gleesons-back-on-top-form"
-date: "2006-08-20T09:56:37+00:00"
-tags:
-id: 399
-comment: false
----
++++
+title = "Gleeson's back on top form"
+slug = "gleesons-back-on-top-form"
+date = "2006-08-20T09:56:37+00:00"
+id = 399
+comment = false
++++
 
   <div class='hreview'>         
 

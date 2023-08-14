@@ -1,11 +1,10 @@
----
-title: "DS - not such a toy after all"
-slug: "ds-not-such-a-toy-after-all"
-date: "2006-02-16T09:15:07+00:00"
-tags:
-id: 255
-comment: false
----
++++
+title = "DS - not such a toy after all"
+slug = "ds-not-such-a-toy-after-all"
+date = "2006-02-16T09:15:07+00:00"
+id = 255
+comment = false
++++
 
 I think I like Oscar's Nintendo DS more than he does. He got Karts for christmas and I was blown away by how easy it was to set up with my wireless router so that I could play against other people on the web. Obviously I always come last.
 

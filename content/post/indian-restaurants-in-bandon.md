@@ -1,11 +1,10 @@
----
-title: "Indian Restaurants in Bandon"
-slug: "indian-restaurants-in-bandon"
-date: "2006-09-20T22:12:02+00:00"
-tags:
-id: 420
-comment: false
----
++++
+title = "Indian Restaurants in Bandon"
+slug = "indian-restaurants-in-bandon"
+date = "2006-09-20T22:12:02+00:00"
+id = 420
+comment = false
++++
 
   <div class='hreview'>         
 

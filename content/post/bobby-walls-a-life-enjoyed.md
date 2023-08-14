@@ -1,11 +1,10 @@
----
-title: "Bobby Walls, a life enjoyed"
-slug: "bobby-walls-a-life-enjoyed"
-date: "2008-07-27T08:13:31+00:00"
-tags:
-id: 690
-comment: false
----
++++
+title = "Bobby Walls, a life enjoyed"
+slug = "bobby-walls-a-life-enjoyed"
+date = "2008-07-27T08:13:31+00:00"
+id = 690
+comment = false
++++
 
 On June 9th, my uncle Bobby Walls, passed away suddenly. He had been suffering from cardiomyopathy for several years and left us too young at the age of 56.
 

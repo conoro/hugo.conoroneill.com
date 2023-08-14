@@ -1,11 +1,10 @@
----
-title: "StructuredBlogging.org site re-launched"
-slug: "structuredbloggingorg-site-re-launched"
-date: "2006-04-10T21:30:31+00:00"
-tags:
-id: 322
-comment: false
----
++++
+title = "StructuredBlogging.org site re-launched"
+slug = "structuredbloggingorg-site-re-launched"
+date = "2006-04-10T21:30:31+00:00"
+id = 322
+comment = false
++++
 
 The totally revamped [StructuredBlogging.org](http://www.structuredblogging.org/) site has gone live. [Richard MacManus](http://www.readwriteweb.com/) and the gang have done a tremendous job and I think it is now communicating the whole idea in a far more effective way than it did in the past. They explain it far better than I can here so go and have a read.
 

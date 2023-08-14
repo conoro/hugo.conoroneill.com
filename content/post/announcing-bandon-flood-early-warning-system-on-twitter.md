@@ -1,11 +1,10 @@
----
-title: "Announcing Bandon Flood Early Warning System on Twitter"
-slug: "announcing-bandon-flood-early-warning-system-on-twitter"
-date: "2011-11-16T17:18:13+00:00"
-tags:
-id: 1234
-comment: false
----
++++
+title = "Announcing Bandon Flood Early Warning System on Twitter"
+slug = "announcing-bandon-flood-early-warning-system-on-twitter"
+date = "2011-11-16T17:18:13+00:00"
+id = 1234
+comment = false
++++
 
 I'm a big fan of the [Bandon FEWS system](http://www.bandonfloodwarning.ie/) which sends an SMS when the river at the bridge hits a certain level. It must be a life-saver for many businesses and people in the town.
 

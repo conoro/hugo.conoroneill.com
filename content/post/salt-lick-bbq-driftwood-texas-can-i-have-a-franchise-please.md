@@ -1,11 +1,10 @@
----
-title: "Salt Lick BBQ Driftwood Texas - Can I have a franchise please?"
-slug: "salt-lick-bbq-driftwood-texas-can-i-have-a-franchise-please"
-date: "2006-01-18T12:31:31+00:00"
-tags:
-id: 223
-comment: false
----
++++
+title = "Salt Lick BBQ Driftwood Texas - Can I have a franchise please?"
+slug = "salt-lick-bbq-driftwood-texas-can-i-have-a-franchise-please"
+date = "2006-01-18T12:31:31+00:00"
+id = 223
+comment = false
++++
 
 We brought the rain with us from Cork and it lashed down as we were driven out to the Salt Lick BBQ which is, as they (and probably Ned Flanders) would put it "a heck of a long way out yonder". It is also in a dry county where the sale (but not consumption) of alcohol is illegal. I think many of my Irish readers have probably had some sort of aneurysm reading that last sentence. Imagaine trying to create a dry county in Ireland. Well maybe in Leitrim after the last person leaves.
 Joe kindly brought a cooler full of beer (which is the legal way to deal with it). He also pointed out that in some dry counties, the restaurants give you the booze for free but ask that you might take it into consideration in the gratuity. Where there is a will....

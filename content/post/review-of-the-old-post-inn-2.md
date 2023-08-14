@@ -1,11 +1,10 @@
----
-title: "Review of The Old Post Inn"
-slug: "review-of-the-old-post-inn-2"
-date: "2008-02-09T17:04:24+00:00"
-tags:
-id: 639
-comment: false
----
++++
+title = "Review of The Old Post Inn"
+slug = "review-of-the-old-post-inn-2"
+date = "2008-02-09T17:04:24+00:00"
+id = 639
+comment = false
++++
 
 We got a voucher from my mother-in-law for The Old Post over a year ago and finally made use of it last weekend. It consisted of one night's stay plus dinner. I've previously [given it top marks](http://conoroneill.com/2007/03/21/review-of-the-old-post-inn/) in a review last year and had eaten there several times before, all good.
 

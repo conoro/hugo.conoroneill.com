@@ -1,11 +1,10 @@
----
-title: " Cully and Sully  Chicken and Leek Pie - Thumbs up from 2 to 37"
-slug: "cully-sully-chicken-leek-pie-thumbs-up-from-2-to-37"
-date: "2006-01-24T17:58:37+00:00"
-tags:
-id: 228
-comment: false
----
++++
+title = " Cully and Sully  Chicken and Leek Pie - Thumbs up from 2 to 37"
+slug = "cully-sully-chicken-leek-pie-thumbs-up-from-2-to-37"
+date = "2006-01-24T17:58:37+00:00"
+id = 228
+comment = false
++++
 
 I got back from the US on Sunday after a tortuous routing - if our feet didn't actually touch the ground in St Louis, can we say we have been there? I was pretty much all beefed out (hope to god that is not some awful double entendre) after a Texan week. Catherine had spotted the Cully & Sully ready-meals in Supervalue and grabbed two to see what they were like. As neither of us had the energy to cook, I decided to give the  Chicken & Leek Pie a twirl.
 

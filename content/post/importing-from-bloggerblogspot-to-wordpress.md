@@ -1,11 +1,10 @@
----
-title: "Importing from Blogger/Blogspot to Wordpress"
-slug: "importing-from-bloggerblogspot-to-wordpress"
-date: "2005-08-14T17:18:26+00:00"
-tags:
-id: 130
-comment: false
----
++++
+title = "Importing from Blogger/Blogspot to Wordpress"
+slug = "importing-from-bloggerblogspot-to-wordpress"
+date = "2005-08-14T17:18:26+00:00"
+id = 130
+comment = false
++++
 
 I'm in the process of trying to move off a free Blogspot account over to Wordpress for my personal blog. I have yet to decide whether to use something free like [Blogsome ](http://www.blogsome.com/)or get hosted with a wordpress.org recommended Host like [PowWeb](http://powweb.com/) or an Irish host like [Blacknight](http://www.blacknight.ie/). If anyone has opinions on these alternatives, I'd be very interested in hearing them. If the Irish option is reasonable, I'd obviously prefer to go with that. 
 

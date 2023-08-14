@@ -1,11 +1,10 @@
----
-title: "Testing Postie Plugin from GMail"
-slug: "testing-postie-plugin-from-gmail"
-date: "2006-01-13T04:07:03+00:00"
-tags:
-id: 217
-comment: false
----
++++
+title = "Testing Postie Plugin from GMail"
+slug = "testing-postie-plugin-from-gmail"
+date = "2006-01-13T04:07:03+00:00"
+id = 217
+comment = false
++++
 
 Dirk, who has written the most excellent Postie plugin for Wordpress is
 putting a ton of effort into tracking down why I can't send an MMS picture

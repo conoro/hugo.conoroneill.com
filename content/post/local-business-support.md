@@ -1,11 +1,10 @@
----
-title: "Local Business Support"
-slug: "local-business-support"
-date: "2008-07-24T09:06:27+00:00"
-tags:
-id: 682
-comment: false
----
++++
+title = "Local Business Support"
+slug = "local-business-support"
+date = "2008-07-24T09:06:27+00:00"
+id = 682
+comment = false
++++
 
 I've done a post over [on our business blog](http://www.argolon.com/2008/07/24/west-cork-enterprise-board-support/) about the supports offered to local business by [West Cork Enterprise Board](http://www.wceb.ie/). If you are based in the region, it's well worth reading. The highlights are:
 

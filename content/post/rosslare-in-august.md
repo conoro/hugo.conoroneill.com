@@ -1,11 +1,10 @@
----
-title: "Rosslare in August"
-slug: "rosslare-in-august"
-date: "2006-08-12T09:49:05+00:00"
-tags:
-id: 394
-comment: false
----
++++
+title = "Rosslare in August"
+slug = "rosslare-in-august"
+date = "2006-08-12T09:49:05+00:00"
+id = 394
+comment = false
++++
 
 Girl cousins getting along like a house on fire:
 

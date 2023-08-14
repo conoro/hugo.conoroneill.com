@@ -1,11 +1,10 @@
----
-title: "Is that a sausage in your pocket or are you just glad to see me?"
-slug: "is-that-a-sausage-in-your-pocket-or-are-you-just-glad-to-see-me"
-date: "2005-11-09T13:54:33+00:00"
-tags:
-id: 172
-comment: false
----
++++
+title = "Is that a sausage in your pocket or are you just glad to see me?"
+slug = "is-that-a-sausage-in-your-pocket-or-are-you-just-glad-to-see-me"
+date = "2005-11-09T13:54:33+00:00"
+id = 172
+comment = false
++++
 
 Last Saturday, the world was my oyster. Wife n kids were in Cavan, house to myself, I could do anything I liked. Except I'm off booze so getting blotto was out of the question, I'm on a diet so a huge steak n chips was off the menu and I hate sport so a day of Premiership football would be torture. But I was still totally buzzed about making sausages after the Hugh Fearnley-Wearnley-Guernley Course in Ballymaloe. So that's what I did.
 

@@ -1,11 +1,10 @@
----
-title: "CoComment - Dubious at first, now a big fan"
-slug: "cocomment-dubious-at-first-now-a-big-fan"
-date: "2006-02-09T09:25:17+00:00"
-tags:
-id: 250
-comment: false
----
++++
+title = "CoComment - Dubious at first, now a big fan"
+slug = "cocomment-dubious-at-first-now-a-big-fan"
+date = "2006-02-09T09:25:17+00:00"
+id = 250
+comment = false
++++
 
 The ability to search and find information in blog comments has been identified by many "in the know" as one of the bigger challenges in blogland in 2006\. But I have a simpler problem - tracking replies to my comments on other peoples blogs. Those who use Wordpress and the "Subscribe to Comments" plug-in like me allow commenters to get e-mails when replies are posted. Unfortunately, we are in the minority.
 

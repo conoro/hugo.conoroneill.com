@@ -1,11 +1,10 @@
----
-title: "Example of a Structured Blogging Image Post"
-slug: "example-of-a-structured-blogging-image-post"
-date: "2006-03-18T20:14:12+00:00"
-tags:
-id: 289
-comment: false
----
++++
+title = "Example of a Structured Blogging Image Post"
+slug = "example-of-a-structured-blogging-image-post"
+date = "2006-03-18T20:14:12+00:00"
+id = 289
+comment = false
++++
 
         
 

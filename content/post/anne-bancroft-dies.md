@@ -1,11 +1,10 @@
----
-title: "Anne Bancroft Dies"
-slug: "anne-bancroft-dies"
-date: "2005-06-08T07:58:00+00:00"
-tags:
-id: 109
-comment: false
----
++++
+title = "Anne Bancroft Dies"
+slug = "anne-bancroft-dies"
+date = "2005-06-08T07:58:00+00:00"
+id = 109
+comment = false
++++
 
 <div style="clear: both" />Damn - Great actress. Still looking stunning even last year. She was great in the final episode of the last series of "Curb" with Mel Brooks. They cast Larry in "The Producers" so that it would be a flop but it all back-fired. Beautiful recursion.
 

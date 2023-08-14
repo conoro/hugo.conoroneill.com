@@ -1,11 +1,10 @@
----
-title: "Bat Advice"
-slug: "bat-advice"
-date: "2008-08-31T13:48:00+00:00"
-tags:
-id: 718
-comment: false
----
++++
+title = "Bat Advice"
+slug = "bat-advice"
+date = "2008-08-31T13:48:00+00:00"
+id = 718
+comment = false
++++
 
 That has to be the strangest blogpost title I've ever used.
 

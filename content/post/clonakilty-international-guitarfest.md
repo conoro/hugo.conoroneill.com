@@ -1,11 +1,10 @@
----
-title: "Clonakilty International Guitarfest"
-slug: "clonakilty-international-guitarfest"
-date: "2007-09-07T14:14:54+00:00"
-tags:
-id: 602
-comment: false
----
++++
+title = "Clonakilty International Guitarfest"
+slug = "clonakilty-international-guitarfest"
+date = "2007-09-07T14:14:54+00:00"
+id = 602
+comment = false
++++
 
 Ray in deBarras in Clon mailed me to tell me about the Guitarfest starting on September 20th. I'm glad he did since it looks fantastic. Lots of details on [their very cool site](http://www.clonguitarfest.com/). MySpacers should check them [out here](http://www.myspace.com/clonguitarfest).
 

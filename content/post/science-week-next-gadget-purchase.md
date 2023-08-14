@@ -1,11 +1,10 @@
----
-title: "Science Week: Next gadget purchase"
-slug: "science-week-next-gadget-purchase"
-date: "2007-11-15T09:59:43+00:00"
-tags:
-id: 616
-comment: false
----
++++
+title = "Science Week: Next gadget purchase"
+slug = "science-week-next-gadget-purchase"
+date = "2007-11-15T09:59:43+00:00"
+id = 616
+comment = false
++++
 
 Today's [Science Week](http://www.scienceweek.ie/) Question is "**What’s the next gadget that you want to buy?**"
 

@@ -1,11 +1,10 @@
----
-title: "Interested in what the papers were saying up to 200 years ago?"
-slug: "interested-in-what-the-papers-were-saying-up-to-200-years-ago"
-date: "2006-09-06T19:36:13+00:00"
-tags:
-id: 411
-comment: false
----
++++
+title = "Interested in what the papers were saying up to 200 years ago?"
+slug = "interested-in-what-the-papers-were-saying-up-to-200-years-ago"
+date = "2006-09-06T19:36:13+00:00"
+id = 411
+comment = false
++++
 
 Well Google have just released their most impressive service in a long long time. Over at [News Archive Search](http://news.google.com/archivesearch?hl=en) you can search on a bunch of newspapers worldwide going way back. In many cases you have to pay to see the scan of the paper itself but you can read the actual text for free.
 
@@ -19,4 +18,4 @@ Imagine if the Irish Times, The Indo and whoever owns the rights to The&nbsp;Iri
 
 Next query, "bombing of Dresden". Dunno why but it was the first thing that popped into my head after the famine. Oh I'm a barrel of laughs today.
 
-tags: [Google](http://technorati.com/tag/Google), [News+Archive+Search](http://technorati.com/tag/News+Archive+Search), [The+Irish+Press](http://technorati.com/tag/The+Irish+Press), [The+Irish+Times](http://technorati.com/tag/The+Irish+Times), [The+Irish+Independent](http://technorati.com/tag/The+Irish+Independent)
+tags = [Google](http://technorati.com/tag/Google), [News+Archive+Search](http://technorati.com/tag/News+Archive+Search), [The+Irish+Press](http://technorati.com/tag/The+Irish+Press), [The+Irish+Times](http://technorati.com/tag/The+Irish+Times), [The+Irish+Independent](http://technorati.com/tag/The+Irish+Independent)

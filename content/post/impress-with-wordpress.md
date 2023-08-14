@@ -1,11 +1,10 @@
----
-title: "Impress with Wordpress"
-slug: "impress-with-wordpress"
-date: "2005-06-22T20:04:22+00:00"
-tags:
-id: 102
-comment: false
----
++++
+title = "Impress with Wordpress"
+slug = "impress-with-wordpress"
+date = "2005-06-22T20:04:22+00:00"
+id = 102
+comment = false
++++
 
 <div style="clear: both" />Sometimes I identify great software at first sight (XEmacs, Eclipse, VMWare, GMail) and sometimes I need to be beaten over the head with it (Subversion, NetBeans, Flickr).
 

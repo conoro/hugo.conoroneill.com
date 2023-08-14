@@ -1,11 +1,10 @@
----
-title: "Support Action Breast Cancer"
-slug: "support-action-breast-cancer"
-date: "2010-10-12T16:59:24+00:00"
-tags:
-id: 1102
-comment: false
----
++++
+title = "Support Action Breast Cancer"
+slug = "support-action-breast-cancer"
+date = "2010-10-12T16:59:24+00:00"
+id = 1102
+comment = false
++++
 
 I should have posted this weeks ago but I've been a wee bit busy. Our friends Haydn and Roos let me know about an event that is on October 29th in The Brogan Inn from 8pm to 10pm.
 

@@ -1,11 +1,10 @@
----
-title: "Where does Ireland go from here?"
-slug: "where-does-ireland-go-from-here"
-date: "2011-01-03T16:25:59+00:00"
-tags:
-id: 1162
-comment: false
----
++++
+title = "Where does Ireland go from here?"
+slug = "where-does-ireland-go-from-here"
+date = "2011-01-03T16:25:59+00:00"
+id = 1162
+comment = false
++++
 
 Like most people in the country I'm pretty depressed about where Ireland has ended up. And I don't see an election, which replaces one set of [Peter Principle](http://en.wikipedia.org/wiki/Peter_Principle) County Councillors with another set, helping in any way. Politics in Ireland is completely broken and I'm finding myself in a situation where I don't want to vote if all it does is elect more of the same.
 

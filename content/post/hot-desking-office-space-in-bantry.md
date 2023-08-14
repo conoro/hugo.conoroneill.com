@@ -1,11 +1,10 @@
----
-title: "Hot Desking Office Space in Bantry"
-slug: "hot-desking-office-space-in-bantry"
-date: "2011-06-29T10:23:45+00:00"
-tags:
-id: 1193
-comment: false
----
++++
+title = "Hot Desking Office Space in Bantry"
+slug = "hot-desking-office-space-in-bantry"
+date = "2011-06-29T10:23:45+00:00"
+id = 1193
+comment = false
++++
 
 It has always struck me as ridiculous that the only place in all of West Cork where you can get a short-term Hot-Desk is in [Macroom](http://www.macroom-e.com/). We're not that far from it but it's still a horrible drive from Bandon.
 

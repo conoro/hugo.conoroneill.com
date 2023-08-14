@@ -1,11 +1,10 @@
----
-title: "2006 - The year of the unsubscription?"
-slug: "2006-the-year-of-the-unsubscription"
-date: "2006-04-12T22:10:02+00:00"
-tags:
-id: 323
-comment: false
----
++++
+title = "2006 - The year of the unsubscription?"
+slug = "2006-the-year-of-the-unsubscription"
+date = "2006-04-12T22:10:02+00:00"
+id = 323
+comment = false
++++
 
 Every year is the "Year of Something". In the web world, many are calling 2006 the year of podcasting and I do think it is the year that a big shift in peoples reading/listening habits is happening. I have formulated my theory using a highly scientific principle derived from dianetics called "my clueless opinion based on a sample size of one".
 

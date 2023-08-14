@@ -1,11 +1,10 @@
----
-title: "Community Variety Show on March 26th in Bandon"
-slug: "community-variety-show-on-march-26th-in-bandon"
-date: "2010-03-06T18:25:46+00:00"
-tags:
-id: 1040
-comment: false
----
++++
+title = "Community Variety Show on March 26th in Bandon"
+slug = "community-variety-show-on-march-26th-in-bandon"
+date = "2010-03-06T18:25:46+00:00"
+id = 1040
+comment = false
++++
 
 Every year the great people who run the Rosmini centre for adults with an intellectual disability organise a fun and interesting event to promote community integration and inclusion for everyone. This year they are organising a community variety show.
 

@@ -1,11 +1,10 @@
----
-title: "Yes the fish is fantastic"
-slug: "yes-the-fish-is-fantastic"
-date: "2008-06-21T14:43:37+00:00"
-tags:
-id: 673
-comment: false
----
++++
+title = "Yes the fish is fantastic"
+slug = "yes-the-fish-is-fantastic"
+date = "2008-06-21T14:43:37+00:00"
+id = 673
+comment = false
++++
 
 I did a last-minute race down to The Fish Shop in Union Hall this morning to check it out. It's as good as they say! Great selection of fish, shellfish, gourmet seafood products and wine. Well worth travelling to.
 

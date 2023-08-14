@@ -1,11 +1,10 @@
----
-title: "LJK Passes Away"
-slug: "ljk-passes-away"
-date: "2005-12-07T20:31:00+00:00"
-tags:
-id: 193
-comment: false
----
++++
+title = "LJK Passes Away"
+slug = "ljk-passes-away"
+date = "2005-12-07T20:31:00+00:00"
+id = 193
+comment = false
++++
 
 I was gutted to read in CAR that LJK Setright passed away recently. I started reading CAR when I was 14 years old and continue to do so despite his absence for the past few years.
 

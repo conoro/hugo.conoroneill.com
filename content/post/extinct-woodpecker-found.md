@@ -1,11 +1,10 @@
----
-title: "Extinct Woodpecker Found"
-slug: "extinct-woodpecker-found"
-date: "2005-04-29T08:18:55+00:00"
-tags:
-id: 46
-comment: false
----
++++
+title = "Extinct Woodpecker Found"
+slug = "extinct-woodpecker-found"
+date = "2005-04-29T08:18:55+00:00"
+id = 46
+comment = false
++++
 
 [A large woodpecker thought to be extinct](http://www.woodywoodpecker.com/friends/images/woody&friendslayout_16.gif) for sixty years has been found living in the "Big Woods" section of eastern Arkansas.
 

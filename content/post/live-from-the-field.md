@@ -1,11 +1,10 @@
----
-title: "Live From The Field"
-slug: "live-from-the-field"
-date: "2006-03-23T11:25:40+00:00"
-tags:
-id: 298
-comment: false
----
++++
+title = "Live From The Field"
+slug = "live-from-the-field"
+date = "2006-03-23T11:25:40+00:00"
+id = 298
+comment = false
++++
 
 After a night of pints. Or rioja actually.
 <!--Mime Type of File is image/jpeg -->

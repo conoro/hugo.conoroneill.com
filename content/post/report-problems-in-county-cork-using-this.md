@@ -1,11 +1,10 @@
----
-title: "Report problems in County Cork using this"
-slug: "report-problems-in-county-cork-using-this"
-date: "2007-06-03T13:53:36+00:00"
-tags:
-id: 573
-comment: false
----
++++
+title = "Report problems in County Cork using this"
+slug = "report-problems-in-county-cork-using-this"
+date = "2007-06-03T13:53:36+00:00"
+id = 573
+comment = false
++++
 
 So after a small amount of fiddling I have put together a simple system to allow people to report problems like water/gas/electricity outages and maybe car crashes and road blockages in Cork (other suggestions welcome). 
 

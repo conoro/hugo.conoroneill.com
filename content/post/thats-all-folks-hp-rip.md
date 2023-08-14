@@ -1,11 +1,10 @@
----
-title: "That's all folks, HP RIP."
-slug: "thats-all-folks-hp-rip"
-date: "2005-07-21T22:57:14+00:00"
-tags:
-id: 115
-comment: false
----
++++
+title = "That's all folks, HP RIP."
+slug = "thats-all-folks-hp-rip"
+date = "2005-07-21T22:57:14+00:00"
+id = 115
+comment = false
++++
 
 Alan Kay is leaving HP.[ Good Morning Silicon Valley covering it here](http://blogs.siliconvalley.com/gmsv/2005/07/hewlettpackards.html) and [Dan Gillmor here](http://bayosphere.com/blog/dangillmor/072105/alan_kay).
 

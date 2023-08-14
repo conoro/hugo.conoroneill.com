@@ -1,11 +1,10 @@
----
-title: "My beautiful readers"
-slug: "my-beautiful-readers"
-date: "2007-02-10T08:03:01+00:00"
-tags:
-id: 482
-comment: false
----
++++
+title = "My beautiful readers"
+slug = "my-beautiful-readers"
+date = "2007-02-10T08:03:01+00:00"
+id = 482
+comment = false
++++
 
 You lovely lovely people have got me into the voting round in four categories in The Irish Blog Awards! I'm blushing just thinking about it. Thank you. Now the number of votes really counts in this round so head on over to [The Voting Page](http://www.awards.ie/vote/) and give me your first preference vote in the following categories:
 

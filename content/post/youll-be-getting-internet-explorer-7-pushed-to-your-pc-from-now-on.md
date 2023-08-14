@@ -1,11 +1,10 @@
----
-title: "You'll be getting Internet Explorer 7 pushed to your PC from now on"
-slug: "youll-be-getting-internet-explorer-7-pushed-to-your-pc-from-now-on"
-date: "2006-12-05T08:15:00+00:00"
-tags:
-id: 459
-comment: false
----
++++
+title = "You'll be getting Internet Explorer 7 pushed to your PC from now on"
+slug = "youll-be-getting-internet-explorer-7-pushed-to-your-pc-from-now-on"
+date = "2006-12-05T08:15:00+00:00"
+id = 459
+comment = false
++++
 
 If you have Windows XP and if it hasn't happened already then Microsoft appear to be pushing out the new release of the Internet Explorer Web Browser. They are making it optional so you have to agree to install before they do (the security centre logo in the bottom right hand corner of the screen that looks like a shield will be yellow with an exclamation mark in it).
 

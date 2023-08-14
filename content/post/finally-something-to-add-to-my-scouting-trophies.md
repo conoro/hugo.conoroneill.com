@@ -1,11 +1,10 @@
----
-title: "Finally something to add to my Scouting trophies"
-slug: "finally-something-to-add-to-my-scouting-trophies"
-date: "2007-03-05T00:02:46+00:00"
-tags:
-id: 501
-comment: false
----
++++
+title = "Finally something to add to my Scouting trophies"
+slug = "finally-something-to-add-to-my-scouting-trophies"
+date = "2007-03-05T00:02:46+00:00"
+id = 501
+comment = false
++++
 
 I still have the shakes and I don't think it's all drink related. Truly, madly, deeply stunned to win [Best Blog Post](http://awards.ie/blogawards/?p=139) at the awards last night. Thanks a million times over to all of you who voted for me. It was a bloody brilliant night overall and the highlight was Bernie refusing to take the "Best Contribution to the Irish Bloggersphere" award and giving it to Damien instead. A well deserved standing ovation ensued.
 

@@ -1,11 +1,10 @@
----
-title: "She's a keeper"
-slug: "shes-a-keeper"
-date: "2006-11-15T08:21:50+00:00"
-tags:
-id: 455
-comment: false
----
++++
+title = "She's a keeper"
+slug = "shes-a-keeper"
+date = "2006-11-15T08:21:50+00:00"
+id = 455
+comment = false
++++
 
 This is the first set of photos taken just after she was born. Better quality ones with a real camera coming later today. A little cutie despite being a bit mushed. First night went well despite her fantastic lungs which she'll need in this house.
 

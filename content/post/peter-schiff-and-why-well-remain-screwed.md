@@ -1,11 +1,10 @@
----
-title: "Peter Schiff and why we'll remain screwed"
-slug: "peter-schiff-and-why-well-remain-screwed"
-date: "2009-04-03T18:00:38+00:00"
-tags:
-id: 864
-comment: false
----
++++
+title = "Peter Schiff and why we'll remain screwed"
+slug = "peter-schiff-and-why-well-remain-screwed"
+date = "2009-04-03T18:00:38+00:00"
+id = 864
+comment = false
++++
 
 Many of you have seen this video on YouTube where investment expert Peter Schiff is shown many times on US TV in 2006-2007 explaining why the US was in a property bubble and why it was all going to collapse. If you haven't seen it, it's hilarious and depressing at the same time.
 

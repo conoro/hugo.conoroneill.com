@@ -1,11 +1,10 @@
----
-title: "Dammit, there goes that plan"
-slug: "dammit-there-goes-that-plan"
-date: "2006-03-24T15:08:25+00:00"
-tags:
-id: 301
-comment: false
----
++++
+title = "Dammit, there goes that plan"
+slug = "dammit-there-goes-that-plan"
+date = "2006-03-24T15:08:25+00:00"
+id = 301
+comment = false
++++
 
 My genius syrup-a-day plan foiled.
 

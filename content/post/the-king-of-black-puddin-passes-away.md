@@ -1,11 +1,10 @@
----
-title: "The King of Black Puddin' Passes Away"
-slug: "the-king-of-black-puddin-passes-away"
-date: "2005-11-04T13:39:10+00:00"
-tags:
-id: 160
-comment: false
----
++++
+title = "The King of Black Puddin' Passes Away"
+slug = "the-king-of-black-puddin-passes-away"
+date = "2005-11-04T13:39:10+00:00"
+id = 160
+comment = false
++++
 
 Edward Twomey was Mr Clonakilty Black Pudding. I was sad to read in my local Bandon Opinion last week that he had passed away. The story of Edward and his pudding is one that I think very few people know.
 

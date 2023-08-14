@@ -1,11 +1,10 @@
----
-title: "Those naked plums do it again"
-slug: "those-naked-plums-do-it-again"
-date: "2006-04-21T23:37:55+00:00"
-tags:
-id: 331
-comment: false
----
++++
+title = "Those naked plums do it again"
+slug = "those-naked-plums-do-it-again"
+date = "2006-04-21T23:37:55+00:00"
+id = 331
+comment = false
++++
 
 I received the following message from Web Filtering software inside a multi-national corporation today:
 

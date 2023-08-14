@@ -1,11 +1,10 @@
----
-title: "GG's Turkish Barber in Clonakilty"
-slug: "ggs-turkish-barbers-in-clonakilty"
-date: "2006-07-30T08:21:28+00:00"
-tags:
-id: 388
-comment: false
----
++++
+title = "GG's Turkish Barber in Clonakilty"
+slug = "ggs-turkish-barbers-in-clonakilty"
+date = "2006-07-30T08:21:28+00:00"
+id = 388
+comment = false
++++
              
 We missed another Farmer's Market as myself and Osc spent longer in Clon that we expected. The place was mobbed, jammed with cars on the way to/from holidays and flooded just to make everyone's lives harder. However, none of this interfered with our mission to get our hair cut.
 

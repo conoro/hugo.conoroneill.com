@@ -1,11 +1,10 @@
----
-title: "Otto's Creative Catering - One of our top 5 meals of all time"
-slug: "ottos-creative-catering-one-of-our-top-5-meals-of-all-time"
-date: "2005-09-11T02:55:56+00:00"
-tags:
-id: 145
-comment: false
----
++++
+title = "Otto's Creative Catering - One of our top 5 meals of all time"
+slug = "ottos-creative-catering-one-of-our-top-5-meals-of-all-time"
+date = "2005-09-11T02:55:56+00:00"
+id = 145
+comment = false
++++
 
 I'm not going to be able to put into proper words how fantastic the meal in [OCC in Dunworley](http://ottos-creative-catering.com/) was last night. We just can't stop talking about it. Perfection from start to finish. But first some history:
 

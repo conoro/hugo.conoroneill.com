@@ -1,11 +1,10 @@
----
-title: "The Grange Tavern - When only a carvery will do"
-slug: "the-grange-tavern-when-only-a-carvery-will-do"
-date: "2006-03-07T21:56:16+00:00"
-tags:
-id: 275
-comment: false
----
++++
+title = "The Grange Tavern - When only a carvery will do"
+slug = "the-grange-tavern-when-only-a-carvery-will-do"
+date = "2006-03-07T21:56:16+00:00"
+id = 275
+comment = false
++++
 
 Two saturdays ago, the parents, the kids and I headed off to Clon to go to the playground and then check out Deasy's in Ring. We have had several recommendations for Deasy's and I thought a good pub lunch would go down nicely and suit the sprogs too. It was deserted on our arrival and my mother eventually found someone who told her they only do evening meals and sunday lunch. Bum. But she said the menu looked fab. The nice man then pointed us towards Grange and The Grange Tavern a few miles up the back road.
 

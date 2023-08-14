@@ -1,11 +1,10 @@
----
-title: "Science Week: Invention of the future"
-slug: "science-week-invention-of-the-future"
-date: "2007-11-14T10:57:01+00:00"
-tags:
-id: 615
-comment: false
----
++++
+title = "Science Week: Invention of the future"
+slug = "science-week-invention-of-the-future"
+date = "2007-11-14T10:57:01+00:00"
+id = 615
+comment = false
++++
 
 Today's [Science Week](http://www.scienceweek.ie/) question is "**What invention do you want to see most in the future**". This is an easy one to describe but it'll be a long time coming. I want to see an inexpensive non-invasive home medical diagnostic machine that can detect and diagnose a wide range of problems on its own and via a data-feed to the relevant medical experts.
 

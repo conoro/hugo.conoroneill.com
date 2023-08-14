@@ -1,11 +1,10 @@
----
-title: "Malt House Granary shows to to fill a restaurant in a recession"
-slug: "malt-house-granary-shows-to-to-fill-a-restaurant-in-a-recession"
-date: "2009-09-25T09:08:47+00:00"
-tags:
-id: 950
-comment: false
----
++++
+title = "Malt House Granary shows to to fill a restaurant in a recession"
+slug = "malt-house-granary-shows-to-to-fill-a-restaurant-in-a-recession"
+date = "2009-09-25T09:08:47+00:00"
+id = 950
+comment = false
++++
 
 We were recently taken out to dinner by my parents and decided to try the Malt House Granary in Clonakilty. We had only been once before, 5 years ago, and had not liked the heavy food. But[ a recent review](http://www.loudervoice.com/reviews/59854179) which highlighted the new ownership made us want to try again. And oh boy were we glad we did.
 

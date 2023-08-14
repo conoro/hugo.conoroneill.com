@@ -1,11 +1,10 @@
----
-title: "Bandon Farmer's Market on Easter Saturday"
-slug: "bandon-farmers-market-on-easter-saturday"
-date: "2006-04-03T20:14:54+00:00"
-tags:
-id: 315
-comment: false
----
++++
+title = "Bandon Farmer's Market on Easter Saturday"
+slug = "bandon-farmers-market-on-easter-saturday"
+date = "2006-04-03T20:14:54+00:00"
+id = 315
+comment = false
++++
 
   <div class='vevent x-wpsb-simple-event'>       
 

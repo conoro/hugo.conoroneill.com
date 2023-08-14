@@ -1,11 +1,10 @@
----
-title: "Two blogs well worth a look"
-slug: "two-blogs-well-worth-a-look"
-date: "2006-04-16T17:16:18+00:00"
-tags:
-id: 328
-comment: false
----
++++
+title = "Two blogs well worth a look"
+slug = "two-blogs-well-worth-a-look"
+date = "2006-04-16T17:16:18+00:00"
+id = 328
+comment = false
++++
 
 The biggest hole in the Irish Blogging scene is the lack of women bloggers. I have no real idea why so few women blog, particularly when examples like [Dooce ](http://www.dooce.com/)are there to show what is possible. It probably just boils down to the fact that, in general (and by "in general" I am in no way trying to invoke a stereotye or in any way label any sub-grouping of humanity. Please don't hurt me), women don't get a kick out of geeky gadgets and buzzwords and only start using technology when it becomes genuinely useful. For example, high temperature ceramics really only moved out of geeky labs and into mainstream usage with the invention of the GHD Straightener. He ducks, he runs.
 

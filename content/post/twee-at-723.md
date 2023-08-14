@@ -1,11 +1,10 @@
----
-title: "Twee at 7.23"
-slug: "twee-at-723"
-date: "2005-06-16T07:37:04+00:00"
-tags:
-id: 104
-comment: false
----
++++
+title = "Twee at 7.23"
+slug = "twee-at-723"
+date = "2005-06-16T07:37:04+00:00"
+id = 104
+comment = false
++++
 
 <div style="clear: both" />I smiled all the way through this.
 

@@ -1,11 +1,10 @@
----
-title: "Just discovered in the Dead Sea Scrolls"
-slug: "just-discovered-in-the-dead-sea-scrolls"
-date: "2005-04-22T07:33:00+00:00"
-tags:
-id: 62
-comment: false
----
++++
+title = "Just discovered in the Dead Sea Scrolls"
+slug = "just-discovered-in-the-dead-sea-scrolls"
+date = "2005-04-22T07:33:00+00:00"
+id = 62
+comment = false
++++
 
 
 

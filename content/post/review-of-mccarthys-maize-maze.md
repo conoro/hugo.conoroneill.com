@@ -1,11 +1,10 @@
----
-title: "Review of McCarthy's Maize Maze"
-slug: "review-of-mccarthys-maize-maze"
-date: "2007-09-02T13:21:20+00:00"
-tags:
-id: 599
-comment: false
----
++++
+title = "Review of McCarthy's Maize Maze"
+slug = "review-of-mccarthys-maize-maze"
+date = "2007-09-02T13:21:20+00:00"
+id = 599
+comment = false
++++
 
 <div lang="en" class="hreview">
     <span><span class="item vcard"><span class="fn org">[McCarthy's Maize Maze](http://tinyurl.com/34s9x2)</span>, <span class="street-address">Rathclaren</span>, <span class="locality">Kilbrittain</span>, <span class="region">Co Cork</span>,  <span class="country-name">Ireland</span></span></span>

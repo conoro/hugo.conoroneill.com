@@ -1,11 +1,10 @@
----
-title: "Facebook and You"
-slug: "facebook-and-you"
-date: "2009-08-28T09:15:13+00:00"
-tags:
-id: 929
-comment: false
----
++++
+title = "Facebook and You"
+slug = "facebook-and-you"
+date = "2009-08-28T09:15:13+00:00"
+id = 929
+comment = false
++++
 
 The stats around [Facebook](http://www.facebook.com/) in Ireland are staggering, they are racing towards 1 millions active users here. That just blows my mind. Some are predicting they'll have more pageviews globally than Google by next year!
 

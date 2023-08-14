@@ -1,11 +1,10 @@
----
-title: "RTE Radio Show Downloads"
-slug: "rte-radio-show-downloads"
-date: "2006-02-27T22:41:29+00:00"
-tags:
-id: 263
-comment: false
----
++++
+title = "RTE Radio Show Downloads"
+slug = "rte-radio-show-downloads"
+date = "2006-02-27T22:41:29+00:00"
+id = 263
+comment = false
++++
 
 I'm not a radio person so I tend to miss a wealth of interesting programmes, particularly in the evenings. I have only just found out about [Winter Food on RTE1](http://www.rte.ie/radio1/winterfood/) presented by Cork's own Clodagh McKenna. I was very happy to see that recordings of the show (and archives) were available. Unfortunately there are a few problems, but I have solutions to some of them:
 

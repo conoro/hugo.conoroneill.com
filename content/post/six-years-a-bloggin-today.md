@@ -1,11 +1,10 @@
----
-title: "Six Years a-Bloggin today!"
-slug: "six-years-a-bloggin-today"
-date: "2007-04-17T07:37:46+00:00"
-tags:
-id: 546
-comment: false
----
++++
+title = "Six Years a-Bloggin today!"
+slug = "six-years-a-bloggin-today"
+date = "2007-04-17T07:37:46+00:00"
+id = 546
+comment = false
++++
 
 17th April 2001, I got an account on this thing I probably heard about on Slashdot called Blogger. I just saw it as an easier way of keeping my personal homepage (which I think I started in 1996 on Indigo) up-to-date.
 

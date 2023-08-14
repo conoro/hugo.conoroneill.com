@@ -1,11 +1,10 @@
----
-title: "World's Worst Gardener"
-slug: "worlds-worst-gardener"
-date: "2010-09-24T19:16:44+00:00"
-tags:
-id: 1100
-comment: false
----
++++
+title = "World's Worst Gardener"
+slug = "worlds-worst-gardener"
+date = "2010-09-24T19:16:44+00:00"
+id = 1100
+comment = false
++++
 
 A few months ago I stuck some tomato plants that my sister gave me in the veg patch. I then ignored them entirely. This evening Catherine pointed out that I had a few tomatoes.
 

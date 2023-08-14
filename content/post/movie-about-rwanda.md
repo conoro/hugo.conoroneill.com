@@ -1,11 +1,10 @@
----
-title: "Movie about Rwanda"
-slug: "movie-about-rwanda"
-date: "2006-03-10T10:52:55+00:00"
-tags:
-id: 278
-comment: false
----
++++
+title = "Movie about Rwanda"
+slug = "movie-about-rwanda"
+date = "2006-03-10T10:52:55+00:00"
+id = 278
+comment = false
++++
 
 About a month ago a guy named Eoin Feeley posted a comment on my [July post about 07/07](http://conoroneill.com/2005/07/11/you-gotta-love-londoners/). He asked me to highlight two blogs concerned with a new movie about the genocide in Rwanda called  "Shooting Dogs" starring John Hurt.
 

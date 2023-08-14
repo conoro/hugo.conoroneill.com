@@ -1,11 +1,10 @@
----
-title: "Yahoo Mail Beta Screenshots"
-slug: "yahoo-mail-beta-screenshots"
-date: "2006-04-02T10:13:32+00:00"
-tags:
-id: 311
-comment: false
----
++++
+title = "Yahoo Mail Beta Screenshots"
+slug = "yahoo-mail-beta-screenshots"
+date = "2006-04-02T10:13:32+00:00"
+id = 311
+comment = false
++++
 
 As requested by Jerry, here are some screenshots. What makes the ads even worse is that they are animated so it is impossible to concentrate on reading the e-mail content because they are so distracting.
 

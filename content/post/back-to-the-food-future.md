@@ -1,11 +1,10 @@
----
-title: "Back to the Food Future"
-slug: "back-to-the-food-future"
-date: "2009-03-08T09:55:56+00:00"
-tags:
-id: 820
-comment: false
----
++++
+title = "Back to the Food Future"
+slug = "back-to-the-food-future"
+date = "2009-03-08T09:55:56+00:00"
+id = 820
+comment = false
++++
 
 This isn't good food, it's fantastic food. The Irish have forgotten the power of preserving and this is a big wake-up call. Lip-smackingly gorgeous duck confit that is an absolute bargain and a doddle to prepare.
 

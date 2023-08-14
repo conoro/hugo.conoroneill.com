@@ -1,11 +1,10 @@
----
-title: "Review of Comic Relief does The Apprentice"
-slug: "review-of-comic-relief-does-the-apprentice"
-date: "2007-03-16T00:24:01+00:00"
-tags:
-id: 506
-comment: false
----
++++
+title = "Review of Comic Relief does The Apprentice"
+slug = "review-of-comic-relief-does-the-apprentice"
+date = "2007-03-16T00:24:01+00:00"
+id = 506
+comment = false
++++
 
 <div lang="en" class="hreview">
 

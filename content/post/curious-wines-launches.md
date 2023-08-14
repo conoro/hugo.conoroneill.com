@@ -1,11 +1,10 @@
----
-title: "Curious Wines launches"
-slug: "curious-wines-launches"
-date: "2008-11-19T19:48:36+00:00"
-tags:
-id: 755
-comment: false
----
++++
+title = "Curious Wines launches"
+slug = "curious-wines-launches"
+date = "2008-11-19T19:48:36+00:00"
+id = 755
+comment = false
++++
 
 You eagle-eyed West Cork drivers may have noticed a big new sign on the back of one of the units behind Great Gas on the Bandon Bypass. It is the retail/warehouse outlet of newly launched [Curious Wines](http://www.curiouswines.ie/). Mike Kane, the owner, has put together a brilliant selection of wines which are not your usual supermarket generic stuff.
 

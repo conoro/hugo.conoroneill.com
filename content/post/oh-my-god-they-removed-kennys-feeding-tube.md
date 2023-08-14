@@ -1,11 +1,10 @@
----
-title: "Oh my god, they removed Kenny's feeding tube"
-slug: "oh-my-god-they-removed-kennys-feeding-tube"
-date: "2005-05-11T11:58:21+00:00"
-tags:
-id: 88
-comment: false
----
++++
+title = "Oh my god, they removed Kenny's feeding tube"
+slug = "oh-my-god-they-removed-kennys-feeding-tube"
+date = "2005-05-11T11:58:21+00:00"
+id = 88
+comment = false
++++
 
 Only if you are really, really bored.
 

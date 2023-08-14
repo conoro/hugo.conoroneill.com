@@ -1,11 +1,10 @@
----
-title: "Live Pre-packed Mussels - Genius Idea"
-slug: "live-pre-packed-mussels-genius-idea"
-date: "2010-03-20T19:44:46+00:00"
-tags:
-id: 1048
-comment: false
----
++++
+title = "Live Pre-packed Mussels - Genius Idea"
+slug = "live-pre-packed-mussels-genius-idea"
+date = "2010-03-20T19:44:46+00:00"
+id = 1048
+comment = false
++++
 
 I popped into the fish shop in Bantry today and spotted these. A fully sealed pack of live local mussels. I have long lamented the lack of fresh shellfish in shops in Cork and now they have no excuse. All you need is a cooler cabinet with no need for special shellfish expertise or having to deal with smells or things going off. These could literally be sold in every garage and convenience shop in the country.
 

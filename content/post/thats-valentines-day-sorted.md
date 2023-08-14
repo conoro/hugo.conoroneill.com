@@ -1,11 +1,10 @@
----
-title: "That's Valentine's Day Sorted"
-slug: "thats-valentines-day-sorted"
-date: "2006-02-08T09:06:06+00:00"
-tags:
-id: 249
-comment: false
----
++++
+title = "That's Valentine's Day Sorted"
+slug = "thats-valentines-day-sorted"
+date = "2006-02-08T09:06:06+00:00"
+id = 249
+comment = false
++++
 
 Snickers Pie - [The unhealthiest recipe ever](http://slashfood.com/2006/02/06/unhealthiest-recipe-ever/) from Woz. All 1250 calories per slice of it.
 

@@ -1,11 +1,10 @@
----
-title: "Hugh Does it Again"
-slug: "hugh-does-it-again"
-date: "2008-06-05T07:22:03+00:00"
-tags:
-id: 666
-comment: false
----
++++
+title = "Hugh Does it Again"
+slug = "hugh-does-it-again"
+date = "2008-06-05T07:22:03+00:00"
+id = 666
+comment = false
++++
 
 I think I've pretty much seen every TV programme that Hugh Fearnley-Whittingstall has made. The quality/interest has varied over the years but I'm really digging (pun intended) this new series.
 

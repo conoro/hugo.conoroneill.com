@@ -1,11 +1,10 @@
----
-title: "Real Gourmet Burger Menu"
-slug: "real-gourmet-burger-menu"
-date: "2006-11-09T00:27:18+00:00"
-tags:
-id: 449
-comment: false
----
++++
+title = "Real Gourmet Burger Menu"
+slug = "real-gourmet-burger-menu"
+date = "2006-11-09T00:27:18+00:00"
+id = 449
+comment = false
++++
 
 With all apologies for total copyright infringement, here are scans of the front and back of the menu I picked up in the awesome new Real Gourmet Burger place in Portlaoise. According to their temporary web-site they also have a place in Dun Laoghaire.
 

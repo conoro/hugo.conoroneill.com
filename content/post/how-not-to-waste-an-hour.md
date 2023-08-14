@@ -1,11 +1,10 @@
----
-title: "How not to waste an hour"
-slug: "how-not-to-waste-an-hour"
-date: "2009-03-29T08:50:27+00:00"
-tags:
-id: 852
-comment: false
----
++++
+title = "How not to waste an hour"
+slug = "how-not-to-waste-an-hour"
+date = "2009-03-29T08:50:27+00:00"
+id = 852
+comment = false
++++
 
 We've just had the third annual waste of time known as Earth Hour where millions of people worldwide pretend to do something useful about global warming and turn off lights for an hour. For 99.999999% of those people, that'll be it for another 365 days. End result for the Earth, big fat zero. Perhaps if we take all the energy expended by the media covering this story, we may even have a net negative?
 

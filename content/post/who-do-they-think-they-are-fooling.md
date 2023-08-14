@@ -1,11 +1,10 @@
----
-title: "Who do they think they are fooling?"
-slug: "who-do-they-think-they-are-fooling"
-date: "2006-10-29T19:38:43+00:00"
-tags:
-id: 441
-comment: false
----
++++
+title = "Who do they think they are fooling?"
+slug = "who-do-they-think-they-are-fooling"
+date = "2006-10-29T19:38:43+00:00"
+id = 441
+comment = false
++++
 
 Cork->Rosslare, Rosslare->Cork on a Bank Holiday Weekend. Number of cops encountered? Big fat zero. Number of hard-of-thinking suicidal cretins encountered? 4.
 

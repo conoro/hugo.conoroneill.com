@@ -1,11 +1,10 @@
----
-title: "220 Children to get Chest X-Rays"
-slug: "220-children-to-get-chest-x-rays"
-date: "2007-04-20T09:00:20+00:00"
-tags:
-id: 550
-comment: false
----
++++
+title = "220 Children to get Chest X-Rays"
+slug = "220-children-to-get-chest-x-rays"
+date = "2007-04-20T09:00:20+00:00"
+id = 550
+comment = false
++++
 
 due to the TB outbreak in Cork. 
 

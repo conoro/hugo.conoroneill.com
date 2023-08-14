@@ -1,11 +1,10 @@
----
-title: "How to follow the #CSW #GE11 Election Results/Buzz"
-slug: "how-to-follow-the-csw-ge11-election-resultsbuzz"
-date: "2011-02-24T10:32:08+00:00"
-tags:
-id: 1174
-comment: false
----
++++
+title = "How to follow the #CSW #GE11 Election Results/Buzz"
+slug = "how-to-follow-the-csw-ge11-election-resultsbuzz"
+date = "2011-02-24T10:32:08+00:00"
+id = 1174
+comment = false
++++
 
 This is for people interested in Cork South West election coverage/results.
 

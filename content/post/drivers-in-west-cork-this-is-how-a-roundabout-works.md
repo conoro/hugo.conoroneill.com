@@ -1,11 +1,10 @@
----
-title: "Drivers in West Cork - This is how a roundabout works:"
-slug: "drivers-in-west-cork-this-is-how-a-roundabout-works"
-date: "2006-03-14T21:23:41+00:00"
-tags:
-id: 281
-comment: false
----
++++
+title = "Drivers in West Cork - This is how a roundabout works:"
+slug = "drivers-in-west-cork-this-is-how-a-roundabout-works"
+date = "2006-03-14T21:23:41+00:00"
+id = 281
+comment = false
++++
 
 I hope the National Safety Council don't mind me infringing their copyright but if publishing these pictures can save just one life then it'll be worth it. Those lives will be saved by me not killing with my bare hands the next moron who can't correctly negotiate the "new" mini-roundabout in Bandon.
 

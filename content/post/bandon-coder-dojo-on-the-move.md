@@ -1,11 +1,10 @@
----
-title: "Bandon Coder Dojo on the move"
-slug: "bandon-coder-dojo-on-the-move"
-date: "2012-10-21T10:45:28+00:00"
-tags:
-id: 1327
-comment: false
----
++++
+title = "Bandon Coder Dojo on the move"
+slug = "bandon-coder-dojo-on-the-move"
+date = "2012-10-21T10:45:28+00:00"
+id = 1327
+comment = false
++++
 
 [Bandon Coder Dojo](http://zen.coderdojo.com/dojo/144) kicked off this year and they have just made the move to St Brogans school at the top of the town. It's on every Tuesday from 6:30pm to 8pm.
 

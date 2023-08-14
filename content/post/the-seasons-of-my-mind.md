@@ -1,11 +1,10 @@
----
-title: "The Seasons of my mind"
-slug: "the-seasons-of-my-mind"
-date: "2006-01-14T14:46:40+00:00"
-tags:
-id: 219
-comment: false
----
++++
+title = "The Seasons of my mind"
+slug = "the-seasons-of-my-mind"
+date = "2006-01-14T14:46:40+00:00"
+id = 219
+comment = false
++++
 
 We didn't have a "formal" family holiday in 2005 - a week in Rosslare
 

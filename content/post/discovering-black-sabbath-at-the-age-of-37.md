@@ -1,11 +1,10 @@
----
-title: "Discovering Black Sabbath at the age of 37"
-slug: "discovering-black-sabbath-at-the-age-of-37"
-date: "2006-03-18T13:29:01+00:00"
-tags:
-id: 285
-comment: false
----
++++
+title = "Discovering Black Sabbath at the age of 37"
+slug = "discovering-black-sabbath-at-the-age-of-37"
+date = "2006-03-18T13:29:01+00:00"
+id = 285
+comment = false
++++
 
 One of the business blogs I read is Fred Wilson over at "[A VC](http://avc.blogs.com/)". He regularly recommends music worth listening to. The other day [he mentioned Black Sabbath Vol 4](http://avc.blogs.com/a_vc/2006/03/nuggets_1.html). Apart from watching Ozzy on the TV and thinking that "Paranoid" is one of the top twenty best songs of all time, I have never listened to any Black Sabbath.
 

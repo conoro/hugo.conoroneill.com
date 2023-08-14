@@ -1,11 +1,10 @@
----
-title: "Albania to Win!"
-slug: "albania-to-win"
-date: "2006-05-18T19:56:56+00:00"
-tags:
-id: 349
-comment: false
----
++++
+title = "Albania to Win!"
+slug = "albania-to-win"
+date = "2006-05-18T19:56:56+00:00"
+id = 349
+comment = false
++++
 
 Any country brave enough to have a hobbit and a garden gnome as their backing singers deserves to win. 
 

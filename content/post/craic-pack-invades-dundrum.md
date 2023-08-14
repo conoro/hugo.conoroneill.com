@@ -1,11 +1,10 @@
----
-title: "Craic Pack Invades Dundrum"
-slug: "craic-pack-invades-dundrum"
-date: "2007-07-17T08:34:40+00:00"
-tags:
-id: 587
-comment: false
----
++++
+title = "Craic Pack Invades Dundrum"
+slug = "craic-pack-invades-dundrum"
+date = "2007-07-17T08:34:40+00:00"
+id = 587
+comment = false
++++
 
 Just got a mail from old college buddy Niamh Shaw. She has taken the oft-travelled path of Degree in Engineering, PhD in Engineering, Gaiety School of Acting, Fair City, comedy troupe and is now part of the Craic Pack in Dublin.
 

@@ -1,11 +1,10 @@
----
-title: "A Toast"
-slug: "a-toast"
-date: "2006-08-28T08:15:22+00:00"
-tags:
-id: 407
-comment: false
----
++++
+title = "A Toast"
+slug = "a-toast"
+date = "2006-08-28T08:15:22+00:00"
+id = 407
+comment = false
++++
 
 To Blueberry Jam
 
@@ -15,4 +14,4 @@ Made by Teresa's and Craig's fair hands from blueberries picked&nbsp;on a berry 
 
 Yumm.
 
-tags: [Jam](http://technorati.com/tag/Jam), [Blueberries](http://technorati.com/tag/Blueberries)
+tags = [Jam](http://technorati.com/tag/Jam), [Blueberries](http://technorati.com/tag/Blueberries)

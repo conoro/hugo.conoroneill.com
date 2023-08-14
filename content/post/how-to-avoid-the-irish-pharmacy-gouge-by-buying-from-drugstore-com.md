@@ -1,11 +1,10 @@
----
-title: "How to avoid the Irish pharmacy gouge by buying from drugstore.com"
-slug: "how-to-avoid-the-irish-pharmacy-gouge-by-buying-from-drugstore-com"
-date: "2012-02-20T17:37:26+00:00"
-tags:
-id: 1278
-comment: false
----
++++
+title = "How to avoid the Irish pharmacy gouge by buying from drugstore.com"
+slug = "how-to-avoid-the-irish-pharmacy-gouge-by-buying-from-drugstore-com"
+date = "2012-02-20T17:37:26+00:00"
+id = 1278
+comment = false
++++
 
 For the past few years I have been buying a variety of pharmacy products from [drugstore.com](http://drugstore.com) in the US. Don't worry, they're part of Amazon, not some dodgy crowd flogging fake horse tranquillizers.
 

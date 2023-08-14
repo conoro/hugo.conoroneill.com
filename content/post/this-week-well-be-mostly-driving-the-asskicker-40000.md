@@ -1,11 +1,10 @@
----
-title: "This week we'll be mostly driving the AssKicker 40000"
-slug: "this-week-well-be-mostly-driving-the-asskicker-40000"
-date: "2006-01-17T00:26:26+00:00"
-tags:
-id: 222
-comment: false
----
++++
+title = "This week we'll be mostly driving the AssKicker 40000"
+slug = "this-week-well-be-mostly-driving-the-asskicker-40000"
+date = "2006-01-17T00:26:26+00:00"
+id = 222
+comment = false
++++
 
 Last time in Texas I was in a compact car. I was nearly crushed to death several times each day. This time, it was going to be fire with fire.
 

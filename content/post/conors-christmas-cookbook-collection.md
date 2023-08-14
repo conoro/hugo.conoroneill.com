@@ -1,11 +1,10 @@
----
-title: "Conor's Christmas Cookbook Collection"
-slug: "conors-christmas-cookbook-collection"
-date: "2006-07-09T04:05:34+00:00"
-tags:
-id: 227
-comment: false
----
++++
+title = "Conor's Christmas Cookbook Collection"
+slug = "conors-christmas-cookbook-collection"
+date = "2006-07-09T04:05:34+00:00"
+id = 227
+comment = false
++++
 
 UPDATE 1: Normally when I do reviews I use the Structured Blogging plug-in. Its biggest flaw is that you can only do one review per post and the "reviews" below do not warrent separate posts. An alternative is to use the simple [hReview creator](http://microformats.org/code/hreview/creator) over at microformats.org and then just cut n past a bunch of reviews into one post. So I have restructured and republished this review in that format (after seeing [Tantek ](http://tantek.com/log/2006/07.html#d07t1555)do the same).
 

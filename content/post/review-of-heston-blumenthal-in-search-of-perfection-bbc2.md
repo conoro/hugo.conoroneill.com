@@ -1,11 +1,10 @@
----
-title: "Review of Heston Blumenthal - In Search of Perfection - BBC2"
-slug: "review-of-heston-blumenthal-in-search-of-perfection-bbc2"
-date: "2007-10-21T07:15:56+00:00"
-tags:
-id: 611
-comment: false
----
++++
+title = "Review of Heston Blumenthal - In Search of Perfection - BBC2"
+slug = "review-of-heston-blumenthal-in-search-of-perfection-bbc2"
+date = "2007-10-21T07:15:56+00:00"
+id = 611
+comment = false
++++
 
 <div lang="en" class="hreview">
     <span><span class="item "><span class="fn">[Heston Blumenthal - In Search of Perfection - BBC2](http://www.bbc.co.uk/food/tv_and_radio/perfection/)</span>    </span></span>

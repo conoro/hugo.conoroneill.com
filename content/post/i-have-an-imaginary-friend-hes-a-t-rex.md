@@ -1,11 +1,10 @@
----
-title: "I have an imaginary friend, he's a T-Rex"
-slug: "i-have-an-imaginary-friend-hes-a-t-rex"
-date: "2006-05-07T21:24:28+00:00"
-tags:
-id: 343
-comment: false
----
++++
+title = "I have an imaginary friend, he's a T-Rex"
+slug = "i-have-an-imaginary-friend-hes-a-t-rex"
+date = "2006-05-07T21:24:28+00:00"
+id = 343
+comment = false
++++
 
 Oisín, aged 4, has an interesting imagination. He's come a long way since he shot out at 40 miles per hour without pain relief.
 

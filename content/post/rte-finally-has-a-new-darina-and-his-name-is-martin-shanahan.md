@@ -1,11 +1,10 @@
----
-title: "RTE finally has a new Darina and his name is Martin Shanahan"
-slug: "rte-finally-has-a-new-darina-and-his-name-is-martin-shanahan"
-date: "2010-04-23T08:47:22+00:00"
-tags:
-id: 1059
-comment: false
----
++++
+title = "RTE finally has a new Darina and his name is Martin Shanahan"
+slug = "rte-finally-has-a-new-darina-and-his-name-is-martin-shanahan"
+date = "2010-04-23T08:47:22+00:00"
+id = 1059
+comment = false
++++
 
 With a single episode, the greatest TV show RTE have made about food in at least 25 years. Martin Shanahan jumps out of the screen, grabs you by the scruff of the neck and demands that you watch him and start loving fish.
 

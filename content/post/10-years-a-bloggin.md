@@ -1,11 +1,10 @@
----
-title: "10 Years a-bloggin'"
-slug: "10-years-a-bloggin"
-date: "2011-04-17T13:23:32+00:00"
-tags:
-id: 1184
-comment: false
----
++++
+title = "10 Years a-bloggin'"
+slug = "10-years-a-bloggin"
+date = "2011-04-17T13:23:32+00:00"
+id = 1184
+comment = false
++++
 
 Hard to believe. Little did I think, this day 10 years ago, that I'd still be blogging away like fury. I originally started with Blogspot as I wasn't keeping my Geocities home page up to date. It was not an auspicious start:
 

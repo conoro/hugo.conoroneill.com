@@ -1,11 +1,10 @@
----
-title: "Slow Food for Kids"
-slug: "slow-food-for-kids"
-date: "2008-03-26T08:52:10+00:00"
-tags:
-id: 649
-comment: false
----
++++
+title = "Slow Food for Kids"
+slug = "slow-food-for-kids"
+date = "2008-03-26T08:52:10+00:00"
+id = 649
+comment = false
++++
 
 Just got this by e-mail from [Slow Food Ireland](http://www.slowfoodireland.com/):
 

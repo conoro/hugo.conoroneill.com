@@ -1,11 +1,10 @@
----
-title: "Creative Camp comes to Kilkenny"
-slug: "creative-camp-comes-to-kilkenny"
-date: "2008-03-06T00:20:10+00:00"
-tags:
-id: 645
-comment: false
----
++++
+title = "Creative Camp comes to Kilkenny"
+slug = "creative-camp-comes-to-kilkenny"
+date = "2008-03-06T00:20:10+00:00"
+id = 645
+comment = false
++++
 
 As someone who grew up in Kilkenny from the age of 6-18, I was very excited to see that [Creative Camp](http://creativecamp.barcamp.ie/) is on this weekend. Not only that, but it's on in the wonderful Kilkenny Castle where I spent many a day trying to find secret tunnels as a kid.
 

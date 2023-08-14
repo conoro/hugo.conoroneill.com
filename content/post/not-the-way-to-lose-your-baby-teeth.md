@@ -1,11 +1,10 @@
----
-title: "Not the way to lose your baby teeth"
-slug: "not-the-way-to-lose-your-baby-teeth"
-date: "2007-02-16T11:05:40+00:00"
-tags:
-id: 493
-comment: false
----
++++
+title = "Not the way to lose your baby teeth"
+slug = "not-the-way-to-lose-your-baby-teeth"
+date = "2007-02-16T11:05:40+00:00"
+id = 493
+comment = false
++++
 
 Poor Oisín is terribly unlucky with his front teeth. When he was 2-ish he fell off a changing table and impacted one of his front teeth up into the bone and split the lip and gum. Nothing could be done except let it heal. That tooth was much shorter than the other one until yesterday. Then yesterday evening, he fell off a stool and did a repeat performance, this time knocking out his other tooth and making a mush of his upper lip again.
 

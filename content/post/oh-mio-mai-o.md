@@ -1,11 +1,10 @@
----
-title: "Oh Mio Mai-o"
-slug: "oh-mio-mai-o"
-date: "2008-10-03T16:12:50+00:00"
-tags:
-id: 744
-comment: false
----
++++
+title = "Oh Mio Mai-o"
+slug = "oh-mio-mai-o"
+date = "2008-10-03T16:12:50+00:00"
+id = 744
+comment = false
++++
 
 We've had a couple of very good reviews [of Mio on LouderVoice](http://www.loudervoice.com/search?q=mio) and finally got a chance to try it out last Sunday. A brilliant meal in a beautiful but shockingly empty restaurant. We'll be back soon.
 

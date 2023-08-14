@@ -1,11 +1,10 @@
----
-title: "WBW - World's Best Wife"
-slug: "wbw-worlds-best-wife"
-date: "2006-02-28T21:06:08+00:00"
-tags:
-id: 265
-comment: false
----
++++
+title = "WBW - World's Best Wife"
+slug = "wbw-worlds-best-wife"
+date = "2006-02-28T21:06:08+00:00"
+id = 265
+comment = false
++++
 
 *   Cream
 

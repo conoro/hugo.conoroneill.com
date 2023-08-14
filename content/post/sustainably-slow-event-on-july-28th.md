@@ -1,11 +1,10 @@
----
-title: "Sustainably Slow Event on July 28th"
-slug: "sustainably-slow-event-on-july-28th"
-date: "2007-07-14T10:58:50+00:00"
-tags:
-id: 583
-comment: false
----
++++
+title = "Sustainably Slow Event on July 28th"
+slug = "sustainably-slow-event-on-july-28th"
+date = "2007-07-14T10:58:50+00:00"
+id = 583
+comment = false
++++
 
 Anthony and the gang in [Ummera](http://www.ummera.com/) are hosting a Slow Food Event on the 28th. All the details over [at their blog](http://www.ummera.com/wordpress/?p=80). In a nutshell:
 

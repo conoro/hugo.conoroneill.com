@@ -1,11 +1,10 @@
----
-title: "Fat Club Update"
-slug: "fat-club-update"
-date: "2010-02-09T09:34:46+00:00"
-tags:
-id: 1027
-comment: false
----
++++
+title = "Fat Club Update"
+slug = "fat-club-update"
+date = "2010-02-09T09:34:46+00:00"
+id = 1027
+comment = false
++++
 
 The idea of relentlessly banging on about weight and fitness here and on Twitter didn't really work. There are only two people that I follow on Twitter doing it and one of them is my sister. But I have been marking major milestones and today was one of them.
 

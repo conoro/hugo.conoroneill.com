@@ -1,11 +1,10 @@
----
-title: "Marmatiece Restaurant Bandon"
-slug: "marmatiece-restaurant-bandon"
-date: "2006-06-18T12:15:40+00:00"
-tags:
-id: 367
-comment: false
----
++++
+title = "Marmatiece Restaurant Bandon"
+slug = "marmatiece-restaurant-bandon"
+date = "2006-06-18T12:15:40+00:00"
+id = 367
+comment = false
++++
 
   <div class='hreview'>         
 

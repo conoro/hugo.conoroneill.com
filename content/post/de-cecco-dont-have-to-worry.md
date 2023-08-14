@@ -1,11 +1,10 @@
----
-title: "De Cecco doesn't have to worry"
-slug: "de-cecco-dont-have-to-worry"
-date: "2007-02-01T09:14:35+00:00"
-tags:
-id: 474
-comment: false
----
++++
+title = "De Cecco doesn't have to worry"
+slug = "de-cecco-dont-have-to-worry"
+date = "2007-02-01T09:14:35+00:00"
+id = 474
+comment = false
++++
 
 My sister Orla bought me a pasta machine for Christmas and I finally got around to trying it out on Saturday.
 

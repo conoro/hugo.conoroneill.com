@@ -1,11 +1,10 @@
----
-title: "Channel 4 gets it right this time"
-slug: "channel-4-gets-it-right-this-time"
-date: "2005-04-24T23:31:00+00:00"
-tags:
-id: 53
-comment: false
----
++++
+title = "Channel 4 gets it right this time"
+slug = "channel-4-gets-it-right-this-time"
+date = "2005-04-24T23:31:00+00:00"
+id = 53
+comment = false
++++
 
 "The Simpsons" is voted the best kids programme of all time.
 

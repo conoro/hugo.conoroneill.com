@@ -1,11 +1,10 @@
----
-title: "Yahoo Mail Beta -finally! Initial impressions"
-slug: "yahoo-mail-beta-finally-initial-impressions"
-date: "2006-03-31T18:36:28+00:00"
-tags:
-id: 307
-comment: false
----
++++
+title = "Yahoo Mail Beta -finally! Initial impressions"
+slug = "yahoo-mail-beta-finally-initial-impressions"
+date = "2006-03-31T18:36:28+00:00"
+id = 307
+comment = false
++++
 
 Months after I signed up, I finally got access to the new Yahoo Mail Beta programme. I've been using Yahoo mail as my "we are a web-site, give us an email address" address for over ten years now. In that time, I don't think it has really improved one iota in usability apart from the addition of spam catching. It has always been slow, clunky and riddled with obnoxious massive ads.
 

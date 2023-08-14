@@ -1,11 +1,10 @@
----
-title: "The coolest place on the planet to work - IDEO"
-slug: "the-coolest-place-on-the-planet-to-work-ideo"
-date: "2005-11-02T13:21:59+00:00"
-tags:
-id: 164
-comment: false
----
++++
+title = "The coolest place on the planet to work - IDEO"
+slug = "the-coolest-place-on-the-planet-to-work-ideo"
+date = "2005-11-02T13:21:59+00:00"
+id = 164
+comment = false
++++
 
 Way back in 1999, I was on a week long training course in Stanford which had been arranged by Enterprise Ireland. It was a fabulous week and I learned a hell of a lot about entrepreneurship, the mindset of Silicon Valley and what the hell VC was all about. 
 

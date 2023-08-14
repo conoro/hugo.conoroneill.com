@@ -1,11 +1,10 @@
----
-title: "One of the best ever words in a foreign language"
-slug: "one-of-the-best-ever-words-in-a-foreign-language"
-date: "2005-12-07T23:02:42+00:00"
-tags:
-id: 195
-comment: false
----
++++
+title = "One of the best ever words in a foreign language"
+slug = "one-of-the-best-ever-words-in-a-foreign-language"
+date = "2005-12-07T23:02:42+00:00"
+id = 195
+comment = false
++++
 
 My first employer was S3, who are 90% owned by Philips in The Netherlands. As a result,I spent quite a bit of time in Eindhoven, where the HQ is based. Big hello to the Eindhoven posse (Mark)!
 

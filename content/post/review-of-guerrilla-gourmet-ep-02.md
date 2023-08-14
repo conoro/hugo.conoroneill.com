@@ -1,11 +1,10 @@
----
-title: "Review of Guerrilla Gourmet (Ep 02)"
-slug: "review-of-guerrilla-gourmet-ep-02"
-date: "2008-01-29T23:12:06+00:00"
-tags:
-id: 636
-comment: false
----
++++
+title = "Review of Guerrilla Gourmet (Ep 02)"
+slug = "review-of-guerrilla-gourmet-ep-02"
+date = "2008-01-29T23:12:06+00:00"
+id = 636
+comment = false
++++
 
 After the first travesty of an episode I swore I'd never watch another but the lure of Denis Cotter in Bandon was too much. This is Gimmicky Garbage TV with a half decent programme buried somewhere far far underneath.
 

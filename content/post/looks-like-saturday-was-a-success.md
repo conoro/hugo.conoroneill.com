@@ -1,11 +1,10 @@
----
-title: "Looks like Saturday was a success"
-slug: "looks-like-saturday-was-a-success"
-date: "2006-04-17T19:24:20+00:00"
-tags:
-id: 329
-comment: false
----
++++
+title = "Looks like Saturday was a success"
+slug = "looks-like-saturday-was-a-success"
+date = "2006-04-17T19:24:20+00:00"
+id = 329
+comment = false
++++
 
 After all my encouragement to go to Saturday's Bandon Farmer's Market I ended up missing it myself. I got up a bit late and had to get ready for our weekend in Rosslare. I ended up squeezed for time and didn't want to be shopping hassled. So, I headed off with the four angels and left Catherine to plant the garden and paint the loo. Result? Garden good, loo baaaaaadddddd. We're not quite in marriage counselling but that red has to go.
 

@@ -1,11 +1,10 @@
----
-title: "I do love a bargain"
-slug: "i-do-love-a-bargain"
-date: "2009-02-03T16:48:16+00:00"
-tags:
-id: 811
-comment: false
----
++++
+title = "I do love a bargain"
+slug = "i-do-love-a-bargain"
+date = "2009-02-03T16:48:16+00:00"
+id = 811
+comment = false
++++
 
 I've mentioned Twitter many times on this blog. Bit by bit, it is going mainstream. It's a great way to hang out online (or on your phone via SMS or mobile web) with people you like and who can fit their thoughts into 140 chars.
 

@@ -1,11 +1,10 @@
----
-title: "Now ye see - this is what Paddy's Day is all about"
-slug: "now-ye-see-this-is-what-paddys-day-is-all-about"
-date: "2006-03-16T08:56:31+00:00"
-tags:
-id: 283
-comment: false
----
++++
+title = "Now ye see - this is what Paddy's Day is all about"
+slug = "now-ye-see-this-is-what-paddys-day-is-all-about"
+date = "2006-03-16T08:56:31+00:00"
+id = 283
+comment = false
++++
 
 American's just get Paddy's Day, we don't.
 

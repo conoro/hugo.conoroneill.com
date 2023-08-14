@@ -1,11 +1,10 @@
----
-title: "New Bandon Blog."
-slug: "new-bandon-blog"
-date: "2007-05-18T10:06:50+00:00"
-tags:
-id: 568
-comment: false
----
++++
+title = "New Bandon Blog."
+slug = "new-bandon-blog"
+date = "2007-05-18T10:06:50+00:00"
+id = 568
+comment = false
++++
 
 Just discovered that the bandon.ie folks [now have a blog](http://www.bandon.ie/blogspot/blogger.html). Excellent! 
 

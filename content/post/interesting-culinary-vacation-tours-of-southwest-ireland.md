@@ -1,11 +1,10 @@
----
-title: "Interesting Culinary Vacation Tours of Southwest Ireland"
-slug: "interesting-culinary-vacation-tours-of-southwest-ireland"
-date: "2006-03-07T22:29:38+00:00"
-tags:
-id: 277
-comment: false
----
++++
+title = "Interesting Culinary Vacation Tours of Southwest Ireland"
+slug = "interesting-culinary-vacation-tours-of-southwest-ireland"
+date = "2006-03-07T22:29:38+00:00"
+id = 277
+comment = false
++++
 
 I've mentioned [Podchef Neal](http://podchef.motime.com/) who is based on an island off Washington State on this blog several times and he posts quite a few comments here too which are always appreciated. I noticed the other day that he is proposing to organise [culinary tours of Cork and the surrounding regions](http://kitchengardenfoods.com/2006/02/28/ireland/) this summer. A large number of my readers are foodies so I'm guessing this could be of serious interest to some of you.
 

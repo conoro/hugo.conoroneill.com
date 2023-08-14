@@ -1,11 +1,10 @@
----
-title: "Spongebob The Lobster"
-slug: "spongebob-the-lobster"
-date: "2005-12-12T22:20:36+00:00"
-tags:
-id: 199
-comment: false
----
++++
+title = "Spongebob The Lobster"
+slug = "spongebob-the-lobster"
+date = "2005-12-12T22:20:36+00:00"
+id = 199
+comment = false
++++
 
 I finally did it - down to Union Hall with all four of the darlings and we bought a lobster. Poor Ois nearly had a heart attack when the guy in the shop leaped towards him with the lobster in his hand! Oscar just wanted to know how I was going to kill it. That kid worries me sometimes.
 

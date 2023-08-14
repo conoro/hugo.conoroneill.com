@@ -1,11 +1,10 @@
----
-title: "Diner won't be dining at the Diner again"
-slug: "diner-wont-be-dining-at-the-diner-again"
-date: "2006-01-03T23:25:46+00:00"
-tags:
-id: 212
-comment: false
----
++++
+title = "Diner won't be dining at the Diner again"
+slug = "diner-wont-be-dining-at-the-diner-again"
+date = "2006-01-03T23:25:46+00:00"
+id = 212
+comment = false
++++
 
             Ach, I hate giving bad reviews of places. I genuinely want every place I eat in to dazzle me. A few months back a new place opened in Bandon - "Jack O'Dwyer's Diner". It caught my eye instantly because I had only just been blogging about [the dearth of fab and interesting burger joints in Ireland](http://conoroneill.com/2005/06/25/burger-innovation-in-ireland/). Of course I was concerned that it would just be another crappy chipper with a bit of an image makeover but deep down I was really hoping that someone had had the vision to make a great diner in Bandon that would put the likes of the Eddie Rockets of the world in the shade. It shouldn't be too hard - Eddie Rockets itself is a straight lift of [Johnny Rockets](http://www.johnnyrockets.com/index2.php) in the US. The ideal would be good fast food with a ton of variations on a small set of staples in a traditional US diner environment.
 

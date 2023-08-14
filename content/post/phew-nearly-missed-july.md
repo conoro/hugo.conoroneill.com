@@ -1,11 +1,10 @@
----
-title: "Phew, nearly missed July"
-slug: "phew-nearly-missed-july"
-date: "2009-07-27T11:30:18+00:00"
-tags:
-id: 924
-comment: false
----
++++
+title = "Phew, nearly missed July"
+slug = "phew-nearly-missed-july"
+date = "2009-07-27T11:30:18+00:00"
+id = 924
+comment = false
++++
 
 It's been said by many others too but [Twitter](http://twitter.com/conoro/) is seriously denting my blogging. Why write an entire post when most of the time 140 chars will do?
 

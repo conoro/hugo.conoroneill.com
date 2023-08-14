@@ -1,11 +1,10 @@
----
-title: "Diary of A Virgin Semi-Veggie, Part 4"
-slug: "diary-of-a-virgin-semi-veggie-part-4"
-date: "2012-04-30T00:33:00+00:00"
-tags:
-id: 1297
-comment: false
----
++++
+title = "Diary of A Virgin Semi-Veggie, Part 4"
+slug = "diary-of-a-virgin-semi-veggie-part-4"
+date = "2012-04-30T00:33:00+00:00"
+id = 1297
+comment = false
++++
 
 Hard to believe I started this in mid-Jan and we are just about to bounce into May.
 

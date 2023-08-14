@@ -1,11 +1,10 @@
----
-title: "Casio UK Service dreadful"
-slug: "casio-uk-service-dreadful"
-date: "2007-02-09T13:32:13+00:00"
-tags:
-id: 481
-comment: false
----
++++
+title = "Casio UK Service dreadful"
+slug = "casio-uk-service-dreadful"
+date = "2007-02-09T13:32:13+00:00"
+id = 481
+comment = false
++++
 
 I bought a nice Casio Waveceptor watch about 18 months ago from a great discount online store in Wales called [The Time Zone](http://www.discount-watches.co.uk/). It's a combined analogue/digital job and syncs the time using those big transmitters scattered around Europe.
 

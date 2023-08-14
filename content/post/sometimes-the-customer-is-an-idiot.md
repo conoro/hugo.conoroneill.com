@@ -1,11 +1,10 @@
----
-title: "Sometimes the customer is an idiot"
-slug: "sometimes-the-customer-is-an-idiot"
-date: "2006-05-01T21:17:26+00:00"
-tags:
-id: 337
-comment: false
----
++++
+title = "Sometimes the customer is an idiot"
+slug = "sometimes-the-customer-is-an-idiot"
+date = "2006-05-01T21:17:26+00:00"
+id = 337
+comment = false
++++
 
 Our 9 year old tv has gone on the blink. It was a great 32" Philips Matchline job whose only drawback was that it wasn't widescreen. We started on the hunt for a replacement on Saturday. Tried Soundstore, Harvey Norman, Xtravision, O'Dwyer's and a few online places. 
 

@@ -1,11 +1,10 @@
----
-title: "Hugh, Pugh, Barney McGrew, Cuthbert, Dibble and Conor"
-slug: "hugh-pugh-barney-mcgrew-cuthbert-dibble-and-conor"
-date: "2005-10-24T12:55:15+00:00"
-tags:
-id: 157
-comment: false
----
++++
+title = "Hugh, Pugh, Barney McGrew, Cuthbert, Dibble and Conor"
+slug = "hugh-pugh-barney-mcgrew-cuthbert-dibble-and-conor"
+date = "2005-10-24T12:55:15+00:00"
+id = 157
+comment = false
++++
 
 The long awaited day finally arrived last saturday. For my Christmas present last year, the world's best wife got  me a place at Hugh Fearnley-Whittingstall's "Pig in A Day" course in Ballymaloe Cookery School. I hared it over to Shanagarry early on Saturday and arrived just in time.
 

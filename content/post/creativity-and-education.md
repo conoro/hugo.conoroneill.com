@@ -1,11 +1,10 @@
----
-title: "Creativity and Education"
-slug: "creativity-and-education"
-date: "2008-09-13T13:38:39+00:00"
-tags:
-id: 731
-comment: false
----
++++
+title = "Creativity and Education"
+slug = "creativity-and-education"
+date = "2008-09-13T13:38:39+00:00"
+id = 731
+comment = false
++++
 
 What started off as [a throwaway comment](http://twitter.com/conoro/statuses/920049669) on Twitter today led me to one of the most inspirational talks I have seen since Hans Rosling at Le Web.
 

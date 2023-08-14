@@ -1,11 +1,10 @@
----
-title: "Food and Health"
-slug: "food-and-health"
-date: "2008-06-29T15:41:33+00:00"
-tags:
-id: 678
-comment: false
----
++++
+title = "Food and Health"
+slug = "food-and-health"
+date = "2008-06-29T15:41:33+00:00"
+id = 678
+comment = false
++++
 
 I got an email during the week from Mary Wedel who runs the brilliant [An Tobairín](http://www.antobairin.com/) Health Food Shop in Bandon. We've watched Mary grow this business since we arrived here from a pokey place on North Main Street to the bigger one on Factory Lane to the current flagship on South Main Street. I see no reason why she won't be as successful as [Whole Foods Market](http://www.wholefoodsmarket.com/) in the US.
 

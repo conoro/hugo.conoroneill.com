@@ -1,11 +1,10 @@
----
-title: "Playground in Leap - What's the story?"
-slug: "playground-in-leap-whats-the-story"
-date: "2006-04-22T18:52:40+00:00"
-tags:
-id: 333
-comment: false
----
++++
+title = "Playground in Leap - What's the story?"
+slug = "playground-in-leap-whats-the-story"
+date = "2006-04-22T18:52:40+00:00"
+id = 333
+comment = false
++++
 
 Headed down to Skibb the morning for a few reasons: give the demon children a sleep, get some fish for a fish pie, go to the excellent playground there.
 On the way I noticed a fabulous playground in Leap. Beautiful wooden structures all inside a big metal fence. But then I noticed the sign on the gate "closed until further notice". Anyone know why? If it is due to insurance then I'll be forced to go to the nearest courthouse, find a savage claiming compo and headbutt them.

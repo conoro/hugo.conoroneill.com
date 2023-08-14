@@ -1,11 +1,10 @@
----
-title: "Burger Innovation in Ireland"
-slug: "burger-innovation-in-ireland"
-date: "2005-06-25T09:13:28+00:00"
-tags:
-id: 101
-comment: false
----
++++
+title = "Burger Innovation in Ireland"
+slug = "burger-innovation-in-ireland"
+date = "2005-06-25T09:13:28+00:00"
+id = 101
+comment = false
++++
 
 One of the best foodie blogs out there is[ A Hamburger Today](http://www.ahamburgertoday.com/). The writing is top class and the enthusiasm for the food shines through. 
 

@@ -1,11 +1,10 @@
----
-title: "Review of The Departed"
-slug: "review-of-the-departed"
-date: "2007-03-25T19:31:33+00:00"
-tags:
-id: 519
-comment: false
----
++++
+title = "Review of The Departed"
+slug = "review-of-the-departed"
+date = "2007-03-25T19:31:33+00:00"
+id = 519
+comment = false
++++
 
 <div lang="en" class="hreview">
 

@@ -1,11 +1,10 @@
----
-title: "More in the long list of Oisín gems"
-slug: "more-in-the-long-list-of-oisin-gems"
-date: "2007-01-19T15:51:55+00:00"
-tags:
-id: 469
-comment: false
----
++++
+title = "More in the long list of Oisín gems"
+slug = "more-in-the-long-list-of-oisin-gems"
+date = "2007-01-19T15:51:55+00:00"
+id = 469
+comment = false
++++
 
 Yes I know it's just another "kids say the funniest things" post but this wee 5-year old thinks deeper than most.
 

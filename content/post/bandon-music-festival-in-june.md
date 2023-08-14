@@ -1,11 +1,10 @@
----
-title: "Bandon Music Festival in June"
-slug: "bandon-music-festival-in-june"
-date: "2006-05-04T20:08:22+00:00"
-tags:
-id: 340
-comment: false
----
++++
+title = "Bandon Music Festival in June"
+slug = "bandon-music-festival-in-june"
+date = "2006-05-04T20:08:22+00:00"
+id = 340
+comment = false
++++
 
     <div class='vevent x-wpsb-simple-event'>        <div>                                     
 

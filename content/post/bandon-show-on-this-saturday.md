@@ -1,11 +1,10 @@
----
-title: "Bandon Show on this Saturday"
-slug: "bandon-show-on-this-saturday"
-date: "2006-06-15T20:58:13+00:00"
-tags:
-id: 363
-comment: false
----
++++
+title = "Bandon Show on this Saturday"
+slug = "bandon-show-on-this-saturday"
+date = "2006-06-15T20:58:13+00:00"
+id = 363
+comment = false
++++
 
   <div class='vevent x-wpsb-simple-event'>       
 

@@ -1,11 +1,10 @@
----
-title: "Motorbike Racing Today!"
-slug: "motorbike-racing-today"
-date: "2008-04-20T08:01:56+00:00"
-tags:
-id: 655
-comment: false
----
++++
+title = "Motorbike Racing Today!"
+slug = "motorbike-racing-today"
+date = "2008-04-20T08:01:56+00:00"
+id = 655
+comment = false
++++
 
 It's that time of year again where men in tight leather pants race up and down the Clon road at Old Chapel on bright yellow motorbikes :-)
 

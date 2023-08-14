@@ -1,11 +1,10 @@
----
-title: "My first mention in a national newspaper does not include the phrase  the accused "
-slug: "my-first-mention-in-a-national-newspaper-does-not-include-the-phrase-the-accused"
-date: "2006-11-07T11:01:26+00:00"
-tags:
-id: 446
-comment: false
----
++++
+title = "My first mention in a national newspaper does not include the phrase  the accused "
+slug = "my-first-mention-in-a-national-newspaper-does-not-include-the-phrase-the-accused"
+date = "2006-11-07T11:01:26+00:00"
+id = 446
+comment = false
++++
 
 When Haydn [asked the question recently](http://argolon.com/BarCampIreland/blog/2006/10/05/contact-numbers-for-all-the-speakers/#comment-94) on the BarCamp Ireland blog if anybody had&nbsp;any favourite Irish entertainment sites/blogs and I replied,&nbsp;little did I know that he was going to quote me more than once in The Irish Times. I thought it would be just&nbsp;part of a&nbsp;"Conor likes this", "Mick likes that" "Mary&nbsp;like these" list. Chuffed? Hell I grinned from Bandon to Dublin yesterday.
 
@@ -20,4 +19,4 @@ Recently both CNET and Yahoo have launched food sites and I find myself bristlin
 I'll stick with [Podchef](http://podchef.motime.com/),&nbsp;[My Diet Friends](http://www.mydietfriends.com), [eGullet](http://www.egullet.org/), [Elise Bauer](http://www.elise.com/), [Bibliocook](http://www.bibliocook.com/) and the handful of other sites/blogs run by people who are genuinely passionate about food.&nbsp;&nbsp;&nbsp;
 
 &nbsp;
- <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:b660e6e7-b7f2-4f68-8b59-52e3cf1eeb42" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati tags: [Haydn Shaughnessy](http://technorati.com/tags/Haydn%20Shaughnessy), [The Swearing Lady](http://technorati.com/tags/The%20Swearing%20Lady), [The Irish Times](http://technorati.com/tags/The%20Irish%20Times), [Mediangler](http://technorati.com/tags/Mediangler), [My Diet Friends](http://technorati.com/tags/My%20Diet%20Friends), [BarCamp Ireland](http://technorati.com/tags/BarCamp%20Ireland)</div>
+ <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:b660e6e7-b7f2-4f68-8b59-52e3cf1eeb42" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati tags = [Haydn Shaughnessy](http://technorati.com/tags/Haydn%20Shaughnessy), [The Swearing Lady](http://technorati.com/tags/The%20Swearing%20Lady), [The Irish Times](http://technorati.com/tags/The%20Irish%20Times), [Mediangler](http://technorati.com/tags/Mediangler), [My Diet Friends](http://technorati.com/tags/My%20Diet%20Friends), [BarCamp Ireland](http://technorati.com/tags/BarCamp%20Ireland)</div>

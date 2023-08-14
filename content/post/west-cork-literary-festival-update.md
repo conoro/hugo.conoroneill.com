@@ -1,11 +1,10 @@
----
-title: "West Cork Literary Festival Update"
-slug: "west-cork-literary-festival-update"
-date: "2009-06-22T18:50:00+00:00"
-tags:
-id: 916
-comment: false
----
++++
+title = "West Cork Literary Festival Update"
+slug = "west-cork-literary-festival-update"
+date = "2009-06-22T18:50:00+00:00"
+id = 916
+comment = false
++++
 
 Just in from the people organising the [West Cork Literary Festival](http://westcorkliteraryfestival.ie/index.php?section=1):
 > PJ Lynch, one of the most celebrated children’s book illustrators, will give a special Children’s Talk on Monday 6th July, as part of the West Cork Literary Festival. He will also give a Public Interview with Robert Dunbar on the evening of July 6th.

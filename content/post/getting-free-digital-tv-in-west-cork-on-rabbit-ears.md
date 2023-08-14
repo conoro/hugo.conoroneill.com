@@ -1,11 +1,10 @@
----
-title: "Getting Free Digital TV in West Cork on Rabbit Ears"
-slug: "getting-free-digital-tv-in-west-cork-on-rabbit-ears"
-date: "2011-09-11T08:27:43+00:00"
-tags:
-id: 1216
-comment: false
----
++++
+title = "Getting Free Digital TV in West Cork on Rabbit Ears"
+slug = "getting-free-digital-tv-in-west-cork-on-rabbit-ears"
+date = "2011-09-11T08:27:43+00:00"
+id = 1216
+comment = false
++++
 
 Over [on my tech blog](http://conoroneill.net/our-replacement-for-sky-tv-cost-99-ariva-120) recently, I mentioned dumping Sky TV and getting an [Ariva 120 box](https://www.satellite.ie/acatalog/HD_Ariva_120_Combo_Box.html#aFerguson120Combo). This is a combination satellite and digital terrestrial receiver. It costs an amazing €99 and you never have to pay another thing. You disconnect your Sky box, plug the satellite lead and aerial lead into the Ariva and you're done.
 

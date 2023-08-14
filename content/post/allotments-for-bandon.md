@@ -1,11 +1,10 @@
----
-title: "Allotments for Bandon"
-slug: "allotments-for-bandon"
-date: "2010-05-11T08:34:01+00:00"
-tags:
-id: 1062
-comment: false
----
++++
+title = "Allotments for Bandon"
+slug = "allotments-for-bandon"
+date = "2010-05-11T08:34:01+00:00"
+id = 1062
+comment = false
++++
 
 I was thrilled to get an email from Tara O'Donoghue to tell me that Bandon allotments are up and running.
 

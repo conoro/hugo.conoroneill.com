@@ -1,11 +1,10 @@
----
-title: "Whatchoo Readin' For?"
-slug: "whatchoo-readin-for"
-date: "2009-03-27T17:11:59+00:00"
-tags:
-id: 848
-comment: false
----
++++
+title = "Whatchoo Readin' For?"
+slug = "whatchoo-readin-for"
+date = "2009-03-27T17:11:59+00:00"
+id = 848
+comment = false
++++
 
 (In the immortal words of Bill Hicks).
 <p style="text-align: center;">Just got an email to tell me that the [West Cork Literary Festival](http://www.westcorkliteraryfestival.ie/) will run from July 5th to 11th.

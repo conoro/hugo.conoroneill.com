@@ -1,11 +1,10 @@
----
-title: "A free way for your kids to learn web/games programming in Cork City and County"
-slug: "a-free-way-for-your-kids-to-learn-webgames-programming-in-cork-city-and-county"
-date: "2012-02-10T10:31:46+00:00"
-tags:
-id: 1264
-comment: false
----
++++
+title = "A free way for your kids to learn web/games programming in Cork City and County"
+slug = "a-free-way-for-your-kids-to-learn-webgames-programming-in-cork-city-and-county"
+date = "2012-02-10T10:31:46+00:00"
+id = 1264
+comment = false
++++
 
 A few months back I mentioned [Coder Dojo](http://coderdojo.com/) which now covers the country and has recently gone international. It's a free programming club where kids go with their parents and learn about things like web development, mobile development, games programming or other types of coding. The Cork City one is jammers every week from what I hear.
 

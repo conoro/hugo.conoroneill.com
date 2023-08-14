@@ -1,11 +1,10 @@
----
-title: "Good Wine Show Day 1 Fantastic!"
-slug: "good-wine-show-day-1-fantastic"
-date: "2009-11-14T00:21:29+00:00"
-tags:
-id: 988
-comment: false
----
++++
+title = "Good Wine Show Day 1 Fantastic!"
+slug = "good-wine-show-day-1-fantastic"
+date = "2009-11-14T00:21:29+00:00"
+id = 988
+comment = false
++++
 
 We spent this evening in the Clarion Hotel in Cork attending the fantastic inaugural Good Wine Show, held by Curious Wines, Bubble Brothers and Karwig Wines.
 

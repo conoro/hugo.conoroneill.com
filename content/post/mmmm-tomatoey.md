@@ -1,11 +1,10 @@
----
-title: "Mmmm Tomatoey"
-slug: "mmmm-tomatoey"
-date: "2010-11-13T19:14:58+00:00"
-tags:
-id: 1135
-comment: false
----
++++
+title = "Mmmm Tomatoey"
+slug = "mmmm-tomatoey"
+date = "2010-11-13T19:14:58+00:00"
+id = 1135
+comment = false
++++
 
 I like it, a lot. Needs a little bit more oomph to stand up to fish tho.
 

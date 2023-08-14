@@ -1,11 +1,10 @@
----
-title: "Bandon Farmer's Market on the way"
-slug: "bandon-farmers-market-on-the-way"
-date: "2006-03-06T21:25:16+00:00"
-tags:
-id: 271
-comment: false
----
++++
+title = "Bandon Farmer's Market on the way"
+slug = "bandon-farmers-market-on-the-way"
+date = "2006-03-06T21:25:16+00:00"
+id = 271
+comment = false
++++
 
 It had been thought that the sad passing of Peter Crowley, who had been the main driving force behind the setting up of a Farmer's Market in Bandon, would result in the plan being shelved. However, I was thrilled to read in the current edition of the Bandon Opinion that the organizing committee have not given up and Peter's daughter is now involved.
 

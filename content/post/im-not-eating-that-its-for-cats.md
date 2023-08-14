@@ -1,11 +1,10 @@
----
-title: "I'm not eating that, it's for cats"
-slug: "im-not-eating-that-its-for-cats"
-date: "2006-10-09T07:00:13+00:00"
-tags:
-id: 432
-comment: false
----
++++
+title = "I'm not eating that, it's for cats"
+slug = "im-not-eating-that-its-for-cats"
+date = "2006-10-09T07:00:13+00:00"
+id = 432
+comment = false
++++
 
 Oisín continues to come out with the funniest lines in the house. He refused to eat his dinner yesterday on the grounds that it was food for cats. Were we trying to feed him Whiskas perhaps? Or maybe KiteKat or Iams? No, it was lasagne.
 

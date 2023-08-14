@@ -1,11 +1,10 @@
----
-title: "My BlogDay Links"
-slug: "my-blogday-links"
-date: "2005-08-31T05:39:07+00:00"
-tags:
-id: 140
-comment: false
----
++++
+title = "My BlogDay Links"
+slug = "my-blogday-links"
+date = "2005-08-31T05:39:07+00:00"
+id = 140
+comment = false
++++
 
 In the spirit of [BlogDay](http://blogday.org/), a quick selection from my favourite Blogs:
 

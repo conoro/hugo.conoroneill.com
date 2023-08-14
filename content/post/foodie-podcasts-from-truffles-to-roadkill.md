@@ -1,11 +1,10 @@
----
-title: "Foodie Podcasts - From truffles to roadkill"
-slug: "foodie-podcasts-from-truffles-to-roadkill"
-date: "2006-03-25T20:00:04+00:00"
-tags:
-id: 187
-comment: false
----
++++
+title = "Foodie Podcasts - From truffles to roadkill"
+slug = "foodie-podcasts-from-truffles-to-roadkill"
+date = "2006-03-25T20:00:04+00:00"
+id = 187
+comment = false
++++
 
 UPDATE 1: I am re-publishing this post as I did a great dis-service to Adam over at [Men In Aprons](http://www.meninaprons.net/) by confusing his Podcast with another one. MIA is a lighthearted foodie podcast where Adam is the main presenter and he riffs with his wife and friends in the room about food related topics. Adam sent me a great e-mail describing some of the background to MIA and I have to say I really like his attitude and approach. So, not only do I recommend that you check out MIA and see if it is to your liking but I have re-subscribed too.
 

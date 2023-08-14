@@ -1,11 +1,10 @@
----
-title: "Recipe and Gardening advice by SMS and Web"
-slug: "recipe-and-gardening-advice-by-sms-and-web"
-date: "2008-03-29T14:23:16+00:00"
-tags:
-id: 651
-comment: false
----
++++
+title = "Recipe and Gardening advice by SMS and Web"
+slug = "recipe-and-gardening-advice-by-sms-and-web"
+date = "2008-03-29T14:23:16+00:00"
+id = 651
+comment = false
++++
 
 We're just playing around with a few ideas on a site called [Jaiku](http://conoro.jaiku.com/) this morning (they were bought by Google a few months back). The idea is that you can have discussion channels on particular topics like technology, politics, Bandon GAA, whatever. What makes it (and other great sites like [Twitter](http://twitter.com/conoro)) so powerful is that you can interact with it entirely through SMS on your phone.
 

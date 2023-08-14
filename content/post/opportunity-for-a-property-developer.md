@@ -1,11 +1,10 @@
----
-title: "Opportunity for a Property Developer"
-slug: "opportunity-for-a-property-developer"
-date: "2008-07-22T17:04:48+00:00"
-tags:
-id: 680
-comment: false
----
++++
+title = "Opportunity for a Property Developer"
+slug = "opportunity-for-a-property-developer"
+date = "2008-07-22T17:04:48+00:00"
+id = 680
+comment = false
++++
 
 Now that's a phrase you didn't expect to hear in the current economic climate.
 

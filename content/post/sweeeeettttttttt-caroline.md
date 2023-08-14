@@ -1,11 +1,10 @@
----
-title: "Sweeeeettttttttt Caroline"
-slug: "sweeeeettttttttt-caroline"
-date: "2005-10-24T13:43:41+00:00"
-tags:
-id: 158
-comment: false
----
++++
+title = "Sweeeeettttttttt Caroline"
+slug = "sweeeeettttttttt-caroline"
+date = "2005-10-24T13:43:41+00:00"
+id = 158
+comment = false
++++
 
 I raced back to Bandon from Ballymaloe, jumped into the interview suit, thanked Mary and Claire for risking their mental health by minding our four for two days and shot off with wife riding shotgun to Killarney. The Cork-Killarney road is now my most hated road in the country. 30 mph from Crookstown to a few miles outside Ballyvourney.
 

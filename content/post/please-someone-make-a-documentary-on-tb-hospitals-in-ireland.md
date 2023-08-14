@@ -1,10 +1,9 @@
----
-title: "Please someone make a documentary on TB hospitals in Ireland"
-slug: "please-someone-make-a-documentary-on-tb-hospitals-in-ireland"
-date: "2014-02-01T18:41:50+00:00"
-tags:
-id: 1376
----
++++
+title = "Please someone make a documentary on TB hospitals in Ireland"
+slug = "please-someone-make-a-documentary-on-tb-hospitals-in-ireland"
+date = "2014-02-01T18:41:50+00:00"
+id = 1376
++++
 
 Four years ago I wrote [a quick throwaway post](http://conoroneill.com/2009/01/17/tb-hospitals-in-ireland/) about TB hospitals in Ireland. For whatever reason it bubbles up very close to the top of any google search on that topic. As a result, I have set of comments there which just have to be read. All of them are interesting, many are heartbreaking. The majority are written by people who were either in such a hospital or had a relation in one.
 

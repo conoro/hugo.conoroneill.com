@@ -1,11 +1,10 @@
----
-title: "I am the grim reaper for Texas Heroes"
-slug: "i-am-the-grim-reaper-for-texas-heroes"
-date: "2006-01-24T21:12:42+00:00"
-tags:
-id: 232
-comment: false
----
++++
+title = "I am the grim reaper for Texas Heroes"
+slug = "i-am-the-grim-reaper-for-texas-heroes"
+date = "2006-01-24T21:12:42+00:00"
+id = 232
+comment = false
++++
 
 I just had a comment posted to my old blog by Kim on something [I wrote about Bill Hicks back last May](http://conoro.blogspot.com/2005/05/wee-dram-of-bill-hicks-for-dark-wet.html). She was stunned that I saw him live about a year before he died and wanted some details. It is odd timing that she posted now considering I'm just back from Austin. But I was also thinking about Bill when I was over there.
 

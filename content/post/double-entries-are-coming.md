@@ -1,11 +1,10 @@
----
-title: "Double Entries are coming"
-slug: "double-entries-are-coming"
-date: "2006-03-05T20:25:52+00:00"
-tags:
-id: 270
-comment: false
----
++++
+title = "Double Entries are coming"
+slug = "double-entries-are-coming"
+date = "2006-03-05T20:25:52+00:00"
+id = 270
+comment = false
++++
 
 No, this isn't a post about accounting. I'm trying to do my tiny little bit to help the [Structured Blogging](http://www.structuredblogging.org/) effort. 
 

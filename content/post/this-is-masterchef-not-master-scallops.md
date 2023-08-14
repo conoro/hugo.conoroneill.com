@@ -1,11 +1,10 @@
----
-title: "This is Masterchef not Master Scallops"
-slug: "this-is-masterchef-not-master-scallops"
-date: "2010-02-28T15:12:56+00:00"
-tags:
-id: 1034
-comment: false
----
++++
+title = "This is Masterchef not Master Scallops"
+slug = "this-is-masterchef-not-master-scallops"
+date = "2010-02-28T15:12:56+00:00"
+id = 1034
+comment = false
++++
 
 It's time to put Masterchef out to pasture. I'm watching an average show in about 10 minutes using Sky+. The formula isn't working any more. No tension, no excitement, the same stupid catchphrases. Cooking doesn't get any harder than this. Yeah, it does.
 

@@ -1,11 +1,10 @@
----
-title: "Cully and Sully Scale Everest"
-slug: "cully-sully-scale-everest"
-date: "2007-09-13T10:47:27+00:00"
-tags:
-id: 605
-comment: false
----
++++
+title = "Cully and Sully Scale Everest"
+slug = "cully-sully-scale-everest"
+date = "2007-09-13T10:47:27+00:00"
+id = 605
+comment = false
++++
 
 Well not quite but they did get to Nepal. In Sully's own words
 

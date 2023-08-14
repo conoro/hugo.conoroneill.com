@@ -1,11 +1,10 @@
----
-title: "The power of branding"
-slug: "the-power-of-branding"
-date: "2006-06-18T10:16:32+00:00"
-tags:
-id: 364
-comment: false
----
++++
+title = "The power of branding"
+slug = "the-power-of-branding"
+date = "2006-06-18T10:16:32+00:00"
+id = 364
+comment = false
++++
 
 Yoplait have recently completely changed the labels on their yoghurts. Our kids are now refusing to eat them "cos they are not the same". 
 

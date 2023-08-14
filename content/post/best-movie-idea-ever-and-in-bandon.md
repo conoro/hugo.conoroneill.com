@@ -1,11 +1,10 @@
----
-title: "BEST....MOVIE....IDEA....EVER And in Bandon!"
-slug: "best-movie-idea-ever-and-in-bandon"
-date: "2009-09-12T09:51:50+00:00"
-tags:
-id: 937
-comment: false
----
++++
+title = "BEST....MOVIE....IDEA....EVER And in Bandon!"
+slug = "best-movie-idea-ever-and-in-bandon"
+date = "2009-09-12T09:51:50+00:00"
+id = 937
+comment = false
++++
 
 Catherine FitzMaurice from [Kilbrogan House](http://www.kilbrogan.com) just contacted me about an awesome night that is happening as part of the Engage Arts festival over the weekend of Sep 25th.
 

@@ -1,11 +1,10 @@
----
-title: "Both Drinkin' and Bloggin'  in it"
-slug: "both-drinkin-and-bloggin-in-it"
-date: "2006-02-16T22:58:15+00:00"
-tags:
-id: 256
-comment: false
----
++++
+title = "Both Drinkin' and Bloggin'  in it"
+slug = "both-drinkin-and-bloggin-in-it"
+date = "2006-02-16T22:58:15+00:00"
+id = 256
+comment = false
++++
 
 Guinness has a blog. All the skinny at [gapingvoid](http://www.gapingvoid.com/Moveable_Type/archives/002249.html).
 

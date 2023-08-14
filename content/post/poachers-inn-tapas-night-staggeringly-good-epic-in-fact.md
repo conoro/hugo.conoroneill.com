@@ -1,11 +1,10 @@
----
-title: "Poacher's Inn Tapas Night. Staggeringly good. Epic in fact."
-slug: "poachers-inn-tapas-night-staggeringly-good-epic-in-fact"
-date: "2013-03-03T12:51:02+00:00"
-tags:
-id: 1361
-comment: false
----
++++
+title = "Poacher's Inn Tapas Night. Staggeringly good. Epic in fact."
+slug = "poachers-inn-tapas-night-staggeringly-good-epic-in-fact"
+date = "2013-03-03T12:51:02+00:00"
+id = 1361
+comment = false
++++
 
 For a good few years, this blog was all about food. I had lots of restaurant reviews and foodie pics and experiments like making sausages. Unfortunately, for a variety of reasons, I haven't done much in that area for a long time. Whilst I've eaten lots of lovely food since then, I haven't had much that was truly memorable. Until Friday night.
 

@@ -1,11 +1,10 @@
----
-title: "Review of Petrus"
-slug: "review-of-petrus"
-date: "2007-10-16T08:45:20+00:00"
-tags:
-id: 609
-comment: false
----
++++
+title = "Review of Petrus"
+slug = "review-of-petrus"
+date = "2007-10-16T08:45:20+00:00"
+id = 609
+comment = false
++++
 
 <div lang="en" class="hreview">
     <span><span class="item vcard"><span class="fn">[Petrus](http://www.gordonramsay.com/petrus/)</span>,<span class="street-address"> The Berkeley, Wilton Place</span>, <span class="locality">Kiightsbridge</span>, <span class="region">London</span>, <span class="postal-code">SW1X 7RL</span>, <span class="country-name">UK</span></span></span>

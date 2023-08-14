@@ -1,11 +1,10 @@
----
-title: "A thriving democracy"
-slug: "a-thriving-democracy"
-date: "2009-04-23T08:03:34+00:00"
-tags:
-id: 884
-comment: false
----
++++
+title = "A thriving democracy"
+slug = "a-thriving-democracy"
+date = "2009-04-23T08:03:34+00:00"
+id = 884
+comment = false
++++
 
 relies on an informed electorate.
 

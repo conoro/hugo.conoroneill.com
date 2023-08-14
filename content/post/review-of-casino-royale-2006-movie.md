@@ -1,11 +1,10 @@
----
-title: "Review of Casino Royale (2006) Movie"
-slug: "review-of-casino-royale-2006-movie"
-date: "2007-04-03T08:23:33+00:00"
-tags:
-id: 532
-comment: false
----
++++
+title = "Review of Casino Royale (2006) Movie"
+slug = "review-of-casino-royale-2006-movie"
+date = "2007-04-03T08:23:33+00:00"
+id = 532
+comment = false
++++
 
 <div lang="en" class="hreview">
 

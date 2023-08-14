@@ -1,11 +1,10 @@
----
-title: "Awwww shucks, Sugar shot Thumper"
-slug: "awwww-shucks-sugar-shot-thumper"
-date: "2006-03-16T07:58:04+00:00"
-tags:
-id: 282
-comment: false
----
++++
+title = "Awwww shucks, Sugar shot Thumper"
+slug = "awwww-shucks-sugar-shot-thumper"
+date = "2006-03-16T07:58:04+00:00"
+id = 282
+comment = false
++++
 
 [![rabbit](http://static.flickr.com/55/113214448_055dc64492_m.jpg)](http://www.flickr.com/photos/bandon1/113214448/ "Photo Sharing")
 

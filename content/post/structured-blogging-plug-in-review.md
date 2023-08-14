@@ -1,11 +1,10 @@
----
-title: "Structured Blogging Plug-in Review"
-slug: "structured-blogging-plug-in-review"
-date: "2006-01-31T22:25:24+00:00"
-tags:
-id: 240
-comment: false
----
++++
+title = "Structured Blogging Plug-in Review"
+slug = "structured-blogging-plug-in-review"
+date = "2006-01-31T22:25:24+00:00"
+id = 240
+comment = false
++++
 
   <div class='hreview'>   <div>     
 

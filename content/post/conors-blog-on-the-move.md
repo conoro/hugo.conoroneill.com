@@ -1,11 +1,10 @@
----
-title: "Conor's Blog on the move"
-slug: "conors-blog-on-the-move"
-date: "2005-08-18T13:52:49+00:00"
-tags:
-id: 138
-comment: false
----
++++
+title = "Conor's Blog on the move"
+slug = "conors-blog-on-the-move"
+date = "2005-08-18T13:52:49+00:00"
+id = 138
+comment = false
++++
 
 Finally, 5 years after registering conoroneill.com and just having it re-direct to geocities, eircom and blogspot (in that order), I am now properly hosted with PowWeb. The value for money they were offering made it an easy decision. The import of the Blogspot Blog went disasterously badly yesterday as I did it on the latest 1.5.2 version of Wordpress which the importer did not like. Tonight I reverted to 1.5.1.2, did the import and then did the upgrade and it all worked swimmingly. 
 

@@ -1,11 +1,10 @@
----
-title: "Chambers Organic Pork from West Cork"
-slug: "chambers-organic-pork-from-west-cork"
-date: "2009-10-15T17:34:28+00:00"
-tags:
-id: 967
-comment: false
----
++++
+title = "Chambers Organic Pork from West Cork"
+slug = "chambers-organic-pork-from-west-cork"
+date = "2009-10-15T17:34:28+00:00"
+id = 967
+comment = false
++++
 
 I haven't tried their meat yet but the thought of locally-reared organic pork has me salivating. They sell directly to the consumer and are based in Teadies near Enniskean. The pigs are a mix of Old Spots Gloucester & Saddleback. Give Liam a call on 086 604 1208 if you want to order. More details on [their web-site](http://www.chambersorganics.com/).
 

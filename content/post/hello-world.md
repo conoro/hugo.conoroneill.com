@@ -1,11 +1,11 @@
----
-title: So long WordPress. Hello Hexo.
-slug: "hello-world"
-date: "2015-03-05T08:48:46+00:00"
-tags:
-id: 1
-comment: false
----
++++
+title = "So long WordPress. Hello Hexo."
+slug = "hello-world"
+date = "2015-03-05T08:48:46+00:00"
+id = 1
+comment = false
++++
+
 I've been blogging longer than the average bear, with my first post wayyyy back in 2001 on Blogger. I moved to WordPress in 2005 and did a huge amount of stuff with it both personally and professionally until 2013. 
 
 But, like many people, I've had it with WordPress. Pretty much every WP blog I either ran or had some dealings with, has been hacked. Whether through security-hole-riddled plugins, xmlrpc.php or other bugs in WP. I just don't have the time to constantly update eveything and hope it's alright. The botnets relentlessly trying to login to all of the blogs and managing to mini-DDoS me on a regular basis are just the pooh on the cake.

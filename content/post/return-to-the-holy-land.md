@@ -1,11 +1,10 @@
----
-title: "Return to the Holy Land"
-slug: "return-to-the-holy-land"
-date: "2006-06-02T06:06:14+00:00"
-tags:
-id: 355
-comment: false
----
++++
+title = "Return to the Holy Land"
+slug = "return-to-the-holy-land"
+date = "2006-06-02T06:06:14+00:00"
+id = 355
+comment = false
++++
 
 The Grotto of Geeky Goodness remains the same after 7 long years.
 

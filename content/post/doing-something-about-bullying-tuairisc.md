@@ -1,11 +1,10 @@
----
-title: "Doing something about bullying - Tuairisc"
-slug: "doing-something-about-bullying-tuairisc"
-date: "2013-01-29T09:07:04+00:00"
-tags:
-id: 1352
-comment: false
----
++++
+title = "Doing something about bullying - Tuairisc"
+slug = "doing-something-about-bullying-tuairisc"
+date = "2013-01-29T09:07:04+00:00"
+id = 1352
+comment = false
++++
 
 Brian Greene contacted me last week about a new project he has just launched called [Tuairisc.me](https://tuairisc.me/). Like many good ideas, it's brilliantly simple. It's an anti-bullying form for school web-sites that can be added with a single line of HTML to any site.
 

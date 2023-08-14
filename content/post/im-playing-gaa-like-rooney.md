@@ -1,11 +1,10 @@
----
-title: "I'm playing GAA like Rooney"
-slug: "im-playing-gaa-like-rooney"
-date: "2007-04-18T20:50:13+00:00"
-tags:
-id: 548
-comment: false
----
++++
+title = "I'm playing GAA like Rooney"
+slug = "im-playing-gaa-like-rooney"
+date = "2007-04-18T20:50:13+00:00"
+id = 548
+comment = false
++++
 
 So he is only five years old and this was his first ever GAA session. 
 

@@ -1,11 +1,10 @@
----
-title: "Pierce Brosnan can act!"
-slug: "pierce-brosnan-can-act"
-date: "2006-07-30T08:38:53+00:00"
-tags:
-id: 389
-comment: false
----
++++
+title = "Pierce Brosnan can act!"
+slug = "pierce-brosnan-can-act"
+date = "2006-07-30T08:38:53+00:00"
+id = 389
+comment = false
++++
 
   <div class='hreview x-wpsb-review-movie'>   <div>     
 

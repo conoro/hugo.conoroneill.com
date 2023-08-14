@@ -1,11 +1,10 @@
----
-title: "Sitting on the Dock of the Bay"
-slug: "sitting-on-the-dock-of-the-bay"
-date: "2008-06-29T15:00:58+00:00"
-tags:
-id: 677
-comment: false
----
++++
+title = "Sitting on the Dock of the Bay"
+slug = "sitting-on-the-dock-of-the-bay"
+date = "2008-06-29T15:00:58+00:00"
+id = 677
+comment = false
++++
 
 A last minute decision to pop down here for Sunday lunch turned out to be a total success. Fantastic seafood in a relaxed atmosphere with serene views of Clonakilty Bay. If they could just do something about parking, it would be perfect.
 

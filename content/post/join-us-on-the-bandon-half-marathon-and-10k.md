@@ -1,11 +1,10 @@
----
-title: "Join us on the Bandon Half Marathon and 10K"
-slug: "join-us-on-the-bandon-half-marathon-and-10k"
-date: "2011-03-26T15:32:14+00:00"
-tags:
-id: 1176
-comment: false
----
++++
+title = "Join us on the Bandon Half Marathon and 10K"
+slug = "join-us-on-the-bandon-half-marathon-and-10k"
+date = "2011-03-26T15:32:14+00:00"
+id = 1176
+comment = false
++++
 
 I was very disappointed to miss the inaugural Bandon 10k last year so there is no way I'm missing the first [Bandon Half Marathon](http://www.bandonhalfmarathon.com/) on May 14th.
 

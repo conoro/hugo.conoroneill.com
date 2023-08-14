@@ -1,11 +1,10 @@
----
-title: "One Breast Less"
-slug: "one-breast-less"
-date: "2006-11-22T09:58:46+00:00"
-tags:
-id: 457
-comment: false
----
++++
+title = "One Breast Less"
+slug = "one-breast-less"
+date = "2006-11-22T09:58:46+00:00"
+id = 457
+comment = false
++++
 
 Catherine discovered Haydn and Roos' latest blog yesterday, it is called [One Breast Less](http://www.onebreastless.com/) and I don't think I need to tell you what it is about. This is a shockingly good blog with a raw honesty that caught me off-guard but is a mandatory read if you have any interest in health, illness and recovery. 
 

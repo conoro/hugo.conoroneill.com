@@ -1,11 +1,10 @@
----
-title: "Yes I'm a sad old man, what of it?"
-slug: "yes-im-a-sad-old-man-what-of-it"
-date: "2006-07-14T13:16:47+00:00"
-tags:
-id: 377
-comment: false
----
++++
+title = "Yes I'm a sad old man, what of it?"
+slug = "yes-im-a-sad-old-man-what-of-it"
+date = "2006-07-14T13:16:47+00:00"
+id = 377
+comment = false
++++
 
 This gave me goosebumps: 
 

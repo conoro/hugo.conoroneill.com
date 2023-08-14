@@ -1,11 +1,10 @@
----
-title: "You may feel a small prick"
-slug: "you-may-feel-a-small-prick"
-date: "2007-01-05T16:40:41+00:00"
-tags:
-id: 463
-comment: false
----
++++
+title = "You may feel a small prick"
+slug = "you-may-feel-a-small-prick"
+date = "2007-01-05T16:40:41+00:00"
+id = 463
+comment = false
++++
 
 I've recently been getting lots of contraceptive advice from men my age. It seems the only logical route is vasectomy. One of my best advisors had his done quite a while back with no adverse effects.  There is only one guy in Cork who does it, Dr Pillay on Patrick St and he highly recommended him.  He also (quietly) mentioned that performance would not be affected and I wouldn't be shooting blanks for the first thirty. Important tip!
 

@@ -1,11 +1,10 @@
----
-title: "Two Tits and a Vote"
-slug: "two-tits-and-a-vote"
-date: "2008-01-23T12:35:26+00:00"
-tags:
-id: 634
-comment: false
----
++++
+title = "Two Tits and a Vote"
+slug = "two-tits-and-a-vote"
+date = "2008-01-23T12:35:26+00:00"
+id = 634
+comment = false
++++
 
 [Sabrina Dent](http://www.sabrinadent.com/), a wonderful web designer based here in Cork, has launched an important web-site and initiative called "[Two Tits and a Vote](http://twotitsandavote.com/)". 
 

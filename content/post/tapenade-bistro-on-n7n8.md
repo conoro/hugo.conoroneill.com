@@ -1,11 +1,10 @@
----
-title: "Tapenade Bistro on N7/N8"
-slug: "tapenade-bistro-on-n7n8"
-date: "2007-12-09T10:02:27+00:00"
-tags:
-id: 622
-comment: false
----
++++
+title = "Tapenade Bistro on N7/N8"
+slug = "tapenade-bistro-on-n7n8"
+date = "2007-12-09T10:02:27+00:00"
+id = 622
+comment = false
++++
 
 This newish place is in the Midway FoodCourt, Portlaoise and is nearly successful in its attempt to do something a bit different.
 

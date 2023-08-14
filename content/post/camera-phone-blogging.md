@@ -1,11 +1,10 @@
----
-title: "Camera Phone Blogging"
-slug: "camera-phone-blogging"
-date: "2005-06-10T09:59:00+00:00"
-tags:
-id: 108
-comment: false
----
++++
+title = "Camera Phone Blogging"
+slug = "camera-phone-blogging"
+date = "2005-06-10T09:59:00+00:00"
+id = 108
+comment = false
++++
 
 <div style="clear: both" />OK so I figured out how to send a cameraphone picture via Flickr to Blogger but I had to hand-edit this text and post title afterwards. Need to suss how to do this from the phone. All this so I can get picture of new baby out to the world in double-quick time when he arrives. I need a life......
 

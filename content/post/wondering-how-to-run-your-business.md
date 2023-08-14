@@ -1,11 +1,10 @@
----
-title: "Wondering how to run your business?"
-slug: "wondering-how-to-run-your-business"
-date: "2009-12-11T09:47:11+00:00"
-tags:
-id: 1007
-comment: false
----
++++
+title = "Wondering how to run your business?"
+slug = "wondering-how-to-run-your-business"
+date = "2009-12-11T09:47:11+00:00"
+id = 1007
+comment = false
++++
 
 Watch this video from Tony Hsieh the CEO of [Zappos](http://www.zappos.com/), which sold this summer to Amazon for $928m. 
 

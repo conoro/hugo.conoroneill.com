@@ -1,11 +1,10 @@
----
-title: "My Army training tells me... that this is going to be a hot mission"
-slug: "my-army-training-tells-me-that-this-is-going-to-be-a-hot-mission"
-date: "2005-11-20T20:03:05+00:00"
-tags:
-id: 176
-comment: false
----
++++
+title = "My Army training tells me... that this is going to be a hot mission"
+slug = "my-army-training-tells-me-that-this-is-going-to-be-a-hot-mission"
+date = "2005-11-20T20:03:05+00:00"
+id = 176
+comment = false
++++
 
 Usually I'm on the ball when it comes to great new TV shows. I'm also incredibly modest and humble. I've been raving about "Curb" since I watched it on DVD before it was shown here. But I completely let "[Arrested Development](http://en.wikipedia.org/wiki/Arrested_Development_%28TV_series%29)" slip past me. I used hear about the awards and how funny it was but never got round to checking it out. 
 

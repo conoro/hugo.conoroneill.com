@@ -1,11 +1,10 @@
----
-title: "Good food but small seafood choice"
-slug: "good-food-but-small-seafood-choice"
-date: "2006-10-05T07:24:31+00:00"
-tags:
-id: 428
-comment: false
----
++++
+title = "Good food but small seafood choice"
+slug = "good-food-but-small-seafood-choice"
+date = "2006-10-05T07:24:31+00:00"
+id = 428
+comment = false
++++
 
   <div class='hreview'>         
 

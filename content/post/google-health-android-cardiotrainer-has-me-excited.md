@@ -1,11 +1,10 @@
----
-title: "Google Health + Android + CardioTrainer has me excited"
-slug: "google-health-android-cardiotrainer-has-me-excited"
-date: "2010-09-05T17:13:47+00:00"
-tags:
-id: 1092
-comment: false
----
++++
+title = "Google Health + Android + CardioTrainer has me excited"
+slug = "google-health-android-cardiotrainer-has-me-excited"
+date = "2010-09-05T17:13:47+00:00"
+id = 1092
+comment = false
++++
 
 <div>
 

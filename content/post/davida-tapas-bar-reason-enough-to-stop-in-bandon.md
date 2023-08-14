@@ -1,11 +1,10 @@
----
-title: "Davida Tapas Bar - Reason enough to stop in Bandon"
-slug: "davida-tapas-bar-reason-enough-to-stop-in-bandon"
-date: "2006-01-30T19:13:26+00:00"
-tags:
-id: 225
-comment: false
----
++++
+title = "Davida Tapas Bar - Reason enough to stop in Bandon"
+slug = "davida-tapas-bar-reason-enough-to-stop-in-bandon"
+date = "2006-01-30T19:13:26+00:00"
+id = 225
+comment = false
++++
 
 A few Saturdays ago, myself and the worlds most understanding wife headed out to the new Tapas Bar in Bandon. I know, I know, you don't often hear the words Tapas and Bandon in the same sentence, but bear with me.
 

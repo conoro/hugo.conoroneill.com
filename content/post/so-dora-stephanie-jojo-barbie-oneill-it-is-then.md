@@ -1,11 +1,10 @@
----
-title: "So Dora Stephanie JoJo Barbie O'Neill it is then"
-slug: "so-dora-stephanie-jojo-barbie-oneill-it-is-then"
-date: "2006-07-06T12:29:44+00:00"
-tags:
-id: 374
-comment: false
----
++++
+title = "So Dora Stephanie JoJo Barbie O'Neill it is then"
+slug = "so-dora-stephanie-jojo-barbie-oneill-it-is-then"
+date = "2006-07-06T12:29:44+00:00"
+id = 374
+comment = false
++++
 
 It took a lot of poking and prodding with the scanner but the consultant finally decided that it is a wee girlie. 
 

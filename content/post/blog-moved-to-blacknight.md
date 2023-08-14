@@ -1,11 +1,10 @@
----
-title: "Blog Moved to Blacknight"
-slug: "blog-moved-to-blacknight"
-date: "2008-07-31T11:48:24+00:00"
-tags:
-id: 698
-comment: false
----
++++
+title = "Blog Moved to Blacknight"
+slug = "blog-moved-to-blacknight"
+date = "2008-07-31T11:48:24+00:00"
+id = 698
+comment = false
++++
 
 8 years after I first registered conoroneill.com, this blog is finally hosted in Ireland where it belongs. Based on all the great feedback I heard about [Blacknight](http://www.blacknight.ie/) and the fact that they are great supporters of the Irish tech startup community, I went with them.
 

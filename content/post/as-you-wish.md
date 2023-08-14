@@ -1,11 +1,10 @@
----
-title: "As You Wish"
-slug: "as-you-wish"
-date: "2009-12-15T21:44:10+00:00"
-tags:
-id: 1009
-comment: false
----
++++
+title = "As You Wish"
+slug = "as-you-wish"
+date = "2009-12-15T21:44:10+00:00"
+id = 1009
+comment = false
++++
 
 Well [Bandon Film Society](http://bandonfilmsociety.blogspot.com/) has gone and done it again with this brilliant idea.
 

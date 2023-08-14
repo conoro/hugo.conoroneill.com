@@ -1,11 +1,10 @@
----
-title: "Irish Yokels Go London"
-slug: "irish-yokels-go-london"
-date: "2007-08-19T23:38:08+00:00"
-tags:
-id: 596
-comment: false
----
++++
+title = "Irish Yokels Go London"
+slug = "irish-yokels-go-london"
+date = "2007-08-19T23:38:08+00:00"
+id = 596
+comment = false
++++
 
 In the next few months we're coming up on the 10th wedding anniversary. 
 

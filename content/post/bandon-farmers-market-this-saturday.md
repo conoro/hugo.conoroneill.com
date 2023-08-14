@@ -1,11 +1,10 @@
----
-title: "Bandon Farmer's Market this Saturday"
-slug: "bandon-farmers-market-this-saturday"
-date: "2006-06-14T22:00:15+00:00"
-tags:
-id: 362
-comment: false
----
++++
+title = "Bandon Farmer's Market this Saturday"
+slug = "bandon-farmers-market-this-saturday"
+date = "2006-06-14T22:00:15+00:00"
+id = 362
+comment = false
++++
 
   <div class='vevent x-wpsb-simple-event'>       
 

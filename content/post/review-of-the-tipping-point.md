@@ -1,11 +1,10 @@
----
-title: "Review of The Tipping Point"
-slug: "review-of-the-tipping-point"
-date: "2007-06-03T10:36:44+00:00"
-tags:
-id: 572
-comment: false
----
++++
+title = "Review of The Tipping Point"
+slug = "review-of-the-tipping-point"
+date = "2007-06-03T10:36:44+00:00"
+id = 572
+comment = false
++++
 
 <div lang="en" class="hreview">
     <div class="item ">

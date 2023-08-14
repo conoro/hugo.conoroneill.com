@@ -1,11 +1,10 @@
----
-title: "My prayers have been answered, the only problem is that they have been answered in Portlaoise "
-slug: "my-prayers-have-been-answered-the-only-problem-is-that-they-have-been-answered-in-portlaoise"
-date: "2006-11-08T20:45:00+00:00"
-tags:
-id: 448
-comment: false
----
++++
+title = "My prayers have been answered, the only problem is that they have been answered in Portlaoise "
+slug = "my-prayers-have-been-answered-the-only-problem-is-that-they-have-been-answered-in-portlaoise"
+date = "2006-11-08T20:45:00+00:00"
+id = 448
+comment = false
++++
 
 <div class="hreview">
 

@@ -1,11 +1,10 @@
----
-title: "Can you review a wine in 7 words?"
-slug: "can-you-review-a-wine-in-7-words"
-date: "2008-02-09T21:10:16+00:00"
-tags:
-id: 640
-comment: false
----
++++
+title = "Can you review a wine in 7 words?"
+slug = "can-you-review-a-wine-in-7-words"
+date = "2008-02-09T21:10:16+00:00"
+id = 640
+comment = false
++++
 
 I know a lot of the readers here are foodies and I'm sure some of you may even like the odd glass of wine. We've decided to take part in a regular event called Wine Blogging Wednesday. Event #42 happens this coming Wednesday and the challenge is to review an Italian Red in 7 words. I love a challenge and this is a tough one.
 

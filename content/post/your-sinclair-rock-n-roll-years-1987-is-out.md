@@ -1,11 +1,10 @@
----
-title: "Your Sinclair Rock n Roll Years 1987 is out!"
-slug: "your-sinclair-rock-n-roll-years-1987-is-out"
-date: "2007-01-06T12:01:33+00:00"
-tags:
-id: 464
-comment: false
----
++++
+title = "Your Sinclair Rock n Roll Years 1987 is out!"
+slug = "your-sinclair-rock-n-roll-years-1987-is-out"
+date = "2007-01-06T12:01:33+00:00"
+id = 464
+comment = false
++++
 
 As with all the previous episodes, this one is a zinger even if you were a C64 or (god forbid) Dragon user. I had stopped my involvement with home computers by 1987, what with being in college and discovering drink instead. So I found it particularly interesting that they mention a game called "[Head Over Heels](http://www.worldofspectrum.org/infoseekid.cgi?id=0002259)" which was considered by many to be the greatest example of its genre ever created. 
 

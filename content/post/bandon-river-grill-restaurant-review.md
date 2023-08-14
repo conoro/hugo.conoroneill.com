@@ -1,11 +1,10 @@
----
-title: "Bandon River Grill Restaurant Review"
-slug: "bandon-river-grill-restaurant-review"
-date: "2006-04-23T14:27:04+00:00"
-tags:
-id: 335
-comment: false
----
++++
+title = "Bandon River Grill Restaurant Review"
+slug = "bandon-river-grill-restaurant-review"
+date = "2006-04-23T14:27:04+00:00"
+id = 335
+comment = false
++++
 
   <div class='hreview'>         
 

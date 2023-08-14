@@ -1,11 +1,10 @@
----
-title: "Six Go Mad in Macclesfield"
-slug: "six-go-mad-in-macclesfield"
-date: "2005-10-13T01:46:01+00:00"
-tags:
-id: 153
-comment: false
----
++++
+title = "Six Go Mad in Macclesfield"
+slug = "six-go-mad-in-macclesfield"
+date = "2005-10-13T01:46:01+00:00"
+id = 153
+comment = false
++++
 
 We finally bit the bullet and took a trip to Frank, Helen and the two boys in Macclesfield en famille. The six of us headed down to Cork airport last saturday morning bright and early. 
 

@@ -1,11 +1,10 @@
----
-title: "Brigadier N. F. Marwood-Git (retired)"
-slug: "brigadier-n-f-marwood-git-retired"
-date: "2006-07-30T09:43:09+00:00"
-tags:
-id: 390
-comment: false
----
++++
+title = "Brigadier N. F. Marwood-Git (retired)"
+slug = "brigadier-n-f-marwood-git-retired"
+date = "2006-07-30T09:43:09+00:00"
+id = 390
+comment = false
++++
 
 I think this is the first time in 16 years of using the internet that I have been presented with a list like this:
 

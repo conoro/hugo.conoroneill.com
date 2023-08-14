@@ -1,11 +1,10 @@
----
-title: "Cafe Paradiso, no meat necessary"
-slug: "cafe-paradiso-no-meat-necessary"
-date: "2006-03-29T12:57:38+00:00"
-tags:
-id: 305
-comment: false
----
++++
+title = "Cafe Paradiso, no meat necessary"
+slug = "cafe-paradiso-no-meat-necessary"
+date = "2006-03-29T12:57:38+00:00"
+id = 305
+comment = false
++++
 
   <div class='hreview'>         
 

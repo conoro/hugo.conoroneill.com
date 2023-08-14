@@ -1,11 +1,10 @@
----
-title: "Ummera Smoked Rashers: Taste-tastic!"
-slug: "ummera-smoked-rashers-taste-tastic"
-date: "2005-12-10T10:36:00+00:00"
-tags:
-id: 196
-comment: false
----
++++
+title = "Ummera Smoked Rashers: Taste-tastic!"
+slug = "ummera-smoked-rashers-taste-tastic"
+date = "2005-12-10T10:36:00+00:00"
+id = 196
+comment = false
++++
 
 I've just cooked up the smoked rashers that Catherine got in [Urru](http://www.urru.ie/) during the week. They were gorgeous. I was surprised when I opened the pack to see that it did not contain a few thick rashers but lots of very thinly cut ones. This is exactly the way I like them - I've never been a fan of those thick cut things which often end up a chewy as old boots. They usually have the word "traditional" on them. If I see this word on Irish food products, my brain automatically replaces it with the word "shite".
 

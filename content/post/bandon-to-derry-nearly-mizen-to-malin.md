@@ -1,11 +1,10 @@
----
-title: "Bandon to Derry  - Nearly Mizen to Malin"
-slug: "bandon-to-derry-nearly-mizen-to-malin"
-date: "2006-01-30T11:23:48+00:00"
-tags:
-id: 236
-comment: false
----
++++
+title = "Bandon to Derry  - Nearly Mizen to Malin"
+slug = "bandon-to-derry-nearly-mizen-to-malin"
+date = "2006-01-30T11:23:48+00:00"
+id = 236
+comment = false
++++
 
 We finally did it. Up to Derry to visit the Pierce's. On the way up we over-nighted with Mary in Cavan and then arrived at Saturday lunchtime. Incredible location looking out over the Foyle. Great weekend.
 

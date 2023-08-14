@@ -1,11 +1,10 @@
----
-title: "Learn about Twitter whilst having a nice glass of vino"
-slug: "learn-about-twitter-whilst-having-a-nice-glass-of-vino"
-date: "2010-02-22T11:20:00+00:00"
-tags:
-id: 1032
-comment: false
----
++++
+title = "Learn about Twitter whilst having a nice glass of vino"
+slug = "learn-about-twitter-whilst-having-a-nice-glass-of-vino"
+date = "2010-02-22T11:20:00+00:00"
+id = 1032
+comment = false
++++
 
 I know the whole [Twitter](http://twitter.com) thing is still completely alien to a lot of people. How many wondered what the hell the papers were on about when discussing Dan Boyle's "[tweet](http://twitter.com/sendboyle/status/9245275419)"?
 

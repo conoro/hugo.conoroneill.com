@@ -1,11 +1,10 @@
----
-title: "AllFreeCalls.ie - Free international calls from Ireland"
-slug: "allfreecallsie-free-international-calls-from-ireland"
-date: "2007-02-09T10:56:09+00:00"
-tags:
-id: 480
-comment: false
----
++++
+title = "AllFreeCalls.ie - Free international calls from Ireland"
+slug = "allfreecallsie-free-international-calls-from-ireland"
+date = "2007-02-09T10:56:09+00:00"
+id = 480
+comment = false
++++
 
 Some of you may have heard about [AllFreeCalls](http://allfreecalls.net/) which allows people in the US to call internationally for the price of a call to Iowa (often free). This is a service run by a great guy called Pat Phelan in Cork.
 

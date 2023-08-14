@@ -1,11 +1,10 @@
----
-title: "What next Sir Alan, the Amstrad C5?"
-slug: "what-next-sir-alan-the-amstrad-c5"
-date: "2006-03-14T09:41:00+00:00"
-tags:
-id: 279
-comment: false
----
++++
+title = "What next Sir Alan, the Amstrad C5?"
+slug = "what-next-sir-alan-the-amstrad-c5"
+date = "2006-03-14T09:41:00+00:00"
+id = 279
+comment = false
++++
 
 AMS is really dropping the ball recently, isn't he? How many years did it take him to finally decide to stop flogging a near-dead horse and put a bullet in the em@iler? Was no-one in the company strong enough to tell him it was the best product to come out of a British company since The Royal Carriage and Wagon company decided to  compete against the Ford Model T with their new Shetland model, now with automatic pooh collection.
 

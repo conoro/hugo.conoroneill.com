@@ -1,11 +1,10 @@
----
-title: "Spicendipity goes live!"
-slug: "spicendipity-goes-live"
-date: "2008-06-23T19:32:54+00:00"
-tags:
-id: 674
-comment: false
----
++++
+title = "Spicendipity goes live!"
+slug = "spicendipity-goes-live"
+date = "2008-06-23T19:32:54+00:00"
+id = 674
+comment = false
++++
 
 Many of the readers of this blog are surely also fans of [The Humble Housewife](http://tast.ie/), Deborah Hadley. She has just launched a fabulous new web-site called [Spicendipity](http://spicendipity.com/) selling homemade sauces and 100% natural spice mixes and baking mixes.
 

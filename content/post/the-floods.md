@@ -1,11 +1,10 @@
----
-title: "The Floods"
-slug: "the-floods"
-date: "2009-11-21T09:58:22+00:00"
-tags:
-id: 996
-comment: false
----
++++
+title = "The Floods"
+slug = "the-floods"
+date = "2009-11-21T09:58:22+00:00"
+id = 996
+comment = false
++++
 
 Our thoughts are with all those families and businesses damaged by the horrendous floods in West Cork this week. 
 

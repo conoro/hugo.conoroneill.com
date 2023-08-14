@@ -1,11 +1,10 @@
----
-title: "Review of Sinclair ZX Spectrum 16K"
-slug: "review-of-sinclair-zx-spectrum-16k"
-date: "2007-04-23T08:08:23+00:00"
-tags:
-id: 556
-comment: false
----
++++
+title = "Review of Sinclair ZX Spectrum 16K"
+slug = "review-of-sinclair-zx-spectrum-16k"
+date = "2007-04-23T08:08:23+00:00"
+id = 556
+comment = false
++++
 
 <div lang="en" class="hreview">
 

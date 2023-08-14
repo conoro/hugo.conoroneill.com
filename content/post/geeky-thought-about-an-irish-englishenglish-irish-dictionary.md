@@ -1,11 +1,10 @@
----
-title: "Geeky thought about an Irish-English/English-Irish dictionary"
-slug: "geeky-thought-about-an-irish-englishenglish-irish-dictionary"
-date: "2007-02-07T09:56:06+00:00"
-tags:
-id: 478
-comment: false
----
++++
+title = "Geeky thought about an Irish-English/English-Irish dictionary"
+slug = "geeky-thought-about-an-irish-englishenglish-irish-dictionary"
+date = "2007-02-07T09:56:06+00:00"
+id = 478
+comment = false
++++
 
 Our start-up [LouderVoice](http://blog.loudervoice.com/) got a nice mention in the Irish-language daily newspaper [Lá](http://www.nuacht.com/). We were at an un-conference called BarCamp Ireland South-East in Waterford and [Conn Ó Muíneacháin](http://www.imeall.com/) did a nice write up about it. Due to my desperately rusty Irish, I had to make use of [this online dictionary](http://www.englishirishdictionary.com/dictionary) to translate some of the words. Whilst it is a great resource, it seems to be lacking a huge number of words and also only seems to handle the roots of of words (or whatever it is called i.e it'll find léirmheastóir but not léirmheastóireachta).
 

@@ -1,11 +1,10 @@
----
-title: "Elevenses"
-slug: "elevenses"
-date: "2007-09-04T11:56:08+00:00"
-tags:
-id: 600
-comment: false
----
++++
+title = "Elevenses"
+slug = "elevenses"
+date = "2007-09-04T11:56:08+00:00"
+id = 600
+comment = false
++++
 
 From the garden.
 

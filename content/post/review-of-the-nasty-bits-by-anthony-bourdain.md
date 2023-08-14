@@ -1,11 +1,10 @@
----
-title: "Review of The Nasty Bits by Anthony Bourdain"
-slug: "review-of-the-nasty-bits-by-anthony-bourdain"
-date: "2007-10-06T15:08:33+00:00"
-tags:
-id: 607
-comment: false
----
++++
+title = "Review of The Nasty Bits by Anthony Bourdain"
+slug = "review-of-the-nasty-bits-by-anthony-bourdain"
+date = "2007-10-06T15:08:33+00:00"
+id = 607
+comment = false
++++
 
 <div lang="en" class="hreview">
     <span><span class="item "><span class="fn">[The Nasty Bits by Anthony Bourdain](http://www.anthonybourdain.com/)</span>    </span></span>

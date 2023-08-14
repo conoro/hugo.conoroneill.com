@@ -1,11 +1,10 @@
----
-title: "An Irish day at the beach"
-slug: "an-irish-day-at-the-beach"
-date: "2006-06-12T21:35:35+00:00"
-tags:
-id: 360
-comment: false
----
++++
+title = "An Irish day at the beach"
+slug = "an-irish-day-at-the-beach"
+date = "2006-06-12T21:35:35+00:00"
+id = 360
+comment = false
++++
 
 Where were the multi-coloured windbreakers when I needed them? Flasks of milky tea and gritty sandwiches would have helped too. But the kids didn't notice and had a whale of a time. Long Strand is still one of the most impressive beaches in Cork. I'm only disappointed that the para-glider-surfer-thingy dude disappeared before I could get a photo.
 

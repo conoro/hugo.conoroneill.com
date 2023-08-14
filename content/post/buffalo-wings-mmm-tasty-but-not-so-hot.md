@@ -1,11 +1,10 @@
----
-title: "Buffalo Wings, mmm tasty but not so hot"
-slug: "buffalo-wings-mmm-tasty-but-not-so-hot"
-date: "2006-03-31T23:12:29+00:00"
-tags:
-id: 309
-comment: false
----
++++
+title = "Buffalo Wings, mmm tasty but not so hot"
+slug = "buffalo-wings-mmm-tasty-but-not-so-hot"
+date = "2006-03-31T23:12:29+00:00"
+id = 309
+comment = false
++++
 
 I've made a few half-hearted attempts at doing chicken wings over the years. Usually in the oven and usually burnt beyond all recognition. I now realise that you add the sauce afterwards as anything with sugar will burn.
 

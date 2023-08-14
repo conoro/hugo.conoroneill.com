@@ -1,11 +1,10 @@
----
-title: "Pork from China?"
-slug: "pork-from-china"
-date: "2005-11-17T08:00:41+00:00"
-tags:
-id: 178
-comment: false
----
++++
+title = "Pork from China?"
+slug = "pork-from-china"
+date = "2005-11-17T08:00:41+00:00"
+id = 178
+comment = false
++++
 
 I set up Google Analytics and AdSense on this web-site for no real reason other than messin. Watching the ads that appear could become a full-time hobby. 
 

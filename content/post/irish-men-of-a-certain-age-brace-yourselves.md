@@ -1,11 +1,10 @@
----
-title: "Irish men of a certain age, brace yourselves"
-slug: "irish-men-of-a-certain-age-brace-yourselves"
-date: "2006-10-29T20:47:08+00:00"
-tags:
-id: 442
-comment: false
----
++++
+title = "Irish men of a certain age, brace yourselves"
+slug = "irish-men-of-a-certain-age-brace-yourselves"
+date = "2006-10-29T20:47:08+00:00"
+id = 442
+comment = false
++++
 
 Leslie Dowdall is playing The Brogan Inn in Bandon soon!
 

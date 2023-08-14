@@ -1,11 +1,10 @@
----
-title: "Tips for Father's Day"
-slug: "tips-for-fathers-day"
-date: "2006-03-27T21:02:00+00:00"
-tags:
-id: 304
-comment: false
----
++++
+title = "Tips for Father's Day"
+slug = "tips-for-fathers-day"
+date = "2006-03-27T21:02:00+00:00"
+id = 304
+comment = false
++++
 
 The traditional Mother's Day treat in our house is to get a nice simple poached eggs on toast breakfast in bed which the kids can easily help with. This year, as wifey is up the pole, soft eggs were a no-no and hard poached eggs are pooh, so we needed an alternative.
 

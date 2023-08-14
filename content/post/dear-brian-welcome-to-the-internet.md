@@ -1,11 +1,10 @@
----
-title: "Dear Brian, welcome to the Internet"
-slug: "dear-brian-welcome-to-the-internet"
-date: "2009-03-25T09:08:36+00:00"
-tags:
-id: 842
-comment: false
----
++++
+title = "Dear Brian, welcome to the Internet"
+slug = "dear-brian-welcome-to-the-internet"
+date = "2009-03-25T09:08:36+00:00"
+id = 842
+comment = false
++++
 
 Fianna Fail may be able to censor RTE and turn it into a toothless Soviet-era Pravda but luckily we have the internet to enable democracy and freedom of speech and expression.
 

@@ -1,11 +1,10 @@
----
-title: "I knew it, I knew he was faking"
-slug: "i-knew-it-i-knew-he-was-faking"
-date: "2005-04-18T19:55:00+00:00"
-tags:
-id: 66
-comment: false
----
++++
+title = "I knew it, I knew he was faking"
+slug = "i-knew-it-i-knew-he-was-faking"
+date = "2005-04-18T19:55:00+00:00"
+id = 66
+comment = false
++++
 
 OK-bleedin-Computer? How stupid is the average Channel 4 viewer?
 

@@ -1,11 +1,10 @@
----
-title: "Heat zaps the bugs and delivers a winning final"
-slug: "heat-zaps-the-bugs-and-delivers-a-winning-final"
-date: "2008-08-10T22:58:23+00:00"
-tags:
-id: 706
-comment: false
----
++++
+title = "Heat zaps the bugs and delivers a winning final"
+slug = "heat-zaps-the-bugs-and-delivers-a-winning-final"
+date = "2008-08-10T22:58:23+00:00"
+id = 706
+comment = false
++++
 
 I had written off this series by the third episode but it still showed glimmers of quality. Luckily those glimmers shone through to beat off the bozos and tooth veneers. The final gave us the two best chefs who were clearly passionate and capable.
 

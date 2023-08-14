@@ -1,11 +1,10 @@
----
-title: "No excuses now - Make BCG mandatory in Cork"
-slug: "no-excuses-now-make-bcg-mandatory-in-cork"
-date: "2007-03-22T10:12:45+00:00"
-tags:
-id: 514
-comment: false
----
++++
+title = "No excuses now - Make BCG mandatory in Cork"
+slug = "no-excuses-now-make-bcg-mandatory-in-cork"
+date = "2007-03-22T10:12:45+00:00"
+id = 514
+comment = false
++++
 
 For some completely bizarre reason, each regional health board can decide whether to give babies a [BCG](http://www.immunisation.ie/en/ChildhoodImmunisation/BCG/) shot or not as standard. Cork (all of Munster?) is the only region not to. 
 

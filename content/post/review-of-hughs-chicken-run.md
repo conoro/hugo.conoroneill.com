@@ -1,11 +1,10 @@
----
-title: "Review of Hugh's Chicken Run"
-slug: "review-of-hughs-chicken-run"
-date: "2008-01-13T10:42:33+00:00"
-tags:
-id: 631
-comment: false
----
++++
+title = "Review of Hugh's Chicken Run"
+slug = "review-of-hughs-chicken-run"
+date = "2008-01-13T10:42:33+00:00"
+id = 631
+comment = false
++++
 
 This is less of a review and more of a vote of support. Last week Hugh Fearnley-Whittingstall kicked off a campaign to get people eating Free Range Chicken. He did this through a series of compelling programmes comparing intensively raised chicken production with Free Range.
 

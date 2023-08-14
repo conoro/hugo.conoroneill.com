@@ -1,11 +1,10 @@
----
-title: "Diary of A Virgin Semi-Veggie, Part 3"
-slug: "diary-of-a-virgin-semi-veggie-part-3"
-date: "2012-04-01T13:40:04+00:00"
-tags:
-id: 1289
-comment: false
----
++++
+title = "Diary of A Virgin Semi-Veggie, Part 3"
+slug = "diary-of-a-virgin-semi-veggie-part-3"
+date = "2012-04-01T13:40:04+00:00"
+id = 1289
+comment = false
++++
 
 It all kicked off in mid-Jan and here we are on April 1st, still at it. I don't have a huge number of updates since [the last one in February](http://conoroneill.com/2012/02/18/diary-of-a-virgin-semi-veggie-part-2/) but a couple of interesting tidbits, including one which just happened and threw me completely.
 

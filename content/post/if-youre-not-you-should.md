@@ -1,11 +1,10 @@
----
-title: "If you're not, you should"
-slug: "if-youre-not-you-should"
-date: "2005-04-27T08:26:47+00:00"
-tags:
-id: 52
-comment: false
----
++++
+title = "If you're not, you should"
+slug = "if-youre-not-you-should"
+date = "2005-04-27T08:26:47+00:00"
+id = 52
+comment = false
++++
 
 Of the zillions of web-sites I access in an average week, only one is unusable with Firefox - the online banking one from the donkey's over at Ulster Bank. Has someone not told them that even MS now recommend the use of the Sun JVM?
 

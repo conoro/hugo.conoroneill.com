@@ -1,11 +1,10 @@
----
-title: "Useful Nut warnings"
-slug: "useful-nut-warnings"
-date: "2005-11-12T02:44:22+00:00"
-tags:
-id: 174
-comment: false
----
++++
+title = "Useful Nut warnings"
+slug = "useful-nut-warnings"
+date = "2005-11-12T02:44:22+00:00"
+id = 174
+comment = false
++++
 
 For those suffering from both nut allergies and an IQ of 50.
 

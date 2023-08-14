@@ -1,11 +1,10 @@
----
-title: "Interested in helping us test LouderVoice?"
-slug: "interested-in-helping-us-test-loudervoice"
-date: "2006-12-19T15:56:24+00:00"
-tags:
-id: 462
-comment: false
----
++++
+title = "Interested in helping us test LouderVoice?"
+slug = "interested-in-helping-us-test-loudervoice"
+date = "2006-12-19T15:56:24+00:00"
+id = 462
+comment = false
++++
 
 Those of you who know me well also know that I've spent the past few months working hard on building a new web-site called [LouderVoice](http://www.loudervoice.com/). We're coming close to launching the site properly (probably in late January or early February) but before we do we would really like to have some people help us try out the site and tell us what they think. 
 

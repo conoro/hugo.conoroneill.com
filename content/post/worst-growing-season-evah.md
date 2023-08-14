@@ -1,11 +1,10 @@
----
-title: "Worst growing season EVAH!"
-slug: "worst-growing-season-evah"
-date: "2007-08-15T14:11:14+00:00"
-tags:
-id: 593
-comment: false
----
++++
+title = "Worst growing season EVAH!"
+slug = "worst-growing-season-evah"
+date = "2007-08-15T14:11:14+00:00"
+id = 593
+comment = false
++++
 
 My "stick it in the ground and it'll grow" school of gardening thought has failed miserably this year. The only things that have grown are non-essential herbs, apples, strawberries, sorrel and radishes. And I don't even particularly like the latter two. Actually, I nearly forgot the one rhubarb plant which provided seven metric tonnes of sticks. Lots of yummy tarts for me (as the bishop....).
 

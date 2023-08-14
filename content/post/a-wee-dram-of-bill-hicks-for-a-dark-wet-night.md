@@ -1,11 +1,10 @@
----
-title: "A Wee Dram of Bill Hicks for a dark wet night"
-slug: "a-wee-dram-of-bill-hicks-for-a-dark-wet-night"
-date: "2005-05-26T23:00:00+00:00"
-tags:
-id: 75
-comment: false
----
++++
+title = "A Wee Dram of Bill Hicks for a dark wet night"
+slug = "a-wee-dram-of-bill-hicks-for-a-dark-wet-night"
+date = "2005-05-26T23:00:00+00:00"
+id = 75
+comment = false
++++
 
 <div style="clear: both" />Another reason to like JWZ - he is a Bill Hicks fan too [by the looks of things](http://www.livejournal.com/users/jwz/486553.html).
 

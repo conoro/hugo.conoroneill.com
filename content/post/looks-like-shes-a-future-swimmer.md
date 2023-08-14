@@ -1,11 +1,10 @@
----
-title: "Looks like (s)he's a future swimmer"
-slug: "looks-like-shes-a-future-swimmer"
-date: "2006-05-09T22:29:58+00:00"
-tags:
-id: 344
-comment: false
----
++++
+title = "Looks like (s)he's a future swimmer"
+slug = "looks-like-shes-a-future-swimmer"
+date = "2006-05-09T22:29:58+00:00"
+id = 344
+comment = false
++++
 
 All is well in womb-land. Babba did some fine full body kicks during the scan.
 

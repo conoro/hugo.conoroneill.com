@@ -1,11 +1,10 @@
----
-title: "Treffen 2005 in Bandon"
-slug: "treffen-2005-in-bandon"
-date: "2005-08-31T15:40:44+00:00"
-tags:
-id: 142
-comment: false
----
++++
+title = "Treffen 2005 in Bandon"
+slug = "treffen-2005-in-bandon"
+date = "2005-08-31T15:40:44+00:00"
+id = 142
+comment = false
++++
 
 The Honda Goldwing Owners Club had their annual Treffen in Bandon last weekend. It was a thrill to see so many fabulous bikes from all over Europe around the town. I could make a crack about the fact that the owners all seemed to be overweight middle-aged men, but as I now fall firmly in that category, I shall desist.
 

@@ -1,11 +1,10 @@
----
-title: "I am the weaver"
-slug: "i-am-the-weaver"
-date: "2005-08-14T12:07:00+00:00"
-tags:
-id: 132
-comment: false
----
++++
+title = "I am the weaver"
+slug = "i-am-the-weaver"
+date = "2005-08-14T12:07:00+00:00"
+id = 132
+comment = false
++++
 
 To quote the great Bill Hicks.
 

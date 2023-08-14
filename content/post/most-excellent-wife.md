@@ -1,11 +1,10 @@
----
-title: "Most excellent wife"
-slug: "most-excellent-wife"
-date: "2006-06-18T12:30:29+00:00"
-tags:
-id: 368
-comment: false
----
++++
+title = "Most excellent wife"
+slug = "most-excellent-wife"
+date = "2006-06-18T12:30:29+00:00"
+id = 368
+comment = false
++++
 
 Lovely breakfast in bed and the gift of a [Hairy Baby T-Shirt](http://www.hairy-baby.com/catalog/product_info.php/cPath/39/products_id/1209). [Check those guys out](http://www.hairy-baby.com/catalog/index.php), they have really great stuff. 
 

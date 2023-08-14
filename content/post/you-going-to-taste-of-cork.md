@@ -1,11 +1,10 @@
----
-title: "You going to Taste of Cork?"
-slug: "you-going-to-taste-of-cork"
-date: "2008-06-15T17:58:13+00:00"
-tags:
-id: 670
-comment: false
----
++++
+title = "You going to Taste of Cork?"
+slug = "you-going-to-taste-of-cork"
+date = "2008-06-15T17:58:13+00:00"
+id = 670
+comment = false
++++
 
 It looks like [Taste of Dublin](http://www.tastefestivals.ie/) this weekend was a big success and a huge improvement over last year. I was thrilled to hear that they are doing a [Taste of Cork](http://79.170.40.33/tastefestivals.ie/index.php?option=com_contentandtask=viewandid=73andItemid=92) from Friday 27th June to Sunday 29th. Over on [LouderVoice](http://www.loudervoice.com/), we'd like to capture the quality of the event by having people review what they eat/drink/encounter by SMS. The most popular review will win a prize (suggestions on what that should be are very welcome).
 

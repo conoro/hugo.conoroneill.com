@@ -1,11 +1,10 @@
----
-title: "Weight Crash in Aisle Five"
-slug: "weight-crash-in-aisle-five"
-date: "2005-11-22T09:26:47+00:00"
-tags:
-id: 186
-comment: false
----
++++
+title = "Weight Crash in Aisle Five"
+slug = "weight-crash-in-aisle-five"
+date = "2005-11-22T09:26:47+00:00"
+id = 186
+comment = false
++++
 
 Not that anyone cares other than those who have to look at me, but I managed to drop a stone (14 fluid ounces in US measurements and 3 kilopascals in metric) in the past 4 weeks. Only 28 more pounds to go. Targeting another stone by Christmas but that is probably unrealistic. With the money I have saved from not drinking, I'm buying myself a new Ford Mustang.
 

@@ -1,11 +1,10 @@
----
-title: "Looks like the hamster is going to be ok"
-slug: "looks-like-the-hamster-is-going-to-be-ok"
-date: "2006-09-23T07:22:59+00:00"
-tags:
-id: 423
-comment: false
----
++++
+title = "Looks like the hamster is going to be ok"
+slug = "looks-like-the-hamster-is-going-to-be-ok"
+date = "2006-09-23T07:22:59+00:00"
+id = 423
+comment = false
++++
 
 [All reports seem to indicate](http://news.bbc.co.uk/2/hi/uk_news/5372890.stm) that Richard Hammond is well on the mend which is a big relief to any fan of Top Gear. 
 

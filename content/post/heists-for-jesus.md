@@ -1,11 +1,10 @@
----
-title: "Heists for Jesus"
-slug: "heists-for-jesus"
-date: "2005-11-15T07:15:16+00:00"
-tags:
-id: 137
-comment: false
----
++++
+title = "Heists for Jesus"
+slug = "heists-for-jesus"
+date = "2005-11-15T07:15:16+00:00"
+id = 137
+comment = false
++++
 
 I shouldn't laugh, I really shouldn't, but I'm pretty sure the only Baptist church in Bandon is the one just near our house. 
 

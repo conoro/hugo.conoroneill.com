@@ -1,11 +1,10 @@
----
-title: "Nokia N70 Niggles"
-slug: "nokia-n70-niggles"
-date: "2006-06-11T09:12:35+00:00"
-tags:
-id: 359
-comment: false
----
++++
+title = "Nokia N70 Niggles"
+slug = "nokia-n70-niggles"
+date = "2006-06-11T09:12:35+00:00"
+id = 359
+comment = false
++++
 
 I've had the N70 since April and I'm still in two minds about it. My biggest beef is less with Nokia and more with Vodafone. 
 

@@ -1,11 +1,10 @@
----
-title: "Oh and votes please"
-slug: "oh-and-votes-please"
-date: "2007-08-15T14:15:57+00:00"
-tags:
-id: 594
-comment: false
----
++++
+title = "Oh and votes please"
+slug = "oh-and-votes-please"
+date = "2007-08-15T14:15:57+00:00"
+id = 594
+comment = false
++++
 
 For the new blog theme. Like or no like? Like but would prefer a Cork specific image in the header? Don't like cos it looks like mud? 
 

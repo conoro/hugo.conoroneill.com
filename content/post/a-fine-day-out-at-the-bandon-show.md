@@ -1,11 +1,10 @@
----
-title: "A fine day out at the Bandon Show"
-slug: "a-fine-day-out-at-the-bandon-show"
-date: "2006-06-18T13:19:40+00:00"
-tags:
-id: 369
-comment: false
----
++++
+title = "A fine day out at the Bandon Show"
+slug = "a-fine-day-out-at-the-bandon-show"
+date = "2006-06-18T13:19:40+00:00"
+id = 369
+comment = false
++++
 
 We had a blast of an afternoon at the Bandon Show yesterday. Everything from horses to bulls to dogs were on show and there were plenty of activities for the young uns too. We ran into a ton of people we knew.
 

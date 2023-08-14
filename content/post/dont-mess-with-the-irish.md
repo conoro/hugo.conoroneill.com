@@ -1,11 +1,10 @@
----
-title: "Don't mess with the Irish"
-slug: "dont-mess-with-the-irish"
-date: "2009-04-04T10:38:57+00:00"
-tags:
-id: 866
-comment: false
----
++++
+title = "Don't mess with the Irish"
+slug = "dont-mess-with-the-irish"
+date = "2009-04-04T10:38:57+00:00"
+id = 866
+comment = false
++++
 
 I was enraged on Thursday whilst listening to the latest [Restaurant Guys' podcast](http://www.restaurantguysradio.com/sle/rg/content/shows/index.asp?show_id=478). They were interviewing a New York restaurateur who is being picketed by fois gras protestors. These ugg-boot-wearing idiots think they can intimidate a small business owner and effectively put him out of business. These cowards don't have the balls to go after large fast-food chains who sell industrially produced chicken and figure they'll go for easy marks instead.
 

@@ -1,11 +1,10 @@
----
-title: "Irish Immigration Control is a Disgrace"
-slug: "irish-immigration-control-is-a-disgrace"
-date: "2007-09-07T15:47:03+00:00"
-tags:
-id: 603
-comment: false
----
++++
+title = "Irish Immigration Control is a Disgrace"
+slug = "irish-immigration-control-is-a-disgrace"
+date = "2007-09-07T15:47:03+00:00"
+id = 603
+comment = false
++++
 
 Today I am embarassed to be Irish. I wish to extend my apologies and those of all reasonable people in this country to [Keola Donaghy](http://www2.hawaii.edu/~donaghy/eng/index.html) and his family.
 

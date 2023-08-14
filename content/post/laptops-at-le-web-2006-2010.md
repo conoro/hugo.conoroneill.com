@@ -1,11 +1,10 @@
----
-title: "Laptops at Le Web 2006-2010"
-slug: "laptops-at-le-web-2006-2010"
-date: "2009-11-08T12:15:06+00:00"
-tags:
-id: 983
-comment: false
----
++++
+title = "Laptops at Le Web 2006-2010"
+slug = "laptops-at-le-web-2006-2010"
+date = "2009-11-08T12:15:06+00:00"
+id = 983
+comment = false
++++
 
 I've gone to [Le Web](http://www.leweb.net/) every year since 2006\. It's the stand-out event for those working in the Web in Europe. Every December I head over to Paris and come back wit h a head full of ideas and plans.
 

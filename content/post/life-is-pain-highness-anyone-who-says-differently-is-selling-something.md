@@ -1,11 +1,10 @@
----
-title: "Life is pain, Highness. Anyone who says differently is selling something."
-slug: "life-is-pain-highness-anyone-who-says-differently-is-selling-something"
-date: "2005-04-20T08:13:00+00:00"
-tags:
-id: 65
-comment: false
----
++++
+title = "Life is pain, Highness. Anyone who says differently is selling something."
+slug = "life-is-pain-highness-anyone-who-says-differently-is-selling-something"
+date = "2005-04-20T08:13:00+00:00"
+id = 65
+comment = false
++++
 
 We don't have it too bad for restaurants down here in Cork. We've had great meals in Gleesons in Clonakilty, Casino House in Kilbrittain and Broly's in Bandon.
 

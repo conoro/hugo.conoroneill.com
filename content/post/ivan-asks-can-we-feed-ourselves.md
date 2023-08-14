@@ -1,11 +1,10 @@
----
-title: "Ivan asks - Can we feed ourselves?"
-slug: "ivan-asks-can-we-feed-ourselves"
-date: "2009-06-16T07:29:39+00:00"
-tags:
-id: 912
-comment: false
----
++++
+title = "Ivan asks - Can we feed ourselves?"
+slug = "ivan-asks-can-we-feed-ourselves"
+date = "2009-06-16T07:29:39+00:00"
+id = 912
+comment = false
++++
 
 Deeply important piece by Ivan on [food security and our future](http://foodculturewestcork.wordpress.com/2009/06/15/can-we-feed-ourselves/). Don't just read it, leave your thoughts too.
 

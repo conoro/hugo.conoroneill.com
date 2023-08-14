@@ -1,11 +1,10 @@
----
-title: "A Kitchen Paradise in Bantry"
-slug: "a-kitchen-paradise-in-bantry"
-date: "2010-03-21T09:09:43+00:00"
-tags:
-id: 1052
-comment: false
----
++++
+title = "A Kitchen Paradise in Bantry"
+slug = "a-kitchen-paradise-in-bantry"
+date = "2010-03-21T09:09:43+00:00"
+id = 1052
+comment = false
++++
 
 We recently discovered this shop as it seems to be the only one in a few hundred miles of Bandon that sells Sodastream gas refills. Catherine popped down a few weeks ago to get two refills and raved about the place. I drove down yesterday to have a look and get some of the Sodastream flavours.
 

@@ -1,11 +1,10 @@
----
-title: "Now I'm not saying Vodafone read my blog but"
-slug: "now-im-not-saying-vodafone-read-my-blog-but"
-date: "2006-06-14T20:33:51+00:00"
-tags:
-id: 361
-comment: false
----
++++
+title = "Now I'm not saying Vodafone read my blog but"
+slug = "now-im-not-saying-vodafone-read-my-blog-but"
+date = "2006-06-14T20:33:51+00:00"
+id = 361
+comment = false
++++
 
 ElectricNews reports that [Vodafone launches flat-rate 3G access](http://www.electricnews.net/news.html?code=9705305).
 

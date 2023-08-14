@@ -1,11 +1,10 @@
----
-title: "Conor's ultra secret Chicken Tikka Masala recipe"
-slug: "conors-ultra-secret-chicken-tikka-masala-recipe"
-date: "2006-10-13T09:52:23+00:00"
-tags:
-id: 434
-comment: false
----
++++
+title = "Conor's ultra secret Chicken Tikka Masala recipe"
+slug = "conors-ultra-secret-chicken-tikka-masala-recipe"
+date = "2006-10-13T09:52:23+00:00"
+id = 434
+comment = false
++++
 
 Handed down through generations of sufi mystics and carried by the Priory of Sion to Bandon where it remained undiscovered in a secret vault until excavations found the ancient stone etchings, I can now reveal the best chicken tikka masala recipe on the planet.
 

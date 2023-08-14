@@ -1,11 +1,10 @@
----
-title: "Wexford: Farm Shops and Citroën SM's"
-slug: "wexford-farm-shops-and-citroen-sms"
-date: "2005-11-05T06:28:52+00:00"
-tags:
-id: 163
-comment: false
----
++++
+title = "Wexford: Farm Shops and Citroën SM's"
+slug = "wexford-farm-shops-and-citroen-sms"
+date = "2005-11-05T06:28:52+00:00"
+id = 163
+comment = false
++++
 
 We spent the halloween weekend down in Rosslare. I know it is now a mini-Dublin but it's a perfect spot for all of the extended family to meet up. There is one shop I want to mention simply because they deserve to be much better known. "Kate's Farm Shop" is just off the Duncannon Roundabout towards Duncannon. I found it accidentally during the summer when I went for a "lets get the kids to sleep for a hour" drive.
 

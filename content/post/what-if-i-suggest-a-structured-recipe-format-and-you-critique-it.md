@@ -1,11 +1,10 @@
----
-title: "What if I suggest a structured recipe format and you critique it?"
-slug: "what-if-i-suggest-a-structured-recipe-format-and-you-critique-it"
-date: "2006-03-21T21:51:46+00:00"
-tags:
-id: 296
-comment: false
----
++++
+title = "What if I suggest a structured recipe format and you critique it?"
+slug = "what-if-i-suggest-a-structured-recipe-format-and-you-critique-it"
+date = "2006-03-21T21:51:46+00:00"
+id = 296
+comment = false
++++
 
 Between this blog and my [posting on eGullet](http://forums.egullet.org/index.php?showtopic=84811) regarding the sort of structure people would like to see on recipes in blogs, I received the sum total of zero/null/nada/nialas replies. The world was about as vocal as that time I asked "so do I look good in these speedos?"
 

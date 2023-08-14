@@ -1,11 +1,10 @@
----
-title: "Favourite Software Tools"
-slug: "favourite-software-tools"
-date: "2005-03-23T23:27:00+00:00"
-tags:
-id: 37
-comment: false
----
++++
+title = "Favourite Software Tools"
+slug = "favourite-software-tools"
+date = "2005-03-23T23:27:00+00:00"
+id = 37
+comment = false
++++
 
 Not flu - vicious throat infection and tonsil infection. Still in bits. Still agony to swallow saliva. So up late again. I got a new twin-CPU machine in work on Wednesday. I decided to write a list of all of the tools I definitely needed to install on it in addition to the corporate installs. I assumed it it would be 10 or 15\. Bloody hell, more like 40\. Some are obvious, others are quite nichey. Here's what I can remember off the top of my head (most are free apart from the obvious ones)
 

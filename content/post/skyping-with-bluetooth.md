@@ -1,11 +1,10 @@
----
-title: "Skyping with Bluetooth"
-slug: "skyping-with-bluetooth"
-date: "2005-12-01T23:05:45+00:00"
-tags:
-id: 179
-comment: false
----
++++
+title = "Skyping with Bluetooth"
+slug = "skyping-with-bluetooth"
+date = "2005-12-01T23:05:45+00:00"
+id = 179
+comment = false
++++
 
 [Skype](http://www.skype.com) and Bluetooth are a match made in heaven. My home set-up is an Acer Laptop with a very nice [teeny Neon Bluetooth USB Adapter](http://www.shop4memory.com/memory/bluetooth-dongle.asp) which I got from [Shop4Memory](http://www.shop4memory.com/) in Celbridge. I also got the latest [GG Telecom](http://www.gg2002.com/) [GG03a Bluetooth headset](http://www.shop4memory.com/products/bluetooth-headset.asp) from them. This is Bluetooth 1.2 compatible, but more importantly can be paired to up to three devices. So with a quick button press, I can switch it from working with the Nokia mobile to pairing with the laptop to pairing with the work desktop. 
 

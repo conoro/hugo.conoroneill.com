@@ -1,11 +1,10 @@
----
-title: "Postie Plug-in now works with Vodafone MMS e-mail"
-slug: "third-test-of-postie-plugin"
-date: "2006-01-30T23:05:42+00:00"
-tags:
-id: 239
-comment: false
----
++++
+title = "Postie Plug-in now works with Vodafone MMS e-mail"
+slug = "third-test-of-postie-plugin"
+date = "2006-01-30T23:05:42+00:00"
+id = 239
+comment = false
++++
 
 <!--Mime Type of File is image/jpeg -->[![image095.jpg](http://conoroneill.com/wp-photos/thumb.20060130-150541-10.jpg)](http://conoroneill.com/wp-admin/post.php#)
 

@@ -1,11 +1,10 @@
----
-title: "Dungarvan Follow-up"
-slug: "dungarvan-follow-up"
-date: "2005-03-23T00:04:00+00:00"
-tags:
-id: 38
-comment: false
----
++++
+title = "Dungarvan Follow-up"
+slug = "dungarvan-follow-up"
+date = "2005-03-23T00:04:00+00:00"
+id = 38
+comment = false
++++
 
 I was home sick all day today - vicious flu. Slept most of the day so now it's midnight and I'm wide awake. But my day was brightened by a letter we got in the post from the secretary of a small Kilkenny GAA club. When we had stayed in Clonea Strand Hotel, there had been a lot of shouting and banging in the middle of the night for about 20 minutes. Woke us up but we weren't that bothered. This letter offered profuse apologies for any distress that had been caused. It had been the first time ever the club had stayed overnight anywhere and their good spirits got the better of them. I laughed my ass off. The poor gob-shites have probably got themselves in more trouble by getting all of the guests names and addresses and infringing on their privacy. Imagine if you'd been on a dirty weekend away. Oops.
 

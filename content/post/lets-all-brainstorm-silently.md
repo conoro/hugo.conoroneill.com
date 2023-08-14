@@ -1,11 +1,10 @@
----
-title: "Let's all brainstorm silently"
-slug: "lets-all-brainstorm-silently"
-date: "2006-06-20T07:54:25+00:00"
-tags:
-id: 370
-comment: false
----
++++
+title = "Let's all brainstorm silently"
+slug = "lets-all-brainstorm-silently"
+date = "2006-06-20T07:54:25+00:00"
+id = 370
+comment = false
++++
 
 Damn, double damn and blast. Catherine pointed out that there is now a series on satellite called "The Apprentice, Martha Stewart". 
 

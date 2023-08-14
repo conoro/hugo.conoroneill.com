@@ -1,11 +1,10 @@
----
-title: "TCB Baby - Taking Care of Business"
-slug: "tcb-baby-taking-care-of-business"
-date: "2005-08-14T12:51:00+00:00"
-tags:
-id: 131
-comment: false
----
++++
+title = "TCB Baby - Taking Care of Business"
+slug = "tcb-baby-taking-care-of-business"
+date = "2005-08-14T12:51:00+00:00"
+id = 131
+comment = false
++++
 
 I finally got to see [Bubba Ho-Tep](http://www.bubbahotep.com/) recently. What an odd but completely beguiling movie.
 

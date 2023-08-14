@@ -1,11 +1,10 @@
----
-title: "Struck dumb"
-slug: "struck-dumb"
-date: "2007-02-18T18:14:08+00:00"
-tags:
-id: 496
-comment: false
----
++++
+title = "Struck dumb"
+slug = "struck-dumb"
+date = "2007-02-18T18:14:08+00:00"
+id = 496
+comment = false
++++
 
 Damien [just posted the short-list](http://awards.ie/blogawards/2007/02/18/2007-irish-blog-awards-short-list-congrats-to-all/) for the Irish Blog Awards. I got through in all four categories in which I was long-listed. I think I need to lie down.
 

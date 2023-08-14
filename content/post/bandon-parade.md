@@ -1,11 +1,10 @@
----
-title: "Bandon Parade"
-slug: "bandon-parade"
-date: "2008-03-19T10:25:41+00:00"
-tags:
-id: 647
-comment: false
----
++++
+title = "Bandon Parade"
+slug = "bandon-parade"
+date = "2008-03-19T10:25:41+00:00"
+id = 647
+comment = false
++++
 
 We finally made it down to our first St Patrick's Day Parade in Bandon. The kids really enjoyed it (2 year old loved the tractors and fire engines). I was a bit surprised how short it was and the person beside me mentioned the lack of music. Face painting and balloon shapes went down very well. I wish I'd managed to see all the old cars as the pristine Escort (Mexico?) looked fantastic from a distance.
 

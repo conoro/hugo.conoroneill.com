@@ -1,11 +1,10 @@
----
-title: "LouderVoice BES 2009 (Business Expansion Scheme)"
-slug: "loudervoice-bes-2009-business-expansion-scheme"
-date: "2009-11-15T15:16:39+00:00"
-tags:
-id: 992
-comment: false
----
++++
+title = "LouderVoice BES 2009 (Business Expansion Scheme)"
+slug = "loudervoice-bes-2009-business-expansion-scheme"
+date = "2009-11-15T15:16:39+00:00"
+id = 992
+comment = false
++++
 
 The [LouderVoice](http://business.loudervoice.com/) customer reviews system for business has moved into high-gear in 2009\. Clients are deploying our EasyReview widget on their e-commerce sites every week. Our first US customer will go live this month along with many more Irish sites. Our second UK site will go live early in the new year.
 

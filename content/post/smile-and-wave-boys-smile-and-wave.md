@@ -1,11 +1,10 @@
----
-title: "Smile and wave boys, smile and wave"
-slug: "smile-and-wave-boys-smile-and-wave"
-date: "2006-01-01T23:54:20+00:00"
-tags:
-id: 208
-comment: false
----
++++
+title = "Smile and wave boys, smile and wave"
+slug = "smile-and-wave-boys-smile-and-wave"
+date = "2006-01-01T23:54:20+00:00"
+id = 208
+comment = false
++++
 
             Surprise hit movie of the Christmas period with our gang was Madagascar. They have to give those penguins their own movie. 
 

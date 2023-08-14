@@ -1,11 +1,10 @@
----
-title: "Why can't we make TV like this?"
-slug: "why-cant-we-make-tv-like-this"
-date: "2006-09-23T07:38:34+00:00"
-tags:
-id: 424
-comment: false
----
++++
+title = "Why can't we make TV like this?"
+slug = "why-cant-we-make-tv-like-this"
+date = "2006-09-23T07:38:34+00:00"
+id = 424
+comment = false
++++
 
 Whilst I'm on the topic of media - how the hell has [Jon Stewart](http://www.comedycentral.com/shows/the_daily_show/index.jhtml) been on the air for ten years in the US, over a year on More4 in the UK and I only discover him four weeks ago because of some awesome Stephen Colbert clips on YouTube?
 

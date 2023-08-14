@@ -1,11 +1,10 @@
----
-title: "Woo hoo - free wine for Irish bloggers"
-slug: "woo-hoo-free-wine-for-irish-bloggers"
-date: "2005-08-10T22:45:02+00:00"
-tags:
-id: 133
-comment: false
----
++++
+title = "Woo hoo - free wine for Irish bloggers"
+slug = "woo-hoo-free-wine-for-irish-bloggers"
+date = "2005-08-10T22:45:02+00:00"
+id = 133
+comment = false
++++
 
 I'll just have to give up the drink next week.
 

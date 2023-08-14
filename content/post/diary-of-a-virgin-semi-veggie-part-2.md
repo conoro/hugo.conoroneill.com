@@ -1,11 +1,10 @@
----
-title: "Diary of A Virgin Semi-Veggie, Part 2"
-slug: "diary-of-a-virgin-semi-veggie-part-2"
-date: "2012-02-18T14:12:26+00:00"
-tags:
-id: 1270
-comment: false
----
++++
+title = "Diary of A Virgin Semi-Veggie, Part 2"
+slug = "diary-of-a-virgin-semi-veggie-part-2"
+date = "2012-02-18T14:12:26+00:00"
+id = 1270
+comment = false
++++
 
 So we're what, maybe 4 weeks into the experiment? Overall it's going great apart from the giant hole in the ozone layer that my methane is creating ;-)
 

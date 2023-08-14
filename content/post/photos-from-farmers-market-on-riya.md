@@ -1,11 +1,10 @@
----
-title: "Photos from Farmer's Market on Riya"
-slug: "photos-from-farmers-market-on-riya"
-date: "2006-04-03T15:25:56+00:00"
-tags:
-id: 314
-comment: false
----
++++
+title = "Photos from Farmer's Market on Riya"
+slug = "photos-from-farmers-market-on-riya"
+date = "2006-04-03T15:25:56+00:00"
+id = 314
+comment = false
++++
 
 Like many geeks, I signed up for [Riya ](http://www.riya.com/)the moment they went into public beta. This is a photo sharing site like many others (e.g. [Flickr](http://www.flickr.com/)) but with the twist that it has advanced "AI" techniques for recognising faces. So if you upload many pictures of the same people and train Riya a bit, then in future it will be automatically able to recognise those people in future photos and tag them accordingly for search purposes.
 

@@ -1,10 +1,9 @@
----
-title: "Bandon Flood (FEWS) Open Data Now Available "
-slug: "bandon-flood-fews-open-data-now-available"
-date: "2011-11-17T15:56:30+00:00"
-tags:
-id: 1241
----
++++
+title = "Bandon Flood (FEWS) Open Data Now Available "
+slug = "bandon-flood-fews-open-data-now-available"
+date = "2011-11-17T15:56:30+00:00"
+id = 1241
++++
 
 I was thrilled to get such positive feedback about the [@BandonFEWS](http://twitter.com/BandonFEWS) Twitter account yesterday. Thanks again to [Gordon](http://twitter.com/murrion) for doing all the actual work whilst I basked in the glory :-) It was even better considering how sick I am with a nasty tummy bug. The bug means I can do little useful work for the past few days. But I can play with code.
 

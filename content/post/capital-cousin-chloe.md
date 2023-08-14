@@ -1,11 +1,10 @@
----
-title: "Capital Cousin Chloe"
-slug: "capital-cousin-chloe"
-date: "2005-07-19T13:11:33+00:00"
-tags:
-id: 116
-comment: false
----
++++
+title = "Capital Cousin Chloe"
+slug = "capital-cousin-chloe"
+date = "2005-07-19T13:11:33+00:00"
+id = 116
+comment = false
++++
 
 A wee bit delayed, we are tickled pink to announce the birth of Chloe Sheila Johnston on June 30th in the Coombe to Louise and Kieran. The little darling weighed in at 6lbs 15oz, so our young fella should be easily able to bully her. 
 

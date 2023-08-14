@@ -1,11 +1,10 @@
----
-title: "The Good Wine Show in Cork"
-slug: "the-good-wine-show-in-cork"
-date: "2009-11-07T12:20:47+00:00"
-tags:
-id: 978
-comment: false
----
++++
+title = "The Good Wine Show in Cork"
+slug = "the-good-wine-show-in-cork"
+date = "2009-11-07T12:20:47+00:00"
+id = 978
+comment = false
++++
 
 If you haven't heard about it already, you'll want to know about the [Good Wine Show](http://goodwineshow.com/) happening this Friday 13th and Saturday 14th of November. It's a joint effort between the three best independent wine retailers in the country: [Curious Wines](http://www.curiouswines.ie/), [Bubble Brothers](http://www.bubblebrothers.com/) and [Karwig Wines](http://www.karwigwines.ie/).
 

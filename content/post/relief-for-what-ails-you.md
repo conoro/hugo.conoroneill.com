@@ -1,11 +1,10 @@
----
-title: "Relief For What Ails You"
-slug: "relief-for-what-ails-you"
-date: "2009-05-01T16:07:14+00:00"
-tags:
-id: 893
-comment: false
----
++++
+title = "Relief For What Ails You"
+slug = "relief-for-what-ails-you"
+date = "2009-05-01T16:07:14+00:00"
+id = 893
+comment = false
++++
 
 My old college buddy Eoghan Whelan has more metal in him due to sports injuries than the average Terminator. As a result, he knows more about pain and injury than most. For the past while he has run a [Pain Relief and Injury Rehabilitation Clinic](http://eoghanwhelan.ie/) in Dundalk and he now has the [beginnings of a blog to go with it](http://eoghanwhelan.ie/).
 

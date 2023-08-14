@@ -1,11 +1,10 @@
----
-title: "Boqueria Tapas Cork"
-slug: "boqueria-tapas-cork-2"
-date: "2006-03-27T19:56:24+00:00"
-tags:
-id: 302
-comment: false
----
++++
+title = "Boqueria Tapas Cork"
+slug = "boqueria-tapas-cork-2"
+date = "2006-03-27T19:56:24+00:00"
+id = 302
+comment = false
++++
 
   <div class='hreview'>         
 

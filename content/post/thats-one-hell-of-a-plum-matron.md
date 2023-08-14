@@ -1,11 +1,10 @@
----
-title: "That's one hell of a plum Matron"
-slug: "thats-one-hell-of-a-plum-matron"
-date: "2005-06-07T08:20:55+00:00"
-tags:
-id: 111
-comment: false
----
++++
+title = "That's one hell of a plum Matron"
+slug = "thats-one-hell-of-a-plum-matron"
+date = "2005-06-07T08:20:55+00:00"
+id = 111
+comment = false
++++
 
 <div style="clear: both" />Never let it be said that this blog encourages porn. But here's one just for the fellas:
 

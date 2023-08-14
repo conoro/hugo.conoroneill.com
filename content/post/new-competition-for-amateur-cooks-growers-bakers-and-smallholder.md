@@ -1,11 +1,10 @@
----
-title: "New Competition For Amateur Cooks, Growers, Bakers and Smallholder"
-slug: "new-competition-for-amateur-cooks-growers-bakers-and-smallholder"
-date: "2009-05-19T10:32:45+00:00"
-tags:
-id: 896
-comment: false
----
++++
+title = "New Competition For Amateur Cooks, Growers, Bakers and Smallholder"
+slug = "new-competition-for-amateur-cooks-growers-bakers-and-smallholder"
+date = "2009-05-19T10:32:45+00:00"
+id = 896
+comment = false
++++
 
 This is just a superb idea, well done to everyone involved! Why not enter?
 > The inaugural Grow Bake Cook Awards Ceremony honours and celebrates the skills of amateur cooks, growers, bakers and preservers - in fact anyone with a talent for creating good food!

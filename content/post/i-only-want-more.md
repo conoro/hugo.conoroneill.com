@@ -1,11 +1,10 @@
----
-title: "I only want more"
-slug: "i-only-want-more"
-date: "2006-08-21T22:30:43+00:00"
-tags:
-id: 403
-comment: false
----
++++
+title = "I only want more"
+slug = "i-only-want-more"
+date = "2006-08-21T22:30:43+00:00"
+id = 403
+comment = false
++++
 
 We took a day trip to Killarney for some ice-cream yesterday. The drive down is always longer than the distance would indicate. Is there any hope the Cork to Killarney road will ever move from being of third-world quality from Ovens to Ballyvourney? 
 
@@ -19,4 +18,4 @@ The power of viral marketing was confirmed when they all came back from the loo 
 
 Is it pricey? It sure is. Is it worth it? Even penny plus the tip.
 
-tags: [Murphy's+Ice+Cream](http://technorati.com/tag/Murphy), [Killarney](http://technorati.com/tag/Killarney), [IceCreamIreland](http://technorati.com/tag/IceCreamIreland)
+tags = [Murphy's+Ice+Cream](http://technorati.com/tag/Murphy), [Killarney](http://technorati.com/tag/Killarney), [IceCreamIreland](http://technorati.com/tag/IceCreamIreland)

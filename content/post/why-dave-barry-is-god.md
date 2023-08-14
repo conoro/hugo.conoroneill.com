@@ -1,11 +1,10 @@
----
-title: "Why Dave Barry is God"
-slug: "why-dave-barry-is-god"
-date: "2005-05-10T01:41:57+00:00"
-tags:
-id: 91
-comment: false
----
++++
+title = "Why Dave Barry is God"
+slug = "why-dave-barry-is-god"
+date = "2005-05-10T01:41:57+00:00"
+id = 91
+comment = false
++++
 
 From a 1992 Column in the Miami Herald Tribune:
 ----------------------

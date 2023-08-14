@@ -1,26 +1,25 @@
----
-title: "Example of a Structured Blogging Links List"
-slug: "example-of-a-structured-blogging-links-list"
-date: "2006-03-18T19:49:18+00:00"
-tags:
-id: 287
-comment: false
----
++++
+title = "Example of a Structured Blogging Links List"
+slug = "example-of-a-structured-blogging-links-list"
+date = "2006-03-18T19:49:18+00:00"
+id = 287
+comment = false
++++
 
       
 
 ### Great Food Blogs
 
-*   [Slashfood](http://www.slashfood.com/) (tags: slashfood)
-*   [101 Cookbooks](http://www.101cookbooks.com/) (tags: 101cookbooks)
-*   [Accidental Hedonist](http://www.accidentalhedonist.com/index.php) (tags: AccidentalHedonist)
-*   [Bibliocook](http://www.bibliocook.com/) (tags: bibliocook)
-*   [Cooking for Engineers](http://www.cookingforengineers.com/) (tags: CookingForEngineers)
-*   [eGullet Forums](http://forums.egullet.org/index.php) (tags: egullet)
-*   [The Gilded Fork](http://www.gildedfork.com/) (tags: gildedfork)
-*   [Hot Sauce Blog](http://www.hotsauceblog.com/) (tags: hotsauceblog)
-*   [Off The Broiler](http://offthebroiler.wordpress.com/) (tags: OffTheBroiler)
-*   [Podchef Gastrocast](http://podchef.motime.com/) (tags: podchef)   <div>
+*   [Slashfood](http://www.slashfood.com/) (tags = slashfood)
+*   [101 Cookbooks](http://www.101cookbooks.com/) (tags = 101cookbooks)
+*   [Accidental Hedonist](http://www.accidentalhedonist.com/index.php) (tags = AccidentalHedonist)
+*   [Bibliocook](http://www.bibliocook.com/) (tags = bibliocook)
+*   [Cooking for Engineers](http://www.cookingforengineers.com/) (tags = CookingForEngineers)
+*   [eGullet Forums](http://forums.egullet.org/index.php) (tags = egullet)
+*   [The Gilded Fork](http://www.gildedfork.com/) (tags = gildedfork)
+*   [Hot Sauce Blog](http://www.hotsauceblog.com/) (tags = hotsauceblog)
+*   [Off The Broiler](http://offthebroiler.wordpress.com/) (tags = OffTheBroiler)
+*   [Podchef Gastrocast](http://podchef.motime.com/) (tags = podchef)   <div>
 
 This is another type of post that can be done with the Structured Blogging Plugin. In this case, it is the very common "list of links" post that many people put on their blogs. They are usually "interesting" links but not interesting enough to warrant a separate topic each.
 

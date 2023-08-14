@@ -1,11 +1,10 @@
----
-title: "Where is this Greece place you speak of?"
-slug: "where-is-this-greece-place-you-speak-of"
-date: "2008-01-06T10:54:11+00:00"
-tags:
-id: 629
-comment: false
----
++++
+title = "Where is this Greece place you speak of?"
+slug = "where-is-this-greece-place-you-speak-of"
+date = "2008-01-06T10:54:11+00:00"
+id = 629
+comment = false
++++
 
 BBC online reported an earthquake in Greece. They felt the need to locate it.
 

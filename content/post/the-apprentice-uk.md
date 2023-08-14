@@ -1,11 +1,10 @@
----
-title: "The Apprentice (UK)"
-slug: "the-apprentice-uk"
-date: "2005-04-04T19:51:00+00:00"
-tags:
-id: 72
-comment: false
----
++++
+title = "The Apprentice (UK)"
+slug = "the-apprentice-uk"
+date = "2005-04-04T19:51:00+00:00"
+id = 72
+comment = false
++++
 
 I never got into the US version of The Apprentice. I think mainly because I've always thought of Trump as a tacky buffoon. I remember being brought to Trump Towers in 1987 by my American cousin (whirlwind tour of NY in one day including WTC, St Patrick's Cathederal and The Statue of Liberty) and thinking - how can you spend so much money and end up with a place looking so cheap?
 

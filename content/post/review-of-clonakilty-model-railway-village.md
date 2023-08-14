@@ -1,11 +1,10 @@
----
-title: "Review of Clonakilty Model Railway Village"
-slug: "review-of-clonakilty-model-railway-village"
-date: "2008-04-13T20:25:48+00:00"
-tags:
-id: 654
-comment: false
----
++++
+title = "Review of Clonakilty Model Railway Village"
+slug = "review-of-clonakilty-model-railway-village"
+date = "2008-04-13T20:25:48+00:00"
+id = 654
+comment = false
++++
 
 I love finding something great almost on your doorstep that you've ignored for years. We finally took a trip to the Model Railway village last weekend and it was a resounding success. Kids, young and old will have some fun here.
 

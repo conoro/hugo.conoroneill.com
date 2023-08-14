@@ -1,11 +1,10 @@
----
-title: "Barbecue is a noun"
-slug: "barbecue-is-a-noun"
-date: "2006-05-24T19:51:56+00:00"
-tags:
-id: 353
-comment: false
----
++++
+title = "Barbecue is a noun"
+slug = "barbecue-is-a-noun"
+date = "2006-05-24T19:51:56+00:00"
+id = 353
+comment = false
++++
 
 I could be a cynical smartass and say that the people [in this movie](http://www.barbecueisanoun.com/) look a little too close to Christopher Guest's character in "Best in Show" but it really looks like a wonderful movie about people who are passionate about Barbeque/Barbecue. 
 

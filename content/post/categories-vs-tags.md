@@ -1,11 +1,10 @@
----
-title: "Categories vs Tags"
-slug: "categories-vs-tags"
-date: "2005-09-09T06:33:22+00:00"
-tags:
-id: 144
-comment: false
----
++++
+title = "Categories vs Tags"
+slug = "categories-vs-tags"
+date = "2005-09-09T06:33:22+00:00"
+id = 144
+comment = false
++++
 
 I've been using Wordpress Categories as sort of generic Technorati tags. When I remember, I add some post-specific actual tags. I haven't really been that clear on the difference to be honest. 
 

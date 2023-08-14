@@ -1,11 +1,10 @@
----
-title: "Meatballs in Tomato Sauce"
-slug: "meatballs-in-tomato-sauce"
-date: "2005-09-19T03:35:59+00:00"
-tags:
-id: 55
-comment: false
----
++++
+title = "Meatballs in Tomato Sauce"
+slug = "meatballs-in-tomato-sauce"
+date = "2005-09-19T03:35:59+00:00"
+id = 55
+comment = false
++++
 
 
 Update 19/09/2005: I had left out a few steps on this originally, so I'm re-publishing.

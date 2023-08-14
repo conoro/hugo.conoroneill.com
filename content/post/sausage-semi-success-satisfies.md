@@ -1,11 +1,10 @@
----
-title: "Sausage Semi-Success Satisfies"
-slug: "sausage-semi-success-satisfies"
-date: "2006-02-13T21:08:00+00:00"
-tags:
-id: 254
-comment: false
----
++++
+title = "Sausage Semi-Success Satisfies"
+slug = "sausage-semi-success-satisfies"
+date = "2006-02-13T21:08:00+00:00"
+id = 254
+comment = false
++++
 
 And so on to attempt number three. This time I followed the advice of Podchef Neal and others regarding keeping everything as cold as possible when trying to mince the pork. So I stood outside for half an hour.
 

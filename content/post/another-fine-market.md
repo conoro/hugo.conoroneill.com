@@ -1,11 +1,10 @@
----
-title: "Another fine Market"
-slug: "another-fine-market"
-date: "2006-05-07T07:54:29+00:00"
-tags:
-id: 342
-comment: false
----
++++
+title = "Another fine Market"
+slug = "another-fine-market"
+date = "2006-05-07T07:54:29+00:00"
+id = 342
+comment = false
++++
 
 Saturday was showery and windy but that didn't seem to deter the crowds to the Farmer's Market in Bandon. I popped down with big sis Fiona and babba Fionn. Before I headed out I had been reading a great article on the "old" market in the Bandon Opinion. Well worth seeking out, particularly for the description of the overwhelming stench of s***te that used to accompany the market in the old days.
 

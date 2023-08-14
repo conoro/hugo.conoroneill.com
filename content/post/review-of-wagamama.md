@@ -1,11 +1,10 @@
----
-title: "Review of Wagamama"
-slug: "review-of-wagamama"
-date: "2007-07-15T19:35:07+00:00"
-tags:
-id: 585
-comment: false
----
++++
+title = "Review of Wagamama"
+slug = "review-of-wagamama"
+date = "2007-07-15T19:35:07+00:00"
+id = 585
+comment = false
++++
 
 <div lang="en" class="hreview">
     <div>

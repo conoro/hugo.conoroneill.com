@@ -1,11 +1,10 @@
----
-title: "I got news for you pal. You ain't leading but two things right now: Jack and Shit. And Jack just left town."
-slug: "i-got-news-for-you-pal-you-aint-leading-but-two-things-right-now-jack-and-shit-and-jack-just-left-town"
-date: "2005-06-06T22:50:40+00:00"
-tags:
-id: 112
-comment: false
----
++++
+title = "I got news for you pal. You ain't leading but two things right now: Jack and Shit. And Jack just left town."
+slug = "i-got-news-for-you-pal-you-aint-leading-but-two-things-right-now-jack-and-shit-and-jack-just-left-town"
+date = "2005-06-06T22:50:40+00:00"
+id = 112
+comment = false
++++
 
 <div style="clear: both" />Just wasted 2 hours of my life watching "Closer". What a steaming turd of a movie. Why do they make films about people who you just want to die within 10 minutes of the opening scene?
 

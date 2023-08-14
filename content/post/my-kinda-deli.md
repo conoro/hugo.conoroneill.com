@@ -1,11 +1,10 @@
----
-title: "My kinda deli"
-slug: "my-kinda-deli"
-date: "2007-02-13T21:13:15+00:00"
-tags:
-id: 484
-comment: false
----
++++
+title = "My kinda deli"
+slug = "my-kinda-deli"
+date = "2007-02-13T21:13:15+00:00"
+id = 484
+comment = false
++++
 
 <div class="hreview">
 

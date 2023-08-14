@@ -1,11 +1,10 @@
----
-title: "Review of The Artful Eater"
-slug: "review-of-the-artful-eater"
-date: "2008-02-14T21:16:14+00:00"
-tags:
-id: 641
-comment: false
----
++++
+title = "Review of The Artful Eater"
+slug = "review-of-the-artful-eater"
+date = "2008-02-14T21:16:14+00:00"
+id = 641
+comment = false
++++
 
 This is an unusual book made up of a collection of 18 discourses on individual ingredients which were originally distributed as a newsletter. It was first published in 1992 and I was given this 2004 edition by my sister.
 

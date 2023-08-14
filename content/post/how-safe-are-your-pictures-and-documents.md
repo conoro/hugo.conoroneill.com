@@ -1,11 +1,10 @@
----
-title: "How safe are your pictures and documents?"
-slug: "how-safe-are-your-pictures-and-documents"
-date: "2009-02-26T16:49:09+00:00"
-tags:
-id: 816
-comment: false
----
++++
+title = "How safe are your pictures and documents?"
+slug = "how-safe-are-your-pictures-and-documents"
+date = "2009-02-26T16:49:09+00:00"
+id = 816
+comment = false
++++
 
 I'm sure you bought a USB stick or portable harddisk with the best intentions in the world but how often do you actually backup irreplaceable files? How would you feel if those wedding pictures disappeared in a puff of smoke?
 

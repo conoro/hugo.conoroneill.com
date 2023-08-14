@@ -1,11 +1,10 @@
----
-title: "Forde's of Wexford, Top 100? Not even close"
-slug: "fordes-of-wexford-top-100-not-even-close"
-date: "2005-08-07T23:16:22+00:00"
-tags:
-id: 135
-comment: false
----
++++
+title = "Forde's of Wexford, Top 100? Not even close"
+slug = "fordes-of-wexford-top-100-not-even-close"
+date = "2005-08-07T23:16:22+00:00"
+id = 135
+comment = false
++++
 
 We had our week down in Rosslare. I'd call it a holiday but there were 8 kids in the house. My lovely sisters and parents gave us the night off on Wednesday so we had to pick where to eat. Catherine wasn't in the mood for Italian so it was no to Dolce Vita. Heaven's Above sounded good. Dunbrody House was too far. Lobster Pot doesn't take bookings in the summer. A few reviews later and we settled on Forde's. But we left the house with my Ma warning us that they had an awful meal there a while back.
 

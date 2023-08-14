@@ -1,11 +1,10 @@
----
-title: "The Rules of Fat Club"
-slug: "the-rules-of-fat-club"
-date: "2009-12-22T09:16:31+00:00"
-tags:
-id: 1012
-comment: false
----
++++
+title = "The Rules of Fat Club"
+slug = "the-rules-of-fat-club"
+date = "2009-12-22T09:16:31+00:00"
+id = 1012
+comment = false
++++
 
 Pat Phelan's [recent post about losing weight](http://patphelan.net/no-seriously-im-not-pregnant/) and giving up ciggies highlighted that we all stand a better chance of success if we do some online group supoort of each other via Twitter/Facebook. The bruv in law came up with Fat Club. So here we go:
 

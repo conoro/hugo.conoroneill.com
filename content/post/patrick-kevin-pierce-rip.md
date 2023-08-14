@@ -1,11 +1,10 @@
----
-title: "Patrick Kevin Pierce, RIP."
-slug: "patrick-kevin-pierce-rip"
-date: "2005-06-25T11:28:05+00:00"
-tags:
-id: 99
-comment: false
----
++++
+title = "Patrick Kevin Pierce, RIP."
+slug = "patrick-kevin-pierce-rip"
+date = "2005-06-25T11:28:05+00:00"
+id = 99
+comment = false
++++
 
 Aged 22, Patrick died in his sleep last monday night. He was buried at Shanganagh Cemetery yesterday after a heart-breaking funeral mass in Shankill. I didn't know Patrick that well, I met him maybe once or twice a year when visiting Eoin and Jill. But the short life of this young man should be celebrated as a example of achievement in the face of overwhelming adversity.
 

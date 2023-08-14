@@ -1,11 +1,10 @@
----
-title: "Quack Quack Quack. Homeopathy doesn't work shocker"
-slug: "quack-quack-quack-homeopathy-doesnt-work-shocker"
-date: "2005-09-18T01:36:29+00:00"
-tags:
-id: 141
-comment: false
----
++++
+title = "Quack Quack Quack. Homeopathy doesn't work shocker"
+slug = "quack-quack-quack-homeopathy-doesnt-work-shocker"
+date = "2005-09-18T01:36:29+00:00"
+id = 141
+comment = false
++++
 
 The [BBC has an article](http://news.bbc.co.uk/2/hi/health/4183916.stm) on the most recent study of Homeopathy showing, yet again, that it is no better than placebo. 
 

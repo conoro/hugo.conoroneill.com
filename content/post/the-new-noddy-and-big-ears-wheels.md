@@ -1,11 +1,10 @@
----
-title: "The new Noddy and Big Ears Wheels"
-slug: "the-new-noddy-and-big-ears-wheels"
-date: "2006-06-02T06:09:59+00:00"
-tags:
-id: 356
-comment: false
----
++++
+title = "The new Noddy and Big Ears Wheels"
+slug = "the-new-noddy-and-big-ears-wheels"
+date = "2006-06-02T06:09:59+00:00"
+id = 356
+comment = false
++++
 
 Budget Car Rentals gave us Noddy's own vehicle from the live action movie.
 

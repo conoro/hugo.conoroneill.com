@@ -1,11 +1,10 @@
----
-title: "Without Fibre, Bandon will suffer Timoleague's fate "
-slug: "without-fibre-bandon-will-suffer-timoleagues-fate"
-date: "2012-07-12T08:05:39+00:00"
-tags:
-id: 1317
-comment: false
----
++++
+title = "Without Fibre, Bandon will suffer Timoleague's fate "
+slug = "without-fibre-bandon-will-suffer-timoleagues-fate"
+date = "2012-07-12T08:05:39+00:00"
+id = 1317
+comment = false
++++
 
 > Timoleague was formerly a place of some note, being much resorted to by the Spaniards, who imported large quantities of wine here and it is said there were formerly no less than fourteen taverns that sold sack in the town.
 > Looking at the wide slob lands when the tide is out, or the shallow waters at full tide, it is hard to believe that here was once a busy Medieval port where foreign merchants from France and Spain bartered their wines and Mediterranean produce for Irish butter, hides and farm produce

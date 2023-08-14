@@ -1,11 +1,10 @@
----
-title: "Google Adsense - $4 in 5 months. Finally I can buy that Audi RS6"
-slug: "google-adsense-4-in-5-months-finally-i-can-buy-that-audi-rs6"
-date: "2006-04-19T22:14:10+00:00"
-tags:
-id: 330
-comment: false
----
++++
+title = "Google Adsense - $4 in 5 months. Finally I can buy that Audi RS6"
+slug = "google-adsense-4-in-5-months-finally-i-can-buy-that-audi-rs6"
+date = "2006-04-19T22:14:10+00:00"
+id = 330
+comment = false
++++
 
 For fun, I set up Google AdSense last year. It is behind those ads you see in the sidebar of the blog. I didn't expect to make much money and never thought I'd be able to live off the Ad revenue.
 
@@ -19,6 +18,6 @@ Oh well, I'll just stick to the day job then.
 
 <!-- technorati tags begin -->
 
-technorati tags: [AdSense](http://technorati.com/tag/AdSense), [Amazon.co.uk](http://technorati.com/tag/Amazon.co.uk)
+technorati tags = [AdSense](http://technorati.com/tag/AdSense), [Amazon.co.uk](http://technorati.com/tag/Amazon.co.uk)
 
 <!-- technorati tags end -->

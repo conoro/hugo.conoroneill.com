@@ -1,11 +1,10 @@
----
-title: "CBBC, CBeebies and UTV on Sky Digital"
-slug: "cbbc-cbeebies-and-utv-on-sky-digital"
-date: "2006-10-30T13:54:09+00:00"
-tags:
-id: 443
-comment: false
----
++++
+title = "CBBC, CBeebies and UTV on Sky Digital"
+slug = "cbbc-cbeebies-and-utv-on-sky-digital"
+date = "2006-10-30T13:54:09+00:00"
+id = 443
+comment = false
++++
 
 I don't know why it is so hard to find this info so I thought I'd post it here to solve that problem.
 

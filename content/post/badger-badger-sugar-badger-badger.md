@@ -1,11 +1,10 @@
----
-title: "Badger, Badger, Sugar, Badger, Badger"
-slug: "badger-badger-sugar-badger-badger"
-date: "2006-10-05T07:43:14+00:00"
-tags:
-id: 429
-comment: false
----
++++
+title = "Badger, Badger, Sugar, Badger, Badger"
+slug = "badger-badger-sugar-badger-badger"
+date = "2006-10-05T07:43:14+00:00"
+id = 429
+comment = false
++++
 
 I heard the other day that Alan Sugar and Michelle Dewberry have parted ways. What a shocker. If that is Sugar at his people skills best then it's pretty obvious why he never went global.
 

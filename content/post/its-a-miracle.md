@@ -1,11 +1,10 @@
----
-title: "It's a miracle"
-slug: "its-a-miracle"
-date: "2005-04-22T14:50:00+00:00"
-tags:
-id: 57
-comment: false
----
++++
+title = "It's a miracle"
+slug = "its-a-miracle"
+date = "2005-04-22T14:50:00+00:00"
+id = 57
+comment = false
++++
 
 No, just more dumb blind desperation.
 

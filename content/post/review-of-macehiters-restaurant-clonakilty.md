@@ -1,11 +1,10 @@
----
-title: "Review of Macehiter's Restaurant, Clonakilty"
-slug: "review-of-macehiters-restaurant-clonakilty"
-date: "2006-07-23T09:32:56+00:00"
-tags:
-id: 382
-comment: false
----
++++
+title = "Review of Macehiter's Restaurant, Clonakilty"
+slug = "review-of-macehiters-restaurant-clonakilty"
+date = "2006-07-23T09:32:56+00:00"
+id = 382
+comment = false
++++
 
 <div class="hreview">
   <span class="version" style="display: none;">0.3</span>

@@ -1,11 +1,10 @@
----
-title: "Bloglines vs FeedonFeeds"
-slug: "bloglines-vs-feedonfeeds"
-date: "2005-03-17T13:28:00+00:00"
-tags:
-id: 39
-comment: false
----
++++
+title = "Bloglines vs FeedonFeeds"
+slug = "bloglines-vs-feedonfeeds"
+date = "2005-03-17T13:28:00+00:00"
+id = 39
+comment = false
++++
 
 So I've been using an RSS Aggregator called [FeedonFeeds](http://feedonfeeds.com/) for a long time now. The reason I've always liked it is that it is server based and caches the data in a MySQL DB. I have it installed on the Fedora box at home and can connect to it via the DSL connection from anywhere. So I have one centralised location for all my feeds. The caching is also handy as I found a lot of the older aggregators would only cache the titles and not any of the content, and for sites that turnover their RSS links quickly, a lot of the items used to be gone by the time I'd try to read them. But it ain't very pretty and as I've added a lot of feeds recently, the lack of grouping is killing me. 
 

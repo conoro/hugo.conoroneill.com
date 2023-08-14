@@ -1,11 +1,10 @@
----
-title: "Ballincollig's permanent Orienteering Trail points the way for all West Cork towns"
-slug: "ballincolligs-permanent-orienteering-trail-points-the-way-for-all-west-cork-towns"
-date: "2013-01-14T14:02:37+00:00"
-tags:
-id: 1345
-comment: false
----
++++
+title = "Ballincollig's permanent Orienteering Trail points the way for all West Cork towns"
+slug = "ballincolligs-permanent-orienteering-trail-points-the-way-for-all-west-cork-towns"
+date = "2013-01-14T14:02:37+00:00"
+id = 1345
+comment = false
++++
 
 We recently did a short family outing to the forest in [Castlefreke](http://www.coillteoutdoors.ie/?id=53andrec_site=16) just before the kids went back to school. Whilst the walk itself was fun and short enough to avoid the kids complaining too much, it brought up a ton of questions and ideas in my head, such as:
 

@@ -1,11 +1,10 @@
----
-title: "African Drumming Workshops Available"
-slug: "african-drumming-workshops-available"
-date: "2010-06-10T15:36:38+00:00"
-tags:
-id: 1070
-comment: false
----
++++
+title = "African Drumming Workshops Available"
+slug = "african-drumming-workshops-available"
+date = "2010-06-10T15:36:38+00:00"
+id = 1070
+comment = false
++++
 
 Patrick Naughton has been in touch to tell me about African drumming workshops that he runs for community groups, schools and festivals in Cork and the surrounding areas.
 

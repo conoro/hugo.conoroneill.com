@@ -1,11 +1,10 @@
----
-title: "1911 Census full of gems"
-slug: "1911-census-full-of-gems"
-date: "2009-08-30T09:11:23+00:00"
-tags:
-id: 934
-comment: false
----
++++
+title = "1911 Census full of gems"
+slug = "1911-census-full-of-gems"
+date = "2009-08-30T09:11:23+00:00"
+id = 934
+comment = false
++++
 
 [Margaret Jordan](http://twitter.com/margaretjordan) pointed out on Friday in Facebook that the [1911 Census data](http://www.census.nationalarchives.ie/) is now online. Ever since, a bunch of us have been searching and learning. I've been looking up O'Neill, ONeill, Neill, Flynn, Meaney, Foley, Doran, Wall and Walls to see which of my ancestors I could identify and send them on to my Mum and Dad.
 

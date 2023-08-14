@@ -1,11 +1,10 @@
----
-title: "TeenCamp Ireland"
-slug: "teencamp-ireland"
-date: "2008-12-30T10:25:31+00:00"
-tags:
-id: 774
-comment: false
----
++++
+title = "TeenCamp Ireland"
+slug = "teencamp-ireland"
+date = "2008-12-30T10:25:31+00:00"
+id = 774
+comment = false
++++
 
 Bloody teenagers. All they do is sit around, playing video games, smoking, drinking cider and coming up with fantastic ideas like [TeenCamp](http://teencampireland.com).
 > TeenCamp Ireland is a gathering of the techies/bloggers/fanboys age 13+ in Ireland to give talks, meet others, share ideas and have a laugh. TeenCamps are organised/planned/run by teens for other teens.

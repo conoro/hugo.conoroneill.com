@@ -1,11 +1,10 @@
----
-title: "Small AllFreeCalls problem"
-slug: "small-allfreecalls-problem"
-date: "2007-02-12T16:44:29+00:00"
-tags:
-id: 483
-comment: false
----
++++
+title = "Small AllFreeCalls problem"
+slug = "small-allfreecalls-problem"
+date = "2007-02-12T16:44:29+00:00"
+id = 483
+comment = false
++++
 
 I decided to try out [AllFreeCalls.ie](http://AllFreeCalls.ie) this afternoon. I had to ring Casio Customer Support in the UK about my poxy unfixable watch and my guess was that it would a longish call. I rang the access number and a voice told me that I would be charged at local rates and to enter the number I wanted. I entered the UK number and got through to the queuing system in Casio immediately. I did notice a reasonable amount of noise on the line which I assume is a VOIP artifact. I was asked to press "2" on my phone which I did, repeatedly, to no avail.
 

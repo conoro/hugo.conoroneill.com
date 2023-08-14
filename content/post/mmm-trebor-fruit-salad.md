@@ -1,11 +1,10 @@
----
-title: "Mmm Trebor Fruit Salad"
-slug: "mmm-trebor-fruit-salad"
-date: "2006-11-23T10:07:01+00:00"
-tags:
-id: 458
-comment: false
----
++++
+title = "Mmm Trebor Fruit Salad"
+slug = "mmm-trebor-fruit-salad"
+date = "2006-11-23T10:07:01+00:00"
+id = 458
+comment = false
++++
 
 Just as I start grumping that there is nothing on the telly, a chunk of genius appears in the shape of Oz Clarke and James May with "Oz and James' Big Wine Adventure" (Wednesdays 8pm BBC2). I used to watch Oz and Jilly for laughs back in the old Food and Drink days. They were so off the wall I don't think I ever learned anything. James is of course Captain Slow on Top Gear and knows absolutely nothing about wine. The pair of them head off on a tour of France in a Jag XJS so Oz can teach James all about wine.
 

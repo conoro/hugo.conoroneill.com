@@ -1,11 +1,10 @@
----
-title: "Charity photography exhibit in Mallow"
-slug: "charity-photography-exhibit-in-mallow"
-date: "2007-09-07T14:01:29+00:00"
-tags:
-id: 601
-comment: false
----
++++
+title = "Charity photography exhibit in Mallow"
+slug = "charity-photography-exhibit-in-mallow"
+date = "2007-09-07T14:01:29+00:00"
+id = 601
+comment = false
++++
 
 Via [Donncha](http://ocaoimh.ie/2007/09/06/charity-photography-exhibit-starts-today/) - Mallow Camera Club will be exhibiting a number of photos in Mallow Town Library for three weeks starting yesterday.
 

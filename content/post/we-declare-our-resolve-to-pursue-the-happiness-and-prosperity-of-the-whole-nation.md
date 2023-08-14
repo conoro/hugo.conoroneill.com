@@ -1,11 +1,10 @@
----
-title: "We declare our resolve to pursue the happiness and prosperity of the whole nation"
-slug: "we-declare-our-resolve-to-pursue-the-happiness-and-prosperity-of-the-whole-nation"
-date: "2009-06-29T09:35:04+00:00"
-tags:
-id: 919
-comment: false
----
++++
+title = "We declare our resolve to pursue the happiness and prosperity of the whole nation"
+slug = "we-declare-our-resolve-to-pursue-the-happiness-and-prosperity-of-the-whole-nation"
+date = "2009-06-29T09:35:04+00:00"
+id = 919
+comment = false
++++
 
 I woke up this morning [to read about](http://www.finfacts.ie/irishfinancenews/article_1017028.shtml) Brian Cowen's "Innovation" Taskforce and have spent since then utterly enraged.
 

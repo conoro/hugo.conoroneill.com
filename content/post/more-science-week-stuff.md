@@ -1,11 +1,10 @@
----
-title: "More Science Week Stuff"
-slug: "more-science-week-stuff"
-date: "2007-11-13T11:00:58+00:00"
-tags:
-id: 614
-comment: false
----
++++
+title = "More Science Week Stuff"
+slug = "more-science-week-stuff"
+date = "2007-11-13T11:00:58+00:00"
+id = 614
+comment = false
++++
 
 Looks like the [Science Week](http://www.scienceweek.ie/) guys are hardcore! They've hired Edelman to help with PR. I like the idea they came up with. Basically Irish Bloggers have to answer some stuff about their favourite inventions as blog posts during the coming week and we might win a Wii. 
 

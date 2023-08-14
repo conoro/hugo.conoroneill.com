@@ -1,11 +1,10 @@
----
-title: "Isaac's Mini-Review"
-slug: "isaacs-mini-review"
-date: "2006-04-06T19:49:07+00:00"
-tags:
-id: 316
-comment: false
----
++++
+title = "Isaac's Mini-Review"
+slug = "isaacs-mini-review"
+date = "2006-04-06T19:49:07+00:00"
+id = 316
+comment = false
++++
 
   <div class='hreview'>         
 

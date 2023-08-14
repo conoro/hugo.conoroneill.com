@@ -1,11 +1,10 @@
----
-title: "Taste of Cork a huge success"
-slug: "taste-of-cork-a-huge-success"
-date: "2008-06-28T13:49:44+00:00"
-tags:
-id: 676
-comment: false
----
++++
+title = "Taste of Cork a huge success"
+slug = "taste-of-cork-a-huge-success"
+date = "2008-06-28T13:49:44+00:00"
+id = 676
+comment = false
++++
 
 We've been looking forward to this for months and it did not disappoint. An overwhelming success for the organisers and the exhibitors. We had a fantastic few hours last night, sampling and chatting. Go!
 

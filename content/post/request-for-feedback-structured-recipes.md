@@ -1,11 +1,10 @@
----
-title: "Request for Feedback - Structured Recipes"
-slug: "request-for-feedback-structured-recipes"
-date: "2006-03-19T23:02:36+00:00"
-tags:
-id: 292
-comment: false
----
++++
+title = "Request for Feedback - Structured Recipes"
+slug = "request-for-feedback-structured-recipes"
+date = "2006-03-19T23:02:36+00:00"
+id = 292
+comment = false
++++
 
 If you've seen the various posts I've done over the past few weeks on structured blogging and it has all been a bit beyond you, please keep reading, this won't be.
 

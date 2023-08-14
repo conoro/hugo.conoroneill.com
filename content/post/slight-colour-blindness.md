@@ -1,11 +1,10 @@
----
-title: "Slight colour blindness"
-slug: "slight-colour-blindness"
-date: "2006-04-02T23:34:03+00:00"
-tags:
-id: 312
-comment: false
----
++++
+title = "Slight colour blindness"
+slug = "slight-colour-blindness"
+date = "2006-04-02T23:34:03+00:00"
+id = 312
+comment = false
++++
 
 This would be funny if over 2000 people hadn't been murdered by terrorists in the past thirty five years on this island.
 

@@ -1,11 +1,10 @@
----
-title: "Some bloggy stats"
-slug: "some-bloggy-stats"
-date: "2007-04-05T22:15:55+00:00"
-tags:
-id: 535
-comment: false
----
++++
+title = "Some bloggy stats"
+slug = "some-bloggy-stats"
+date = "2007-04-05T22:15:55+00:00"
+id = 535
+comment = false
++++
 
 My sense of my readership based on the comments is that the majority are non-technical non-bloggers so I thought I'd post some stats on blogging in gerneral as it is unlikely you read [Dave Sifry's blog](http://www.sifry.com). Dave is CEO of [Technorati](http://www.technorati.com/), the main blog search engine and the company responsible for things like the tags you see at the end of my posts and [microformats](http://microformats.org), the technology we're building our business, [LouderVoice](http://www.loudervoice.com/) on. So statto geeks, here's a summary of what the blogosphere looks like right now [according to Dave](http://www.sifry.com/alerts/archives/000493.html):
 

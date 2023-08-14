@@ -1,11 +1,10 @@
----
-title: "Review of The Apprentice UK TV Show"
-slug: "review-of-the-apprentice-uk-tv-show"
-date: "2007-04-01T11:30:37+00:00"
-tags:
-id: 529
-comment: false
----
++++
+title = "Review of The Apprentice UK TV Show"
+slug = "review-of-the-apprentice-uk-tv-show"
+date = "2007-04-01T11:30:37+00:00"
+id = 529
+comment = false
++++
 
 <div lang="en" class="hreview">
 

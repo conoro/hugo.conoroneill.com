@@ -1,11 +1,10 @@
----
-title: "How Pirate Bay could be the next News Corp"
-slug: "how-pirate-bay-could-be-the-next-news-corp"
-date: "2009-05-23T12:42:26+00:00"
-tags:
-id: 904
-comment: false
----
++++
+title = "How Pirate Bay could be the next News Corp"
+slug = "how-pirate-bay-could-be-the-next-news-corp"
+date = "2009-05-23T12:42:26+00:00"
+id = 904
+comment = false
++++
 
 Those of us who are watching much less broadcast TV and more time-shifted or downloaded programmes are starting to become very uncomfortable with the monthly Sky tax just to get some intermittent BBC2/Ch4 etc.
 

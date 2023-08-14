@@ -1,11 +1,10 @@
----
-title: "Knife Sharpening Fetish"
-slug: "knife-sharpening-fetish"
-date: "2005-09-11T11:48:57+00:00"
-tags:
-id: 146
-comment: false
----
++++
+title = "Knife Sharpening Fetish"
+slug = "knife-sharpening-fetish"
+date = "2005-09-11T11:48:57+00:00"
+id = 146
+comment = false
++++
 
 I have a small obsession with getting my knives very sharp. I think it goes back to my uncle Frank who is a carpenter and who showed me how he sharpened his chisels on a wet-stone when I was a very small kid. From that point on, I was always trying to sharpen knives. I think my first attempt was using Frank's wet-stone on a butter knife. The outcome on that one was very predictable.
 

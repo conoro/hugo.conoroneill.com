@@ -1,11 +1,10 @@
----
-title: "And wuv, tru wuv, will fowow you foweva..."
-slug: "and-wuv-tru-wuv-will-fowow-you-foweva"
-date: "2005-04-17T09:09:00+00:00"
-tags:
-id: 67
-comment: false
----
++++
+title = "And wuv, tru wuv, will fowow you foweva..."
+slug = "and-wuv-tru-wuv-will-fowow-you-foweva"
+date = "2005-04-17T09:09:00+00:00"
+id = 67
+comment = false
++++
 
 We are nearly a week into our Sky+ Box ownership. It's not often something far exceeds your expectation but this bloody thing does so with ease. The wee beauty can record two channels at the same time. There is some very impressive buffer management going on in there. We have set a bunch of recordings of weekly shows plus any movies that catch my eye no matter what time they start. Of course a VCR can do a lot of this but not with a browse feature and saved program information too. We can now record Nip/Tuck and Grand Designs  Abroad at the same time. Why is it that so many of the programs we like clash with other programs we like?
 

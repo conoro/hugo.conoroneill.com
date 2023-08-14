@@ -1,11 +1,10 @@
----
-title: "Infacterly Butterly"
-slug: "infacterly-butterly"
-date: "2005-06-05T13:14:00+00:00"
-tags:
-id: 113
-comment: false
----
++++
+title = "Infacterly Butterly"
+slug = "infacterly-butterly"
+date = "2005-06-05T13:14:00+00:00"
+id = 113
+comment = false
++++
 
 This guy is more and more impressive by the day. Not only is this just an awesome idea for a wet miserable June Bank Holiday Sunday but it also makes me think back maybe 30 years ago to when my grandaunts down in "The Boola" in Adamstown in Wexford used to make butter. I still remember the ridged wooden paddles they used to form the butter and how gorgeous everything they fed us was (those eggs, mmmmmm).
 

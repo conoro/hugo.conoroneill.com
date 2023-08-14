@@ -1,11 +1,10 @@
----
-title: "Having some nice rashers for breakfast"
-slug: "having-some-nice-rashers-for-breakfast"
-date: "2008-12-07T08:54:07+00:00"
-tags:
-id: 765
-comment: false
----
++++
+title = "Having some nice rashers for breakfast"
+slug = "having-some-nice-rashers-for-breakfast"
+date = "2008-12-07T08:54:07+00:00"
+id = 765
+comment = false
++++
 
 So [47 farms used contaminated pig feed](http://www.rte.ie/news/2008/1206/agriculture.html). Unless the FSAI confirms that Gubbeen or Caherbeg are two of those farms, I'll be having a lovely bacon sarnie for my breakfast.
 

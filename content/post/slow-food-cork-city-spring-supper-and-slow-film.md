@@ -1,11 +1,10 @@
----
-title: "Slow Food Cork City Spring Supper and Slow Film"
-slug: "slow-food-cork-city-spring-supper-and-slow-film"
-date: "2006-03-21T17:24:44+00:00"
-tags:
-id: 295
-comment: false
----
++++
+title = "Slow Food Cork City Spring Supper and Slow Film"
+slug = "slow-food-cork-city-spring-supper-and-slow-film"
+date = "2006-03-21T17:24:44+00:00"
+id = 295
+comment = false
++++
 
 I found out about this movie/grub combo that is on next Tuesday (28th) on [The Slow Food Ireland](http://www.slowfoodireland.com/events-page23713.html) web-site. Clodagh McKenna describes it as follows:
 > A showing of the new Irish film 'Short Order' in the Kino cinema, Cork at 7pm and following the film a spring supper at Cafe Paradiso at 9.30pm (there will be a half an hour gap so you can have a drink at Reidy's bar)

@@ -1,11 +1,10 @@
----
-title: "This wouldn't be Conor's blog without"
-slug: "this-wouldnt-be-conors-blog-without"
-date: "2005-05-18T10:18:58+00:00"
-tags:
-id: 83
-comment: false
----
++++
+title = "This wouldn't be Conor's blog without"
+slug = "this-wouldnt-be-conors-blog-without"
+date = "2005-05-18T10:18:58+00:00"
+id = 83
+comment = false
++++
 
 Baby Announcements!!
 

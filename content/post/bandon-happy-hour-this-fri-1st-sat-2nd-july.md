@@ -1,11 +1,10 @@
----
-title: "Bandon Happy Hour this Fri 1st and Sat 2nd July "
-slug: "bandon-happy-hour-this-fri-1st-sat-2nd-july"
-date: "2011-06-29T10:37:21+00:00"
-tags:
-id: 1194
-comment: false
----
++++
+title = "Bandon Happy Hour this Fri 1st and Sat 2nd July "
+slug = "bandon-happy-hour-this-fri-1st-sat-2nd-july"
+date = "2011-06-29T10:37:21+00:00"
+id = 1194
+comment = false
++++
 
 This is a really great initiative by the Bandon Co-Marketing Group. From 12–3PM this Friday and Saturday, the town will be offering an unbeatable range of discounts and special offers on goods and professional services.
 

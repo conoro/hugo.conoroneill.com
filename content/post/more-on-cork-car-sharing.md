@@ -1,11 +1,10 @@
----
-title: "More on Cork Car Sharing"
-slug: "more-on-cork-car-sharing"
-date: "2008-03-05T11:20:42+00:00"
-tags:
-id: 644
-comment: false
----
++++
+title = "More on Cork Car Sharing"
+slug = "more-on-cork-car-sharing"
+date = "2008-03-05T11:20:42+00:00"
+id = 644
+comment = false
++++
 
 Mike Newham has updated us on Car Sharing in Cork:
 > We're pushing out the introduction in Cork till July the 4th because of the massive VRT changes that occur on that date.  We'll start off with eight cars on the road - 3 Ford Focuses (Foci?), 4 Ford Fiestas and 1 Transit Connect for delivery's and the like.

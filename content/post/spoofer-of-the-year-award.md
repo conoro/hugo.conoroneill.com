@@ -1,11 +1,10 @@
----
-title: "Spoofer of the year award"
-slug: "spoofer-of-the-year-award"
-date: "2006-05-14T17:02:08+00:00"
-tags:
-id: 348
-comment: false
----
++++
+title = "Spoofer of the year award"
+slug = "spoofer-of-the-year-award"
+date = "2006-05-14T17:02:08+00:00"
+id = 348
+comment = false
++++
 
 Just spotted this over at [Alex Barnett's blog](http://blogs.msdn.com/alexbarn/archive/2006/05/14/597452.aspx). His Dad sent him [a link to some video footage](http://img.dailymail.co.uk/video/cabbie.wmv). I have tears rolling down my face.
 

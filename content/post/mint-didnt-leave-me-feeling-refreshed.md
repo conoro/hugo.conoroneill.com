@@ -1,11 +1,10 @@
----
-title: "Mint didn't leave me feeling refreshed"
-slug: "mint-didnt-leave-me-feeling-refreshed"
-date: "2008-05-24T10:58:47+00:00"
-tags:
-id: 659
-comment: false
----
++++
+title = "Mint didn't leave me feeling refreshed"
+slug = "mint-didnt-leave-me-feeling-refreshed"
+date = "2008-05-24T10:58:47+00:00"
+id = 659
+comment = false
++++
 
 An unsatisfying mix of excellent food and wine with haphazard service and crazy pricing. The most expensive meal we're ever had but sadly not the best.
 

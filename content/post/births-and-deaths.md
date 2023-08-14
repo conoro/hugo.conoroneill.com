@@ -1,11 +1,10 @@
----
-title: "Births and Deaths"
-slug: "births-and-deaths"
-date: "2005-06-25T09:57:00+00:00"
-tags:
-id: 100
-comment: false
----
++++
+title = "Births and Deaths"
+slug = "births-and-deaths"
+date = "2005-06-25T09:57:00+00:00"
+id = 100
+comment = false
++++
 
 <div style="clear: both" />The first 3 years of this blog consisted almost entirely of baby announcements for my friends. I guess to be consistent it should also let friends know about those who have passed away. It is obviously a bit clueless to claim that the internet (and blogs in particular) democratises the news but I have to admit that I only buy a newspaper now on Friday, Saturday and Sunday - Friday for the jobs section, Saturday for the food/property section in De Paper and Sunday for the TV bit of the Sunday Times. I use various Irish Blogs and the RTE news feed for everything else.
 

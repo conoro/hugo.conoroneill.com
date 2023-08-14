@@ -1,11 +1,10 @@
----
-title: "Kilkenny Alive is the future"
-slug: "kilkenny-alive-is-the-future"
-date: "2009-02-18T12:53:37+00:00"
-tags:
-id: 814
-comment: false
----
++++
+title = "Kilkenny Alive is the future"
+slug = "kilkenny-alive-is-the-future"
+date = "2009-02-18T12:53:37+00:00"
+id = 814
+comment = false
++++
 
 I've been saying it non-stop for two years; if your business is not online, you are heading for extinction. I don't care whether you are a butcher, baker or artist, start selling online now. Too difficult or pricey? Check out [these guys](http://shop.venda.com/) or [these guys](http://www.nitrosell.com/).
 

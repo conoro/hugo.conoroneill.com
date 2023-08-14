@@ -1,11 +1,10 @@
----
-title: "Science Week in November"
-slug: "science-week-in-november"
-date: "2007-10-27T12:24:13+00:00"
-tags:
-id: 612
-comment: false
----
++++
+title = "Science Week in November"
+slug = "science-week-in-november"
+date = "2007-10-27T12:24:13+00:00"
+id = 612
+comment = false
++++
 
 There is a wonderful bunch of things planned in Cork as part of [Science Week](http://www.scienceweek.ie/) which will hopefully increase the interest in science amongst kids. The target audience is 10-16 year olds but I'm sure we'll drag our 8 year old along to some of it.
 

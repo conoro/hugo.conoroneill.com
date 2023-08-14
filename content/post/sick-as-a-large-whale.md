@@ -1,11 +1,10 @@
----
-title: "Sick as a large whale"
-slug: "sick-as-a-large-whale"
-date: "2009-01-15T18:36:05+00:00"
-tags:
-id: 802
-comment: false
----
++++
+title = "Sick as a large whale"
+slug = "sick-as-a-large-whale"
+date = "2009-01-15T18:36:05+00:00"
+id = 802
+comment = false
++++
 
 We decided to head down and look at the poor dead whale in Courtmac this evening. Totally unprepared of course. Hundreds of cars down there, traffic mayhem, tons of people out on the sand taking pictures.  Unfortunately we were a bit late with darkness falling and the tide was coming in fast. So only myself and Oisín ran out to grab some quick pictures. We might pop down at a better time tomorrow.
 

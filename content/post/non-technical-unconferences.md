@@ -1,11 +1,10 @@
----
-title: "Non-technical unconferences"
-slug: "non-technical-unconferences"
-date: "2006-10-03T07:24:56+00:00"
-tags:
-id: 426
-comment: false
----
++++
+title = "Non-technical unconferences"
+slug = "non-technical-unconferences"
+date = "2006-10-03T07:24:56+00:00"
+id = 426
+comment = false
++++
 
 You may have noted my lack of posting on my various blogs recently. The main reason for this is that I was helping to organise a free technology conference in Cork called [BarCamp](http://barcamp.org/). BarCamps are neither about booze nor barristers but are grass-roots unconferences where the agenda is only decided on the day by attendees putting themselves forward to speak or to moderate sessions on topics they are interested in.
 

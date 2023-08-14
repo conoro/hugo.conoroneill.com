@@ -1,11 +1,10 @@
----
-title: "Recording Streaming Audio for later listening"
-slug: "recording-streaming-audio-for-later-listening"
-date: "2005-05-17T22:36:00+00:00"
-tags:
-id: 84
-comment: false
----
++++
+title = "Recording Streaming Audio for later listening"
+slug = "recording-streaming-audio-for-later-listening"
+date = "2005-05-17T22:36:00+00:00"
+id = 84
+comment = false
++++
 
 I've been trying to figure out how to record streaming audio so I can listen to it later (and start/stop when I like). Actually it's specifically for [The Hitchhiker's Guide to the Galaxy Quandary Phase](http://www.bbc.co.uk/radio4/hitchhikers/). I didn't really enjoy the last radio series and the repeats of the TV series aren't that great either. But it became a technical challenge that I wanted to get to the bottom of. I finally cracked it today. Note that the solution below will not work behind some corporate firewalls but seems to work fine on my NATed setup on a Linksys Wireless Router at home.
 

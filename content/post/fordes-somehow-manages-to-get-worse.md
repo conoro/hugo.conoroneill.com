@@ -1,11 +1,10 @@
----
-title: "Forde's somehow manages to get worse"
-slug: "fordes-somehow-manages-to-get-worse"
-date: "2006-08-12T13:39:50+00:00"
-tags:
-id: 396
-comment: false
----
++++
+title = "Forde's somehow manages to get worse"
+slug = "fordes-somehow-manages-to-get-worse"
+date = "2006-08-12T13:39:50+00:00"
+id = 396
+comment = false
++++
 
   <div class='hreview'>         
 

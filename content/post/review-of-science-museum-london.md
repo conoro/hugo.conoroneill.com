@@ -1,11 +1,10 @@
----
-title: "Review of Science Museum London"
-slug: "review-of-science-museum-london"
-date: "2007-12-16T09:44:33+00:00"
-tags:
-id: 627
-comment: false
----
++++
+title = "Review of Science Museum London"
+slug = "review-of-science-museum-london"
+date = "2007-12-16T09:44:33+00:00"
+id = 627
+comment = false
++++
 
 <div lang="en" class="hreview"><div><div class="item vcard"><span class="fn">[Science Museum London](http://www.sciencemuseum.org.uk/)</span>, <div><span class="street-address">25 Exhibition Road</span>,</div><div><span class="locality">London</span>,</div><div></div><div><span class="postal-code">SW7 2DD</span>,</div><div class="country-name">UK</div></div></div><div>"<span class="summary">You need two days to do this properly. I felt like a small child runnning around looking at some of the incredible displays. </span>"</div><div class="stars" title="5">![](http://www.loudervoice.com/static/images/5outof5.gif)</div><div class="description">
 

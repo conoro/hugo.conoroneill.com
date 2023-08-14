@@ -1,11 +1,10 @@
----
-title: "Scoozi's - Good for a Friday night bash"
-slug: "scoozis-good-for-a-friday-night-bash"
-date: "2005-09-26T05:25:13+00:00"
-tags:
-id: 150
-comment: false
----
++++
+title = "Scoozi's - Good for a Friday night bash"
+slug = "scoozis-good-for-a-friday-night-bash"
+date = "2005-09-26T05:25:13+00:00"
+id = 150
+comment = false
++++
 
 Maria, our summer student, finished up on Friday. We bounced around a few ideas for nosh and settled on something we figured everyone would like - Scoozi's on Winthrop Ave just near the GPO in Cork.
 

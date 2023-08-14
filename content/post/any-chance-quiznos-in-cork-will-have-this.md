@@ -1,11 +1,10 @@
----
-title: "Any chance Quizno's in Cork will have this?"
-slug: "any-chance-quiznos-in-cork-will-have-this"
-date: "2006-07-20T15:22:32+00:00"
-tags:
-id: 378
-comment: false
----
++++
+title = "Any chance Quizno's in Cork will have this?"
+slug = "any-chance-quiznos-in-cork-will-have-this"
+date = "2006-07-20T15:22:32+00:00"
+id = 378
+comment = false
++++
 
 I've been in a few Quizno's sandwich joints in the US and I really like them, particularly the fixins bar where you can add various types of whole chillis and other delights to your toasted sub. 
 

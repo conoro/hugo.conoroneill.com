@@ -1,11 +1,10 @@
----
-title: "I shouldn't really be excited about a kids movie but...."
-slug: "i-shouldnt-really-be-excited-about-a-kids-movie-but"
-date: "2006-03-16T09:10:56+00:00"
-tags:
-id: 284
-comment: false
----
++++
+title = "I shouldn't really be excited about a kids movie but...."
+slug = "i-shouldnt-really-be-excited-about-a-kids-movie-but"
+date = "2006-03-16T09:10:56+00:00"
+id = 284
+comment = false
++++
 
 [This trailer for CARS](http://movies.aol.com/movie_exclusive_cars_trailer) is just AWESOME!
 

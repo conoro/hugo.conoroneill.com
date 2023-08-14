@@ -1,11 +1,10 @@
----
-title: "Great news for fishies in West Cork"
-slug: "great-news-for-fishies-in-west-cork"
-date: "2008-06-19T17:28:33+00:00"
-tags:
-id: 672
-comment: false
----
++++
+title = "Great news for fishies in West Cork"
+slug = "great-news-for-fishies-in-west-cork"
+date = "2008-06-19T17:28:33+00:00"
+id = 672
+comment = false
++++
 
 So if food lovers are foodies and wine lovers are winos ;-) I've decided that fish lovers are fishies. Just got a comment on [an old blog post](http://conoroneill.com/2005/12/04/hey-dad-thats-the-same-ugly-fish-as-last-week) about the fish shop in Union Hall and it's all good news:
 > we Glenmar Shellfish have now merged with Antcar over 12mths ago - if you are ever in Union Hall again be sure and call into the shop again - The Fish Shop - you will not be disappointed - we have recently extended the shop and added alot of additional products to our impressive array of fish - including mussels !!- we also now have a wine licence and stock a very impressive selection of wines - look forward to seeing you soon!!

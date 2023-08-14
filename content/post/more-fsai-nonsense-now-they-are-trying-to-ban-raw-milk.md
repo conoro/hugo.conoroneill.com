@@ -1,11 +1,10 @@
----
-title: "More FSAI Nonsense - Now They are Trying to Ban Raw Milk"
-slug: "more-fsai-nonsense-now-they-are-trying-to-ban-raw-milk"
-date: "2011-07-11T22:37:16+00:00"
-tags:
-id: 1201
-comment: false
----
++++
+title = "More FSAI Nonsense - Now They are Trying to Ban Raw Milk"
+slug = "more-fsai-nonsense-now-they-are-trying-to-ban-raw-milk"
+date = "2011-07-11T22:37:16+00:00"
+id = 1201
+comment = false
++++
 
 After the pork recall debacle, you'd thing the FSAI would get a bit of cop-on but obviously they need to keep inventing make-work to keep themselves in jobs. Their latest wheeze is to try and ban Raw Milk. Not bleach-cleaned chicken nuggets or mechanically recovered meat burgers or sausages with 53% "meat". No, they want to ban a product that some people actively seek out and choose to drink.
 

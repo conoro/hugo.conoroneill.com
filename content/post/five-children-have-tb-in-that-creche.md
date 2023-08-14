@@ -1,11 +1,10 @@
----
-title: "Two children have TB in that creche"
-slug: "five-children-have-tb-in-that-creche"
-date: "2007-03-28T09:17:40+00:00"
-tags:
-id: 524
-comment: false
----
++++
+title = "Two children have TB in that creche"
+slug = "five-children-have-tb-in-that-creche"
+date = "2007-03-28T09:17:40+00:00"
+id = 524
+comment = false
++++
 
 In a more litigious country, the HSE would now find itself on the end of a class action suit due to the [non-administration of the BCG](http://www.examiner.ie/irishexaminer/pages/story.aspx-qqqg=ireland-qqqm=ireland-qqqa=ireland-qqqid=28971-qqqx=1.asp) to children in the Cork region. The only region in the country that does not do it.
 

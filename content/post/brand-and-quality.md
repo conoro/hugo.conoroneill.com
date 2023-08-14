@@ -1,11 +1,10 @@
----
-title: "Brand and Quality"
-slug: "brand-and-quality"
-date: "2007-08-19T17:39:59+00:00"
-tags:
-id: 595
-comment: false
----
++++
+title = "Brand and Quality"
+slug = "brand-and-quality"
+date = "2007-08-19T17:39:59+00:00"
+id = 595
+comment = false
++++
 
 [Clonakilty Black Pudding](http://www.clonakiltyblackpudding.ie/) is rightly famous and many people were saddened by the passing of Edward Twomey who made it into a formidable brand. Over the years they have diversified a bit and I see their sausages almost everywhere. We've tended to buy them as our "standard" saturday sausage when supermerket buying (going more with Caherbeg or Gubbeen for a treat).
 

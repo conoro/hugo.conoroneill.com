@@ -1,11 +1,10 @@
----
-title: "I'll have the calf's head please"
-slug: "ill-have-the-calfs-head-please"
-date: "2007-03-07T09:08:51+00:00"
-tags:
-id: 503
-comment: false
----
++++
+title = "I'll have the calf's head please"
+slug = "ill-have-the-calfs-head-please"
+date = "2007-03-07T09:08:51+00:00"
+id = 503
+comment = false
++++
 
 <div lang="en" class="hreview">
 

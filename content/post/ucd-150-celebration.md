@@ -1,11 +1,10 @@
----
-title: "UCD 150 Celebration"
-slug: "ucd-150-celebration"
-date: "2005-02-24T13:01:00+00:00"
-tags:
-id: 35
-comment: false
----
++++
+title = "UCD 150 Celebration"
+slug = "ucd-150-celebration"
+date = "2005-02-24T13:01:00+00:00"
+id = 35
+comment = false
++++
 
 My Alma Mater, University College Dublin, is celebrating its 150th anniversary this year and there is a special event being held on April 12th to recognise achievements of past graduates of the Engineering School, and to look forward to the future.
 

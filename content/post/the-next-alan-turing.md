@@ -1,11 +1,10 @@
----
-title: "The next Alan Turing?"
-slug: "the-next-alan-turing"
-date: "2005-06-27T20:31:28+00:00"
-tags:
-id: 98
-comment: false
----
++++
+title = "The next Alan Turing?"
+slug = "the-next-alan-turing"
+date = "2005-06-27T20:31:28+00:00"
+id = 98
+comment = false
++++
 
 <div style="clear: both" />
 <div style="float: right; margin-left: 10px; margin-bottom: 10px">[![](http://photos17.flickr.com/21966235_26854edbe3_m.jpg)](http://www.flickr.com/photos/bandon1/21966235/ "photo sharing")

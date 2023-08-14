@@ -1,11 +1,10 @@
----
-title: "Two words: Green Wing"
-slug: "two-words-green-wing"
-date: "2006-03-31T18:19:33+00:00"
-tags:
-id: 306
-comment: false
----
++++
+title = "Two words: Green Wing"
+slug = "two-words-green-wing"
+date = "2006-03-31T18:19:33+00:00"
+id = 306
+comment = false
++++
 
 Tonight 9.00, Channel 4.
 

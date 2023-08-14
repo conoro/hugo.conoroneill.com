@@ -1,11 +1,10 @@
----
-title: "My Proposed Questions to the HSE under Freedom of Information"
-slug: "my-proposed-questions-to-the-hse-under-freedom-of-information"
-date: "2007-04-30T09:10:24+00:00"
-tags:
-id: 560
-comment: false
----
++++
+title = "My Proposed Questions to the HSE under Freedom of Information"
+slug = "my-proposed-questions-to-the-hse-under-freedom-of-information"
+date = "2007-04-30T09:10:24+00:00"
+id = 560
+comment = false
++++
 
 The scandal that is the non-vaccination using BCG of children in Cork could have far-reaching implications for the health of many people under the age of 30\. Both employees of the then Southern Health Board and the political appointees to the board may have had a say in implementing this negligent policy and continuing to allow it to occur since the 1970's. It is clear that the health of Cork children is considered less important than that of children from elsewhere in the country. 
 

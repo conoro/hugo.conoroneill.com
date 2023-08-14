@@ -1,11 +1,10 @@
----
-title: "Goodbye My Friend Bikila #VFF"
-slug: "goodbye-my-friend-bikila-vff"
-date: "2012-06-09T13:28:43+00:00"
-tags:
-id: 1302
-comment: false
----
++++
+title = "Goodbye My Friend Bikila #VFF"
+slug = "goodbye-my-friend-bikila-vff"
+date = "2012-06-09T13:28:43+00:00"
+id = 1302
+comment = false
++++
 
 {{< youtube pqLRH6gS6c0 >}}
 

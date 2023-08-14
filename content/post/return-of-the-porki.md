@@ -1,11 +1,10 @@
----
-title: "Return of the Porki"
-slug: "return-of-the-porki"
-date: "2009-01-08T08:39:39+00:00"
-tags:
-id: 786
-comment: false
----
++++
+title = "Return of the Porki"
+slug = "return-of-the-porki"
+date = "2009-01-08T08:39:39+00:00"
+id = 786
+comment = false
++++
 
 The [Empire](http://www.fsai.ie/) may have done its best to kill the pork industry in Ireland but the producers are fighting back. Barrie Tyner from [Slow Food Ireland](http://www.slowfoodireland.com/) just let me know that the West Cork and Cork City Conviviums are coming together to bring us 'The Pig Extravaganza'.
 

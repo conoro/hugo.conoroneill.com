@@ -1,11 +1,10 @@
----
-title: "Bandon Farmer's Market just gets better and better"
-slug: "bandon-farmers-market-just-gets-better-and-better"
-date: "2006-06-18T10:56:19+00:00"
-tags:
-id: 365
-comment: false
----
++++
+title = "Bandon Farmer's Market just gets better and better"
+slug = "bandon-farmers-market-just-gets-better-and-better"
+date = "2006-06-18T10:56:19+00:00"
+id = 365
+comment = false
++++
 
 I'm not just saying that because it's my local one. They keep adding really great stalls. I think the most important one is Ahern's organic meats. It's a bit easy to miss them because all the meat is in a freezer trailer and they just have a small table with the product list and prices. I got two t-bones and a bunch of burgers off them. Looking forward to BBQing them today in the rain.
 

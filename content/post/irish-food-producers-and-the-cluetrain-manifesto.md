@@ -1,11 +1,10 @@
----
-title: "Irish food producers and the Cluetrain Manifesto"
-slug: "irish-food-producers-and-the-cluetrain-manifesto"
-date: "2005-12-12T21:53:09+00:00"
-tags:
-id: 197
-comment: false
----
++++
+title = "Irish food producers and the Cluetrain Manifesto"
+slug = "irish-food-producers-and-the-cluetrain-manifesto"
+date = "2005-12-12T21:53:09+00:00"
+id = 197
+comment = false
++++
 
 I know absolutely nothing about marketing as I discovered in my first startup enterprise when it took me a year to notice that there was no "U" in our "USP".
 

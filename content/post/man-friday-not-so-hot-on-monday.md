@@ -1,11 +1,10 @@
----
-title: "Man Friday not so Hot on Monday"
-slug: "man-friday-not-so-hot-on-monday"
-date: "2005-10-18T12:41:15+00:00"
-tags:
-id: 154
-comment: false
----
++++
+title = "Man Friday not so Hot on Monday"
+slug = "man-friday-not-so-hot-on-monday"
+date = "2005-10-18T12:41:15+00:00"
+id = 154
+comment = false
++++
 
 I was recently out on a business dinner with some Dutch customers to "Man Fridays" in Kinsale. This appears to be one of the most famous restaurants in Kinsale and is nestled in a fabulous location overlooking the harbour. Parking in that part of Kinsale was, as ever, a nightmare. I eventually strapped two dinghys to my car and moored it off the promenade.
 

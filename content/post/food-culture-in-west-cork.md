@@ -1,11 +1,10 @@
----
-title: "Food Culture in West Cork"
-slug: "food-culture-in-west-cork"
-date: "2008-09-02T19:13:23+00:00"
-tags:
-id: 723
-comment: false
----
++++
+title = "Food Culture in West Cork"
+slug = "food-culture-in-west-cork"
+date = "2008-09-02T19:13:23+00:00"
+id = 723
+comment = false
++++
 
 I'm thrilled to see more and more great Irish food blogs being created and I was recently told about a real cracker.
 

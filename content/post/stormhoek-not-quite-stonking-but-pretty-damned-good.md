@@ -1,11 +1,10 @@
----
-title: "Stormhoek not quite stonking but pretty damned good"
-slug: "stormhoek-not-quite-stonking-but-pretty-damned-good"
-date: "2005-09-13T13:05:37+00:00"
-tags:
-id: 147
-comment: false
----
++++
+title = "Stormhoek not quite stonking but pretty damned good"
+slug = "stormhoek-not-quite-stonking-but-pretty-damned-good"
+date = "2005-09-13T13:05:37+00:00"
+id = 147
+comment = false
++++
 
 My bottle of [Stormhoek Sauvignon Blanc 2005](http://www.stormhoek.com/) from the [gapingvoid freebie](http://www.gapingvoid.com/Moveable_Type/archives/001646.html) arrived by courier this evening. I was going to wait until tomorrow to review but one dead linux server has fast-tracked the opening.
 

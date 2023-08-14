@@ -1,11 +1,10 @@
----
-title: "Review of Jacques Restaurant"
-slug: "review-of-jacques-restaurant"
-date: "2007-06-10T23:30:38+00:00"
-tags:
-id: 577
-comment: false
----
++++
+title = "Review of Jacques Restaurant"
+slug = "review-of-jacques-restaurant"
+date = "2007-06-10T23:30:38+00:00"
+id = 577
+comment = false
++++
 
 <div lang="en" class="hreview">
     <div>

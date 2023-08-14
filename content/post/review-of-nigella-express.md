@@ -1,11 +1,10 @@
----
-title: "Review of Nigella Express"
-slug: "review-of-nigella-express"
-date: "2007-09-11T22:51:33+00:00"
-tags:
-id: 604
-comment: false
----
++++
+title = "Review of Nigella Express"
+slug = "review-of-nigella-express"
+date = "2007-09-11T22:51:33+00:00"
+id = 604
+comment = false
++++
 
 <div lang="en" class="hreview">
     <span><span class="item "><span class="fn">[Nigella Express](http://www.bbc.co.uk/food/tv_and_radio/nigellaexpress_index.shtml)</span>    </span></span>

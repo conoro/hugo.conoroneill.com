@@ -1,11 +1,10 @@
----
-title: "Trunki - Flippin brill idea"
-slug: "trunki-flippin-brill-idea"
-date: "2006-07-20T15:54:04+00:00"
-tags:
-id: 379
-comment: false
----
++++
+title = "Trunki - Flippin brill idea"
+slug = "trunki-flippin-brill-idea"
+date = "2006-07-20T15:54:04+00:00"
+id = 379
+comment = false
++++
 
 Catherine spotted these today:
 

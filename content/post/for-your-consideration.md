@@ -1,11 +1,10 @@
----
-title: "For Your Consideration"
-slug: "for-your-consideration"
-date: "2010-04-19T07:32:38+00:00"
-tags:
-id: 1057
-comment: false
----
++++
+title = "For Your Consideration"
+slug = "for-your-consideration"
+date = "2010-04-19T07:32:38+00:00"
+id = 1057
+comment = false
++++
 
 Not Christopher Guest's best movie but I always liked the title.
 

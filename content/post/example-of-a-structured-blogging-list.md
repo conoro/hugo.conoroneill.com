@@ -1,11 +1,10 @@
----
-title: "Example of a Structured Blogging List"
-slug: "example-of-a-structured-blogging-list"
-date: "2006-03-18T19:37:38+00:00"
-tags:
-id: 286
-comment: false
----
++++
+title = "Example of a Structured Blogging List"
+slug = "example-of-a-structured-blogging-list"
+date = "2006-03-18T19:37:38+00:00"
+id = 286
+comment = false
++++
 
       
 

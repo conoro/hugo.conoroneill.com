@@ -1,11 +1,10 @@
----
-title: "Universities belong inside cities"
-slug: "universities-belong-inside-cities"
-date: "2007-04-11T12:15:03+00:00"
-tags:
-id: 544
-comment: false
----
++++
+title = "Universities belong inside cities"
+slug = "universities-belong-inside-cities"
+date = "2007-04-11T12:15:03+00:00"
+id = 544
+comment = false
++++
 
 I was a bit sad today to read this from the UCD Alumni office:
 

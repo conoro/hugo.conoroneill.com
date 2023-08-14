@@ -1,11 +1,10 @@
----
-title: "Ummera Smoked Eel - From Ballymore Eustace to Bandon"
-slug: "ummera-smoked-eel-from-ballymore-eustace-to-bandon"
-date: "2006-01-02T11:09:29+00:00"
-tags:
-id: 210
-comment: false
----
++++
+title = "Ummera Smoked Eel - From Ballymore Eustace to Bandon"
+slug = "ummera-smoked-eel-from-ballymore-eustace-to-bandon"
+date = "2006-01-02T11:09:29+00:00"
+id = 210
+comment = false
++++
 
 I have promised to blog the Ummera Smoked Eeel since the day I got it and I actually ate it about a week after receiving it in December. Before eating, I scanned all my cook books and the general consesus was that brown-bread, lemon and maybe horseradish were the things to eat it with. But Anthony of Ummera warned me not to over-do it with extra flavours so I took it easy.
 

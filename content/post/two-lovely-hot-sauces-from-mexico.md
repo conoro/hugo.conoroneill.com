@@ -1,11 +1,10 @@
----
-title: "Two lovely hot sauces from Mexico"
-slug: "two-lovely-hot-sauces-from-mexico"
-date: "2014-01-01T17:21:36+00:00"
-tags:
-id: 1372
-comment: false
----
++++
+title = "Two lovely hot sauces from Mexico"
+slug = "two-lovely-hot-sauces-from-mexico"
+date = "2014-01-01T17:21:36+00:00"
+id = 1372
+comment = false
++++
 
 It's been a while, I know. I spent most of 2013 focused on [my tech blog over here](http://conoroneill.net/). But I thought I'd kick off 2014 with a foodie post.
 

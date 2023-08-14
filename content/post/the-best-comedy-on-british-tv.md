@@ -1,11 +1,10 @@
----
-title: "The best comedy on British TV?"
-slug: "the-best-comedy-on-british-tv"
-date: "2006-03-02T20:38:54+00:00"
-tags:
-id: 266
-comment: false
----
++++
+title = "The best comedy on British TV?"
+slug = "the-best-comedy-on-british-tv"
+date = "2006-03-02T20:38:54+00:00"
+id = 266
+comment = false
++++
 
 "The IT Crowd"? Not a hope. "Shameless"? Better. But the hands down winner has got to be "The Apprentice". Thank god for Sky+ so I could keep pausing to catch my breath after collapsing in gales of laughter.
 

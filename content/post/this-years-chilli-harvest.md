@@ -1,11 +1,10 @@
----
-title: "This year's chilli harvest"
-slug: "this-years-chilli-harvest"
-date: "2012-03-30T18:01:58+00:00"
-tags:
-id: 1281
-comment: false
----
++++
+title = "This year's chilli harvest"
+slug = "this-years-chilli-harvest"
+date = "2012-03-30T18:01:58+00:00"
+id = 1281
+comment = false
++++
 
 Catherine is delighted with this bumper crop of kitchen-grown chillis. Next year we hope to get upwards of 2.
 

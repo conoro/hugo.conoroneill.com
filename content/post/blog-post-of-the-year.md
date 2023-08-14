@@ -1,11 +1,10 @@
----
-title: "Blog post of the year"
-slug: "blog-post-of-the-year"
-date: "2008-11-19T10:29:58+00:00"
-tags:
-id: 753
-comment: false
----
++++
+title = "Blog post of the year"
+slug = "blog-post-of-the-year"
+date = "2008-11-19T10:29:58+00:00"
+id = 753
+comment = false
++++
 
 When the [Irish Blog Awards](http://www.awards.ie/) nominations open early next year, I'm pretty sure Ivan McCutcheon's recent post [about local West Cork abbatoirs and butchers](http://foodculturewestcork.wordpress.com/2008/11/18/local-abbatoirs-whats-at-steak/) will be the one I pick.
 

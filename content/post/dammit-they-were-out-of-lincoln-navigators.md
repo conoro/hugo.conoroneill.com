@@ -1,11 +1,10 @@
----
-title: "Dammit they were out of Lincoln Navigators"
-slug: "dammit-they-were-out-of-lincoln-navigators"
-date: "2006-01-16T15:02:18+00:00"
-tags:
-id: 220
-comment: false
----
++++
+title = "Dammit they were out of Lincoln Navigators"
+slug = "dammit-they-were-out-of-lincoln-navigators"
+date = "2006-01-16T15:02:18+00:00"
+id = 220
+comment = false
++++
 
 Yer, I want dat wun:
 

@@ -1,11 +1,10 @@
----
-title: "So if you're really bored"
-slug: "so-if-youre-really-bored"
-date: "2005-05-11T11:21:19+00:00"
-tags:
-id: 89
-comment: false
----
++++
+title = "So if you're really bored"
+slug = "so-if-youre-really-bored"
+date = "2005-05-11T11:21:19+00:00"
+id = 89
+comment = false
++++
 
 Try this quiz.
 

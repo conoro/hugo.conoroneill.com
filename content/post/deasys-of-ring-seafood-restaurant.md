@@ -1,11 +1,10 @@
----
-title: "Deasy's of Ring, Seafood Restaurant"
-slug: "deasys-of-ring-seafood-restaurant"
-date: "2006-06-18T11:34:28+00:00"
-tags:
-id: 366
-comment: false
----
++++
+title = "Deasy's of Ring, Seafood Restaurant"
+slug = "deasys-of-ring-seafood-restaurant"
+date = "2006-06-18T11:34:28+00:00"
+id = 366
+comment = false
++++
 
   <div class='hreview'>         
 

@@ -1,11 +1,10 @@
----
-title: "How to find about problems like the water situation in Bandon"
-slug: "how-to-find-about-problems-like-the-water-situation-in-bandon"
-date: "2007-06-03T07:50:23+00:00"
-tags:
-id: 571
-comment: false
----
++++
+title = "How to find about problems like the water situation in Bandon"
+slug = "how-to-find-about-problems-like-the-water-situation-in-bandon"
+date = "2007-06-03T07:50:23+00:00"
+id = 571
+comment = false
++++
 
 We lost water around 2am Saturday and it returned dark brown at around 2pm. Does anyone know what the back story is and whether the water is safe to drink?
 

@@ -1,11 +1,10 @@
----
-title: "Beach Top Tips"
-slug: "beach-top-tips"
-date: "2005-06-15T13:46:52+00:00"
-tags:
-id: 106
-comment: false
----
++++
+title = "Beach Top Tips"
+slug = "beach-top-tips"
+date = "2005-06-15T13:46:52+00:00"
+id = 106
+comment = false
++++
 
 <div style="clear: both" />As a good husband, I am empathising with my pregnant wife by attempting to grow a belly as big as hers. So far, it has been a resounding success. However, it does pose issues of aesthetics when heading to the beach for what is likely to be the only hot day this year that we had last Sunday.
 

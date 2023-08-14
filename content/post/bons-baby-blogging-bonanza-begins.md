@@ -1,11 +1,10 @@
----
-title: "Bons baby blogging bonanza begins"
-slug: "bons-baby-blogging-bonanza-begins"
-date: "2005-07-07T13:02:40+00:00"
-tags:
-id: 127
-comment: false
----
++++
+title = "Bons baby blogging bonanza begins"
+slug = "bons-baby-blogging-bonanza-begins"
+date = "2005-07-07T13:02:40+00:00"
+id = 127
+comment = false
++++
 
 
 

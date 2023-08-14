@@ -1,11 +1,10 @@
----
-title: "Sometimes you forget"
-slug: "sometimes-you-forget"
-date: "2007-02-06T09:48:01+00:00"
-tags:
-id: 477
-comment: false
----
++++
+title = "Sometimes you forget"
+slug = "sometimes-you-forget"
+date = "2007-02-06T09:48:01+00:00"
+id = 477
+comment = false
++++
 
 That Prince is a Music God. And then you see this:
 

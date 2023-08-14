@@ -1,11 +1,10 @@
----
-title: "This should be bigger news - Gizmo offering free PC to landline calls"
-slug: "this-should-be-bigger-news-gizmo-offering-free-pc-to-landline-calls"
-date: "2006-07-28T05:49:19+00:00"
-tags:
-id: 385
-comment: false
----
++++
+title = "This should be bigger news - Gizmo offering free PC to landline calls"
+slug = "this-should-be-bigger-news-gizmo-offering-free-pc-to-landline-calls"
+date = "2006-07-28T05:49:19+00:00"
+id = 385
+comment = false
++++
 
 Most people, even non-techies like my Dad, have heard of [Skype ](http://www.skype.com/)at this stage. Skype gives you free PC-to-PC "phone" calls and allows you to ring normal international phone numbers for much cheaper than normal phone-to-phone calls. I've used it a lot and it works pretty well. 
 

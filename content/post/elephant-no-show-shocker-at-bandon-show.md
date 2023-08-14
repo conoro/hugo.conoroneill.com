@@ -1,11 +1,10 @@
----
-title: "Elephant No-Show Shocker at Bandon Show"
-slug: "elephant-no-show-shocker-at-bandon-show"
-date: "2005-05-24T09:22:42+00:00"
-tags:
-id: 78
-comment: false
----
++++
+title = "Elephant No-Show Shocker at Bandon Show"
+slug = "elephant-no-show-shocker-at-bandon-show"
+date = "2005-05-24T09:22:42+00:00"
+id = 78
+comment = false
++++
 
 <div style="clear: both" />Oisin O'Neill (3) of Old Chapel Bandon, registered his utter disgust this past Sunday over the non-appearence of elephants at the 2005 Bandon Summer Agricultural show. Proceedings have been served on Conor O'Neill (37), also of Old Chapel Bandon, for mis-leading advertising regarding the nature of the beasts which would appear at the show. Disappontment was also expressed over the lack of tigers.
 

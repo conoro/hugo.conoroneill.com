@@ -1,11 +1,10 @@
----
-title: "Tons of peaches and no salad"
-slug: "tons-of-peaches-and-no-salad"
-date: "2007-06-09T10:21:06+00:00"
-tags:
-id: 575
-comment: false
----
++++
+title = "Tons of peaches and no salad"
+slug = "tons-of-peaches-and-no-salad"
+date = "2007-06-09T10:21:06+00:00"
+id = 575
+comment = false
++++
 
 I'll admit I thought the wife was a bit mental when she bought a peach tree a few months back but I stuck it in the ground anyway. Yesterday she pointed this out to me:
 

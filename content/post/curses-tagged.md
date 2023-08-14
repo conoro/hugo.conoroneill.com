@@ -1,11 +1,10 @@
----
-title: "Curses - Tagged"
-slug: "curses-tagged"
-date: "2007-01-03T11:04:30+00:00"
-tags:
-id: 465
-comment: false
----
++++
+title = "Curses - Tagged"
+slug = "curses-tagged"
+date = "2007-01-03T11:04:30+00:00"
+id = 465
+comment = false
++++
 
 So [Haydn](http://www.mediangler.com/2006/12/26/5-things-you-didnt-know-about-me/) tagged me. Five things you don't know about me eh? Apart from my Spaghetti Hoop fetish?
 

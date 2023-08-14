@@ -1,9 +1,8 @@
----
-title: "I've finally found a running audio setup that works"
-slug: "i-ve-finally-found-a-running-audio-setup-that-works"
-date: "2015-10-04T14:02:05+00:00"
-tags:
----
++++
+title = "I've finally found a running audio setup that works"
+slug = "i-ve-finally-found-a-running-audio-setup-that-works"
+date = "2015-10-04T14:02:05+00:00"
++++
 I've been running slowly since 2009. This year has seen two and a half marathons so far, with the [Clon Half](http://runclon.ie/) probably ending the year nicely. But since the very first run I've struggled with audio. I think most people listen to music and I've done that a bit but I've spent far more time listening to Podcasts. I listened to Kermode and Mayo on my first Half Marathon in Dingle in 2010 and I listened to them again a few weeks ago in Dingle in the 2015 Half.
 
 The problem is when you're in the middle of a podcast and either you find it boring or it annoys you so much you have to turn it off. Some of the more "worthy" American ones are very hit and miss. As my phone is normally strapped to my arm with a headphone lead snaking down my sleeve, the only thing I can really do is leave the podcast running and pull out the earbuds from my ears. Actually I normally only run with one earbud in for safety.

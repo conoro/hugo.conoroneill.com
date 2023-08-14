@@ -1,11 +1,10 @@
----
-title: "Great new Art Gallery in West Cork"
-slug: "great-new-art-gallery-in-west-cork"
-date: "2007-05-15T16:22:38+00:00"
-tags:
-id: 566
-comment: false
----
++++
+title = "Great new Art Gallery in West Cork"
+slug = "great-new-art-gallery-in-west-cork"
+date = "2007-05-15T16:22:38+00:00"
+id = 566
+comment = false
++++
 
 Haydn Shaughnessy is opening [a new art gallery](http://www.galleryica.com/) in the Pink Elephant in Harbour View overlooking the sea. As its name suggests it is dedicated to Innovative Contemporary Art.
 

@@ -1,11 +1,10 @@
----
-title: "New Alerting System from Cork County Council"
-slug: "new-alerting-system-from-cork-county-council"
-date: "2012-11-12T14:14:16+00:00"
-tags:
-id: 1334
-comment: false
----
++++
+title = "New Alerting System from Cork County Council"
+slug = "new-alerting-system-from-cork-county-council"
+date = "2012-11-12T14:14:16+00:00"
+id = 1334
+comment = false
++++
 
 It's great to see Cork CoCo finally putting an [Alerts system](http://mapalerts.corkcoco.ie/) in place. It's very easy to use. You simply go to the relevant [Map Alerts](http://mapalerts.corkcoco.ie/) site and register there with your mobile/email/etc. You can also add your home and work locations for alerts.
 

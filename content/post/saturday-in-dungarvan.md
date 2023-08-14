@@ -1,11 +1,10 @@
----
-title: "Saturday in Dungarvan"
-slug: "saturday-in-dungarvan"
-date: "2005-03-14T07:32:00+00:00"
-tags:
-id: 41
-comment: false
----
++++
+title = "Saturday in Dungarvan"
+slug = "saturday-in-dungarvan"
+date = "2005-03-14T07:32:00+00:00"
+id = 41
+comment = false
++++
 
 We spent Saturday in and around Dungarvan visiting Catherines cousin Maria. They live near Clonea Strand which is a fantastic beach. Myself and the boys whiled away an hour or two digging holes and filling them with stones. We stayed in the [Clonea Strand Hotel](http://www.clonea.com) - a good mid-market place with some fantastic (non-ironic) 70's interiors. Big high ceilings and open stairs. Beds could do with replacing but a top spot with great kids facilities. The three monsters loved the new Kids Loft with climbing frames, slides, tons of plastic balls etc. Good pool too. Shockingly Oscar thought it was better than Disney Paris. Mentalist.
 

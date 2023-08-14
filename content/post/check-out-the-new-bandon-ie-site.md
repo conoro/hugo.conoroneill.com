@@ -1,11 +1,10 @@
----
-title: "Check out the new bandon.ie site"
-slug: "check-out-the-new-bandon-ie-site"
-date: "2010-06-10T15:26:44+00:00"
-tags:
-id: 1066
-comment: false
----
++++
+title = "Check out the new bandon.ie site"
+slug = "check-out-the-new-bandon-ie-site"
+date = "2010-06-10T15:26:44+00:00"
+id = 1066
+comment = false
++++
 
 Brilliant job by Andrew Kingston of [Arkutech.ie](http://arkutech.ie) in building the new[ bandon.ie](http://www.bandon.ie/) site.
 

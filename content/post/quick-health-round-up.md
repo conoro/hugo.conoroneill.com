@@ -1,11 +1,10 @@
----
-title: "Quick Health Round-Up on Stomachs and Nuts"
-slug: "quick-health-round-up"
-date: "2005-10-06T01:26:54+00:00"
-tags:
-id: 152
-comment: false
----
++++
+title = "Quick Health Round-Up on Stomachs and Nuts"
+slug = "quick-health-round-up"
+date = "2005-10-06T01:26:54+00:00"
+id = 152
+comment = false
++++
 
 Run off my feet this week so blogging has been even lighter than usual. Two health related stories caught my eye:
 

@@ -1,11 +1,10 @@
----
-title: "See where the NAMA Properties are on Google Maps"
-slug: "see-where-the-nama-properties-are-on-google-maps"
-date: "2011-08-02T20:03:33+00:00"
-tags:
-id: 1210
-comment: false
----
++++
+title = "See where the NAMA Properties are on Google Maps"
+slug = "see-where-the-nama-properties-are-on-google-maps"
+date = "2011-08-02T20:03:33+00:00"
+id = 1210
+comment = false
++++
 
 Well done to Gavin Sheridan and the crew at [The Story](http://thestory.ie/). They took NAMA's pathetic PDF release of the properties it owns, extracted the data into the fantastic Google Fusion Tables and then [mapped the results](http://thestory.ie/2011/07/30/nama-enforcement-properties-mapped) into Google Maps.
 

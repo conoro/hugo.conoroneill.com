@@ -1,11 +1,10 @@
----
-title: "Have a Small Business and need IT help?"
-slug: "have-a-small-business-and-need-it-help"
-date: "2008-03-19T10:52:22+00:00"
-tags:
-id: 648
-comment: false
----
++++
+title = "Have a Small Business and need IT help?"
+slug = "have-a-small-business-and-need-it-help"
+date = "2008-03-19T10:52:22+00:00"
+id = 648
+comment = false
++++
 
 I know there are tons of small businesses out there struggling with IT, even basics like anti-virus and e-mail. Unfortunately, lack of knowledge can often mean you aren't even aware that there are better and cheaper ways of doing what you are doing.
 

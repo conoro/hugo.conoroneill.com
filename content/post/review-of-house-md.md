@@ -1,11 +1,10 @@
----
-title: "Review of House MD"
-slug: "review-of-house-md"
-date: "2007-07-31T18:16:00+00:00"
-tags:
-id: 592
-comment: false
----
++++
+title = "Review of House MD"
+slug = "review-of-house-md"
+date = "2007-07-31T18:16:00+00:00"
+id = 592
+comment = false
++++
 
 <div lang="en" class="hreview">
     <div>

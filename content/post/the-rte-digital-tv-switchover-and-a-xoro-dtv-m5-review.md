@@ -1,11 +1,10 @@
----
-title: "The RTE Digital TV Switchover and a Xoro DTV-M5 Review"
-slug: "the-rte-digital-tv-switchover-and-a-xoro-dtv-m5-review"
-date: "2011-12-03T12:46:22+00:00"
-tags:
-id: 1259
-comment: false
----
++++
+title = "The RTE Digital TV Switchover and a Xoro DTV-M5 Review"
+slug = "the-rte-digital-tv-switchover-and-a-xoro-dtv-m5-review"
+date = "2011-12-03T12:46:22+00:00"
+id = 1259
+comment = false
++++
 
 I recently wrote about our switch away from Sky and on to Freesat and [Saorview](http://www.saorview.ie/) using the Ariva 120 Combo box. After initial success I can no longer recommend that box to anyone. It crashes constantly, it loses channels and its recording features are worse than agricultural. Actually, I've come to the conclusion that it must be faulty it's that bad, so I'm returning for repair and will report back.
 

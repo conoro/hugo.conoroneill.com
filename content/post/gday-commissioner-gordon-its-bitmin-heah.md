@@ -1,11 +1,10 @@
----
-title: "G'Day Commissioner Gordon, it's BitMin heah"
-slug: "gday-commissioner-gordon-its-bitmin-heah"
-date: "2006-01-02T00:05:28+00:00"
-tags:
-id: 209
-comment: false
----
++++
+title = "G'Day Commissioner Gordon, it's BitMin heah"
+slug = "gday-commissioner-gordon-its-bitmin-heah"
+date = "2006-01-02T00:05:28+00:00"
+id = 209
+comment = false
++++
 
 ![](http://static.flickr.com/38/80530566_b0f141f89d_m.jpg)
 

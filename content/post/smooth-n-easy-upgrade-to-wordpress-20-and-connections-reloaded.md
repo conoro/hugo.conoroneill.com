@@ -1,11 +1,10 @@
----
-title: "Smooth n Easy Upgrade to Wordpress 2.0 and Connections Reloaded"
-slug: "smooth-n-easy-upgrade-to-wordpress-20-and-connections-reloaded"
-date: "2006-01-09T23:04:45+00:00"
-tags:
-id: 215
-comment: false
----
++++
+title = "Smooth n Easy Upgrade to Wordpress 2.0 and Connections Reloaded"
+slug = "smooth-n-easy-upgrade-to-wordpress-20-and-connections-reloaded"
+date = "2006-01-09T23:04:45+00:00"
+id = 215
+comment = false
++++
 
 If anyone who worked for me ever attempted a double simultaneous software upgrade, I'd fire them. But as I'm the boss of me, I can do whatever I like on my blog. Last night I upgraded the blogging software to [Wordpress 2.0](http://www.wordpress.org/) and moved the Blog Theme from [Connections](http://vanillamist.com/blog/?page_id=64) to [Connections Reloaded](http://www.ajaydsouza.com/wordpress/wpthemes/connections-reloaded/). Huge kudos to Matt and Donncha and all the others at Wordpress for the trouble free upgrade and to Ajay for doing such a slick improvement to Connections.
 

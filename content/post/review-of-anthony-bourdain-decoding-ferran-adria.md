@@ -1,11 +1,10 @@
----
-title: "Review of Anthony Bourdain Decoding Ferran Adria"
-slug: "review-of-anthony-bourdain-decoding-ferran-adria"
-date: "2007-04-26T13:15:41+00:00"
-tags:
-id: 559
-comment: false
----
++++
+title = "Review of Anthony Bourdain Decoding Ferran Adria"
+slug = "review-of-anthony-bourdain-decoding-ferran-adria"
+date = "2007-04-26T13:15:41+00:00"
+id = 559
+comment = false
++++
 
 <script type="application/ld+json">
 {

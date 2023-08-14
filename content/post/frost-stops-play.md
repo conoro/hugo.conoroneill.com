@@ -1,11 +1,10 @@
----
-title: "Frost Stops Play"
-slug: "frost-stops-play"
-date: "2008-12-28T17:25:33+00:00"
-tags:
-id: 773
-comment: false
----
++++
+title = "Frost Stops Play"
+slug = "frost-stops-play"
+date = "2008-12-28T17:25:33+00:00"
+id = 773
+comment = false
++++
 
 Whilst growing up from age 6-18 in Kilkenny, one group of people I never got on with were the park-keepers ("parkies") in the Castle Park. They always seemed to be fun-killers.
 

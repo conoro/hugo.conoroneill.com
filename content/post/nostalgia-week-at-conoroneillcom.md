@@ -1,11 +1,10 @@
----
-title: "Nostalgia Week at conoroneill.com"
-slug: "nostalgia-week-at-conoroneillcom"
-date: "2007-04-19T12:34:14+00:00"
-tags:
-id: 549
-comment: false
----
++++
+title = "Nostalgia Week at conoroneill.com"
+slug = "nostalgia-week-at-conoroneillcom"
+date = "2007-04-19T12:34:14+00:00"
+id = 549
+comment = false
++++
 
 Given that this blog is six years old this week and [we've started reminiscing about the good old days of Engineering in Merrion Street and Earlsfort Terrace](http://conoroneill.com/2007/04/11/universities-belong-inside-cities/#comment-62217), I've decided that it's officially Nostalgia Week here at O'Neill Towers. 
 

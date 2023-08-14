@@ -1,11 +1,10 @@
----
-title: "Saves me from infringing Scott Adam's copyright..."
-slug: "saves-me-from-infringing-scott-adams-copyright"
-date: "2005-12-16T14:12:13+00:00"
-tags:
-id: 203
-comment: false
----
++++
+title = "Saves me from infringing Scott Adam's copyright..."
+slug = "saves-me-from-infringing-scott-adams-copyright"
+date = "2005-12-16T14:12:13+00:00"
+id = 203
+comment = false
++++
 
 Can we get Vijay over to Cork? We have a bunch of things we need to talk to him about in [Argolon Solutions](http://www.argolon.com/).
 

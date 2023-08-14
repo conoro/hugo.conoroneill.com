@@ -1,11 +1,10 @@
----
-title: "What you read here in 2008"
-slug: "what-you-read-here-in-2008"
-date: "2009-01-04T13:54:00+00:00"
-tags:
-id: 779
-comment: false
----
++++
+title = "What you read here in 2008"
+slug = "what-you-read-here-in-2008"
+date = "2009-01-04T13:54:00+00:00"
+id = 779
+comment = false
++++
 
 It looks like 2008 was not a good year for new content on this blog. Only two posts were in the top twenty most-read in the last 12 months. I promise to do better this year :-)
 

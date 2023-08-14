@@ -1,11 +1,10 @@
----
-title: "How could they cancel a TV series which comes up with this?"
-slug: "how-could-they-cancel-a-tv-series-which-comes-up-with-this"
-date: "2006-10-16T20:55:48+00:00"
-tags:
-id: 436
-comment: false
----
++++
+title = "How could they cancel a TV series which comes up with this?"
+slug = "how-could-they-cancel-a-tv-series-which-comes-up-with-this"
+date = "2006-10-16T20:55:48+00:00"
+id = 436
+comment = false
++++
 
 [Arrested Development](http://en.wikipedia.org/wiki/Arrested_Development) has a lawyer whose ad states, "you don't need double talk, you need Bob Loblaw". 
 

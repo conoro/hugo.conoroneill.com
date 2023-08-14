@@ -1,11 +1,10 @@
----
-title: "Review of The Side Door Restaurant"
-slug: "review-of-the-side-door-restaurant"
-date: "2007-03-22T11:49:05+00:00"
-tags:
-id: 515
-comment: false
----
++++
+title = "Review of The Side Door Restaurant"
+slug = "review-of-the-side-door-restaurant"
+date = "2007-03-22T11:49:05+00:00"
+id = 515
+comment = false
++++
 
 <div lang="en" class="hreview">
 

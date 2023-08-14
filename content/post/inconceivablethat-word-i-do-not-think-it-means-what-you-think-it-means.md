@@ -1,11 +1,10 @@
----
-title: "Inconceivable!....That word. I do not think it means what you think it means"
-slug: "inconceivablethat-word-i-do-not-think-it-means-what-you-think-it-means"
-date: "2005-04-21T08:21:00+00:00"
-tags:
-id: 64
-comment: false
----
++++
+title = "Inconceivable!....That word. I do not think it means what you think it means"
+slug = "inconceivablethat-word-i-do-not-think-it-means-what-you-think-it-means"
+date = "2005-04-21T08:21:00+00:00"
+id = 64
+comment = false
++++
 
 I wish someone had told me this in late 2001.
 

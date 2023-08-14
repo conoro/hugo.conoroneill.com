@@ -1,11 +1,10 @@
----
-title: "Another icon of my youth passes away"
-slug: "another-icon-of-my-youth-passes-away"
-date: "2006-06-24T08:45:25+00:00"
-tags:
-id: 371
-comment: false
----
++++
+title = "Another icon of my youth passes away"
+slug = "another-icon-of-my-youth-passes-away"
+date = "2006-06-24T08:45:25+00:00"
+id = 371
+comment = false
++++
 
 Most of them may have been crap but I cannot deny loving nearly everything [Aaron Spelling](http://uk.news.yahoo.com/24062006/325/producer-aaron-spelling-dies.html) made. 
 

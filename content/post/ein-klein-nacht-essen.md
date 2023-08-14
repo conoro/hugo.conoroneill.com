@@ -1,11 +1,10 @@
----
-title: "Ein Klein Nacht-Essen"
-slug: "ein-klein-nacht-essen"
-date: "2005-10-19T13:42:27+00:00"
-tags:
-id: 156
-comment: false
----
++++
+title = "Ein Klein Nacht-Essen"
+slug = "ein-klein-nacht-essen"
+date = "2005-10-19T13:42:27+00:00"
+id = 156
+comment = false
++++
 
 I'm really hitting the limit of my thirty words of German. Until recently, my experience of German cuisine has been limited to halbe-hanchen mit frites, Curry Wurst and Kartoffelklösse. And ya know, when booze is involved, there is nothing better. But as I mentioned [in my recent review](http://conoroneill.com/?p=145), Otto has changed my view of German cooking forever. 
 

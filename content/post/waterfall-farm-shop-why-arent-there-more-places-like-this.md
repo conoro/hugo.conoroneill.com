@@ -1,11 +1,10 @@
----
-title: "Waterfall Farm Shop - Why aren't there more places like this? "
-slug: "waterfall-farm-shop-why-arent-there-more-places-like-this"
-date: "2006-03-21T23:23:33+00:00"
-tags:
-id: 260
-comment: false
----
++++
+title = "Waterfall Farm Shop - Why aren't there more places like this? "
+slug = "waterfall-farm-shop-why-arent-there-more-places-like-this"
+date = "2006-03-21T23:23:33+00:00"
+id = 260
+comment = false
++++
 
 We were over in Ovens recently looking at patio "toppings" in Irish Aggregates. On the way back I finally decided to check out Waterfall Farm Shop. I've known about it for more than two years and passed it a few times but just never took the extra few minutes to have a look.
 

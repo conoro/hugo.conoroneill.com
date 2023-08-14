@@ -1,11 +1,10 @@
----
-title: "Neven watchable but not memorable"
-slug: "neven-watchable-but-not-memorable"
-date: "2010-01-12T08:07:08+00:00"
-tags:
-id: 1023
-comment: false
----
++++
+title = "Neven watchable but not memorable"
+slug = "neven-watchable-but-not-memorable"
+date = "2010-01-12T08:07:08+00:00"
+id = 1023
+comment = false
++++
 
 I've always been a huge fan of Neven. Anyone who can run a successful restaurant in the middle of nowhere in rural Cavan gets my vote. His energy is always fantastic too. This new show is ok but nothing amazing.
 

@@ -1,11 +1,10 @@
----
-title: "An important one for Bandon residents"
-slug: "an-important-one-for-bandon-residents"
-date: "2008-04-01T19:14:54+00:00"
-tags:
-id: 652
-comment: false
----
++++
+title = "An important one for Bandon residents"
+slug = "an-important-one-for-bandon-residents"
+date = "2008-04-01T19:14:54+00:00"
+id = 652
+comment = false
++++
 
 The bandon.ie blog has [an important post](http://www.bandon.ie/blogspot/2008/03/hiring-of-consultants-for-bandon-area.html) about the Action Plan for the improvement of Bandon town centre. They have full details on what it's all about but the critical bit is having **your say**. Let the consultants who are drawing up the proposals know what you think should be done to improve the town. Some off the top of my head are:
 

@@ -1,11 +1,10 @@
----
-title: "The first blog by Irish smokers.....of food?"
-slug: "the-first-blog-by-irish-smokersof-food"
-date: "2006-02-09T22:18:00+00:00"
-tags:
-id: 252
-comment: false
----
++++
+title = "The first blog by Irish smokers.....of food?"
+slug = "the-first-blog-by-irish-smokersof-food"
+date = "2006-02-09T22:18:00+00:00"
+id = 252
+comment = false
++++
 
 In what I hope is the first of many by high-quality food producers in Ireland, [Ummera Smoked Products](http://www.ummera.com/) have launched their own blog. You can find it over at [ummera.wordpress.com](http://ummera.wordpress.com/).
 

@@ -1,11 +1,10 @@
----
-title: "More Technorati messing"
-slug: "more-technorati-messing"
-date: "2005-04-27T08:31:58+00:00"
-tags:
-id: 51
-comment: false
----
++++
+title = "More Technorati messing"
+slug = "more-technorati-messing"
+date = "2005-04-27T08:31:58+00:00"
+id = 51
+comment = false
++++
 
 No idea what I'm doing
 

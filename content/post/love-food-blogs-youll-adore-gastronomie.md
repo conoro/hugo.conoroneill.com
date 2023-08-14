@@ -1,11 +1,10 @@
----
-title: "Love food blogs? You'll adore Gastronom.ie"
-slug: "love-food-blogs-youll-adore-gastronomie"
-date: "2007-12-09T11:11:44+00:00"
-tags:
-id: 623
-comment: false
----
++++
+title = "Love food blogs? You'll adore Gastronom.ie"
+slug = "love-food-blogs-youll-adore-gastronomie"
+date = "2007-12-09T11:11:44+00:00"
+id = 623
+comment = false
++++
 
 I have to apologise to [Damien](http://mulley.net/) for not blogging this until now. He has put together one of those simple, beautifully executed ideas called [Gastronom.ie](http://gastronom.ie/). It collects all of the food writing from a set of Irish bloggers into one place. So if you are sick of bouncing around from blog to blog to blog and you really aren't into this whole geeky RSS idea, then you'll become addicted to this site.
 

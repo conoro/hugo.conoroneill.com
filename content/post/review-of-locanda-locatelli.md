@@ -1,11 +1,10 @@
----
-title: "Review of Locanda Locatelli"
-slug: "review-of-locanda-locatelli"
-date: "2007-10-21T06:55:45+00:00"
-tags:
-id: 610
-comment: false
----
++++
+title = "Review of Locanda Locatelli"
+slug = "review-of-locanda-locatelli"
+date = "2007-10-21T06:55:45+00:00"
+id = 610
+comment = false
++++
 
 <div lang="en" class="hreview">
     <span><span class="item vcard"><span class="fn">[Locanda Locatelli](http://www.locandalocatelli.com)</span>,<span class="street-address">8 Seymour Street</span>, <span class="locality">London</span>,  <span class="postal-code">W1H 7JZ</span>, <span class="country-name">UK</span></span></span>

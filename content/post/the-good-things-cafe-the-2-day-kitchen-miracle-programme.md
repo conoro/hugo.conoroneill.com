@@ -1,11 +1,10 @@
----
-title: "The Good Things Cafe  - The 2 Day Kitchen Miracle Programme"
-slug: "the-good-things-cafe-the-2-day-kitchen-miracle-programme"
-date: "2006-05-25T22:57:17+00:00"
-tags:
-id: 352
-comment: false
----
++++
+title = "The Good Things Cafe  - The 2 Day Kitchen Miracle Programme"
+slug = "the-good-things-cafe-the-2-day-kitchen-miracle-programme"
+date = "2006-05-25T22:57:17+00:00"
+id = 352
+comment = false
++++
 
 I spent last weekend on a fabulous 2-day cookery course down in deep West Cork in [The Good Things Cafe](http://www.thegoodthingscafe.com/) in Durrus. I honestly won't be able to come up with enough superlatives to describe the fantastic programme that Carmel Somers put together. It is now Tuesday and I'm still buzzed and still full.
 

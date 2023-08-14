@@ -1,11 +1,10 @@
----
-title: "Harness Racing not just for Dublin Skangers"
-slug: "harness-racing-not-just-for-dublin-skangers"
-date: "2005-10-18T12:44:40+00:00"
-tags:
-id: 155
-comment: false
----
++++
+title = "Harness Racing not just for Dublin Skangers"
+slug = "harness-racing-not-just-for-dublin-skangers"
+date = "2005-10-18T12:44:40+00:00"
+id = 155
+comment = false
++++
 
 Two weeks ago I spotted a sign near our house for "All Ireland Harness Racing" in Barryroe, about 10 miles down towards the coast. I had missed a lot of the local events in the latter part of the summer, so I figured this might be a bit of fun for us all to check out. 
 

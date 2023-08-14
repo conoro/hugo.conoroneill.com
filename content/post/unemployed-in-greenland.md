@@ -1,11 +1,10 @@
----
-title: "Unemployed in Greenland?"
-slug: "unemployed-in-greenland"
-date: "2005-04-12T08:20:00+00:00"
-tags:
-id: 71
-comment: false
----
++++
+title = "Unemployed in Greenland?"
+slug = "unemployed-in-greenland"
+date = "2005-04-12T08:20:00+00:00"
+id = 71
+comment = false
++++
 
 I was watching The Princess Bride for the gazillionth time the other night and had forgotten how many great one liners it has. So the next few postings are all going to have completely unrelated titles from that movie.
 

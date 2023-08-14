@@ -1,11 +1,10 @@
----
-title: "Three full years a-running and my first Marathon"
-slug: "three-full-years-a-running-and-my-first-marathon"
-date: "2013-01-02T10:26:31+00:00"
-tags:
-id: 1339
-comment: false
----
++++
+title = "Three full years a-running and my first Marathon"
+slug = "three-full-years-a-running-and-my-first-marathon"
+date = "2013-01-02T10:26:31+00:00"
+id = 1339
+comment = false
++++
 
 I thought I'd have a quick peek at my running stats this morning. Last year was pretty good and I've managed to start 2013 a whole 6 lbs lighter than I started 2012\. Having said that, lots and lots of weight to be lost this year.
 

@@ -1,11 +1,10 @@
----
-title: "Bandon Music Festival June bank Holiday Weekend"
-slug: "bandon-music-festival-june-bank-holiday-weekend"
-date: "2007-05-18T09:57:17+00:00"
-tags:
-id: 567
-comment: false
----
++++
+title = "Bandon Music Festival June bank Holiday Weekend"
+slug = "bandon-music-festival-june-bank-holiday-weekend"
+date = "2007-05-18T09:57:17+00:00"
+id = 567
+comment = false
++++
 
 Get yer dancing shoes on because they really do have a line-up to suit everyone this year.
 

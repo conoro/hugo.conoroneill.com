@@ -1,11 +1,10 @@
----
-title: "Retro Fans Rejoice"
-slug: "retro-fans-rejoice"
-date: "2008-04-27T08:41:58+00:00"
-tags:
-id: 657
-comment: false
----
++++
+title = "Retro Fans Rejoice"
+slug = "retro-fans-rejoice"
+date = "2008-04-27T08:41:58+00:00"
+id = 657
+comment = false
++++
 
 I just heard about this site yesterday and it's absolutely wonderful. They have a ton of the old ZX Spectrum games available to play online and your scores are included in various league tables. A perfect 21st Century improvement to 20th Century games.
 

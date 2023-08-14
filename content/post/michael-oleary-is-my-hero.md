@@ -1,11 +1,10 @@
----
-title: "Michael O'Leary is my hero"
-slug: "michael-oleary-is-my-hero"
-date: "2009-10-12T12:23:03+00:00"
-tags:
-id: 963
-comment: false
----
++++
+title = "Michael O'Leary is my hero"
+slug = "michael-oleary-is-my-hero"
+date = "2009-10-12T12:23:03+00:00"
+id = 963
+comment = false
++++
 
 Just watch him [take apart this Panorama interviewer](http://news.bbc.co.uk/panorama/hi/front_page/newsid_8298000/8298750.stm). It'll be impossible for me to take the show on the BBC tonight seriously.
 

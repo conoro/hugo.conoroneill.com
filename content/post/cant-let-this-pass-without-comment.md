@@ -1,11 +1,10 @@
----
-title: "Can't let this pass without comment"
-slug: "cant-let-this-pass-without-comment"
-date: "2006-03-03T13:45:56+00:00"
-tags:
-id: 268
-comment: false
----
++++
+title = "Can't let this pass without comment"
+slug = "cant-let-this-pass-without-comment"
+date = "2006-03-03T13:45:56+00:00"
+id = 268
+comment = false
++++
 
 [PXN8 ](http://www.pxn8.com/)creator and [Sxoop ](http://www.sxoop.com/)founder Walter "not Wally" Higgins is [interviewed over at eHub](http://www.emilychang.com/go/ehub/interview/pxn8/).
 

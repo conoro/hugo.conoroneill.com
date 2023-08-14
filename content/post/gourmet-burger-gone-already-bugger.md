@@ -1,11 +1,10 @@
----
-title: "Gourmet Burger gone already! Bugger."
-slug: "gourmet-burger-gone-already-bugger"
-date: "2007-02-13T21:31:01+00:00"
-tags:
-id: 485
-comment: false
----
++++
+title = "Gourmet Burger gone already! Bugger."
+slug = "gourmet-burger-gone-already-bugger"
+date = "2007-02-13T21:31:01+00:00"
+id = 485
+comment = false
++++
 
 Ah crap. [JD posted a comment here](http://conoroneill.com/2006/06/18/marmatiece-restaurant-bandon/#comment-34601) earlier letting me know that he went to Gourmet Burger in Portlaoise the other day and they have already closed down to concentrate on their Dublin business. I'm so pissed off about this. I don't think it is lack of market in this case, but lack of marketing. How many thousand cars go up and down the N7 and N8 every day? I never once saw an ad for them. I did see some attempt at putting a truck trailer on the side of the road at Christmas with ads for the overall Food Court but that's it. People do need to know you exist before they'll try your business.
 

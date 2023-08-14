@@ -1,11 +1,10 @@
----
-title: "Example of a Structured Blogging People Showcase"
-slug: "example-of-a-structured-blogging-people-showcase"
-date: "2006-03-18T20:08:35+00:00"
-tags:
-id: 288
-comment: false
----
++++
+title = "Example of a Structured Blogging People Showcase"
+slug = "example-of-a-structured-blogging-people-showcase"
+date = "2006-03-18T20:08:35+00:00"
+id = 288
+comment = false
++++
 
   <div class='vcard'>   
 

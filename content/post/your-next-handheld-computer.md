@@ -1,11 +1,10 @@
----
-title: "Your Next Handheld Computer?"
-slug: "your-next-handheld-computer"
-date: "2009-12-10T08:54:05+00:00"
-tags:
-id: 1002
-comment: false
----
++++
+title = "Your Next Handheld Computer?"
+slug = "your-next-handheld-computer"
+date = "2009-12-10T08:54:05+00:00"
+id = 1002
+comment = false
++++
 
 Fantastic mix of features in the [PsiXpda](http://www.psixpda.com/content/psixpda-pocket-computer). For those who loved Psions, this will suit you. For those who work in the corporate world, your IT department will love it, as it runs XP!
 

@@ -1,11 +1,10 @@
----
-title: "Burgertastic"
-slug: "burgertastic"
-date: "2005-06-29T08:33:00+00:00"
-tags:
-id: 97
-comment: false
----
++++
+title = "Burgertastic"
+slug = "burgertastic"
+date = "2005-06-29T08:33:00+00:00"
+id = 97
+comment = false
++++
 
 Burger Blogs seem to be appearing everywhere but this guy [Two-Twenty](http://www.two-twenty.net/archives/000378.html) is an animal!
 

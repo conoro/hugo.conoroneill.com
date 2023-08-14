@@ -1,11 +1,10 @@
----
-title: "I'm glad I'm a bloke"
-slug: "im-glad-im-a-bloke"
-date: "2005-07-06T08:27:02+00:00"
-tags:
-id: 128
-comment: false
----
++++
+title = "I'm glad I'm a bloke"
+slug = "im-glad-im-a-bloke"
+date = "2005-07-06T08:27:02+00:00"
+id = 128
+comment = false
++++
 
 We are now 23 hours and 35 minutes away from Catherine being induced in the Bons. We still haven't figured out if it is inducement or induction and we are having last minute hesitations about the name we have picked for him. We had decided on Cavan O'Neill but my mother objected and thought we should compromise on Navan O'Neill. 
 

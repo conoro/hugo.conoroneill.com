@@ -1,11 +1,10 @@
----
-title: "There is something you don't know.  I am not left-handed"
-slug: "there-is-something-you-dont-know-i-am-not-left-handed"
-date: "2005-04-15T08:09:00+00:00"
-tags:
-id: 68
-comment: false
----
++++
+title = "There is something you don't know.  I am not left-handed"
+slug = "there-is-something-you-dont-know-i-am-not-left-handed"
+date = "2005-04-15T08:09:00+00:00"
+id = 68
+comment = false
++++
 
 Finally got around to collecting together the list of other bits of software I use (mainly at home). But first off, I should be given a thorough thrashing for not including XEmacs in the first list.
 

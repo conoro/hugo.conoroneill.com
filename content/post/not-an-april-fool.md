@@ -1,11 +1,10 @@
----
-title: "Not an April Fool"
-slug: "not-an-april-fool"
-date: "2005-05-11T11:08:57+00:00"
-tags:
-id: 90
-comment: false
----
++++
+title = "Not an April Fool"
+slug = "not-an-april-fool"
+date = "2005-05-11T11:08:57+00:00"
+id = 90
+comment = false
++++
 
 From yesterday's ElectricNews:
 

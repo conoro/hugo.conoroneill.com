@@ -1,11 +1,10 @@
----
-title: "The Hackney Hardman is back"
-slug: "the-hackney-hardman-is-back"
-date: "2006-02-23T08:31:13+00:00"
-tags:
-id: 261
-comment: false
----
++++
+title = "The Hackney Hardman is back"
+slug = "the-hackney-hardman-is-back"
+date = "2006-02-23T08:31:13+00:00"
+id = 261
+comment = false
++++
 
 It's been a long wait but the man who put the AMS is Amstrad is back on our screens, hurrah! And what a bag of spanners he has collected for this series;
 

@@ -1,11 +1,10 @@
----
-title: "Hey Dad, that's the same ugly fish as last week"
-slug: "hey-dad-thats-the-same-ugly-fish-as-last-week"
-date: "2005-12-04T22:23:21+00:00"
-tags:
-id: 190
-comment: false
----
++++
+title = "Hey Dad, that's the same ugly fish as last week"
+slug = "hey-dad-thats-the-same-ugly-fish-as-last-week"
+date = "2005-12-04T22:23:21+00:00"
+id = 190
+comment = false
++++
 
 I have a wee bee in my bonnet about how difficult it is to get good fresh fish in the "greater Bandon area". When we moved down here, I thought I would have fish coming out of my ears (as opposed to sleeping with the fishes). But it was the complete opposite. 
 

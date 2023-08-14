@@ -1,11 +1,10 @@
----
-title: "The Your Sinclair Rock n Roll Years 1985 now available"
-slug: "the-your-sinclair-rock-n-roll-years-1985-now-available"
-date: "2005-12-15T23:09:41+00:00"
-tags:
-id: 201
-comment: false
----
++++
+title = "The Your Sinclair Rock n Roll Years 1985 now available"
+slug = "the-your-sinclair-rock-n-roll-years-1985-now-available"
+date = "2005-12-15T23:09:41+00:00"
+id = 201
+comment = false
++++
 
 Unless the name Matthew Smith means something to you and you get a wee tingle when the words "Manic Miner" are uttered, then you are probably not interested in the rest of this post.
 

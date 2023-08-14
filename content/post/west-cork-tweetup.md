@@ -1,11 +1,10 @@
----
-title: "West Cork Tweetup"
-slug: "west-cork-tweetup"
-date: "2009-03-24T13:31:12+00:00"
-tags:
-id: 836
-comment: false
----
++++
+title = "West Cork Tweetup"
+slug = "west-cork-tweetup"
+date = "2009-03-24T13:31:12+00:00"
+id = 836
+comment = false
++++
 
 If you had never heard of [Twitter](http://twitter.com/conoro) before, the relentless coverage of it on RTE and elsewhere recently must surely have changed that. It's a simple system for messaging people who follow you but in a completely public way. You can pick whose messages you see by default too. Here's a quick snapshot of those I follow:
 ![twitter_snap](https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2009/03/twitter_snap.jpg "twitter_snap")

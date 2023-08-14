@@ -1,11 +1,10 @@
----
-title: "Review of The Old Post Inn"
-slug: "review-of-the-old-post-inn"
-date: "2007-03-21T08:51:27+00:00"
-tags:
-id: 511
-comment: false
----
++++
+title = "Review of The Old Post Inn"
+slug = "review-of-the-old-post-inn"
+date = "2007-03-21T08:51:27+00:00"
+id = 511
+comment = false
++++
 
 <div lang="en" class="hreview">
 

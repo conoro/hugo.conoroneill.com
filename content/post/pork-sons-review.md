@@ -1,11 +1,10 @@
----
-title: "Pork and Sons Review"
-slug: "pork-sons-review"
-date: "2009-01-11T13:10:54+00:00"
-tags:
-id: 798
-comment: false
----
++++
+title = "Pork and Sons Review"
+slug = "pork-sons-review"
+date = "2009-01-11T13:10:54+00:00"
+id = 798
+comment = false
++++
 
 I was given this lovely book for Christmas 2007 and finally finished it last month. What initially appears to be a coffee-table resident turned out to be one of the best books on food I've ever read.
 

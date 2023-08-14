@@ -1,11 +1,10 @@
----
-title: "Science Week: Invention which helps work"
-slug: "science-week-invention-which-helps-work"
-date: "2007-11-16T11:48:42+00:00"
-tags:
-id: 617
-comment: false
----
++++
+title = "Science Week: Invention which helps work"
+slug = "science-week-invention-which-helps-work"
+date = "2007-11-16T11:48:42+00:00"
+id = 617
+comment = false
++++
 
 Today's [Science Week](http://www.scienceweek.ie/) Question is an easy one "**Which invention has helped you most with your working life?**". Of course it is the internet. The highlights of my history with it are as follows:
 

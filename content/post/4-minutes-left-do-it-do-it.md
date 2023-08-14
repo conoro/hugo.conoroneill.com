@@ -1,11 +1,10 @@
----
-title: "4 minutes left - Do it DO IT"
-slug: "4-minutes-left-do-it-do-it"
-date: "2007-02-16T16:57:13+00:00"
-tags:
-id: 494
-comment: false
----
++++
+title = "4 minutes left - Do it DO IT"
+slug = "4-minutes-left-do-it-do-it"
+date = "2007-02-16T16:57:13+00:00"
+id = 494
+comment = false
++++
 
 You'll hate yourself in the morning if you don't.
 

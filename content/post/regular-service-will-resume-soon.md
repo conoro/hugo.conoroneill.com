@@ -1,11 +1,10 @@
----
-title: "Regular Service will resume soon"
-slug: "regular-service-will-resume-soon"
-date: "2008-10-23T12:07:19+00:00"
-tags:
-id: 749
-comment: false
----
++++
+title = "Regular Service will resume soon"
+slug = "regular-service-will-resume-soon"
+date = "2008-10-23T12:07:19+00:00"
+id = 749
+comment = false
++++
 
 I have no excuse for the lack of posting here other than the usual busy-ness of life. I'll get back into writing mode very soon. Lots of blogposts and book reviews in my head, I just need to get them out through my fingers.
 

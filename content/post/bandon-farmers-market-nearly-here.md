@@ -1,11 +1,10 @@
----
-title: "Bandon Farmer's Market nearly here"
-slug: "bandon-farmers-market-nearly-here"
-date: "2006-03-28T09:00:20+00:00"
-tags:
-id: 272
-comment: false
----
++++
+title = "Bandon Farmer's Market nearly here"
+slug = "bandon-farmers-market-nearly-here"
+date = "2006-03-28T09:00:20+00:00"
+id = 272
+comment = false
++++
 
   <div class='vevent x-wpsb-simple-event'>       
 

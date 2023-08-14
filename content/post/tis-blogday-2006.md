@@ -1,11 +1,10 @@
----
-title: "Tis Blogday 2006"
-slug: "tis-blogday-2006"
-date: "2006-08-31T09:44:16+00:00"
-tags:
-id: 409
-comment: false
----
++++
+title = "Tis Blogday 2006"
+slug = "tis-blogday-2006"
+date = "2006-08-31T09:44:16+00:00"
+id = 409
+comment = false
++++
 
 So we're all supposed to post&nbsp;links to 5 blogs we haven't mentioned before. Here are my blogtastic links:
 
@@ -31,4 +30,4 @@ Effing brilliant spoof.
 
 &nbsp;
 
-tags: [Blogday](http://technorati.com/tag/Blogday), [Blogday+2006](http://technorati.com/tag/Blogday+2006)
+tags = [Blogday](http://technorati.com/tag/Blogday), [Blogday+2006](http://technorati.com/tag/Blogday+2006)

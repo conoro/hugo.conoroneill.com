@@ -1,11 +1,10 @@
----
-title: "Cast Your Vote over on boards.ie"
-slug: "cast-your-vote-over-on-boards-ie"
-date: "2011-02-16T13:31:45+00:00"
-tags:
-id: 1170
-comment: false
----
++++
+title = "Cast Your Vote over on boards.ie"
+slug = "cast-your-vote-over-on-boards-ie"
+date = "2011-02-16T13:31:45+00:00"
+id = 1170
+comment = false
++++
 
 I love the mock election thing they are running over on [boards.ie](http://www.boards.ie/vote/). Basically you can input your voting preferences for your constituency and see what the patterns are like already. Cork South West has only had 142 votes so far and it'd be great to see more to get a better sample set. It would be also good to get as wide a demographic as possible voting rather than the usual boards.ie users.
 

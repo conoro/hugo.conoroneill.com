@@ -1,11 +1,10 @@
----
-title: "Try voting for informed people"
-slug: "try-voting-for-informed-people"
-date: "2007-04-10T14:24:14+00:00"
-tags:
-id: 543
-comment: false
----
++++
+title = "Try voting for informed people"
+slug = "try-voting-for-informed-people"
+date = "2007-04-10T14:24:14+00:00"
+id = 543
+comment = false
++++
 
 [Justin has done a great post](http://taint.org/2007/04/10/134819a.html) on Patricia McKenna of the Green Party trying to justify non-vaccination of children on The Last Word radio show. The transcript shows what Cooper is capable of when he puts his mind to it. He slays the idiot and her nonsense. 
 

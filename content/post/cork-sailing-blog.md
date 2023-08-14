@@ -1,11 +1,10 @@
----
-title: "Cork Sailing Blog"
-slug: "cork-sailing-blog"
-date: "2007-11-16T16:02:42+00:00"
-tags:
-id: 618
-comment: false
----
++++
+title = "Cork Sailing Blog"
+slug = "cork-sailing-blog"
+date = "2007-11-16T16:02:42+00:00"
+id = 618
+comment = false
++++
 
 We went on our summer holidays to Barley Cove for 11 years in a row as kids. On several of those years we went to Garnish Island via Glengarrif. That was as far as I ever got on the Beara peninsula until last week when I visited Adrigole. I honestly can't put into words how beautiful it is down there. If I was American I'd call it God's country. Perfect views on a perfect day made me want to immediately retire and move there.
 

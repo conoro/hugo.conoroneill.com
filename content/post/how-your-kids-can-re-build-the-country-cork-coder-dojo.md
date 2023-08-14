@@ -1,11 +1,10 @@
----
-title: "How Your Kids Can Re-Build The Country - Cork Coder Dojo"
-slug: "how-your-kids-can-re-build-the-country-cork-coder-dojo"
-date: "2011-07-24T16:58:21+00:00"
-tags:
-id: 1205
-comment: false
----
++++
+title = "How Your Kids Can Re-Build The Country - Cork Coder Dojo"
+slug = "how-your-kids-can-re-build-the-country-cork-coder-dojo"
+date = "2011-07-24T16:58:21+00:00"
+id = 1205
+comment = false
++++
 
 Ireland has more than enough Corporate Lawyers, Audit Accountants, Bankers and Civil Servants. What it needs are creative people building products, services and businesses. That doesn't necessarily mean every kid in Ireland should be doing Science or Engineering but lord, would more of you please do those subjects.
 

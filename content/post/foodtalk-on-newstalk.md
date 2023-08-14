@@ -1,11 +1,10 @@
----
-title: "Foodtalk on Newstalk"
-slug: "foodtalk-on-newstalk"
-date: "2009-01-07T13:55:30+00:00"
-tags:
-id: 783
-comment: false
----
++++
+title = "Foodtalk on Newstalk"
+slug = "foodtalk-on-newstalk"
+date = "2009-01-07T13:55:30+00:00"
+id = 783
+comment = false
++++
 
 I just got a mail from the lovely people in [The Good Things Cafe](http://www.thegoodthingscafe.com/) in Durrus to tell me that the awesome Carmel was on the [Foodtalk](http://newstalk.ie/newstalk/programmes/37/foodtalk.html) programme on [Newstalk Radio](http://newstalk.ie/).
 

@@ -1,11 +1,10 @@
----
-title: "I swear, the queues of screaming fans were out the door of Roches Stores Cork"
-slug: "i-swear-the-queues-of-screaming-fans-were-out-the-door-of-roches-stores-cork"
-date: "2006-03-24T15:06:28+00:00"
-tags:
-id: 300
-comment: false
----
++++
+title = "I swear, the queues of screaming fans were out the door of Roches Stores Cork"
+slug = "i-swear-the-queues-of-screaming-fans-were-out-the-door-of-roches-stores-cork"
+date = "2006-03-24T15:06:28+00:00"
+id = 300
+comment = false
++++
 
 "What's that you're wearing?"
 

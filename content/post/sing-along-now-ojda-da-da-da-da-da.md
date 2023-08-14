@@ -1,11 +1,10 @@
----
-title: "Sing along now  Oj,da da da da da da "
-slug: "sing-along-now-ojda-da-da-da-da-da"
-date: "2006-05-20T20:42:24+00:00"
-tags:
-id: 351
-comment: false
----
++++
+title = "Sing along now  Oj,da da da da da da "
+slug = "sing-along-now-ojda-da-da-da-da-da"
+date = "2006-05-20T20:42:24+00:00"
+id = 351
+comment = false
++++
 
 Technology in the wrong hands is dangerous. I just turned on the "Sing Along" feature on the Sky+ Box for the Croatian Eurovision entry. The first translation was  "the grass has not yet sprouted". I'm guessing their entry came from the Croatian version of Teagasc.
 

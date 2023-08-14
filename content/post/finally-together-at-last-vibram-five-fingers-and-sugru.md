@@ -1,11 +1,10 @@
----
-title: "Finally, together at last, Vibram Five Fingers and Sugru"
-slug: "finally-together-at-last-vibram-five-fingers-and-sugru"
-date: "2012-08-31T15:15:03+00:00"
-tags:
-id: 1321
-comment: false
----
++++
+title = "Finally, together at last, Vibram Five Fingers and Sugru"
+slug = "finally-together-at-last-vibram-five-fingers-and-sugru"
+date = "2012-08-31T15:15:03+00:00"
+id = 1321
+comment = false
++++
 
 My two favourite products working together to make me run like the wind (*cough*).
 

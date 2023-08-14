@@ -1,11 +1,10 @@
----
-title: "Engage Arts Festival this weekend"
-slug: "engage-arts-festival-this-weekend"
-date: "2009-09-21T22:38:53+00:00"
-tags:
-id: 946
-comment: false
----
++++
+title = "Engage Arts Festival this weekend"
+slug = "engage-arts-festival-this-weekend"
+date = "2009-09-21T22:38:53+00:00"
+id = 946
+comment = false
++++
 
 The second year of the Engage Arts festival is fast approaching and it looks fantastic. Something for everyone, no matter what their interests or age.
 

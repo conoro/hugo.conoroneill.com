@@ -1,11 +1,10 @@
----
-title: "Philips USB Speaker Hell means Cisco becomes the Google of my living room?"
-slug: "philips-usb-speaker-hell-means-cisco-become-the-google-of-my-living-room"
-date: "2005-11-18T21:25:50+00:00"
-tags:
-id: 183
-comment: false
----
++++
+title = "Philips USB Speaker Hell means Cisco becomes the Google of my living room?"
+slug = "philips-usb-speaker-hell-means-cisco-become-the-google-of-my-living-room"
+date = "2005-11-18T21:25:50+00:00"
+id = 183
+comment = false
++++
 
 The speakers on the Acer Laptop are a bit puny, particularly for playing DVDs. Unfortunately, the machine does not have a line out, so I decided to get a pair of USB speakers. I didn't need anything particularly special and they had to be just a bog-standard stereo pair due to lack of space. A bit of browsing on Dabs brought up the[ Philips DGX220 Speakers](http://www.dabs.com/ProductView.aspx?QuickLinx=3H8N) at a nice n cheap &pound;23\. 
 I received them a few weeks back and was happy to discover that they need no special drivers - XP just handles them out of the box.

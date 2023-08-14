@@ -1,11 +1,10 @@
----
-title: "GoEat.ie  -  anyone else checked it out?"
-slug: "goeatie-anyone-else-checked-it-out"
-date: "2006-03-21T09:57:27+00:00"
-tags:
-id: 294
-comment: false
----
++++
+title = "GoEat.ie  -  anyone else checked it out?"
+slug = "goeatie-anyone-else-checked-it-out"
+date = "2006-03-21T09:57:27+00:00"
+id = 294
+comment = false
++++
 
 I discovered [goeat.ie](http://www.goeat.ie/) recently and have been looking around the site. Overall it seems well designed and they have the usual bunch of reviews and competitions and recipes that you would expect on any food site.
 

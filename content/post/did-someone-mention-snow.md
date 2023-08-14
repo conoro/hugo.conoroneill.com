@@ -1,11 +1,10 @@
----
-title: "Did someone mention snow?"
-slug: "did-someone-mention-snow"
-date: "2006-03-05T16:36:19+00:00"
-tags:
-id: 269
-comment: false
----
++++
+title = "Did someone mention snow?"
+slug = "did-someone-mention-snow"
+date = "2006-03-05T16:36:19+00:00"
+id = 269
+comment = false
++++
 
 In case I needed any reminding of how much our quality of life has improved since moving to Cork after 17 years in Dublin.
 

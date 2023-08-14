@@ -1,11 +1,10 @@
----
-title: "Two Upcoming weddings"
-slug: "two-upcoming-weddings"
-date: "2004-12-16T08:31:30+00:00"
-tags:
-id: 26
-comment: false
----
++++
+title = "Two Upcoming weddings"
+slug = "two-upcoming-weddings"
+date = "2004-12-16T08:31:30+00:00"
+id = 26
+comment = false
++++
 
 We're thrilled to hear that both Ciarán O'Colmáin and Ethna Winter are getting married (Ciarán in February and Ethna in January) Not many left to go now from the UCD Eng class of '90.......
 Ethna is having her celebrations in Tattersalls near Fairyhouse which is about 2 miles from where I lived until I was 6 years old. Great place.

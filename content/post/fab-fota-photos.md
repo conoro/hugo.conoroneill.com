@@ -1,11 +1,10 @@
----
-title: "Fab Fota Photos"
-slug: "fab-fota-photos"
-date: "2006-08-12T09:45:33+00:00"
-tags:
-id: 393
-comment: false
----
++++
+title = "Fab Fota Photos"
+slug = "fab-fota-photos"
+date = "2006-08-12T09:45:33+00:00"
+id = 393
+comment = false
++++
 
 Catherine took the darlings to [Fota Wildlife Park](http://www.fotawildlife.ie/) two weeks ago. They loved every minute. Highly recommended for a day out.
 

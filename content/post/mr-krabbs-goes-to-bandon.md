@@ -1,11 +1,10 @@
----
-title: "Mr Krabbs goes to Bandon"
-slug: "mr-krabbs-goes-to-bandon"
-date: "2006-02-19T16:58:46+00:00"
-tags:
-id: 235
-comment: false
----
++++
+title = "Mr Krabbs goes to Bandon"
+slug = "mr-krabbs-goes-to-bandon"
+date = "2006-02-19T16:58:46+00:00"
+id = 235
+comment = false
++++
 
 Only two months later I get around to blogging our Spider Crab adventure from a few weeks before Christmas. We got a massive one for a few euro in Antcar in Union Hall. At this stage Oisín is totally cool with crustaceans, poor Sibéal was a bit shocked when I arrived back to the car with it.
 

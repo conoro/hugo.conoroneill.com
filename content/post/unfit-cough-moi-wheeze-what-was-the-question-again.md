@@ -1,11 +1,10 @@
----
-title: "Unfit, cough, moi? Wheeze.  What was the question again?"
-slug: "unfit-cough-moi-wheeze-what-was-the-question-again"
-date: "2005-11-04T06:40:27+00:00"
-tags:
-id: 168
-comment: false
----
++++
+title = "Unfit, cough, moi? Wheeze.  What was the question again?"
+slug = "unfit-cough-moi-wheeze-what-was-the-question-again"
+date = "2005-11-04T06:40:27+00:00"
+id = 168
+comment = false
++++
 
 The war on weight continues and I am debating whether to start a weekly post on the Bloggers Belly Bulkometer. Half a stone in a week is not bad going. Those couple of bottles of wine and cans of Becks each week were obviously contributing _slightly _to the inexorable move towards Rick Waller territory.
 

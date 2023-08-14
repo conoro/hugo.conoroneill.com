@@ -1,11 +1,10 @@
----
-title: "Diary of A Virgin Semi-Veggie, Part 1"
-slug: "diary-of-a-virgin-semi-veggie-part-1"
-date: "2012-02-08T22:18:40+00:00"
-tags:
-id: 1262
-comment: false
----
++++
+title = "Diary of A Virgin Semi-Veggie, Part 1"
+slug = "diary-of-a-virgin-semi-veggie-part-1"
+date = "2012-02-08T22:18:40+00:00"
+id = 1262
+comment = false
++++
 
 A few weeks ago I had coffee with Haydn in Urru, Bandon and we spent a good while talking about food and health. He mentioned a book called The China Study which made a very strong scientific case for a plant based diet as a way of dealing with many ailments including heart disease.
 

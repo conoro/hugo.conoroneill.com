@@ -1,11 +1,10 @@
----
-title: "Irish Blog Awards open for Nominations"
-slug: "irish-blog-awards-open-for-nominations"
-date: "2007-01-12T08:40:39+00:00"
-tags:
-id: 467
-comment: false
----
++++
+title = "Irish Blog Awards open for Nominations"
+slug = "irish-blog-awards-open-for-nominations"
+date = "2007-01-12T08:40:39+00:00"
+id = 467
+comment = false
++++
 
 I'm gutted, no "Best Vasectomy Blog"!
 

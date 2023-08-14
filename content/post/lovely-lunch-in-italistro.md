@@ -1,11 +1,10 @@
----
-title: "Lovely lunch in Italistro"
-slug: "lovely-lunch-in-italistro"
-date: "2008-05-28T16:23:04+00:00"
-tags:
-id: 661
-comment: false
----
++++
+title = "Lovely lunch in Italistro"
+slug = "lovely-lunch-in-italistro"
+date = "2008-05-28T16:23:04+00:00"
+id = 661
+comment = false
++++
 
 Thrilled to find a nice new local place with good tasty well-priced unpretentious food which I think will suit our family perfectly. I've also heard good things from several others.
 

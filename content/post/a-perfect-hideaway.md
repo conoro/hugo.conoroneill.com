@@ -1,11 +1,10 @@
----
-title: "A perfect Hideaway"
-slug: "a-perfect-hideaway"
-date: "2008-06-10T10:15:30+00:00"
-tags:
-id: 667
-comment: false
----
++++
+title = "A perfect Hideaway"
+slug = "a-perfect-hideaway"
+date = "2008-06-10T10:15:30+00:00"
+id = 667
+comment = false
++++
 
 Christine and Dermot Gannon have created a flawless hideaway experience in the Tipperary countryside. Our short one night stay turned out to be one of my most enjoyable travel experiences ever.
 

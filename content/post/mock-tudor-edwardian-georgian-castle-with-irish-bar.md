@@ -1,11 +1,10 @@
----
-title: "Mock-Tudor Edwardian Georgian Castle with Irish Bar"
-slug: "mock-tudor-edwardian-georgian-castle-with-irish-bar"
-date: "2005-05-17T08:51:22+00:00"
-tags:
-id: 86
-comment: false
----
++++
+title = "Mock-Tudor Edwardian Georgian Castle with Irish Bar"
+slug = "mock-tudor-edwardian-georgian-castle-with-irish-bar"
+date = "2005-05-17T08:51:22+00:00"
+id = 86
+comment = false
++++
 
 Ah yes, those Sheraton folks in Massachusetts really know their architecture. Our hotel was only bettered by the one we drove under which straddled the Massachusetts Turnpike. I've always wanted a room with cars whizzing past 20 feet under my floor.
 

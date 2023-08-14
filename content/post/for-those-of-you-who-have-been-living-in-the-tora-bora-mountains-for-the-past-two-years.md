@@ -1,11 +1,10 @@
----
-title: "For those of you who have been living in the tora-bora mountains for the past two years"
-slug: "for-those-of-you-who-have-been-living-in-the-tora-bora-mountains-for-the-past-two-years"
-date: "2005-11-17T07:53:56+00:00"
-tags:
-id: 177
-comment: false
----
++++
+title = "For those of you who have been living in the tora-bora mountains for the past two years"
+slug = "for-those-of-you-who-have-been-living-in-the-tora-bora-mountains-for-the-past-two-years"
+date = "2005-11-17T07:53:56+00:00"
+id = 177
+comment = false
++++
 
 And have never heard of Langerland, get yerself over to [www.langerland.com](http://www.langerland.com) and watch their [latest cartoon](http://www.langerland.com/content/view/57/59/).
 

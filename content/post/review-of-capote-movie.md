@@ -1,11 +1,10 @@
----
-title: "Review of Capote (Movie)"
-slug: "review-of-capote-movie"
-date: "2007-05-07T13:52:28+00:00"
-tags:
-id: 565
-comment: false
----
++++
+title = "Review of Capote (Movie)"
+slug = "review-of-capote-movie"
+date = "2007-05-07T13:52:28+00:00"
+id = 565
+comment = false
++++
 
 <div lang="en" class="hreview">
 

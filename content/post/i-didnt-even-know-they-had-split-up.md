@@ -1,11 +1,10 @@
----
-title: "I didn't even know they had split up"
-slug: "i-didnt-even-know-they-had-split-up"
-date: "2007-01-25T10:01:57+00:00"
-tags:
-id: 472
-comment: false
----
++++
+title = "I didn't even know they had split up"
+slug = "i-didnt-even-know-they-had-split-up"
+date = "2007-01-25T10:01:57+00:00"
+id = 472
+comment = false
++++
 
 Just spotted [on the BBC](http://news.bbc.co.uk/2/hi/entertainment/6296199.stm) that [The Jesus and Mary Chain](http://en.wikipedia.org/wiki/The_Jesus_and_Mary_Chain) are re-forming to do some festival. I bloody loved that band. [Psychocandy](http://en.wikipedia.org/wiki/Psychocandy) is in my top ten albums of all time. I remember playing it to my friends in 1985 and they all laughed at me. "But it's just noise Conor". "Wait, just wait, you'll see. This is genius".
 

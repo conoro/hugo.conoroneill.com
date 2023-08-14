@@ -1,11 +1,10 @@
----
-title: "SOHO SOLO Ireland"
-slug: "soho-solo-ireland"
-date: "2007-07-25T15:55:43+00:00"
-tags:
-id: 588
-comment: false
----
++++
+title = "SOHO SOLO Ireland"
+slug = "soho-solo-ireland"
+date = "2007-07-25T15:55:43+00:00"
+id = 588
+comment = false
++++
 
 I gave a talk today about blogging to the West Cork [Soho Solo](http://www.sohosoloireland.com/) Networking Meeting in Clonakilty. I previous gave the same one to the East Cork group. It was very well received and I hope we see a few new blogs coming from them. If you are not aware of Soho Solo, it is a very worthwhile project. As their site says:
 

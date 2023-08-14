@@ -1,11 +1,10 @@
----
-title: "Engage - Arts Festival Bandon"
-slug: "engage-arts-festival-bandon"
-date: "2008-09-21T11:15:35+00:00"
-tags:
-id: 739
-comment: false
----
++++
+title = "Engage - Arts Festival Bandon"
+slug = "engage-arts-festival-bandon"
+date = "2008-09-21T11:15:35+00:00"
+id = 739
+comment = false
++++
 
 For some reason I completely missed that this was coming. Thanks to Mary Wedel for letting me know. From Fri 26th to Sun 28th September, we're having an Arts Festival in Bandon. Things were actually kicked off on Thursday with the CruX Dance Company in the Town Hall. There will also be an exhibition of local artists in the Miriam Bailey Gallery from Wed 24th.
 <p style="text-align: center;">[![engage2](http://photos5.pix.ie/40/98/40987DB468F84C74A6B086F231744DCD-240.jpg)](http://pix.ie/conor/682431 "engage2 by conor")

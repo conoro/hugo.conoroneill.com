@@ -1,11 +1,10 @@
----
-title: "Reminder - Bandon Farmer's Market"
-slug: "reminder-bandon-farmers-market"
-date: "2006-04-14T22:24:46+00:00"
-tags:
-id: 326
-comment: false
----
++++
+title = "Reminder - Bandon Farmer's Market"
+slug = "reminder-bandon-farmers-market"
+date = "2006-04-14T22:24:46+00:00"
+id = 326
+comment = false
++++
 
   <div class='vevent x-wpsb-simple-event'>       
 

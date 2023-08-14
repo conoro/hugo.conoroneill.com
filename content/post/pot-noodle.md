@@ -1,11 +1,10 @@
----
-title: "Pot Noodle"
-slug: "pot-noodle"
-date: "2005-04-21T12:38:00+00:00"
-tags:
-id: 63
-comment: false
----
++++
+title = "Pot Noodle"
+slug = "pot-noodle"
+date = "2005-04-21T12:38:00+00:00"
+id = 63
+comment = false
++++
 
 No more Princess Bride quotes I'm afraid.
 

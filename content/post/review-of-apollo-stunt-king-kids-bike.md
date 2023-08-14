@@ -1,11 +1,10 @@
----
-title: "Review of Apollo Stunt King Kid's Bike"
-slug: "review-of-apollo-stunt-king-kids-bike"
-date: "2007-07-05T13:42:13+00:00"
-tags:
-id: 581
-comment: false
----
++++
+title = "Review of Apollo Stunt King Kid's Bike"
+slug = "review-of-apollo-stunt-king-kids-bike"
+date = "2007-07-05T13:42:13+00:00"
+id = 581
+comment = false
++++
 
 <div lang="en" class="hreview">
     <div>

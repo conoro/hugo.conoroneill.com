@@ -1,11 +1,10 @@
----
-title: "Deep thinking on Energy Demand vs Supply"
-slug: "deep-thinking-on-energy-demand-vs-supply"
-date: "2008-07-24T16:17:37+00:00"
-tags:
-id: 684
-comment: false
----
++++
+title = "Deep thinking on Energy Demand vs Supply"
+slug = "deep-thinking-on-energy-demand-vs-supply"
+date = "2008-07-24T16:17:37+00:00"
+id = 684
+comment = false
++++
 
 I've been talking quite a bit recently to Phoebe Bright who is based down in Drinagh. She wears many hats but is incredibly passionate and knowledgeable about energy.
 

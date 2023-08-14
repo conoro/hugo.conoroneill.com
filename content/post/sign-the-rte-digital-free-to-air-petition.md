@@ -1,11 +1,10 @@
----
-title: "Sign the RTE Digital Free-to-Air Petition"
-slug: "sign-the-rte-digital-free-to-air-petition"
-date: "2007-04-22T13:49:49+00:00"
-tags:
-id: 552
-comment: false
----
++++
+title = "Sign the RTE Digital Free-to-Air Petition"
+slug = "sign-the-rte-digital-free-to-air-petition"
+date = "2007-04-22T13:49:49+00:00"
+id = 552
+comment = false
++++
 
 As a lot of you know, you can get a Digital version of RTÉ (including Widescreen) on Sky Digital and NTL. However you must have a Sky/NTL subscription to see it. Many people, including myself, believe this is fundamentally wrong as we already support RTÉ through the mandatory TV licence. 
 

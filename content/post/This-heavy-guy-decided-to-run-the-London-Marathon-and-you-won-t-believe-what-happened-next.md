@@ -1,9 +1,8 @@
----
-title: "This heavy guy decided to run the London Marathon and you won't believe what happened next."
-slug: "this-heavy-guy-decided-to-run-the-london-marathon-and-you-won-t-believe-what-happened-next"
-date: "2015-05-03T19:03:41+00:00"
-tags:
----
++++
+title = "This heavy guy decided to run the London Marathon and you won't believe what happened next."
+slug = "this-heavy-guy-decided-to-run-the-london-marathon-and-you-won-t-believe-what-happened-next"
+date = "2015-05-03T19:03:41+00:00"
++++
 I figured it was either that title or "5 ways you can run the London Marathon without even trying" ;-)
 
 If you'd told me in 2008 that I'd ever run a 10k, I'd have laughed at you. If you'd told me in 2009 that I'd ever run a half marathon, I'd have laughed at you. If you'd told me in 2011 that I'd ever run a marathon, I'd have laughed at you. If you'd told me in 2014 that I'd ever run two marathons in 5 weeks, I'd have laughed at you. You get my point.

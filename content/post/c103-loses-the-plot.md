@@ -1,11 +1,10 @@
----
-title: "C103 loses the plot"
-slug: "c103-loses-the-plot"
-date: "2009-04-14T08:05:56+00:00"
-tags:
-id: 879
-comment: false
----
++++
+title = "C103 loses the plot"
+slug = "c103-loses-the-plot"
+date = "2009-04-14T08:05:56+00:00"
+id = 879
+comment = false
++++
 
 You don't need to be an economist to know that media companies are suffering hugely in this recession. Their reliance on advertising makes them incredibly sensitive to downturns.
 

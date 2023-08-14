@@ -1,11 +1,10 @@
----
-title: "Fabby Fashiony Fishy Fishy  "
-slug: "fabby-fashiony-fishy-fishy"
-date: "2008-10-03T16:38:00+00:00"
-tags:
-id: 746
-comment: false
----
++++
+title = "Fabby Fashiony Fishy Fishy  "
+slug = "fabby-fashiony-fishy-fishy"
+date = "2008-10-03T16:38:00+00:00"
+id = 746
+comment = false
++++
 
 I've just had an absolutely perfect seafood lunch in Fishy Fishy with my parents. Incredible fresh seafood at reasonable prices with attentive staff. The only downside was an excess of ladies-who-lunch trying-too-hard.
 

@@ -1,11 +1,10 @@
----
-title: "Never accept an award drunk"
-slug: "never-accept-an-award-drunk"
-date: "2007-03-09T11:55:53+00:00"
-tags:
-id: 504
-comment: false
----
++++
+title = "Never accept an award drunk"
+slug = "never-accept-an-award-drunk"
+date = "2007-03-09T11:55:53+00:00"
+id = 504
+comment = false
++++
 
 Damn I need to lose weight.
 

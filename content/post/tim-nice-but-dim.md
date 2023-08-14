@@ -1,11 +1,10 @@
----
-title: "Tim Nice But Dim"
-slug: "tim-nice-but-dim"
-date: "2005-05-07T23:01:00+00:00"
-tags:
-id: 94
-comment: false
----
++++
+title = "Tim Nice But Dim"
+slug = "tim-nice-but-dim"
+date = "2005-05-07T23:01:00+00:00"
+id = 94
+comment = false
++++
 
 Well it was obvious since Paul was fired but what a disappointment. Tim has not excelled once in the entire series of [The Apprentice](http://www.bbc.co.uk/apprentice/). Can you think of one thing he did where you went "wow"? The series for me consists of some great scenes involving Paul, James and Saira.
 

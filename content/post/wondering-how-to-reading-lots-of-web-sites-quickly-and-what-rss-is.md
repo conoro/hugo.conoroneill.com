@@ -1,11 +1,10 @@
----
-title: "Wondering how to reading lots of web-sites quickly and what RSS is?"
-slug: "wondering-how-to-reading-lots-of-web-sites-quickly-and-what-rss-is"
-date: "2007-04-24T19:09:29+00:00"
-tags:
-id: 557
-comment: false
----
++++
+title = "Wondering how to reading lots of web-sites quickly and what RSS is?"
+slug = "wondering-how-to-reading-lots-of-web-sites-quickly-and-what-rss-is"
+date = "2007-04-24T19:09:29+00:00"
+id = 557
+comment = false
++++
 
 If you are one of my many non-technical readers you may have heard me and others mention things like RSS and words like "subscribe" and you may have wondered what it is all about. Well the lovely people over at [The Common Craft Show](http://www.commoncraft.com/rss_plain_english) have put together a great 3.5 minute video called "RSS in Plain English" which explains it all. If you check more than one or two sites/blogs per day to see if they have any updates then you need to watch this video and save yourself hassle.
 

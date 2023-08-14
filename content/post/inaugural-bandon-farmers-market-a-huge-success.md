@@ -1,11 +1,10 @@
----
-title: "Inaugural Bandon Farmer's Market a huge success"
-slug: "inaugural-bandon-farmers-market-a-huge-success"
-date: "2006-04-01T20:01:45+00:00"
-tags:
-id: 310
-comment: false
----
++++
+title = "Inaugural Bandon Farmer's Market a huge success"
+slug = "inaugural-bandon-farmers-market-a-huge-success"
+date = "2006-04-01T20:01:45+00:00"
+id = 310
+comment = false
++++
 
 I'm delighted to report that the first Farmer's Market in Bandon was a resounding success despite the awful weather. I'm already looking forward to next months and I hope they consider moving it to every week if the crowds hold up.
 

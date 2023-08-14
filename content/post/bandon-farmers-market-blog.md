@@ -1,11 +1,10 @@
----
-title: "Bandon Farmer's Market Blog"
-slug: "bandon-farmers-market-blog"
-date: "2006-11-20T11:27:41+00:00"
-tags:
-id: 456
-comment: false
----
++++
+title = "Bandon Farmer's Market Blog"
+slug = "bandon-farmers-market-blog"
+date = "2006-11-20T11:27:41+00:00"
+id = 456
+comment = false
++++
 
 I set-up the [Bandon Farmer's Market Blog](http://bandonfarmersmarket.wordpress.com/) quite a while back. Progress has been slow with getting vendors to use it and I think this is mainly due to them not being familiar at all with [a] blogging and [b] the idea that they can write something and it appears immediately. I've learned a lot in trying to get one or two people set up on it. The main lesson was that if you are not web-savvy, many things which seem obvious to me can actually be insurmountable hurdles to others.
 

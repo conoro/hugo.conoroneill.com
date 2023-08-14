@@ -1,11 +1,10 @@
----
-title: "And tonights double entendre is...."
-slug: "and-tonights-double-entendre-is"
-date: "2005-12-13T23:53:34+00:00"
-tags:
-id: 200
-comment: false
----
++++
+title = "And tonights double entendre is...."
+slug = "and-tonights-double-entendre-is"
+date = "2005-12-13T23:53:34+00:00"
+id = 200
+comment = false
++++
 
 "Dick Burning questions introducing feedflare".
 

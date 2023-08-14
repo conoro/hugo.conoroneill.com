@@ -1,11 +1,10 @@
----
-title: "The important science of Potato Thermodynamics"
-slug: "the-important-science-of-potato-thermodynamics"
-date: "2006-03-07T08:38:47+00:00"
-tags:
-id: 273
-comment: false
----
++++
+title = "The important science of Potato Thermodynamics"
+slug = "the-important-science-of-potato-thermodynamics"
+date = "2006-03-07T08:38:47+00:00"
+id = 273
+comment = false
++++
 
 A phrase I have used many times in the past: "Only in Japan".
 

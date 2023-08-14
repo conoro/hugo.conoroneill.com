@@ -1,11 +1,10 @@
----
-title: "Meet your individual seeking"
-slug: "meet-your-individual-seeking"
-date: "2006-05-25T22:25:22+00:00"
-tags:
-id: 354
-comment: false
----
++++
+title = "Meet your individual seeking"
+slug = "meet-your-individual-seeking"
+date = "2006-05-25T22:25:22+00:00"
+id = 354
+comment = false
++++
 
 Oscar the little sod broke the hinge on his DS again. Definitely a design flaw. The guy who provided the last replacement case no longer ships out of the US. 
 

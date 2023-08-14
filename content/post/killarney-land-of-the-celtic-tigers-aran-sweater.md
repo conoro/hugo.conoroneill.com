@@ -1,11 +1,10 @@
----
-title: "Killarney, Land of the Celtic Tiger's Aran Sweater"
-slug: "killarney-land-of-the-celtic-tigers-aran-sweater"
-date: "2005-11-05T05:51:50+00:00"
-tags:
-id: 161
-comment: false
----
++++
+title = "Killarney, Land of the Celtic Tiger's Aran Sweater"
+slug = "killarney-land-of-the-celtic-tigers-aran-sweater"
+date = "2005-11-05T05:51:50+00:00"
+id = 161
+comment = false
++++
 
 After Caroline's wedding, we hung on for another day in Killarney to get a break from our four darlings. I think maybe I had passed through once before but could remember nothing of the place so I had no expectations. OK, I did assume we would find a certain level of paddywhackery but jesus, it turned out to be Brigadoon transplanted.
 

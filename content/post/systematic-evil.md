@@ -1,11 +1,10 @@
----
-title: "Systematic Evil"
-slug: "systematic-evil"
-date: "2009-05-23T12:56:50+00:00"
-tags:
-id: 906
-comment: false
----
++++
+title = "Systematic Evil"
+slug = "systematic-evil"
+date = "2009-05-23T12:56:50+00:00"
+id = 906
+comment = false
++++
 
 I can't bear to read the report. It sickens me to think what those evil scum covered up over the years.
 
