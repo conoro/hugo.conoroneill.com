@@ -1,5 +1,5 @@
 +++
-date = "2019-11-25T08:00:00.00Z"
+date = "2019-11-25T08:00:00+00:00"
 draft = false
 title = "Thinking in Public"
 slug = "thinking-in-public"

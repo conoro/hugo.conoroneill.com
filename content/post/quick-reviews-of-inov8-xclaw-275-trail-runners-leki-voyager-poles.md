@@ -65,58 +65,83 @@ Heavy breathing, wind noise and squelching included for free :-)
 ## Conclusion
 Two big thumbs up. For Irish mud, the X-CLAWs are perfect. For general hill walking and running, the poles are a bargain. However I'm sure the pole weight would be an issue over distances like 50k. I'll report back on this from the [Chiltern Challenge 50k Ultra](http://www.xnrg.co.uk/events/details/chiltern-challenge-ultra2017.aspx) in July!
 
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org/",
-    "@type": "Review",
-    "author": {
-      "@type": "Person",
-      "name": "Conor O'Neill"
-    },
-    "itemReviewed": {
-      "@type": "Product",
-      "image": "https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/06/2017-06-10%2013.21.35.jpg",
-      "name": "Inov-8 X-CLAW 275"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "4"
-    },
-    "name": "Two big thumbs up. For Irish mud, the X-CLAWs are perfect.",
-    "reviewBody": "For nasty boggy ground these are ideal. But you'll struggle going road to trail.",
-    "datePublished": "2017-06-11",
-    "publisher": {
-      "@type": "Organization",
-      "name": "conoroneill.com"
+<script type="application/ld+json">{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Inov-8 X-CLAW 275",
+  "image": "https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/06/2017-06-10%2013.21.35.jpg",
+  "brand": "Inov-8",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "bestRating": "5",
+    "worstRating": "0",
+    "ratingCount": 1,
+    "reviewCount": 1
+  },
+  "review": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "Review",
+      "name": "Two big thumbs up. For Irish mud, the X-CLAWs are perfect.",
+      "reviewBody": "For nasty boggy ground these are ideal. But you'll struggle going road to trail.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4,
+        "bestRating": "5",
+        "worstRating": "0"
+      },
+      "datePublished": "2017-06-11",
+      "author": {
+        "@type": "Person",
+        "name": "Conor O'Neill"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "conoroneill.com"
+      }
     }
-  }
-</script>
+  ]
+}</script>
 
 
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org/",
-    "@type": "Review",
-    "author": {
-      "@type": "Person",
-      "name": "Conor O'Neill"
-    },
-    "itemReviewed": {
-      "@type": "Product",
-      "image": "https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/06/leki_voyager.jpg",
-      "name": "Leki Voyager poles"
-    },
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "4"
-    },
-    "name": "A great set of poles for beginners.",
-    "reviewBody": "Inexpensive and strong but you'll need something lighter over long distances.",
-    "datePublished": "2017-06-11",
-    "publisher": {
-      "@type": "Organization",
-      "name": "conoroneill.com"
+<script type="application/ld+json">{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Leki Voyager poles",
+  "image": "https://d1tidq54inel9p.cloudfront.net/wp-content/uploads/2017/06/leki_voyager.jpg",
+  "brand": "Leki",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "bestRating": "5",
+    "worstRating": "0",
+    "ratingCount": 1,
+    "reviewCount": 1
+  },
+  "review": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "Review",
+      "name": "A great set of poles for beginners.",
+      "reviewBody": "Inexpensive and strong but you'll need something lighter over long distances.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4,
+        "bestRating": "5",
+        "worstRating": "0"
+      },
+      "datePublished": "2017-06-11",
+      "author": {
+        "@type": "Person",
+        "name": "Conor O'Neill"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "conoroneill.com"
+      }
     }
-  }
-</script>
+  ]
+}</script>
+
+

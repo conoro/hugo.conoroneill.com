@@ -7,7 +7,6 @@ def extract_data_from_file(filename):
 
         # Split by the +++ delimiter
         parts = content.split("+++")
-        print(len(parts))
         if len(parts) < 3:
             return None
         
