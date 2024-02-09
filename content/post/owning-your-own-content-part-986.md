@@ -5,6 +5,7 @@ Tags = ["Tech", "Blogging", "Content Ownership", "hreview", "structured reviews"
 draft = false
 date = "2024-02-09T06:17:32+00:00"
 title = "Owning your own content, part 986"
+description = "It's still important, no matter how few people embrace it"
 slug = "owning-your-own-content-part-986"
 +++
 

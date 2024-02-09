@@ -5,6 +5,7 @@ Tags = []
 draft = true
 date = "2020-06-01T19:17:32+00:00"
 title = "This is a title"
+description = "It's still important, no matter how few people embrace it"
 slug = "this-is-a-title"
 +++
 
