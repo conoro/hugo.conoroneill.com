@@ -1,6 +1,5 @@
 +++
 Categories = []
-Description = "This is the intro paragraph"
 Tags = ["Tech", "Blogging", "Content Ownership", "hreview", "structured reviews"]
 draft = false
 date = "2024-02-09T06:17:32+00:00"
