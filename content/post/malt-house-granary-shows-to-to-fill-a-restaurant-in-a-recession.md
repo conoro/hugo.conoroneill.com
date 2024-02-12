@@ -14,19 +14,19 @@ The menu is a great mix of local produce with a strong focus on fish and shellfi
 
 As with other great meals I have had recently (like in Fenn's Quay), I'll let the pictures do the talking below. In summary, superb cooking with fantastic deep savoury flavours and a lightness of touch.
 
-[![12092009689](http://photos5.pix.ie/35/55/355577D9EA454F00982AB32830587055-500.jpg)](http://pix.ie/conor/1241703 "12092009689 by conor")
+![12092009689](/images/2009/09/355577D9EA454F00982AB32830587055-500.jpg)
 
-[![12092009690](http://photos5.pix.ie/56/EF/56EF50712B3D48C7BD8B61E712DEEF8D-500.jpg)](http://pix.ie/conor/1241704 "12092009690 by conor")
+![12092009690](/images/2009/09/56EF50712B3D48C7BD8B61E712DEEF8D-500.jpg)
 
-[![12092009691](http://photos3.pix.ie/BB/78/BB780FD230A04C668F88B12CCA02E8EE-500.jpg)](http://pix.ie/conor/1241705 "12092009691 by conor")
+![12092009691](/images/2009/09/BB780FD230A04C668F88B12CCA02E8EE-500.jpg)
 
-[![12092009692](http://photos5.pix.ie/60/A8/60A8A185058A448D9645F3B1FB17DFCE-500.jpg)](http://pix.ie/conor/1241706 "12092009692 by conor")
+![12092009692](/images/2009/09/60A8A185058A448D9645F3B1FB17DFCE-500.jpg)
 
-[![12092009694](http://photos3.pix.ie/F9/DC/F9DC733060CB4734941E2DCB9E2A334C-500.jpg)](http://pix.ie/conor/1241707 "12092009694 by conor")
+![12092009694](/images/2009/09/F9DC733060CB4734941E2DCB9E2A334C-500.jpg)
 
-[![12092009696](http://photos2.pix.ie/8E/93/8E93472EE4394C61ADB1D6F5939A54CD-500.jpg)](http://pix.ie/conor/1241708 "12092009696 by conor")
+![12092009696](/images/2009/09/8E93472EE4394C61ADB1D6F5939A54CD-500.jpg)
 
-[![12092009697](http://photos5.pix.ie/26/0B/260BE856D3384EDFAB25191D11FAC444-500.jpg)](http://pix.ie/conor/1241709 "12092009697 by conor")
+![12092009697](/images/2009/09/260BE856D3384EDFAB25191D11FAC444-500.jpg)
 
 The portion sizes were on the overly-large size but the value was amazing. Where most places seem to try and get €22+ for mains, they were mid-teens for almost everything. We all raved about the food but were bursting at the seams as we left. We agreed that a main+coffee would make a fantastic early quick filling dinner for little more than you'd pay in a thousand crappy restaurants all over Ireland.
 

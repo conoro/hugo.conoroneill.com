@@ -10,6 +10,6 @@ comment = false
 
 I was thrilled to find this record of my Granny Mary, her parents and siblings. The first thing that jumped out at me was that my Grandaunt Dora was born Hanora. I wonder when it changed?
 
-[![census](http://photos4.pix.ie/11/B4/11B47FEDB6054A2EB1E59468FCE168BA-500.jpg)](http://pix.ie/conor/1188236 "census by conor")
+![census](/images/2009/08/11B47FEDB6054A2EB1E59468FCE168BA-500.jpg)
 
 The census covers all 32 countries (obviously) and if you have any interest in history at all, you'll spend hours digging into the data.

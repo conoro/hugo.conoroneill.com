@@ -16,17 +16,17 @@ The staff were brilliant throughout being attentive without being overbearing. T
 
 Then the food, oh god the food. I decided to try things that were completely new to me. So it was clams to start and ray wings for main. I cannot praise them highly enough. I'm now a convert to both and will be looking to cook them myself. The clams were the non-razor sort and just sweet little nuggets of flesh in a lip-smacking asian-style broth. The ray wings simply pan-fried on a lovely scallion mash with a perfect sauce.
 
-[![03102008032](http://photos5.pix.ie/BE/55/BE55F4D4CE0E4BF4837DBD7FDF4EBBE1-500.jpg)](http://pix.ie/conor/701714 "03102008032 by conor")
+![03102008032](/images/2008/10/BE55F4D4CE0E4BF4837DBD7FDF4EBBE1-500.jpg)
 
-[![03102008034](http://photos4.pix.ie/A4/B9/A4B963B2049D462C946C928A1AF1192E-500.jpg)](http://pix.ie/conor/701712 "03102008034 by conor")
+![03102008034](/images/2008/10/A4B963B2049D462C946C928A1AF1192E-500.jpg)
 
 Mum skipped starters and went for a chilli seafood plate which she devoured. Dad started with avocado and prawns I think and had monkfish for main. All brilliant.
 
-[![03102008036](http://photos5.pix.ie/64/7C/647C59FA807243AE9701AE4FC0DE9D25-500.jpg)](http://pix.ie/conor/701710 "03102008036 by conor")
+![03102008036](/images/2008/10/647C59FA807243AE9701AE4FC0DE9D25-500.jpg)
 
-[![03102008033](http://photos3.pix.ie/73/87/7387D4911A01436E9B50B8CE9E0B3433-500.jpg)](http://pix.ie/conor/701713 "03102008033 by conor")
+![03102008033](/images/2008/10/7387D4911A01436E9B50B8CE9E0B3433-500.jpg)
 
-[![03102008035](http://photos2.pix.ie/2F/D7/2FD739DB1E3B4B5386272A50164D5494-500.jpg)](http://pix.ie/conor/701711 "03102008035 by conor")
+![03102008035](/images/2008/10/2FD739DB1E3B4B5386272A50164D5494-500.jpg)
 
 This is the sort of place every town in West Cork should have. The very best very freshest seafood cooked simply and cooked with skill. The massive crowds eating there shows that great businesses will be immune to the credit crunch. Speaking of which, the only real flaw in the place is that they don't accept credit cards. In 2008, that's just a bit mental. Giving us a customer feedback card at the end of the meal tells you what pros they are. Perhaps they might consider asking their customers [to send reviews by SMS](http://blog.loudervoice.com/2008/09/14/announcing-simple-sms-reviews/) :-)
 

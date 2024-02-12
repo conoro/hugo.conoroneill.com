@@ -14,9 +14,7 @@ Durrus is a gorgeous little village just at the start of the Sheep's Head Penins
 
 A collection  of maybe 10 of us there on the first day. A mixture of individuals, friends and mother/daughter. Only two of us were blokes. What is it with men? It's 2009, not 1959.
 
-Click on the image for the full album of pictures that I took:
-
-[![04102009738](http://photos5.pix.ie/36/60/3660A10E74884CAF9BB97BBFFC4B0063-500.jpg)](http://pix.ie/conor/1317958/in/album/359380 "Good Things Cafe")
+!["Good Things Cafe"](/images/2009/10/3660A10E74884CAF9BB97BBFFC4B0063-500.jpg)
 
 There is always a worry that demo-only courses can be tiring to concentrate on for two days. I have the attention span of a gnat and generally have to be doing things to stop my mind wandering. I needn't have had any concern. Carmel kept us engaged and entertained for the entire thing. Each day was over in the blink of an eye and I wanted more each time!
 
@@ -52,10 +50,10 @@ Just like the last time, all I can say is, just do it. They have a wide range of
 
 She has also just launched her first cookbook called "Eat Good Things Every Day". It looks brilliant and I'll definitely be buying a copy. 
 
-[![](http://www.corkuniversitypress.com//images/shop/product/f5baeb0d415d640d276632c9a53d1494.jpg "Eat Good Things Every Day")](http://www.corkuniversitypress.com/Eat_Good_Things_Everyday_/300/)
+!["Eat Good Things Every Day"](/images/2009/10/9780955226137.jpg)
 
 > Learn how to eat good things everyday. This book will get your kitchen sorted and to make the task of cooking less daunting and more enjoyable. From a ‘once a week’ shopping list there’s something to cook every night for eight weeks plus a list of what you need in your store-cupboard is provided and a surprisingly short list of kitchen utensils. By planning our meals in advance we can eat better, tastier food that will give us more enjoyment and doesn’t cost the earth!
 
-You can buy it on the [Cork University Press web-site](http://www.corkuniversitypress.com/Eat_Good_Things_Everyday_/300/).
+You can buy it on the [Cork University Press web-site](https://www.corkuniversitypress.com/9780955226137/eat-good-things-every-day/).
 
 Now which of her courses will I do next?

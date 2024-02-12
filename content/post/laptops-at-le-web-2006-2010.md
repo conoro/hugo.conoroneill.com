@@ -12,20 +12,20 @@ Ewan Spence is another regular at it and it's pretty much the only time we see e
 
 It inspired me to take this set of photos.
 
-[![leweb_laptops](http://photos2.pix.ie/F9/63/F963118F0E854956B23D6DEBFB7F4509-500.jpg)](http://pix.ie/conor/1335545 "leweb_laptops by conor")
+![leweb_laptops](/images/2009/11/F963118F0E854956B23D6DEBFB7F4509-500.jpg)
 
 **Le Web 2006:**
 
-[![leweb_2006](http://photos4.pix.ie/12/CF/12CFF65A1A1347E4BA137068EDE1DC93-500.jpg)](http://pix.ie/conor/1335549 "leweb_2006 by conor")
+![leweb_2006](/images/2009/11/12CFF65A1A1347E4BA137068EDE1DC93-500.jpg)
 
 **Le Web 2007/2008:**
 
-[![leweb_2007-2008](http://photos4.pix.ie/50/91/509189A148E24B219AA0797D26B43AA3-500.jpg)](http://pix.ie/conor/1335548 "leweb_2007-2008 by conor")
+![leweb_2007-2008](/images/2009/11/509189A148E24B219AA0797D26B43AA3-500.jpg)
 
 **Le Web 2009:**
 
-[![leweb_2009](http://photos5.pix.ie/D9/59/D959867846DF41A3BBD4FB7F02587A91-500.jpg)](http://pix.ie/conor/1335547 "leweb_2009 by conor")
+![leweb_2009](/images/2009/11/D959867846DF41A3BBD4FB7F02587A91-500.jpg)
 
 **Le Web 2010?:**
 
-[![leweb_2010](http://photos3.pix.ie/F2/AB/F2AB17AF0F3F4885ACAC7E2C2F7827EB-500.jpg)](http://pix.ie/conor/1335546 "leweb_2010 by conor")
+![leweb_2010](/images/2009/11/F2AB17AF0F3F4885ACAC7E2C2F7827EB-500.jpg)

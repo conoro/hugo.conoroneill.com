@@ -12,6 +12,3 @@ But what will be remembered and found in years to come? Watching Chris Moyles on
 
 It'd be nice if in 100 years there is still something resembling the internet and all of this "stuff" that we are all generating on Blogs, Twitter, Facebook etc etc can be found and read by our descendants so they can realise what a bunch of weirdos and wackos they share their genes with.
 
-And on a completely different subject, here are some pics of the veg plot. Total effort expended in weeding and planting this year? Approx 8 hours.
-
-<embed src="http://share.ovi.com/tools/twidgets/grid.swf?feed=conor.Garden2009" type="application/x-shockwave-flash" width="420" height="200">

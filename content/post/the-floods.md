@@ -12,6 +12,6 @@ We were lucky. Apart from the inconvenience of no phoneline and some bad leaks i
 
 If you have any detour tips for those trying to get in and out of West Cork, please leave them in the comments. This route was still working at 2pm yesterday so hopefully it'll work for you. (Click on it for larger size):
 
-[![innishannon_to_gaggin2](http://photos2.pix.ie/44/9B/449B3858EF074DC69784683CDED44788-500.jpg)](http://pix.ie/conor/1356846 "innishannon_to_gaggin2 by conor")
+![innishannon_to_gaggin2](/images/2009/11/449B3858EF074DC69784683CDED44788-500.jpg)
 
 Bandon had been doing a large marketing push for November. Now more than ever, we should shop locally and help those businesses get back on their feet.

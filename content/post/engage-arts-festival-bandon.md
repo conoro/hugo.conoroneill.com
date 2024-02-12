@@ -7,7 +7,8 @@ comment = false
 +++
 
 For some reason I completely missed that this was coming. Thanks to Mary Wedel for letting me know. From Fri 26th to Sun 28th September, we're having an Arts Festival in Bandon. Things were actually kicked off on Thursday with the CruX Dance Company in the Town Hall. There will also be an exhibition of local artists in the Miriam Bailey Gallery from Wed 24th.
-<p style="text-align: center;">[![engage2](http://photos5.pix.ie/40/98/40987DB468F84C74A6B086F231744DCD-240.jpg)](http://pix.ie/conor/682431 "engage2 by conor")
+
+![engage2](/images/2008/09/40987DB468F84C74A6B086F231744DCD-240.jpg)
 
 The line-up next weekend is below. I'm genuinely blown away by all of the events they have arranged. It reminds me very strongly of growing up in Kilkenny with the Arts Festival every year with the added bonus of lots of kid-friendly stuff too.
 

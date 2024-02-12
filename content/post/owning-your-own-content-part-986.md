@@ -35,3 +35,5 @@ And when I die, I have at least 2 children who could keep this blog running. May
 Of course if I was really serious about it, I'd print the whole thing and secure it in a fire-proof/flood-proof safe. Now that would be funny.
 
 I'm a huge fan of mass production and the green revolution in agriculture. But the reason people keep their blogs running has nothing to do with craft vs industry or e/acc vs Luddites, it's control. Most people don't want that, and that's fine. But if they don't, all those moments will be lost in time, like tears in rain.
+
+UPDATE: The amazing Wayback Machine had copies of my missing images from Pix.ie so I've managed to restore some posts from 2008-2010 to the full low-res glory.

@@ -16,11 +16,11 @@ Laurent was particularly excited by the confit and I went to order some. Unfortu
 
 Over the past few weeks I've been trying the various things he sent me and I'll mention them all. But first, the duck. I got a large four-portion tin which was filled to the brim with duck fat. I poured off the fat and the gelatin and put the four very large legs into a frying pan.
 
-[![26022009317](http://photos5.pix.ie/06/42/06420E1ED2124B57AA347531F31696D1-240.jpg)](http://pix.ie/conor/844904 "26022009317 by conor") 
+![26022009317](/images/2009/03/06420E1ED2124B57AA347531F31696D1-240.jpg) 
 
 I kept them on the heat until they were hot through and the skin had started to crisp up. However I think the oven method would be better for crisping and will try that the next time.
 
-[![26022009319](http://photos2.pix.ie/10/76/10760D9CBE2343A4853C9D551A16069B-240.jpg)](http://pix.ie/conor/844902 "26022009319 by conor")
+![26022009319](/images/2009/03/10760D9CBE2343A4853C9D551A16069B-240.jpg)
 
 We just had it with a simple green salad and it was stunning. When you see how expensive duck breast is and how many times I've messed up the cooking of it, these confit legs are a doddle and more tasty in many ways. The fat makes amazing roast spuds too!
 
@@ -30,9 +30,13 @@ The other products I got were as follows:
 
 *   Confit Duck in Orange: The duck and sauce were excellent but there wasn't enough fondant potatoes.
 
-[![14012009287](http://photos4.pix.ie/BD/6D/BD6DF39FB15648F0AECE3B9130131978-240.jpg)](http://pix.ie/conor/856195 "14012009287 by conor")*   Cassoulet de Castelnaudary: This is a classic cassoulet with goose confit, sausage and beans. Very tasty and filling.
+![14012009287](/images/2009/03/BD6DF39FB15648F0AECE3B9130131978-240.jpg)
 
-[![20012009296](http://photos4.pix.ie/BD/65/BD654F1E3AA743FCAD3752FAC4D88BD5-240.jpg)](http://pix.ie/conor/856193 "20012009296 by conor")*   Foie Gras: Not eaten yet. Will report back.
+*   Cassoulet de Castelnaudary: This is a classic cassoulet with goose confit, sausage and beans. Very tasty and filling.
+
+![20012009296](/images/2009/03/BD654F1E3AA743FCAD3752FAC4D88BD5-240.jpg)
+
+*   Foie Gras: Not eaten yet. Will report back.
 As I mentioned above, we seem to have forgotten the importance and usefulness of preserving. With all the money people were making in recent years, it was like curing/pickling/preserving/canning were somehow from our poor past. Apart from bacon, all we wanted were expensive cuts of meat or stupidly priced "premium" ready meals.
 
 The tin of baked beans is one of the most perfect food products ever. Our holidays in France reminded us of all the other things like duck confit and casoulet which came from poverty and lack of freezers but which are now pinnacles of gourmet food.
