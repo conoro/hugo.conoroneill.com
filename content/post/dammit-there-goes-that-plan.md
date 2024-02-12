@@ -8,6 +8,6 @@ comment = false
 
 My genius syrup-a-day plan foiled.
 
-[![Image022](http://static.flickr.com/38/117198423_0af4a2a46f.jpg)](http://www.flickr.com/photos/bandon1/117198423/ "Photo Sharing")
+[![Image022](/images/flickr/2024_download/117198423_0af4a2a46f.jpg)](http://www.flickr.com/photos/bandon1/117198423/ "Photo Sharing")
 
 [tags]Roches Stores, Syrups[/tags]

@@ -25,7 +25,7 @@ Ireland
 
 <p>Update 1: The times above have been confirmed and here is the official flyer. I'll definitely be there.
 
-[![bandon_farmes_market_flyer02](http://static.flickr.com/51/118059814_7d583def10_m.jpg)](http://www.flickr.com/photos/bandon1/118059814/ "Photo Sharing")
+[![bandon_farmes_market_flyer02](/images/flickr/2024_download/118059814_7d583def10_c.jpg)](http://www.flickr.com/photos/bandon1/118059814/ "Photo Sharing")
 
  If this infringes any copyright, let me know and I'll take it down
 
@@ -69,7 +69,7 @@ _Tags: Farmers Market, Bandon, Peter Crowley, Mace, Structured Blogging_
             <xml-structured-blog-entry xmlns="http://www.structuredblogging.org/xmlns">
               <generator id="wpsb-1" type="x-wpsb-post" version="1"/><event type="event/generic"><name>Bandon Farmer's Market</name><price>0</price><location address="The Old Market Garden" city="Bandon" state="Co Cork" country="Ireland"/><description>&lt;p&gt;Update 1: The times above have been confirmed and here is the official flyer. I'll definitely be there.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href= http://www.flickr.com/photos/bandon1/118059814/  title= Photo Sharing &gt;&lt;img src= http://static.flickr.com/51/118059814_7d583def10_m.jpg  width= 240  height= 163  alt= bandon_farmes_market_flyer02  /&gt;&lt;/a&gt;
+&lt;a href= http://www.flickr.com/photos/bandon1/118059814/  title= Photo Sharing &gt;&lt;img src= /images/flickr/2024_download/118059814_7d583def10_c.jpg  width= 240  height= 163  alt= bandon_farmes_market_flyer02  /&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt; If this infringes any copyright, let me know and I'll take it down&lt;/p&gt;
 

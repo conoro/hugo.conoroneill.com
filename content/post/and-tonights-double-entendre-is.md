@@ -10,6 +10,6 @@ comment = false
 
 I ask myself, could Memeorandum have fitted more double entendres into one headline? 
 
-[![burning](http://static.flickr.com/34/73327596_3acec87543.jpg)](http://www.flickr.com/photos/bandon1/73327596/ "Photo Sharing")
+[![burning](/images/flickr/2024_download/73327596_3acec87543.jpg)](http://www.flickr.com/photos/bandon1/73327596/ "Photo Sharing")
 
 [tags] tech.memeorandum, double entendre, maturity of a 12-year old[/tags]

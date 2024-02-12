@@ -10,7 +10,7 @@ In case I needed any reminding of how much our quality of life has improved sinc
 
 Red Strand, Ardfield, today during a perfect break in the rain.
 
-[![Kids Digging on Red Strand](http://static.flickr.com/46/108163820_68b82bb07f_m.jpg)](http://www.flickr.com/photos/bandon1/108163820/ "Photo Sharing")
+[![Kids Digging on Red Strand](/images/flickr/2024_download/108163820_68b82bb07f_c.jpg)](http://www.flickr.com/photos/bandon1/108163820/ "Photo Sharing")
 
 [tags] Red Strand, Ardfield, Clonakilty, Cork[/tags]
 

@@ -14,9 +14,9 @@ Normal blogging will resume shortly.
 
 In the meantime, our New Year "Spot The Difference" competition is a real tough nut. Have a look at the two pictures below and see if you can figure out the subtle changes. 
 
-[![IMG_1974](http://static.flickr.com/39/80519351_e823874373_m.jpg)](http://www.flickr.com/photos/bandon1/80519351/ "Photo Sharing")
+[![IMG_1974](/images/flickr/2024_download/80519351_e823874373_c.jpg)](http://www.flickr.com/photos/bandon1/80519351/ "Photo Sharing")
 
-[![IMG_1984](http://static.flickr.com/39/80519578_59d7b6bb0f_m.jpg)](http://www.flickr.com/photos/bandon1/80519578/ "Photo Sharing")
+[![IMG_1984](/images/flickr/2024_download/80519578_59d7b6bb0f_c.jpg)](http://www.flickr.com/photos/bandon1/80519578/ "Photo Sharing")
 
 Answers on a postcard please to Mr "Ahahahahaah, no more leaves" O'Neill, c/o House of&nbsp; the&nbsp; Silent Poplars,&nbsp; Rootless Street,&nbsp; The Future is So Bright I gotta wear Shadesville, Land of&nbsp; the Singing Chainsaws.
 

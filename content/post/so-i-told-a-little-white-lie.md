@@ -8,9 +8,9 @@ comment = false
 
 We had an hour to kill in Cork whilst waiting for Oscar to finish one of his many activities. I told them I'd bring them to a playground.
 
-[![Saurian Sculpture beside the Lee](http://static.flickr.com/122/273716000_f52a92ea1c_m.jpg)](http://www.flickr.com/photos/bandon1/273716000/ "Photo Sharing")
+[![Saurian Sculpture beside the Lee](/images/flickr/2024_download/273716000_f52a92ea1c_c.jpg)](http://www.flickr.com/photos/bandon1/273716000/ "Photo Sharing")
 
-[![Saurian Sculpture beside the Lee 2](http://static.flickr.com/97/273715882_1e434f4c3c_m.jpg)](http://www.flickr.com/photos/bandon1/273715882/ "Photo Sharing")
+[![Saurian Sculpture beside the Lee 2](/images/flickr/2024_download/273715882_1e434f4c3c_c.jpg)](http://www.flickr.com/photos/bandon1/273715882/ "Photo Sharing")
 
 "That was the worst playground ever, wasn't it Dad?". "Like really crap, like?".
 

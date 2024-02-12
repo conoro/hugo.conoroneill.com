@@ -8,7 +8,7 @@ comment = false
 
 Here it is:
 
-[![Our lone peach](http://farm2.static.flickr.com/1354/1192671090_f329925af6_m.jpg)](http://www.flickr.com/photos/bandon1/1192671090/ "Photo Sharing")
+[![Our lone peach](/images/flickr/2024_download/1192671090_f329925af6_c.jpg)](http://www.flickr.com/photos/bandon1/1192671090/ "Photo Sharing")
 
 Thrilled that it actually tasted ok, sadly not very juicy and a bit tart but given the summer we're having, not a bad effort.
 

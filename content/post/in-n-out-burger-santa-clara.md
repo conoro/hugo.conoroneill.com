@@ -27,11 +27,11 @@ USA
 
 After my SF disaster of driving up, failing to get parking and driving back to Santa Clara, I grumpily decided to check out In-n-Out Burger for once and for all. This is California's most famous burger chain and many burger fanatics rave about it.
 
-[![31052006066](http://static.flickr.com/76/158512668_764b57081e.jpg)](http://www.flickr.com/photos/bandon1/158512668/ "Photo Sharing")
+[![31052006066](/images/flickr/2024_download/158512668_764b57081e.jpg)](http://www.flickr.com/photos/bandon1/158512668/ "Photo Sharing")
 
 The decor is 50's kitsch and works well. Service was friendly as with nearly everywhere in the US, even if I sometimes feel that Texans really mean it when Californians just say it. But he did miss half my order which was a bit annoying. The In-n-Out bit was a misnomer as I then had to wait ten minutes to actually get the food. The value was great - a "Double Double" burger, fries and a shake for just over $5.
 
-[![](http://static.flickr.com/62/158512670_082fc27558.jpg)](http://www.flickr.com/photos/bandon1/158512670/ "Photo Sharing")
+[![](/images/flickr/2024_download/158512670_082fc27558.jpg)](http://www.flickr.com/photos/bandon1/158512670/ "Photo Sharing")
 
 Is it the greatest burger ever? Nah, but as fast food goes it is pretty bloody good. Juicy, tasty meat, a good bun and a great sauce. Excellent crispy fries and a lovely shake. Head and shoulders above a Micky D's or Burger King.
 
@@ -50,11 +50,11 @@ La Pastaia, downtown San Jose - good Italian food but empty
             <xml-structured-blog-entry xmlns="http://www.structuredblogging.org/xmlns">
               <generator id="wpsb-1" type="x-wpsb-post" version="1"/><review type="review/restaurant"><subject name="In-n-Out Burger" ethnicity="Fast Food" url="http://www.in-n-out.com/" map="http://local.live.com/?v=2andsp=aN.q6y67j4v17m8_3101%2520Mission%2520College%2520Blvd%252c%2520Santa%2520Clara%252c%2520CA%252095054%252c%2520United%2520States___" chain="In-n-Out Burger"><price min="2" max="5" currency="$"/><location address="3101 Mission College Blvd" city="Santa Clara" state="CA" postcode="95054" country="USA"/></subject><foodrating max="5" min="0">3</foodrating><decorrating max="5" min="0">4</decorrating><servicerating max="5" min="0">3</servicerating><description>After my SF disaster of driving up, failing to get parking and driving back to Santa Clara, I grumpily decided to check out In-n-Out Burger for once and for all. This is California's most famous burger chain and many burger fanatics rave about it.
 
-&lt;a href= http://www.flickr.com/photos/bandon1/158512668/  title= Photo Sharing &gt;&lt;img src= http://static.flickr.com/76/158512668_764b57081e.jpg  width= 500  height= 375  alt= 31052006066  /&gt;&lt;/a&gt;
+&lt;a href= http://www.flickr.com/photos/bandon1/158512668/  title= Photo Sharing &gt;&lt;img src= /images/flickr/2024_download/158512668_764b57081e.jpg  width= 500  height= 375  alt= 31052006066  /&gt;&lt;/a&gt;
 
 The decor is 50's kitsch and works well. Service was friendly as with nearly everywhere in the US, even if I sometimes feel that Texans really mean it when Californians just say it. But he did miss half my order which was a bit annoying. The In-n-Out bit was a misnomer as I then had to wait ten minutes to actually get the food. The value was great - a  Double Double  burger, fries and a shake for just over $5.
 
-&lt;a href= http://www.flickr.com/photos/bandon1/158512670/  title= Photo Sharing &gt;&lt;img src= http://static.flickr.com/62/158512670_082fc27558.jpg  width= 500  height= 375  alt=  In-n-Out Burger   /&gt;&lt;/a&gt;
+&lt;a href= http://www.flickr.com/photos/bandon1/158512670/  title= Photo Sharing &gt;&lt;img src= /images/flickr/2024_download/158512670_082fc27558.jpg  width= 500  height= 375  alt=  In-n-Out Burger   /&gt;&lt;/a&gt;
 
 Is it the greatest burger ever? Nah, but as fast food goes it is pretty bloody good. Juicy, tasty meat, a good bun and a great sauce. Excellent crispy fries and a lovely shake. Head and shoulders above a Micky D's or Burger King.
 

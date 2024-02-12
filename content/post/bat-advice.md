@@ -20,4 +20,4 @@ But is that it? Do I leave it alone? Is it a small breed or a baby? Might it be 
 
 Here's a wee pic of the little guy in his current lodgings:
 
-[![Bat in Bandon](http://farm4.static.flickr.com/3051/2814193374_56f8144ed2.jpg)](http://www.flickr.com/photos/bandon1/2814193374/ "Bat in Bandon by bandon1, on Flickr")
+[![Bat in Bandon](/images/flickr/2024_download/2814193374_56f8144ed2.jpg)](http://www.flickr.com/photos/bandon1/2814193374/ "Bat in Bandon by bandon1, on Flickr")

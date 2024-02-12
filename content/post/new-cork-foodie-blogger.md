@@ -8,6 +8,6 @@ comment = false
 
 Ivan Santry has started a top-notch food blog over at [Messy-Chef](http://messy-chef.com/blog/). Recipes, reviews and thoughts. The blog design looks gorgeous too. 
 
-[![Messy Chef](http://farm4.static.flickr.com/3277/2709346493_4f774ba9ee.jpg)](http://www.flickr.com/photos/bandon1/2709346493/ "Messy Chef by bandon1, on Flickr")
+[![Messy Chef](/images/flickr/2024_download/2709346493_4f774ba9ee.jpg)](http://www.flickr.com/photos/bandon1/2709346493/ "Messy Chef by bandon1, on Flickr")
 
 Check it out.

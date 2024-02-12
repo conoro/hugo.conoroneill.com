@@ -12,7 +12,7 @@ Today's question is **"What was the favourite invention from your childhood"**.
 
 This is an easy one. The home computer, specifically the Sinclair ZX Spectrum. 
 
-[![ZXSpectrum48k](http://farm3.static.flickr.com/2143/1998689537_8b290280f6_m.jpg)](http://www.flickr.com/photos/bandon1/1998689537/ "ZXSpectrum48k by bandon1, on Flickr")
+[![ZXSpectrum48k](/images/flickr/2024_download/1998689537_8b290280f6_c.jpg)](http://www.flickr.com/photos/bandon1/1998689537/ "ZXSpectrum48k by bandon1, on Flickr")
 
 An entire generation of software developers and electronic engineers exist because of this awesome machine and competitors like the BBC Micro, Commodore 64, Dragon 32, Oric 1, Atari 400/800, TI 99/a etc
 

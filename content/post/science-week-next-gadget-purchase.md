@@ -12,11 +12,11 @@ The next gadget I buy hasn't been created yet. It'll be when Nokia take the N95 
 
 This:
 
-[![Nokia_N95](http://farm3.static.flickr.com/2309/2031909610_2da5fbc251_m.jpg)](http://www.flickr.com/photos/bandon1/2031909610/ "Nokia_N95 by bandon1, on Flickr")
+[![Nokia_N95](/images/flickr/2024_download/2031909610_2da5fbc251_c.jpg)](http://www.flickr.com/photos/bandon1/2031909610/ "Nokia_N95 by bandon1, on Flickr")
 
 plus this:
 
-[![nokia_n810](http://farm3.static.flickr.com/2337/2031909316_40c489969d_m.jpg)](http://www.flickr.com/photos/bandon1/2031909316/ "nokia_n810 by bandon1, on Flickr")
+[![nokia_n810](/images/flickr/2024_download/2031909316_40c489969d_c.jpg)](http://www.flickr.com/photos/bandon1/2031909316/ "nokia_n810 by bandon1, on Flickr")
 
 It will have:
 

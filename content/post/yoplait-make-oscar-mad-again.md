@@ -10,7 +10,7 @@ Osc opened a Melon and Orange yoghurt yesterday to discover it actually containe
 
 His letter is as follows:
 
-[![Oscar_Letter_Yoplait_01_blurred](http://static.flickr.com/74/200981928_17acad1b9e.jpg)](http://www.flickr.com/photos/bandon1/200981928/ "Photo Sharing")
+[![Oscar_Letter_Yoplait_01_blurred](/images/flickr/2024_download/200981928_17acad1b9e.jpg)](http://www.flickr.com/photos/bandon1/200981928/ "Photo Sharing")
 
 Let's see what reply he gets.
 

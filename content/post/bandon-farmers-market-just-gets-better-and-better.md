@@ -16,19 +16,19 @@ A few piccies of my booty (in the non-Jennifer Lopez sense):
 
 T-Bone and Crispbread
 
-[![](http://static.flickr.com/46/169476494_c6cfb5404f_m.jpg)](http://flickr.com/photos/34306341@N00/169476494 "17062006093")
+[![](/images/flickr/2024_download/169476494_c6cfb5404f_c.jpg)](http://flickr.com/photos/34306341@N00/169476494 "17062006093")
 
 Choccie Heart, Tartlet, Sonia's Pickles, Milleen's Cheese, Quinoa Salad
 
-[![](http://static.flickr.com/61/169476458_03c6ed94ab_m.jpg)](http://flickr.com/photos/34306341@N00/169476458 "17062006092")
+[![](/images/flickr/2024_download/169476458_03c6ed94ab_c.jpg)](http://flickr.com/photos/34306341@N00/169476458 "17062006092")
 
 Eggs, Sunblush, Hummus
 
-[![](http://static.flickr.com/76/169476422_44e43f4fa8_m.jpg)](http://flickr.com/photos/34306341@N00/169476422 "17062006091")
+[![](/images/flickr/2024_download/169476422_44e43f4fa8_c.jpg)](http://flickr.com/photos/34306341@N00/169476422 "17062006091")
 
 Rye and Buttermilk bread
 
-[![](http://static.flickr.com/51/169476365_f3594bb214_m.jpg)](http://flickr.com/photos/34306341@N00/169476365 "17062006094")
+[![](/images/flickr/2024_download/169476365_f3594bb214_c.jpg)](http://flickr.com/photos/34306341@N00/169476365 "17062006094")
 
 <!-- technorati tags begin -->
 

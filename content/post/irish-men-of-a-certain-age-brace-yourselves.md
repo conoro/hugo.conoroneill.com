@@ -12,7 +12,7 @@ Pause, little shudder of excitement, continue.
 
 For those of you too young to remember, Leslie was to many Irish men who are now in their late thirties, the 1980's equivalent of Jessica Alba. I'm not sure if Hot Press had pull-out posters of her, but they should have. She sang with a band called In Tua Nua who were famous for 6 months in Grangemockler (five miles from Windgap). 
 
-[![In-Tua-Nua-Dont-Fear-Me-Now-105381](http://static.flickr.com/110/282666120_08e93d871c_m.jpg)](http://www.flickr.com/photos/bandon1/282666120/ "Photo Sharing")
+[![In-Tua-Nua-Dont-Fear-Me-Now-105381](/images/flickr/2024_download/282666120_08e93d871c_c.jpg)](http://www.flickr.com/photos/bandon1/282666120/ "Photo Sharing")
 
 I've no idea how she has aged and for some reason I can only picture her in my head wearing a big heavy coat rather than anything sexy. This was rural Ireland twenty years ago.
 

@@ -29,29 +29,29 @@ The room isn't great. Very bright with spotlights on the ceiling and old picture
 
 I loved the look of the menu and had a hard time deciding what to get. For starters I had lambs tongue which was quite tasty but nothing to go crazy about.
 
-![ ](http://farm1.static.flickr.com/192/499399703_256392f97c_m.jpg)
+![ ](/images/flickr/2024_download/499399703_256392f97c_c.jpg)
 
 Catherine plumped for Asparagus and Gubbeen Salami which looked great and she really enjoyed.
 
-![ ](http://farm1.static.flickr.com/229/499351814_be98691a7b_m.jpg)
+![ ](/images/flickr/2024_download/499351814_be98691a7b_c.jpg)
 
 Wine for the night was a decent 2005 Pouilly Fumee.
 
-![ ](http://farm1.static.flickr.com/227/499399529_536ad97987_m.jpg) 
+![ ](/images/flickr/2024_download/499399529_536ad97987_c.jpg) 
 
 Mains were the big let down of the night. Catherine did better with some hake on greens. Nothing wrong with it, just utterly forgettable.
 
-![ ](http://farm1.static.flickr.com/219/499400139_7ebdd2c02e_m.jpg)
+![ ](/images/flickr/2024_download/499400139_7ebdd2c02e_c.jpg)
 
 Mine was a bit of a disaster. I went with scallops on cauliflour puree. The scallops were ok if a bit insipid (frozen perhaps?) and the puree was good. But they burnt the potatoes in the stack and it ruined the plate. I know mistakes happen but when you burn something, you know you've burnt it, yet they still put it on a plate and served it to me.
 
-![ ](http://farm1.static.flickr.com/220/499351386_4092684a72_m.jpg)
+![ ](/images/flickr/2024_download/499351386_4092684a72_c.jpg)
 
 I should have given it back and complained but I couldn't be bothered. At that point we were both just disappointed with the whole experience.
 
 Catherine wasn't grabbed by any of the deserts and I went with dates on orange. Not too bad but a bit middle-of-the-road.
 
-![ ](http://farm1.static.flickr.com/218/499400523_4c9e513db7_m.jpg)
+![ ](/images/flickr/2024_download/499400523_4c9e513db7_c.jpg)
 
 In fact I think that phrase defines the whole meal. Nothing massively wrong, just nothing to blow your socks off.
 

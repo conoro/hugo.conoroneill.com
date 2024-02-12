@@ -20,8 +20,8 @@ So I think this will be an annual family event for us (if they are actually runn
 
 Two quick piccies to show the two styles of trotting:
 
-[![IMG_1494](http://static.flickr.com/26/53699265_e098182cba_m.jpg)](http://www.flickr.com/photos/bandon1/53699265/ "Photo Sharing")
+[![IMG_1494](/images/flickr/2024_download/53699265_e098182cba_c.jpg)](http://www.flickr.com/photos/bandon1/53699265/ "Photo Sharing")
 
-[![IMG_1493](http://static.flickr.com/28/53698955_85cb5f807d_m.jpg)](http://www.flickr.com/photos/bandon1/53698955/ "Photo Sharing")
+[![IMG_1493](/images/flickr/2024_download/53698955_85cb5f807d_c.jpg)](http://www.flickr.com/photos/bandon1/53698955/ "Photo Sharing")
 
 Oh, maybe we were the Dublin skangers.......

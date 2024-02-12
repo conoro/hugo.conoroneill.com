@@ -10,19 +10,19 @@ And so on to attempt number three. This time I followed the advice of Podchef Ne
 
 More usefully, I put the mincer attachment in the freezer for the day and used meat which had barely defrosted. Lo and behold, the meat flew through the mincer. I was using the coarsest holeage (I'm tired, I have no idea what the right term is for that) and so had to run the meat through again. Even tho I had re-cooled eveything (I lay in a bath of ice water for 10 minutes), it must not have been enough because the second run had a bit of jammage (feel free to use that new word in conversation). But still far far better than before.
 
-[![One giant sausage](http://static.flickr.com/35/98659331_ff956895ff_m.jpg)](http://www.flickr.com/photos/bandon1/98659331/ "Photo Sharing")
+[![One giant sausage](/images/flickr/2024_download/98659331_ff956895ff_c.jpg)](http://www.flickr.com/photos/bandon1/98659331/ "Photo Sharing")
 
 I went with a very simple flavouring of a hint of parsley, sage, thyme and oregano all fresh from the cat wee area at the front of the house, a good blast of white pepper and some salt. I probably didn't use enough bread crumbs. This time I went with hog casings which are the bigger ones. The fillage was a bit fiddly but went fine and the linkage was a disaster with the resulting sossies ranging from 1 inch to 6 inches (or 0.25cm to 3cm on a female ruler).
 
-[![Sausage Links](http://static.flickr.com/34/98659358_92a73da295_m.jpg)](http://www.flickr.com/photos/bandon1/98659358/ "Photo Sharing")
+[![Sausage Links](/images/flickr/2024_download/98659358_92a73da295_c.jpg)](http://www.flickr.com/photos/bandon1/98659358/ "Photo Sharing")
 
 The hangage went fine overnight and I cooked them up the following morning. During frying I realised my biggest mistake - overfillage of the sausages. The meat started pushing out through the ends of the casings and after ten minutes I must have had over a centimetre of liquid in the pan.
 
-[![More sausages sizzling](http://static.flickr.com/43/98659386_1b21590c5e_m.jpg)](http://www.flickr.com/photos/bandon1/98659386/ "Photo Sharing")
+[![More sausages sizzling](/images/flickr/2024_download/98659386_1b21590c5e_c.jpg)](http://www.flickr.com/photos/bandon1/98659386/ "Photo Sharing")
 
 It was therefore no surprise that they were very dry again and the texture was too dense due to the lack of bread crumbs. But they tasted really great, as good as shop bought in my humble estimation. I had them with a lovely organic egg from Tesco and some very succulent Danish rashers from the same source.
 
-[![The final cooked product](http://static.flickr.com/42/98659285_50bee3d4df_m.jpg)](http://www.flickr.com/photos/bandon1/98659285/ "Photo Sharing")
+[![The final cooked product](/images/flickr/2024_download/98659285_50bee3d4df_c.jpg)](http://www.flickr.com/photos/bandon1/98659285/ "Photo Sharing")
 
 I highly recommend that you temporarily buy these tasty offerings from Denmark, at least whilst Riots R Us are having this week's riot on the topic of cartoons. Next week's riot will be back to the usual topic of why America is the great satan and will be protesting NBC's cancellation of "Jihad Idol".
 

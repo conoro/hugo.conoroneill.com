@@ -26,14 +26,14 @@ There are some techie aspects to this which I will only mention in passing. Skip
 
 Anyway, techies and non-techies, foodies and non-foodies, have a look at these, have a think and post a comment.
 
-[![GourmetRecipeManager01](http://static.flickr.com/47/114905703_1c714ca942.jpg)](http://www.flickr.com/photos/bandon1/114905703/ "Photo Sharing")
+[![GourmetRecipeManager01](/images/flickr/2024_download/114905703_1c714ca942.jpg)](http://www.flickr.com/photos/bandon1/114905703/ "Photo Sharing")
 
-[![GourmetRecipeManager02](http://static.flickr.com/45/114905686_d4f104582d.jpg)](http://www.flickr.com/photos/bandon1/114905686/ "Photo Sharing")
+[![GourmetRecipeManager02](/images/flickr/2024_download/114905686_d4f104582d.jpg)](http://www.flickr.com/photos/bandon1/114905686/ "Photo Sharing")
 
-[![GourmetRecipeManager03](http://static.flickr.com/55/114905722_79f61f1942.jpg)](http://www.flickr.com/photos/bandon1/114905722/ "Photo Sharing")
+[![GourmetRecipeManager03](/images/flickr/2024_download/114905722_79f61f1942.jpg)](http://www.flickr.com/photos/bandon1/114905722/ "Photo Sharing")
 
-[![GourmetRecipeManager04](http://static.flickr.com/42/114905736_0734c6b53a.jpg)](http://www.flickr.com/photos/bandon1/114905736/ "Photo Sharing")
+[![GourmetRecipeManager04](/images/flickr/2024_download/114905736_0734c6b53a.jpg)](http://www.flickr.com/photos/bandon1/114905736/ "Photo Sharing")
 
-[![GourmetRecipeManager05](http://static.flickr.com/55/114905761_1998643979.jpg)](http://www.flickr.com/photos/bandon1/114905761/ "Photo Sharing")
+[![GourmetRecipeManager05](/images/flickr/2024_download/114905761_1998643979.jpg)](http://www.flickr.com/photos/bandon1/114905761/ "Photo Sharing")
 
 [tags]Structured Blogging, StructuredBlogging.org, RecipeML, Recipes, Microformats, Gourmet Recipe Manager[/tags]

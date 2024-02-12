@@ -18,13 +18,13 @@ For starters I had carpaccio of beef with a rocket salad. The beef was gorgeous 
 
 [
 
-![The Old Post Inn, Cloverhill, Cavan](http://farm3.static.flickr.com/2231/2252144265_0ca66d74d6_m.jpg)
+![The Old Post Inn, Cloverhill, Cavan](/images/flickr/2024_download/2252144265_0ca66d74d6_c.jpg)
 
 ](http://www.flickr.com/photos/bandon1/2252144265/ "The Old Post Inn, Cloverhill, Cavan by bandon1, on Flickr")
 
 [
 
-![The Old Post Inn, Cloverhill, Cavan](http://farm3.static.flickr.com/2407/2252142095_9c6e0dd7e6_m.jpg)
+![The Old Post Inn, Cloverhill, Cavan](/images/flickr/2024_download/2252142095_9c6e0dd7e6_c.jpg)
 
 ](http://www.flickr.com/photos/bandon1/2252142095/ "The Old Post Inn, Cloverhill, Cavan by bandon1, on Flickr")
 
@@ -34,13 +34,13 @@ My main was Peking duck on celeriac which, whilst very tasty, had flabby soft sk
 
 [
 
-![The Old Post Inn, Cloverhill, Cavan](http://farm3.static.flickr.com/2037/2252944804_4a9284d90a_m.jpg)
+![The Old Post Inn, Cloverhill, Cavan](/images/flickr/2024_download/2252944804_4a9284d90a_c.jpg)
 
 ](http://www.flickr.com/photos/bandon1/2252944804/ "The Old Post Inn, Cloverhill, Cavan by bandon1, on Flickr")
 
 [
 
-![The Old Post Inn, Cloverhill, Cavan](http://farm3.static.flickr.com/2369/2252946190_8e42554901_m.jpg)
+![The Old Post Inn, Cloverhill, Cavan](/images/flickr/2024_download/2252946190_8e42554901_c.jpg)
 
 ](http://www.flickr.com/photos/bandon1/2252946190/ "The Old Post Inn, Cloverhill, Cavan by bandon1, on Flickr")
 
@@ -48,13 +48,13 @@ Her dessert was three mini creme brulees which weren't very distinctly different
 
 [
 
-![The Old Post Inn, Cloverhill, Cavan](http://farm3.static.flickr.com/2215/2252152567_4791992215_m.jpg)
+![The Old Post Inn, Cloverhill, Cavan](/images/flickr/2024_download/2252152567_4791992215_c.jpg)
 
 ](http://www.flickr.com/photos/bandon1/2252152567/ "The Old Post Inn, Cloverhill, Cavan by bandon1, on Flickr")
 
 [
 
-![The Old Post Inn, Cloverhill, Cavan](http://farm3.static.flickr.com/2096/2252150897_520725e128_m.jpg)
+![The Old Post Inn, Cloverhill, Cavan](/images/flickr/2024_download/2252150897_520725e128_c.jpg)
 
 ](http://www.flickr.com/photos/bandon1/2252150897/ "The Old Post Inn, Cloverhill, Cavan by bandon1, on Flickr")
 

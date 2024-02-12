@@ -8,11 +8,11 @@ comment = false
 
 We got a call from Customer support in Yoplait last Friday week asking if we were in to take a delivery and to apologise for [the mis-labelled yoghurt](http://conoroneill.com/2006/07/29/yoplait-make-oscar-mad-again/). Shortly afterwards a courier arrived with two boxes full of these:
 
-[![More Dairy products from Glanbia](http://static.flickr.com/94/213052838_715c9764fb.jpg)](http://www.flickr.com/photos/bandon1/213052838/ "Photo Sharing")
+[![More Dairy products from Glanbia](/images/flickr/2024_download/213052838_715c9764fb.jpg)](http://www.flickr.com/photos/bandon1/213052838/ "Photo Sharing")
 
 and these
 
-[![Dairy products from Glanbia](http://static.flickr.com/63/213053127_9ff71fe132.jpg)](http://www.flickr.com/photos/bandon1/213053127/ "Photo Sharing")
+[![Dairy products from Glanbia](/images/flickr/2024_download/213053127_9ff71fe132.jpg)](http://www.flickr.com/photos/bandon1/213053127/ "Photo Sharing")
 
 Osc was blown away, he could not believe that he got all this stuff for, as he put it, "some words on a bit of paper". He wanted to keep everything in his room so his siblings would get none of it but we pointed out that he needed a fridge for that.
 

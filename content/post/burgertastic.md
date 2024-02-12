@@ -14,6 +14,6 @@ His "Cook's Tour" follow-up was less hyped but also a very good read. The associ
 
 His "Les Halles Cookbook" is fabulous but I've only read about a quarter of it so far. Tonight I'm checking for his burger recipe. The burger reviewed by Two-Twenty has me drooling at 8.30am. Burger, Fois Gras, Black Truffle, Red-Wine Sauce............
 
-![](http://photos16.flickr.com/22324153_b17bffe81c_t.jpg)
+![](/images/flickr/2024_download/22324153_b17bffe81c_t.jpg)
 
 <span class="technoratitag"> [](http://www.technorati.com/tags/conoroneill) [](http://www.technorati.com/tags/bandon) [](http://www.technorati.com/tags/burger)</span>

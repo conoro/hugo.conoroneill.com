@@ -12,6 +12,6 @@ As ever, someone else expresses this thought so much better than I can.
 
 From [Prickly City](http://www.ucomics.com/pricklycity/):
 
-[![Che 1](http://static.flickr.com/28/59793745_da292c1cab.jpg)](http://static.flickr.com/28/59793745_da292c1cab_o.gif)
+[![Che 1](/images/flickr/2024_download/59793745_da292c1cab.jpg)](http://static.flickr.com/28/59793745_da292c1cab_o.gif)
 
-[![Che 2](http://static.flickr.com/26/59793759_d6478c5abb.jpg)](http://static.flickr.com/26/59793759_d6478c5abb_o.gif)
+[![Che 2](/images/flickr/2024_download/59793759_d6478c5abb.jpg)](http://static.flickr.com/26/59793759_d6478c5abb_o.gif)

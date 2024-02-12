@@ -25,7 +25,7 @@ The steps you need to follow are simple.
 
 It should look like this:
 
-    ![SMS Review of Wine](http://farm3.static.flickr.com/2231/2217164958_f704eeae64_o.jpg)
+    ![SMS Review of Wine](/images/flickr/2024_download/2217164958_f704eeae64_o.jpg)
 
 5.  That's it, you're done! Your review will be available immediately on the [LouderVoice site](http://www.loudervoice.com/)
 More details about the Wine Blogging Wednesday event over on the [LouderVoice Blog](http://blog.loudervoice.com/2008/01/24/can-you-review-a-wine-in-7-words/).

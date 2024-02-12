@@ -10,7 +10,7 @@ I'm not going to be able to put into proper words how fantastic the meal in [OCC
 
 When we moved to Bandon two years ago, I asked around about good restaurants in the area. The general consensus was that none of the ones in Bandon were great but that Otto's in Dunworley was fantastic. A few months later I did a foray down there to see where it was and to check out the beach. I thought the road would never end. Finally, just as we arrived exactly in the middle of nowhere, I saw the entrance. We kept going and went down to the beach which is fabulous - small, rocky, interesting, fantastic views. 
 
-[![IMG_1236](http://static.flickr.com/33/42267008_32255de0f3_m.jpg)](http://www.flickr.com/photos/bandon1/42267008/ "Photo Sharing")
+[![IMG_1236](/images/flickr/2024_download/42267008_32255de0f3_c.jpg)](http://www.flickr.com/photos/bandon1/42267008/ "Photo Sharing")
 
 So for the next 18 months, we said "we must we must" but the drive down that twisty road late at night was putting us off. Then last christmas C&T gave us a voucher for a meal for two there as a thank-you. We continued on with "we must we must". A few weeks back, Catherine and her sis Paula decided to have a day of pampering in Inchydoney (they left 30 minutes ago and all 4 children are still alive - even if Sib&eacute;al's lip is bleeding). Paula, the saint, offered to mind our darlings last night so we could head out. One problem is the cost of cabs to get anywhere. Cork is &euro;40, Clon is &euro;25, Kilbrittain is &euro;20 and Dunworley is &euro;30 - all of those are each way! We initially went for Casino house but they were booked out. Then we copped ourselves on and realised that if we did Otto's then we were only paying for the taxi (and booze). So off we went.
 
@@ -40,11 +40,11 @@ The menu is a fixed price &euro;50 per head. If they were doing food of this qua
 
 We have two Nokia-crap-cam pictures. One is of the vines which I'll post when I get Catherine's phone off her. The other is the bannister down to the loos - perfection in house design.
 
-![](http://static.flickr.com/27/42252077_628bd77ca5_m.jpg "Otto")
+![](/images/flickr/2024_download/42252077_628bd77ca5_c.jpg "Otto")
 
 UPDATE: Got vine piccie from Catherine
 
-[![image1](http://static.flickr.com/31/42443713_dbddaf8bab_m.jpg)](http://www.flickr.com/photos/bandon1/42443713/ "Photo Sharing")
+[![image1](/images/flickr/2024_download/42443713_dbddaf8bab_c.jpg)](http://www.flickr.com/photos/bandon1/42443713/ "Photo Sharing")
 
 The title of this post was "Otto's Creative Catering - One of our top 5 meals of all time". The locations of the others were (in no particular order):
 

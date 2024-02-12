@@ -7,7 +7,7 @@ comment = false
 +++
 
 Considered by Jeffrey Veen of Google to be close to perfection when it comes to usability on a web-site.
-[![haynet](http://static.flickr.com/92/239280581_09b5c938ed.jpg)](http://www.flickr.com/photos/bandon1/239280581/ "Photo Sharing")  
+[![haynet](/images/flickr/2024_download/239280581_09b5c938ed.jpg)](http://www.flickr.com/photos/bandon1/239280581/ "Photo Sharing")  
 
 &nbsp;
 

@@ -15,7 +15,7 @@ comment = false
 Yeah, yeah I know it's for "Charedee" but apart from your granny buying you this instead of socks, who does he think the target market is? Other talented singer superstars like himself? Gift Grub fans being ironic?
 And why does Ronan look like he is checking his arm-pit for B.O.?
 
-[![Image026](http://static.flickr.com/54/117198372_accdf3ebd5.jpg)](http://www.flickr.com/photos/bandon1/117198372/ "Photo Sharing")
+[![Image026](/images/flickr/2024_download/117198372_accdf3ebd5.jpg)](http://www.flickr.com/photos/bandon1/117198372/ "Photo Sharing")
 
 So many questions, so little interest.
 

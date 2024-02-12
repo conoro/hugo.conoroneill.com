@@ -8,7 +8,7 @@ comment = false
 
 To mix vernaculars; Holy god, [Ummera ](http://www.ummera.com/)Rox! Wifey spotted Ummera Smoked Bacon in [Urru ](http://www.urru.ie/)in Bandon today and bought a pack.
 
-[![Ummera Smoked Bacon](http://static.flickr.com/18/70598611_fda7662e82_m.jpg)](http://www.flickr.com/photos/bandon1/70598611/ "Photo Sharing")
+[![Ummera Smoked Bacon](/images/flickr/2024_download/70598611_fda7662e82_c.jpg)](http://www.flickr.com/photos/bandon1/70598611/ "Photo Sharing")
 
 Check out the back fat on that baby. Hell, I even have trouble competing with that.
 

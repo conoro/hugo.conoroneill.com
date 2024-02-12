@@ -16,7 +16,7 @@ They always slather them in mustard, presumably to kill both the taste and the s
 
 It looks a little bit like this:
 
-![kroket](http://static.flickr.com/5/5315865_6233dbd80a_m_d.jpg)
+![kroket](/images/flickr/2024_download/5315865_6233dbd80a_m_d.jpg)
 
 So in summary; Man Friday's - the best restaurant for kroket lovers in Ireland. 
 

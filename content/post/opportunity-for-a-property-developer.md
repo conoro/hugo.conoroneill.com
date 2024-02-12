@@ -14,7 +14,7 @@ However, this prime location is missing something critical - somewhere people ca
 
 The beneficial knock-on effects to other local businesses of having a regular stream of visitors are obvious. At the moment, all that business traffic goes to the city, Clon, Skibb, Kinsale and elsewhere.
 
-[![Excel London](http://farm4.static.flickr.com/3061/2692509277_cc5893aeab.jpg)](http://www.flickr.com/photos/bandon1/2692509277/ "Excel London by bandon1, on Flickr")
+[![Excel London](/images/flickr/2024_download/2692509277_cc5893aeab.jpg)](http://www.flickr.com/photos/bandon1/2692509277/ "Excel London by bandon1, on Flickr")
 
 So there you have it. If you are someone who has spent a fortune on property in the area over the last ten years and/or if you are sitting on assets you won't be able to shift until 2010 at the earliest, here's a way to generate immediate regular cash and provide a major boost to the town.
 

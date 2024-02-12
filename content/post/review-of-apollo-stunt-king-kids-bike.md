@@ -25,7 +25,7 @@ He is only 5 years old and could not handle gears so it had to be single-gear bi
 
 The choice in Halford's (Mahon Point, Cork) generally for kids isn't great. But he spotted an pseudo-BMX bike and had to have it. At  €109 (after €50 discount) it was only a tenner cheaper than the 18-speed ATB that his brother got. However it seems to have higher quality components and is still reasonable value.
 
-[![Halford](http://farm2.static.flickr.com/1227/726153943_4cb616a700.jpg)](http://www.flickr.com/photos/bandon1/726153943/ "Photo Sharing")
+[![Halford](/images/flickr/2024_download/726153943_4cb616a700.jpg)](http://www.flickr.com/photos/bandon1/726153943/ "Photo Sharing")
 
 Assembly took about forty minutes at home. The handlebars, front wheel and seat were all that really needed to be done. But the axle extensions took the most amount of time due to not having the right tool. 
 

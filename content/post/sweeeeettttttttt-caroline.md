@@ -12,7 +12,7 @@ We arrived about 30 minutes before the meal was due to start. Caroline was looki
 
 This picture shows the bride in full flight.Take it from me that Dave looks just as good from the front.
 
-[![IMG_1570](http://static.flickr.com/33/55579947_85eab7b68c_m.jpg)](http://www.flickr.com/photos/bandon1/55579947/ "Photo Sharing")
+[![IMG_1570](/images/flickr/2024_download/55579947_85eab7b68c_c.jpg)](http://www.flickr.com/photos/bandon1/55579947/ "Photo Sharing")
 
 We are now at that age where we only see batches of the old gang at weddings and special occasions. Caroline had gathered a fine selection of engineering misfits and their partners and we got on to our usual topics as if we had seen each other only yesterday.
 
@@ -20,13 +20,13 @@ As the wedding started so early, most people were well-on by the time we arrived
 
 I had been talking to Claire, Dee, Paul, Brian, Conor and Maria before I finally refocused to realise that the room we were in had one fantastic view. I only managed to get a picture of it on Monday in lashing rain but it is still pretty wonderful:
 
-[![IMG_1576](http://static.flickr.com/25/55580498_2180f45395_m.jpg)](http://www.flickr.com/photos/bandon1/55580498/ "Photo Sharing")
+[![IMG_1576](/images/flickr/2024_download/55580498_2180f45395_c.jpg)](http://www.flickr.com/photos/bandon1/55580498/ "Photo Sharing")
 
 The meal was spot-on, the cake was fab and I loved the wine. I was too bloated to move after that.
 
 First picture is of the final two contestants in the Bernard Manning Lookalike contest (with Paul there for scale):
 
-[![IMG_1557](http://static.flickr.com/27/55580363_cd3a787c98_m.jpg)](http://www.flickr.com/photos/bandon1/55580363/ "Photo Sharing")
+[![IMG_1557](/images/flickr/2024_download/55580363_cd3a787c98_c.jpg)](http://www.flickr.com/photos/bandon1/55580363/ "Photo Sharing")
 
 The entertainment then began and the band turned out to be the best damned wedding band of all time. I am not bloody joking. The lead singer looked like Jennifer Ellison and absolutely nailed "River Deep, Mountain High". I did not want them to stop. I forced Wifey up for a few dances but sadly my belly gave severe head injuries to several small children and the dance floor had to be evacuated.
 
@@ -34,19 +34,19 @@ We had a great old catch-up session and realised that the men are all still as i
 
 Maria tells Conor-Dub that he was always her favourite Conor.
 
-[![IMG_1566](http://static.flickr.com/27/55580099_08ce352415_m.jpg)](http://www.flickr.com/photos/bandon1/55580099/ "Photo Sharing")
+[![IMG_1566](/images/flickr/2024_download/55580099_08ce352415_c.jpg)](http://www.flickr.com/photos/bandon1/55580099/ "Photo Sharing")
 
 Eoin tells me that he has his hand on my wife's ass. Catherine is clearly impressed.
 
-[![IMG_1558](http://static.flickr.com/31/55580237_62c37dd5b9_m.jpg)](http://www.flickr.com/photos/bandon1/55580237/ "Photo Sharing")
+[![IMG_1558](/images/flickr/2024_download/55580237_62c37dd5b9_c.jpg)](http://www.flickr.com/photos/bandon1/55580237/ "Photo Sharing")
 
 Aoife says "pregnancy munchies me? I don't think so. Hands off, they're all mine"
 
-[![IMG_1565](http://static.flickr.com/30/55580178_caf49267f0_m.jpg)](http://www.flickr.com/photos/bandon1/55580178/ "Photo Sharing")
+[![IMG_1565](/images/flickr/2024_download/55580178_caf49267f0_c.jpg)](http://www.flickr.com/photos/bandon1/55580178/ "Photo Sharing")
 
 Jill tries to give Conor a hug and convince him that he doesn't need to lose weight. Her arms won't fit around. 
 
-[![IMG_1556](http://static.flickr.com/25/55580435_bc53c37956_m.jpg)](http://www.flickr.com/photos/bandon1/55580435/ "Photo Sharing")
+[![IMG_1556](/images/flickr/2024_download/55580435_bc53c37956_c.jpg)](http://www.flickr.com/photos/bandon1/55580435/ "Photo Sharing")
 
 That picture causes Conor to go on the GI diet and give up drink until Christmas. Starting tomorow, I swear.......
 

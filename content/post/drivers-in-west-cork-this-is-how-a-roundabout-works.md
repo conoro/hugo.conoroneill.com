@@ -8,9 +8,9 @@ comment = false
 
 I hope the National Safety Council don't mind me infringing their copyright but if publishing these pictures can save just one life then it'll be worth it. Those lives will be saved by me not killing with my bare hands the next moron who can't correctly negotiate the "new" mini-roundabout in Bandon.
 
-[![roundabout01b](http://static.flickr.com/49/112568014_84cda338f7.jpg)](http://www.flickr.com/photos/bandon1/112568014/ "Photo Sharing")
+[![roundabout01b](/images/flickr/2024_download/112568014_84cda338f7.jpg)](http://www.flickr.com/photos/bandon1/112568014/ "Photo Sharing")
 
-[![roundabout02b](http://static.flickr.com/46/112568033_b478e2e83f.jpg)](http://www.flickr.com/photos/bandon1/112568033/ "Photo Sharing")
+[![roundabout02b](/images/flickr/2024_download/112568033_b478e2e83f.jpg)](http://www.flickr.com/photos/bandon1/112568033/ "Photo Sharing")
 
 Just because you've driven through that junction the same way for the past 60 years like Col. Michael Collins did before you and Gen. Tom Barry did before him, does not mean you can sail through the roundabout in your 4x4 at 60 MPH without pausing anymore.
 

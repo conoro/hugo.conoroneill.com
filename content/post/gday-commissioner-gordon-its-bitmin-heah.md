@@ -6,7 +6,7 @@ id = 209
 comment = false
 +++
 
-![](http://static.flickr.com/38/80530566_b0f141f89d_m.jpg)
+![](/images/flickr/2024_download/80530566_b0f141f89d_c.jpg)
 
 For one very scary moment, I thought we had accidentally rented out a special Australian Edition of "Batman Begins" redubbed with Sir Les Patterson as Batman, Dame Edna Everage as Rachel Dawes and Michael Caine as Alfred (oh, wait a sec).
 

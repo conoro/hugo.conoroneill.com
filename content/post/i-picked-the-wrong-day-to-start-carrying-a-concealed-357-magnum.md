@@ -6,4 +6,4 @@ id = 221
 comment = false
 +++
 
-[![No Guns](http://static.flickr.com/40/87408528_3fd2748626_m.jpg)](http://www.flickr.com/photos/bandon1/87408528/ "Photo Sharing")
+[![No Guns](/images/flickr/2024_download/87408528_3fd2748626_c.jpg)](http://www.flickr.com/photos/bandon1/87408528/ "Photo Sharing")

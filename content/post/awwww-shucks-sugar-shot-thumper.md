@@ -6,7 +6,7 @@ id = 282
 comment = false
 +++
 
-[![rabbit](http://static.flickr.com/55/113214448_055dc64492_m.jpg)](http://www.flickr.com/photos/bandon1/113214448/ "Photo Sharing")
+[![rabbit](/images/flickr/2024_download/113214448_055dc64492_c.jpg)](http://www.flickr.com/photos/bandon1/113214448/ "Photo Sharing")
 
 Poor ickle-wickle Alexa, the bad man fired her.
 

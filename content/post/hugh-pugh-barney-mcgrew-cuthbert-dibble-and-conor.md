@@ -14,7 +14,7 @@ The title of the session was "A Pig in a day with Hugh and Ray". Ray being the b
 
 The demo-kitchen in Ballymaloe was fantastic. Huge long worktop where they did their work, with a giant angled mirror behind so you could see everything and then two monitors focussed on the worktop. Even the two boys were impressed. 
 
-[![The Big Mirror in Ballymaloe](http://static.flickr.com/32/55584952_8644620dc9_m.jpg)](http://www.flickr.com/photos/bandon1/55584952/ "Photo Sharing")
+[![The Big Mirror in Ballymaloe](/images/flickr/2024_download/55584952_8644620dc9_c.jpg)](http://www.flickr.com/photos/bandon1/55584952/ "Photo Sharing")
 
 I was very surprised to then see that Darina was staying for the entire day's session. She did a huge amount - helping, querying, guiding prompting and taking notes.  All male heads turned at once about half way through when Rachel appeared to have a quick word with Darina.
 
@@ -28,11 +28,11 @@ Then onto the pork liver terrine. Here the mincer was brought into action ("I'm 
 
 All the while, the two lads were extremely entertaining, informative and their enthusiasm was infectious. I took a bunch of photos at coffee break as the ones up until then had all been rubbish.
 
-[![Hugh Posing for a photograph](http://static.flickr.com/28/55584765_aef17fe334_m.jpg)](http://www.flickr.com/photos/bandon1/55584765/ "Photo Sharing")
+[![Hugh Posing for a photograph](/images/flickr/2024_download/55584765_aef17fe334_c.jpg)](http://www.flickr.com/photos/bandon1/55584765/ "Photo Sharing")
 
 Then they moved onto one of the main reasons I was there - sausage making! I bought a Kenwood Chef with mincer attachment and sausage making kit last year and have yet to use it. Fear mixed with total cluelessness about where I would get the sausage casings were the main reasons. A long session ensued with the discussion on the contents of the mix taking a lot of the time. This was a big interactive session with several people trying their hand at making the actual sausages. One guy even made a good stab at doing the butcher style linking of loads of them. 
 
-[![Ray](http://static.flickr.com/30/55585030_c7ce8e3857_m.jpg)](http://www.flickr.com/photos/bandon1/55585030/ "Photo Sharing")
+[![Ray](/images/flickr/2024_download/55585030_c7ce8e3857_c.jpg)](http://www.flickr.com/photos/bandon1/55585030/ "Photo Sharing")
 
 At that point they answered one of my questions - don't ask your local butcher for casings as you are basically implying that you think you can do a better job of sausage making than him. Hugh highly recommended [The Natural Casing Company](http://www.naturalcasingco.co.uk/) in the UK. I emailed them today to check on postage to Ireland and mentioned the fact that I had been on a Hugh course. They replied, thanking me for explaining why they got so many calls from Ireland today! My order for Hog Casings is going in tomorrow.
 
@@ -40,11 +40,11 @@ As we ran towards lunch, Hugh decided to quickly cook up two things which cause 
 
 He then asked if anyone wanted to try brains. My hand shot up. No way I was mising an opportunity to quote George Romero. He had boiled them earlier and now fried them. But a pigs brain is quite small ("mmm,mud") and there was a melee with people trying to get a taste and I ended up getting none. So no prions for me then.
 
-[![Pig Brains](http://static.flickr.com/26/55584448_74cb6591c8_m.jpg)](http://www.flickr.com/photos/bandon1/55584448/ "Photo Sharing")
+[![Pig Brains](/images/flickr/2024_download/55584448_74cb6591c8_c.jpg)](http://www.flickr.com/photos/bandon1/55584448/ "Photo Sharing")
 
 We then broke for lunch which was superb. Starter was pea and mint soup which was the nicest I have ever eaten. Main was built around the pork loin which had the nicest crackling of all time. But with this went some of the sausages from earlier (predicted to be bland as they should really sit for a day; they were), salad and some salamis from the [Gubbeen Smokehouse](http://www.gubbeen.com/) in Schull. I've had these salamis before and they are gorgeous.  Fingal Ferguson, the maker, was there and Darina asked him to tell us what each type was. I was scanning the room to see which old geezer was talking - it turned out to be the guy who looked about 15 years old just ahead of me. Young whippersnapper making me feel un-accomplished! 
 
-[![Ray with Fingal](http://static.flickr.com/24/55584647_6f94d1888c_m.jpg)](http://www.flickr.com/photos/bandon1/55584647/ "Photo Sharing")
+[![Ray with Fingal](/images/flickr/2024_download/55584647_6f94d1888c_c.jpg)](http://www.flickr.com/photos/bandon1/55584647/ "Photo Sharing")
 
 The crowd was interesting. The usual batch of know-it-all foodies who only asked questions so they could let us all know how much they knew. Four pig farmers.  A lot of Brits (Hugh groupies?) and a bunch of pretty average nobodies like myself. 
 
@@ -58,10 +58,10 @@ We both agreed that there were serious issues to address if he was to even consi
 
 I knew from the start of the day that I was leaving early to get down to Caroline's wedding in Killarney but I was hoping to see either the Chorizo or the air-dryed ham preparation. I was gutted when Darina announced that the afternoon session was not starting until 2.45 which was only a few mins before I was going to leave. So I had to make my excuses and head back to Bandon.
 
-[![Pig Leg before anything done to it](http://static.flickr.com/24/55584721_8c32bbf8dd_m.jpg)](http://www.flickr.com/photos/bandon1/55584721/ "Photo Sharing")
+[![Pig Leg before anything done to it](/images/flickr/2024_download/55584721_8c32bbf8dd_c.jpg)](http://www.flickr.com/photos/bandon1/55584721/ "Photo Sharing")
 
 But that was one bloody brilliant (can't find more expressive terms) morning. I learned tons. I wrestled with the "could I do that for a living?" question. I think I answered it -  "not unless I win the lotto". I saw bits of an animal that very few people get to or want to see. And finally, I saw that Darina Allen is a force of nature - long may she succeed. 
 
-I have a [Flickr Photo Set of the day here](http://www.flickr.com/photos/bandon1/sets/1203940/). Quality is pretty low!
+I have a [Flickr Photo Set of the day here](https://www.flickr.com/photos/bandon1/albums/1203940/). Quality is pretty low!
 
 Whew, now for the wedding.........

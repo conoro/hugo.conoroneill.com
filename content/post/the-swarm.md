@@ -9,7 +9,7 @@ comment = false
 What in the name of god is this yoke?
 
 &nbsp;
-[![Flying Killer Insect](http://static.flickr.com/62/215048560_bce15c1596.jpg)](http://www.flickr.com/photos/bandon1/215048560/ "Photo Sharing")  
+[![Flying Killer Insect](/images/flickr/2024_download/215048560_bce15c1596.jpg)](http://www.flickr.com/photos/bandon1/215048560/ "Photo Sharing")  
 
 &nbsp;
 

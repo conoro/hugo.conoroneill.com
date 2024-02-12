@@ -8,7 +8,7 @@ comment = false
 
 This mightn't be a big deal to most people but it's a huge deal to me. If my parents hadn't got me a ZX Spectrum in 1982, I wouldn't have had the life I've had. No exaggeration. Every single college and career choice I've made stems from the skills I learned on that machine, which I still have (the machine, not the skills :-) ).
 
-[![ZXSpectrum48k](http://farm1.static.flickr.com/213/469641849_8d5cde33ba_m.jpg)](http://www.flickr.com/photos/bandon1/469641849/ "Photo Sharing")
+[![ZXSpectrum48k](/images/flickr/2024_download/469641849_8d5cde33ba_c.jpg)](http://www.flickr.com/photos/bandon1/469641849/ "Photo Sharing")
 
 Sure 50% of the time I was playing Jet Set Willy and Sabre Wulf but on the Speccy I learned BASIC, Forth and Z80 assembler. I also learned the basic architecture of computers and basic electronics circuits.
 

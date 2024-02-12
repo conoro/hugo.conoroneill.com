@@ -10,7 +10,7 @@ I finally did it - down to Union Hall with all four of the darlings and we bough
 
 So here he is, just home, Spongebob.
 
-[![IMG_1960](http://static.flickr.com/20/72110870_fcd2cee65e_m.jpg)](http://www.flickr.com/photos/bandon1/72110870/ "Photo Sharing")
+[![IMG_1960](/images/flickr/2024_download/72110870_fcd2cee65e_c.jpg)](http://www.flickr.com/photos/bandon1/72110870/ "Photo Sharing")
 
 Overnighted in the fridge covered in wet newspaper. Into the freezer for 2 hours and then straight into boiling, heavily salted water as per Sophie Grigson.
 
@@ -20,6 +20,6 @@ The lobster wasn't great to be honest. Very disappointing - tiny amount of meat 
 
 And now for the bridge I mentioned recently. No it is not a pedestrian bridge and yes that is a van coming towards me:
 
-[![IMG_1947](http://static.flickr.com/35/72109951_456ab00c35_m.jpg)](http://www.flickr.com/photos/bandon1/72109951/ "Photo Sharing")
+[![IMG_1947](/images/flickr/2024_download/72109951_456ab00c35_c.jpg)](http://www.flickr.com/photos/bandon1/72109951/ "Photo Sharing")
 
 [tags] union hall, lobster, glandore, mayonnaise[/tags]

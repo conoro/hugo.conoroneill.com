@@ -11,9 +11,9 @@ With all apologies for total copyright infringement, here are scans of the front
 Click on these thumbnails for more detailed pictures.
 
 Front:
-[![RealGourmetBurger01](http://static.flickr.com/101/292656360_3929625555_m.jpg)](http://www.flickr.com/photos/bandon1/292656360/ "Photo Sharing")
+[![RealGourmetBurger01](/images/flickr/2024_download/292656360_3929625555_c.jpg)](http://www.flickr.com/photos/bandon1/292656360/ "Photo Sharing")
 
 Back:
-[![RealGourmetBurger02](http://static.flickr.com/102/292655869_728cbfb757_m.jpg)](http://www.flickr.com/photos/bandon1/292655869/ "Photo Sharing")
+[![RealGourmetBurger02](/images/flickr/2024_download/292655869_728cbfb757_c.jpg)](http://www.flickr.com/photos/bandon1/292655869/ "Photo Sharing")
 
 <span class="technoratitag">Technorati Tags: [Real+Gourmet+Burger](http://www.technorati.com/tags/Real+Gourmet+Burger), [Portlaoise](http://www.technorati.com/tags/Portlaoise), [Menu](http://www.technorati.com/tags/Menu)</span>

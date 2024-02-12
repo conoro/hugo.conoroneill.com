@@ -8,7 +8,7 @@ comment = false
 
 I received the following message from Web Filtering software inside a multi-national corporation today:
 
-[![PXN8.COM - Sat Apr 22 09:23:54 2006](http://static.flickr.com/44/132763535_2fb90805b6_o.jpg)](http://www.flickr.com/photos/bandon1/132763535/ "Photo Sharing")
+[![PXN8.COM - Sat Apr 22 09:23:54 2006](/images/flickr/2024_download/132763535_2fb90805b6_o.jpg)](http://www.flickr.com/photos/bandon1/132763535/ "Photo Sharing")
 
 They think eGullet, the best food forum on the web, is a GPORN site. I'll need help with this one. Guava Pr0n? Grapefruit Pr0n? Gremolata Pr0n?
 

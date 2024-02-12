@@ -25,7 +25,7 @@ I deserve a slap for not doing this review until now. We ate in Deasy's in Ring 
 
 Deasy's is situated on a coastal road along Clonakilty Bay as you head towards Kinsale. It is right on a bend and the water is just on the other side of the road. Parking more than 4 cars is a challenge but it is not a busy road. The view is worth millions and this awful picture in no way does it justice:
 
-[![View from Deasy](http://static.flickr.com/45/169475910_8b17c1767e.jpg)](http://www.flickr.com/photos/bandon1/169475910/ "Photo Sharing")
+[![View from Deasy](/images/flickr/2024_download/169475910_8b17c1767e.jpg)](http://www.flickr.com/photos/bandon1/169475910/ "Photo Sharing")
 
 Ring is heading towards being in the middle of nowhere and yet Deasy's is always booked out for the weekend. As ever, it proves that no restaurant can use location as an excuse for lack of custom. Deliver great product anywhere and people will flock to you.
 
@@ -51,7 +51,7 @@ If you are anywhere in the area and want stunningly good seafood in one of the b
 
 Deasy's is situated on a coastal road along Clonakilty Bay as you head towards Kinsale. It is right on a bend and the water is just on the other side of the road. Parking more than 4 cars is a challenge but it is not a busy road. The view is worth millions and this awful picture in no way does it justice:
 
-&lt;a href= http://www.flickr.com/photos/bandon1/169475910/  title= Photo Sharing &gt;&lt;img src= http://static.flickr.com/45/169475910_8b17c1767e.jpg  width= 500  height= 375  alt= View from Deasy's Restaurant Ring Clonakilty  /&gt;&lt;/a&gt;
+&lt;a href= http://www.flickr.com/photos/bandon1/169475910/  title= Photo Sharing &gt;&lt;img src= /images/flickr/2024_download/169475910_8b17c1767e.jpg  width= 500  height= 375  alt= View from Deasy's Restaurant Ring Clonakilty  /&gt;&lt;/a&gt;
 
 Ring is heading towards being in the middle of nowhere and yet Deasy's is always booked out for the weekend. As ever, it proves that no restaurant can use location as an excuse for lack of custom. Deliver great product anywhere and people will flock to you.
 

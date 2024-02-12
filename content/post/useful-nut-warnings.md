@@ -8,6 +8,6 @@ comment = false
 
 For those suffering from both nut allergies and an IQ of 50.
 
-[![nuts](http://static.flickr.com/27/62383378_7b96f29302.jpg)](http://www.flickr.com/photos/bandon1/62383378/ "Photo Sharing")
+[![nuts](/images/flickr/2024_download/62383378_7b96f29302.jpg)](http://www.flickr.com/photos/bandon1/62383378/ "Photo Sharing")
 
  

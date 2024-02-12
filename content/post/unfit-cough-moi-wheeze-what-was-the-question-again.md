@@ -14,4 +14,4 @@ Next week I might try a bit of exercise, but it is far more fun instead just to 
 
 Wednesday's was one of the best yet:
 
-[![Unfit](http://static.flickr.com/30/59771098_f638c537d5.jpg)](http://static.flickr.com/30/59771098_f638c537d5_o.gif)
+[![Unfit](/images/flickr/2024_download/59771098_f638c537d5.jpg)](http://static.flickr.com/30/59771098_f638c537d5_o.gif)

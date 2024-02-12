@@ -7,7 +7,7 @@ comment = false
 +++
 
 <div style="clear: both" />
-<div style="float: right; margin-left: 10px; margin-bottom: 10px">[![](http://photos17.flickr.com/21966235_26854edbe3_m.jpg)](http://www.flickr.com/photos/bandon1/21966235/ "photo sharing")
+<div style="float: right; margin-left: 10px; margin-bottom: 10px">[![](/images/flickr/2024_download/21966235_26854edbe3_c.jpg)](http://www.flickr.com/photos/bandon1/21966235/ "photo sharing")
 <span style="font-size: 0.9em; margin-top: 0px">  [IMG_1163](http://www.flickr.com/photos/bandon1/21966235/)
 Originally uploaded by [bandon1](http://www.flickr.com/people/bandon1/). </span></div>
 Not bad for a 6 year old with no adult help. If only Fireball and Warlord were still being published, he'd be a very happy little cryptographer.

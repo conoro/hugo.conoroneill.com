@@ -10,11 +10,11 @@ Christine and Dermot Gannon have created a flawless hideaway experience in the T
 
 My lovely mother-in-law Mary got myself and Catherine a night away in The Old Convent as a present last Christmas. It came very highly recommended by her sister-in-law Marie whose standards are very high. We headed off from Bandon mid-afternoon on a Friday and arrived little more than an hour later in Clogheen. On the way we finally passed through the legendary Ballyporeen with its Ronald Regan Visitor Centre.
 
-[![31052008025](http://farm3.static.flickr.com/2389/2540910131_176a04b0ee.jpg)](http://www.flickr.com/photos/bandon1/2540910131/ "31052008025 by bandon1, on Flickr")
+[![31052008025](/images/flickr/2024_download/2540910131_176a04b0ee.jpg)](http://www.flickr.com/photos/bandon1/2540910131/ "31052008025 by bandon1, on Flickr")
 
 The Convent itself is a gorgeous old tall building on the edge of Clogheen village in a beautiful garden. For some reason I was expecting a stern no-nonsense farmer's wife to greet us. I couldn't have been further off the mark. Christine is an absolutely lovely young American who knows exactly how to put you are your ease.
 
-[![30052008012](http://farm4.static.flickr.com/3036/2541690260_dfca0127fc.jpg)](http://www.flickr.com/photos/bandon1/2541690260/ "30052008012 by bandon1, on Flickr")
+[![30052008012](/images/flickr/2024_download/2541690260_dfca0127fc.jpg)](http://www.flickr.com/photos/bandon1/2541690260/ "30052008012 by bandon1, on Flickr")
 
 The whole setup of the operation is just perfect; we both kept saying "isn't that just brilliant" as we'd discover another little touch in the room or restaurant. In particular I love the way they make it possible for you to be sociable with the lounge etc but they don't push it on you. As two totally anti-social people when we are taking a break, we chose not to mingle.
 
@@ -32,13 +32,13 @@ The meal was as follows:
 
 *   Lobster Martini - This had sushi rice, wasabi, lobster, pineapple pickle, Ardsallagh whip and candied pistachios. All the flavours worked beautifully together, but I think I'd have preferred it to be smaller with less of the rice.
 
-[![30052008016](http://farm3.static.flickr.com/2094/2541694708_32867637aa.jpg)](http://www.flickr.com/photos/bandon1/2541694708/ "30052008016 by bandon1, on Flickr")*   Cherry Tomato Veloute - Oh god, I'd have licked the cup clean given half a chance
+[![30052008016](/images/flickr/2024_download/2541694708_32867637aa.jpg)](http://www.flickr.com/photos/bandon1/2541694708/ "30052008016 by bandon1, on Flickr")*   Cherry Tomato Veloute - Oh god, I'd have licked the cup clean given half a chance
 
-[![30052008017](http://farm4.static.flickr.com/3082/2541696766_060e068000.jpg)](http://www.flickr.com/photos/bandon1/2541696766/ "30052008017 by bandon1, on Flickr")*   Pastis Steamed Halibut in sweet and sour duck broth with duck wonton - For some reason this didn't read well on the page but wow it delivered on the plate. Who knew halibut and duck go so well together? I think this was the highlight for Catherine.
+[![30052008017](/images/flickr/2024_download/2541696766_060e068000.jpg)](http://www.flickr.com/photos/bandon1/2541696766/ "30052008017 by bandon1, on Flickr")*   Pastis Steamed Halibut in sweet and sour duck broth with duck wonton - For some reason this didn't read well on the page but wow it delivered on the plate. Who knew halibut and duck go so well together? I think this was the highlight for Catherine.
 
-[![30052008018](http://farm3.static.flickr.com/2029/2541700452_39a0aa7dbb.jpg)](http://www.flickr.com/photos/bandon1/2541700452/ "30052008018 by bandon1, on Flickr")*   Blackcurrant Sorbet with passionfruit jelly - Yum yum yum.
+[![30052008018](/images/flickr/2024_download/2541700452_39a0aa7dbb.jpg)](http://www.flickr.com/photos/bandon1/2541700452/ "30052008018 by bandon1, on Flickr")*   Blackcurrant Sorbet with passionfruit jelly - Yum yum yum.
 
-[![30052008019](http://farm3.static.flickr.com/2407/2541704576_a316cc87eb.jpg)](http://www.flickr.com/photos/bandon1/2541704576/ "30052008019 by bandon1, on Flickr")*   Seared veal fillet with braised shoulder, mushroom and pea fricassee, pecan and raisin gnocchi. Another beautiful medley of flavours that just hangs together so well. Only tiny criticism was that I expected the veal to be a bit pinker.
+[![30052008019](/images/flickr/2024_download/2541704576_a316cc87eb.jpg)](http://www.flickr.com/photos/bandon1/2541704576/ "30052008019 by bandon1, on Flickr")*   Seared veal fillet with braised shoulder, mushroom and pea fricassee, pecan and raisin gnocchi. Another beautiful medley of flavours that just hangs together so well. Only tiny criticism was that I expected the veal to be a bit pinker.
 *   Raspberry and White Chocolate Tiramisu - Not much to say except there was none left when I was done
 *   Chocolate Fondue  - Stroke of genius. A bowl of melting chocolate, fondue prongs and lots of fruit to dip. We couldn't stop eating this despite being totally full.
 *   Cupcakes and Coffee - I was honestly so full I could only fit the coffee but the mini-cupcakes looked lovely
@@ -50,7 +50,7 @@ Off to bed we went and obeyed the stern ;-) rules on the room door which insiste
 
 And the breakfast, oh my god. I won't go through the detail, I'll just paste a photo of the menu below. I had the skillet eggs. A perfect plate of food, just perfect.
 
-[![31052008020](http://farm3.static.flickr.com/2171/2540887767_af29730e73.jpg)](http://www.flickr.com/photos/bandon1/2540887767/ "31052008020 by bandon1, on Flickr")
+[![31052008020](/images/flickr/2024_download/2540887767_af29730e73.jpg)](http://www.flickr.com/photos/bandon1/2540887767/ "31052008020 by bandon1, on Flickr")
 
 We left shortly afterwards on a beautiful Saturday morning.
 

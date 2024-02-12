@@ -12,7 +12,7 @@ Ruth is like a good Tequila - it scares you just a bit but always delivers the g
 
 I'm convinced that Michelle will turn out to be the prototype for Amstrad's new generation of [FemBot](http://en.wikipedia.org/wiki/Fembot). 
 
-[![97232760_0446167161_m](http://static.flickr.com/56/144165925_2baccc09e3_o.jpg)](http://www.flickr.com/photos/bandon1/144165925/ "Photo Sharing")
+[![97232760_0446167161_m](/images/flickr/2024_download/144165925_2baccc09e3_o.jpg)](http://www.flickr.com/photos/bandon1/144165925/ "Photo Sharing")
 
 Does that mean Ruth is [Steve Austin](http://www.internationalhero.co.uk/s/staustin.htm) or [Jaime Sommers](http://www.internationalhero.co.uk/b/bionwom.htm)?
 

@@ -8,11 +8,11 @@ comment = false
 
 Only two months later I get around to blogging our Spider Crab adventure from a few weeks before Christmas. We got a massive one for a few euro in Antcar in Union Hall. At this stage Oisín is totally cool with crustaceans, poor Sibéal was a bit shocked when I arrived back to the car with it.
 
-[![Spider Crab](http://static.flickr.com/42/101658820_42e542ac2a_m.jpg)](http://www.flickr.com/photos/bandon1/101658820/ "Photo Sharing")
+[![Spider Crab](/images/flickr/2024_download/101658820_42e542ac2a_c.jpg)](http://www.flickr.com/photos/bandon1/101658820/ "Photo Sharing")
 
 He stayed in the cooler whilst we did the Skibbereen Winter Wonderland. It wasn't _quite_ Disney but the kids had a howl.
 
-[![Skibbereen Winter Wonderland](http://static.flickr.com/28/101658887_6fe75ac3c7_m.jpg)](http://www.flickr.com/photos/bandon1/101658887/ "Photo Sharing")
+[![Skibbereen Winter Wonderland](/images/flickr/2024_download/101658887_6fe75ac3c7_c.jpg)](http://www.flickr.com/photos/bandon1/101658887/ "Photo Sharing")
 
 Sophie Grigson laments the lack of interest in spider crab meat in the British Isles and recommends it highly. However she describes the preparation of it as "approaching tedious". To quote Bill: "Baby, you ain't kiddin". Over an hour with pliers and a hammer (yes, from my tool box, yes, washed of all WD-40) to extract a tiny mound of meat.
 

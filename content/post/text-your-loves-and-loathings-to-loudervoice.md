@@ -14,11 +14,11 @@ _Review Rating1-5 ItemName**:** Opinion_
 
 It should look like this on your phone:
 
-[![sms_review_phone](http://farm3.static.flickr.com/2067/2084716900_f50bc8510f_m.jpg)](http://www.flickr.com/photos/bandon1/2084716900/ "sms_review_phone by bandon1, on Flickr")
+[![sms_review_phone](/images/flickr/2024_download/2084716900_f50bc8510f_c.jpg)](http://www.flickr.com/photos/bandon1/2084716900/ "sms_review_phone by bandon1, on Flickr")
 
 Then a few moments later, it will look like this on LouderVoice:
 
-[![lv_review_output](http://farm3.static.flickr.com/2167/2050500856_010bdb42a3.jpg)](http://www.flickr.com/photos/bandon1/2050500856/ "lv_review_output by bandon1, on Flickr")
+[![lv_review_output](/images/flickr/2024_download/2050500856_010bdb42a3.jpg)](http://www.flickr.com/photos/bandon1/2050500856/ "lv_review_output by bandon1, on Flickr")
 
 We have two numbers you can use: **+353-87-9409325** and due to lots of demand **+44-778-6205133**
 

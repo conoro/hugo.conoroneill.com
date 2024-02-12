@@ -18,7 +18,7 @@ I'm not sure if he is spoofing the Sky Sports bit (they show stranger things on 
 
 <font size="2" face="Arial"><span style="font-size: 10pt; font-family: Arial" /></font><font size="2" face="Arial">[http://uk.games-workshop.com/warhammerworld/webcam/1/](http://uk.games-workshop.com/warhammerworld/webcam/1/)</font>
 
-[![warhammer_world](http://static.flickr.com/52/106905957_b1fbb023d7_m.jpg)](http://www.flickr.com/photos/bandon1/106905957/ "Photo Sharing")
+[![warhammer_world](/images/flickr/2024_download/106905957_b1fbb023d7_c.jpg)](http://www.flickr.com/photos/bandon1/106905957/ "Photo Sharing")
 
 And I hope he is serious about Hulk Hogan really doing some of the commentating.
 

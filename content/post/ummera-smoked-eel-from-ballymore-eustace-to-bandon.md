@@ -8,7 +8,7 @@ comment = false
 
 I have promised to blog the Ummera Smoked Eeel since the day I got it and I actually ate it about a week after receiving it in December. Before eating, I scanned all my cook books and the general consesus was that brown-bread, lemon and maybe horseradish were the things to eat it with. But Anthony of Ummera warned me not to over-do it with extra flavours so I took it easy.
 
-[![](http://static.flickr.com/38/80822648_73634d1c3d_m.jpg)](http://www.flickr.com/photos/bandon1/80822648/ "Photo Sharing")
+[![](/images/flickr/2024_download/80822648_73634d1c3d_c.jpg)](http://www.flickr.com/photos/bandon1/80822648/ "Photo Sharing")
 
 I was actually quite tentative about eating it which is ridiculous considering I'll wolf down wasabi dunked sashimi in the blink of an eye. But I think I had always heard phrases like "an acquired taste" over the years and then Ruth in Urru said it was a niche product (but quickly qualified that it was lovely). And blow me, it is bloody lovely! Nothing like what I was expecting. Think very subtle smoked mackerel but with a much smoother and nicer texture. I was going to just have a taste but then said shag it and gobbled the lot of it down. I did put it on dark Ryvita - I'm not sure if this is the food equivalent of eating it with Monster Munch but I thought they worked really well together. I then tried a tiny squirt of lemon juice and it worked brilliantly. But I realised that Anthony was definitely right - horseradish would have overwhelmed it.
 

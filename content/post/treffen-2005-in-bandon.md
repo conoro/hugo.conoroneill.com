@@ -14,7 +14,7 @@ The boys were hugely impressed by the cool bikes, particularly the trikes and th
 
 Events like this are great for a town and hopefully this will encourage more Clubs to come here. Porsche 911 Owners Club - any interest?
 
-[![IMG_1411](http://photos33.flickr.com/39019044_96ecd688c3_m.jpg)](http://www.flickr.com/photos/bandon1/39019044/ "Photo Sharing")
+[![IMG_1411](/images/flickr/2024_download/39019044_96ecd688c3_c.jpg)](http://www.flickr.com/photos/bandon1/39019044/ "Photo Sharing")
 
 [Treffen Flickr Set](http://www.flickr.com/photos/bandon1/39019044/in/set-859816/)
 

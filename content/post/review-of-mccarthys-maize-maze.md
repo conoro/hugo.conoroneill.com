@@ -27,7 +27,7 @@ It is €5 per person with under fives free and they also have some picnic table
 
 We had three adults, a baby in sling, my five year old and my three year old. Initially the kids were unimpressed and griped but they soon got into the swing of it when we found the first clue. They loved ringing the big brass bell in the middle. We took the easiest shortest approach which was lucky as it started raining just towards the end. I could see it being a real challenge without a map as the corn is very tall at this stage so you have no frame of reference.
 
-[![1304817337_9a269a0ee7](http://farm2.static.flickr.com/1355/1307120648_b487c2a9b5.jpg)](http://www.flickr.com/photos/bandon1/1307120648/ "Photo Sharing")
+[![1304817337_9a269a0ee7](/images/flickr/2024_download/1307120648_b487c2a9b5.jpg)](http://www.flickr.com/photos/bandon1/1307120648/ "Photo Sharing")
 
 It was great fun and I could see it being brilliant for parties with older kids. You could even hide surprises and prizes in the maze and have a big feast once they are done.
 

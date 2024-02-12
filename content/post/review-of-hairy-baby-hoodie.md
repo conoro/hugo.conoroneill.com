@@ -23,7 +23,7 @@ We're Hairy Baby fanatics in this house. I treasure my "Are you the farmer" t-sh
 
 Catherine spotted that they now do hoodies where you can customise some of the text on them. We couldn't resist this for my sister's birthday: 
 
- [![CSI Bandon Hoodie](http://farm2.static.flickr.com/1190/913336229_3c5fee4d8f.jpg)](http://www.flickr.com/photos/bandon1/913336229/ "Photo Sharing")
+ [![CSI Bandon Hoodie](/images/flickr/2024_download/913336229_3c5fee4d8f.jpg)](http://www.flickr.com/photos/bandon1/913336229/ "Photo Sharing")
 
 It goes perfectly with her Hairy Baby "Community games Skipping Champion" t-shirt!
 

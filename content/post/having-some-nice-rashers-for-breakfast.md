@@ -20,4 +20,4 @@ Finally, I thought we had full meat traceability from field (or concrete pen) to
 
 This Sunday's rasher sandwich brought to you by the letter P and the Caherbeg Television Workshop:
 
-[![07122008199](http://farm4.static.flickr.com/3048/3088423773_7b404f5676.jpg)](http://www.flickr.com/photos/bandon1/3088423773/ "07122008199 by bandon1, on Flickr")
+[![07122008199](/images/flickr/2024_download/3088423773_7b404f5676.jpg)](http://www.flickr.com/photos/bandon1/3088423773/ "07122008199 by bandon1, on Flickr")

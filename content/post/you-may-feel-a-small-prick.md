@@ -16,7 +16,7 @@ Catherine checked multiple times that I was ok with the idea and that I wasn't r
 
 The only prep that had to be done was hair and the major question to be answered - blade or cream? Blade - are you mental or something? Veet it was. Hmm, that's an interesting look for me, sort of a comb-over effect. Why does no-one ever mention that Veet burns? Ahh, small print, avoid genital area. Ow ow ow.
 
-[![Veet Hair Removal](http://farm1.static.flickr.com/132/346737789_4e3da73518_m.jpg)](http://www.flickr.com/photos/bandon1/346737789/ "Photo Sharing")
+[![Veet Hair Removal](/images/flickr/2024_download/346737789_4e3da73518_c.jpg)](http://www.flickr.com/photos/bandon1/346737789/ "Photo Sharing")
 
 I headed in on Friday 14th and unfortunately forgot about the goddammed Christmas shoppers and arrived 15 minutes late, totally stressed and sweatin. To quote my buddy Eoin, the following bits may be TMI for you. So stop reading now if you are of a delicate nature.
 
@@ -30,7 +30,7 @@ Finally, the big stitches went in, I relaxed and he said "now we'll do the right
 
 Liathróid a dó was complete, he sowed me up and I felt pretty ok. Lots of advice about not being too energetic. Like that'll happen - I pulled a muscle putting a child to bed the other night. He gave me some Betadine ointment, put everything in a hammock and gave me an ice-pack for the journey home.
 
-[![Nut Sack](http://farm1.static.flickr.com/133/346738487_ddbebf6eb3_m.jpg)](http://www.flickr.com/photos/bandon1/346738487/ "Photo Sharing")
+[![Nut Sack](/images/flickr/2024_download/346738487_ddbebf6eb3_c.jpg)](http://www.flickr.com/photos/bandon1/346738487/ "Photo Sharing")
 
 Drive home was ok but the ache started around Innishannon. Do you have to drive at 30mph today you stupid stupid person, movvvvvveee, I've just been operated on. Home. Frozen peas into ziplock and I relaxed on the couch. Pain got worse. Panadol my hole, I popped one of Catherine's Ponstan Forte and soon the pain faded to a dull throb.
 
@@ -38,7 +38,7 @@ Over the next few days I was in a very bad state. As the Ponstan wore off each t
 
 So now that I have put men off it for life, do I regret it? Not for a second. A week's discomfort for a lifetime of one less major thing to worry about - I'd do it in a second again. And it looks like my best advisor was right ;-)
 
-[![Everything you wanted to know about sex but were afraid to ask](http://farm1.static.flickr.com/146/346737491_47c4f0c9a3_m.jpg)](http://www.flickr.com/photos/bandon1/346737491/ "Photo Sharing")
+[![Everything you wanted to know about sex but were afraid to ask](/images/flickr/2024_download/346737491_47c4f0c9a3_c.jpg)](http://www.flickr.com/photos/bandon1/346737491/ "Photo Sharing")
 
 Just make sure you can get your hands on Ponstan!
 

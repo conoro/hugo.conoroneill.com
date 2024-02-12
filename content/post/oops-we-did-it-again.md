@@ -6,4 +6,4 @@ id = 280
 comment = false
 +++
 
-[![Oops we did it again](http://static.flickr.com/46/112544276_aa28576c75_m.jpg)](http://www.flickr.com/photos/bandon1/112544276/ "Photo Sharing")
+[![Oops we did it again](/images/flickr/2024_download/112544276_aa28576c75_c.jpg)](http://www.flickr.com/photos/bandon1/112544276/ "Photo Sharing")

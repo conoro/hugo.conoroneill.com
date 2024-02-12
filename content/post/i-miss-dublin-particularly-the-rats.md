@@ -12,6 +12,6 @@ Happy days.
 
 &nbsp;
 
-[![DSC00270](http://static.flickr.com/90/236304422_0efed5b2c6.jpg)](http://www.flickr.com/photos/bandon1/236304422/ "Photo Sharing") 
+[![DSC00270](/images/flickr/2024_download/236304422_0efed5b2c6.jpg)](http://www.flickr.com/photos/bandon1/236304422/ "Photo Sharing") 
 
 tags = [Rats](http://technorati.com/tag/Rats), [Playground](http://technorati.com/tag/Playground), [Dublin](http://technorati.com/tag/Dublin), [Poison](http://technorati.com/tag/Poison)

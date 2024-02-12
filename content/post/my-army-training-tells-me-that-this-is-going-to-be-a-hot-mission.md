@@ -12,7 +12,7 @@ About two months ago I finally set it to record on the Sky+. Woo hoo - another c
 
 There is a great series of episodes where one of the characters [tries to be one of the Blue Men](http://the-op.com/media/image2.php?oid=254&i=708&cat=6200) from [The Blue Man Group](http://www.blueman.com/about_bmg/index.shtml). 
 
-[![tobias-are-you-crazy_sm](http://static.flickr.com/26/65197250_615414639c_m.jpg)](http://www.flickr.com/photos/bandon1/65197250/ "Photo Sharing")
+[![tobias-are-you-crazy_sm](/images/flickr/2024_download/65197250_615414639c_c.jpg)](http://www.flickr.com/photos/bandon1/65197250/ "Photo Sharing")
 
 I can imagine this is causing the real group all sorts of problems. I saw an ad for them in the paper recently and laughed, assuming it was for the TV show. Nope, real ad. Unless I can bring rocks to throw, I don't think I'll be going any time soon.
 

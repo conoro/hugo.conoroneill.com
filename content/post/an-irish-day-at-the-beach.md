@@ -10,22 +10,22 @@ Where were the multi-coloured windbreakers when I needed them? Flasks of milky t
 
 Ah shur the sun will come out any minute now:
 
-[![IMG_2435](http://static.flickr.com/55/165967851_59c1204b1e.jpg)](http://www.flickr.com/photos/bandon1/165967851/ "Photo Sharing")
+[![IMG_2435](/images/flickr/2024_download/165967851_59c1204b1e.jpg)](http://www.flickr.com/photos/bandon1/165967851/ "Photo Sharing")
 
 One 7 year old and one who wishes he was:
 
-[![IMG_2443](http://static.flickr.com/58/165968542_8ae0258ffe.jpg)](http://www.flickr.com/photos/bandon1/165968542/ "Photo Sharing")
+[![IMG_2443](/images/flickr/2024_download/165968542_8ae0258ffe.jpg)](http://www.flickr.com/photos/bandon1/165968542/ "Photo Sharing")
 
 Run awayyyyyyyyy:
 
-[![IMG_2442](http://static.flickr.com/50/165968474_6d2c63d560.jpg)](http://www.flickr.com/photos/bandon1/165968474/ "Photo Sharing")
+[![IMG_2442](/images/flickr/2024_download/165968474_6d2c63d560.jpg)](http://www.flickr.com/photos/bandon1/165968474/ "Photo Sharing")
 
 Yummm, sand:
 
-[![Long Strand 2](http://static.flickr.com/63/165972241_8fb8de0b33.jpg)](http://www.flickr.com/photos/bandon1/165972241/ "Photo Sharing")
+[![Long Strand 2](/images/flickr/2024_download/165972241_8fb8de0b33.jpg)](http://www.flickr.com/photos/bandon1/165972241/ "Photo Sharing")
 
 I hope that's an overflow pipe and not a sewer:
 
-[![Long Strand 1](http://static.flickr.com/62/165972303_e300f28738.jpg)](http://www.flickr.com/photos/bandon1/165972303/ "Photo Sharing")
+[![Long Strand 1](/images/flickr/2024_download/165972303_e300f28738.jpg)](http://www.flickr.com/photos/bandon1/165972303/ "Photo Sharing")
 
 [tags]Long Strand, Rathbarry, Castlefreake[/tags]

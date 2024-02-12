@@ -10,6 +10,6 @@ Not that anyone cares other than those who have to look at me, but I managed to 
 
 Another apt "[Unfit](http://www.comics.com/comics/unfit/)" comic to celebrate.
 
-[![unfit2666030051121](http://static.flickr.com/32/65799659_0e0f7c9ab5.jpg)](http://www.flickr.com/photos/bandon1/65799659/ "Photo Sharing")
+[![unfit2666030051121](/images/flickr/2024_download/65799659_0e0f7c9ab5.jpg)](http://www.flickr.com/photos/bandon1/65799659/ "Photo Sharing")
 
 [tags] weight loss, booze, GI, Unfit Comic, Ford Mustang[/tags]

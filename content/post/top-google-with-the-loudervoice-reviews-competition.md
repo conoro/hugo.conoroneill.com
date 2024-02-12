@@ -10,7 +10,7 @@ We kicked off a competition recently over on [LouderVoice](http://www.loudervoic
 
 In fact, we are seeing more and more LouderVoice reviews manage this trick. Here is one I did recently:
 
-[![Louis Theroux Behind Bars](http://farm3.static.flickr.com/2055/2198814689_4de3296f34.jpg)](http://www.flickr.com/photos/bandon1/2198814689/ "Louis Theroux Behind Bars by bandon1, on Flickr")
+[![Louis Theroux Behind Bars](/images/flickr/2024_download/2198814689_4de3296f34.jpg)](http://www.flickr.com/photos/bandon1/2198814689/ "Louis Theroux Behind Bars by bandon1, on Flickr")
 
 I'm sure the BBC are not amused!
 

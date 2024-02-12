@@ -6,7 +6,7 @@ id = 401
 comment = false
 +++
 
-[![Ambush this way](http://static.flickr.com/93/220794287_9ea4ad441e.jpg)](http://www.flickr.com/photos/bandon1/220794287/ "Photo Sharing") 
+[![Ambush this way](/images/flickr/2024_download/220794287_9ea4ad441e.jpg)](http://www.flickr.com/photos/bandon1/220794287/ "Photo Sharing") 
 
 Forewarned is forearmed eh?
 

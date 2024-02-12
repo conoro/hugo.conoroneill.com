@@ -10,7 +10,7 @@ I have a small obsession with getting my knives very sharp. I think it goes back
 
 Then, as a cub and scout for eight years, I tried everything to get my Swiss Army sharp to no avail. I mainly tried using stones. Total waste of time. I did actually buy a wet-stone in my early teens but had no idea how to use it:
 
-[![bc8](http://static.flickr.com/29/42378499_1e94d5a2ba_m.jpg)](http://www.flickr.com/photos/bandon1/42378499/ "Photo Sharing")
+[![bc8](/images/flickr/2024_download/42378499_1e94d5a2ba_c.jpg)](http://www.flickr.com/photos/bandon1/42378499/ "Photo Sharing")
 
 As I got older and into my twenties, the obsession moved to kitchen knives. I tried and failed to use a standard steel a bit like this Wusthof:
 
@@ -20,11 +20,11 @@ Then I got the classic Kitchen Devils "mini crossed steels" sharpener. I think t
 
 Then I hit the motherlode with the rotating disk sharpener (also from Kitchen Devils I think). This baby finally gave me what I was looking for - bloody sharp knives (in every sense of bloody). The only down-side was that it didn't seem to sharpen all knives and after a while it stopped sharpening altogether (later I would discover that this is due to the build up of metal on the ceramic which can be cleaned off):
 
-[![rollsharp_th](http://static.flickr.com/32/42384240_8fd69c06f7_o.jpg)](http://www.flickr.com/photos/bandon1/42384240/ "Photo Sharing")
+[![rollsharp_th](/images/flickr/2024_download/42384240_8fd69c06f7_o.jpg)](http://www.flickr.com/photos/bandon1/42384240/ "Photo Sharing")
 
 So things were on the up-and-up but of course I was never satisfied. Then a few years back I was in the Ballymaloe shop and  found this beauty:
 
-[![IMG_1447](http://static.flickr.com/30/42266745_d9d012fe9e_m.jpg)](http://www.flickr.com/photos/bandon1/42266745/ "Photo Sharing")
+[![IMG_1447](/images/flickr/2024_download/42266745_d9d012fe9e_c.jpg)](http://www.flickr.com/photos/bandon1/42266745/ "Photo Sharing")
 
 I've been using it for three or four years now. The big advantage it has is the presence of two grades of ceramic. The rough one to create a basic edge on something very blunt and a finer one to hone a knife that has just lost sharpness. It's always worked well but suffered the same metal build-up and it was nigh on impossible to scrub off the metal due to its shape. But there were two bigger problems - firstly it was getting more and more difficult to keep an edge on knives even for a day or two and secondly it seemed to be creating very rough pitted edges on the knives.
 
@@ -44,10 +44,10 @@ So after a long, emotional and spiritual journey of over thirty years, I have no
 
 Finally, some pictures of my pride and joy:
 
-[![IMG_1431](http://static.flickr.com/26/40556714_476dafa8bb_m.jpg)](http://www.flickr.com/photos/bandon1/40556714/ "Photo Sharing")
+[![IMG_1431](/images/flickr/2024_download/40556714_476dafa8bb_c.jpg)](http://www.flickr.com/photos/bandon1/40556714/ "Photo Sharing")
 
-[![IMG_1432](http://static.flickr.com/26/40557040_a0b6d7fc05_m.jpg)](http://www.flickr.com/photos/bandon1/40557040/ "Photo Sharing")
+[![IMG_1432](/images/flickr/2024_download/40557040_a0b6d7fc05_c.jpg)](http://www.flickr.com/photos/bandon1/40557040/ "Photo Sharing")
 
-[![IMG_1433](http://static.flickr.com/27/40557752_ff3dc8b844_m.jpg)](http://www.flickr.com/photos/bandon1/40557752/ "Photo Sharing")
+[![IMG_1433](/images/flickr/2024_download/40557752_ff3dc8b844_c.jpg)](http://www.flickr.com/photos/bandon1/40557752/ "Photo Sharing")
 
-[![IMG_1434](http://static.flickr.com/22/40558289_8cde38fb43_m.jpg)](http://www.flickr.com/photos/bandon1/40558289/ "Photo Sharing")
+[![IMG_1434](/images/flickr/2024_download/40558289_8cde38fb43_c.jpg)](http://www.flickr.com/photos/bandon1/40558289/ "Photo Sharing")

@@ -8,7 +8,7 @@ comment = false
 
 Budget Car Rentals gave us Noddy's own vehicle from the live action movie.
 
-[![HHR](http://static.flickr.com/52/158507188_2e57e3730b.jpg)](http://www.flickr.com/photos/bandon1/158507188/ "Photo Sharing")
+[![HHR](/images/flickr/2024_download/158507188_2e57e3730b.jpg)](http://www.flickr.com/photos/bandon1/158507188/ "Photo Sharing")
 
 The Chevy HHR, the answer to a question no-one was asking.
 

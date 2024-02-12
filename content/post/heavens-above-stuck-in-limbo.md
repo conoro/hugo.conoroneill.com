@@ -33,15 +33,15 @@ The table seemed to split pretty evenly between fish dishes at one end and steak
 
 I enjoyed my toulouse sausage on lentils but Kevin thought it was bland and to be honest I could have rustled it up in 10 minutes at home with my eyes closed.
 
-[![Heaven](http://static.flickr.com/75/213089955_c8a8e413ce_m.jpg)](http://www.flickr.com/photos/bandon1/213089955/ "Photo Sharing")
+[![Heaven](/images/flickr/2024_download/213089955_c8a8e413ce_c.jpg)](http://www.flickr.com/photos/bandon1/213089955/ "Photo Sharing")
 
 The fillet steaks with cafe de paris sauce were excellent and cooked just right.
 
-[![Heaven](http://static.flickr.com/85/213090219_b6d3169492_m.jpg)](http://www.flickr.com/photos/bandon1/213090219/ "Photo Sharing")
+[![Heaven](/images/flickr/2024_download/213090219_b6d3169492_c.jpg)](http://www.flickr.com/photos/bandon1/213090219/ "Photo Sharing")
 
  The various types of fish that were ordered were all rated as very disappointing with a general feel that everything was missing simple touches like some butter or cream in the mashed spuds.
 
-[![Heaven](http://static.flickr.com/83/213090429_03f37236c4_m.jpg)](http://www.flickr.com/photos/bandon1/213090429/ "Photo Sharing")
+[![Heaven](/images/flickr/2024_download/213090429_03f37236c4_c.jpg)](http://www.flickr.com/photos/bandon1/213090429/ "Photo Sharing")
 
 Desserts were skipped but the coffee was fine. The bill came to €380 with an automatic service charge of 10% due to the table size and we did not top that up. This included several pints for six of the diners and one bottle of white. Usual story with me - if it was far cheaper, I wouldn't complain too much as the meal was fine. But at that price level, you can get far better food in other places in the town.
 
@@ -58,15 +58,15 @@ Desserts were skipped but the coffee was fine. The bill came to €380 with an a
 
 &lt;p&gt;I enjoyed my toulouse sausage on lentils but Kevin thought it was bland and to be honest I could have rustled it up in 10 minutes at home with my eyes closed.&lt;/p&gt; 
 
-&lt;a href= http://www.flickr.com/photos/bandon1/213089955/  title= Photo Sharing &gt;&lt;img src= http://static.flickr.com/75/213089955_c8a8e413ce_m.jpg  width= 240  height= 180  alt= Heaven's Above Meal 5  /&gt;&lt;/a&gt;
+&lt;a href= http://www.flickr.com/photos/bandon1/213089955/  title= Photo Sharing &gt;&lt;img src= /images/flickr/2024_download/213089955_c8a8e413ce_c.jpg  width= 240  height= 180  alt= Heaven's Above Meal 5  /&gt;&lt;/a&gt;
 
 &lt;p&gt;The fillet steaks with cafe de paris sauce were excellent and cooked just right.&lt;/p&gt;
 
-&lt;a href= http://www.flickr.com/photos/bandon1/213090219/  title= Photo Sharing &gt;&lt;img src= http://static.flickr.com/85/213090219_b6d3169492_m.jpg  width= 240  height= 180  alt= Heaven's Above Meal 3  /&gt;&lt;/a&gt;
+&lt;a href= http://www.flickr.com/photos/bandon1/213090219/  title= Photo Sharing &gt;&lt;img src= /images/flickr/2024_download/213090219_b6d3169492_c.jpg  width= 240  height= 180  alt= Heaven's Above Meal 3  /&gt;&lt;/a&gt;
 
 &lt;p&gt; The various types of fish that were ordered were all rated as very disappointing with a general feel that everything was missing simple touches like some butter or cream in the mashed spuds.&lt;/p&gt;
 
-&lt;a href= http://www.flickr.com/photos/bandon1/213090429/  title= Photo Sharing &gt;&lt;img src= http://static.flickr.com/83/213090429_03f37236c4_m.jpg  width= 240  height= 180  alt= Heaven's Above Meal 1  /&gt;&lt;/a&gt;
+&lt;a href= http://www.flickr.com/photos/bandon1/213090429/  title= Photo Sharing &gt;&lt;img src= /images/flickr/2024_download/213090429_03f37236c4_c.jpg  width= 240  height= 180  alt= Heaven's Above Meal 1  /&gt;&lt;/a&gt;
 
 &lt;p&gt;Desserts were skipped but the coffee was fine. The bill came to €380 with an automatic service charge of 10% due to the table size and we did not top that up. This included several pints for six of the diners and one bottle of white. Usual story with me - if it was far cheaper, I wouldn't complain too much as the meal was fine. But at that price level, you can get far better food in other places in the town.&lt;/p&gt;
 

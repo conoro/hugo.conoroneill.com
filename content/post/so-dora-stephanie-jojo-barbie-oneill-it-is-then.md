@@ -12,6 +12,6 @@ Sibéal was thrilled when she finally understood. She initially complained that 
 
 Spooky scan:
 
-[![Baby_scan_single_01](http://static.flickr.com/52/183267222_ee3232f658.jpg)](http://www.flickr.com/photos/bandon1/183267222/ "Photo Sharing")
+[![Baby_scan_single_01](/images/flickr/2024_download/183267222_ee3232f658.jpg)](http://www.flickr.com/photos/bandon1/183267222/ "Photo Sharing")
 
 [tags]baby, Dora the Explorer, JoJo's Circus, Lazytown, Barbie[/tags]

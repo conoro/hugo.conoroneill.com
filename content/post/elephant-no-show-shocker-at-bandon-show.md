@@ -22,9 +22,9 @@ Nokia Crap-Cam pictures from the event:
 
 Huuuuuuuge Cows Daddy (yes I know they are bulls/bullocks):
 
-![](http://photos9.flickr.com/15434326_32af186f40_m.jpg "Huuuuuuge Cows Daddy")
+![](/images/flickr/2024_download/15434326_32af186f40_c.jpg "Huuuuuuge Cows Daddy")
 
 Candy Floss looks a lot better than it tastes, can I have an ice-cream:
 
-![](http://photos14.flickr.com/15434327_a54014081b_m.jpg "Crap Candy Floss")
+![](/images/flickr/2024_download/15434327_a54014081b_c.jpg "Crap Candy Floss")
 <div style="clear: both; padding-bottom: 0.25em" />

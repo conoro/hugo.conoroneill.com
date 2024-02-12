@@ -28,15 +28,15 @@ We arrived up and made the snap decision to go for Wagamama. It was before 5pm o
 
 Crayons and play sheets were provided immediately and the waiter gave us the kids menus and stayed until we picked the kids food. Chicken and Noodles all round. The food arrived in less than five minutes. These are people who know how to deal with kids!
 
-![Chicken and Noodles](http://farm2.static.flickr.com/1425/820269919_3cc20c6bf8.jpg) 
+![Chicken and Noodles](/images/flickr/2024_download/820269919_3cc20c6bf8.jpg) 
 
 I was thrilled that the three eldest and dug into food which they would not normally touch. They loved the soy based sauce and the only bit they really didn't like was the salad leaves.
 
-![Noodle eating](http://farm2.static.flickr.com/1002/821142694_093fffd1b2.jpg) 
+![Noodle eating](/images/flickr/2024_download/821142694_093fffd1b2.jpg) 
 
 The highlight for them was the kid's chopsticks. 
 
-![Chopsticks](http://farm2.static.flickr.com/1059/821143978_64a9bddb6f.jpg) 
+![Chopsticks](/images/flickr/2024_download/821143978_64a9bddb6f.jpg) 
 
 Only tiny drawback on the kid-front was that the baby seats are too low and babba whacked her head off the edge of the table twice.
 
@@ -48,7 +48,7 @@ I had  classic Yaki Soba which is very like Singapore Chow Mein which I've alwa
 
 Catherine had a Japanese Iki beer which she loved. I tasted it and thought it was fab too. Later that night I was in Boqueria and drank nothing else. Try it out.
 
-![Iki Beer](http://farm2.static.flickr.com/1322/821146952_5c62a9be1f.jpg) 
+![Iki Beer](/images/flickr/2024_download/821146952_5c62a9be1f.jpg) 
 
 Ice-cream for the kiddies rounded it off nicely 
 

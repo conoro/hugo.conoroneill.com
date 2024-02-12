@@ -18,26 +18,26 @@ Shutter lag on the camera was terrible so the pictures below are rubbish. I also
 
 This bike belonged to a spectator not a racer. 1300cc! Bigger than the average Micra.
 
-[![Motorbike at Ash Tree pub](http://static.flickr.com/56/133457668_0cacb460f6.jpg)](http://www.flickr.com/photos/bandon1/133457668/ "Photo Sharing")
+[![Motorbike at Ash Tree pub](/images/flickr/2024_download/133457668_0cacb460f6.jpg)](http://www.flickr.com/photos/bandon1/133457668/ "Photo Sharing")
 
 More motorcycle Pr0n.
 
-[![Motorbike at Ash Tree pub](http://static.flickr.com/47/133457587_5635ffdf4b.jpg)](http://www.flickr.com/photos/bandon1/133457587/ "Photo Sharing")
+[![Motorbike at Ash Tree pub](/images/flickr/2024_download/133457587_5635ffdf4b.jpg)](http://www.flickr.com/photos/bandon1/133457587/ "Photo Sharing")
 
 Yeah baby!
-[![IMG_2355](http://static.flickr.com/55/133457243_1a78d2a435.jpg)](http://www.flickr.com/photos/bandon1/133457243/ "Photo Sharing")
+[![IMG_2355](/images/flickr/2024_download/133457243_1a78d2a435.jpg)](http://www.flickr.com/photos/bandon1/133457243/ "Photo Sharing")
 
 The race track. "The Fast andThe Furious" has nothing on Old Chapel.
 
-[![IMG_2351](http://static.flickr.com/54/133457096_d275c5c44d.jpg)](http://www.flickr.com/photos/bandon1/133457096/ "Photo Sharing")
+[![IMG_2351](/images/flickr/2024_download/133457096_d275c5c44d.jpg)](http://www.flickr.com/photos/bandon1/133457096/ "Photo Sharing")
 
 Big gap due to different spec bikes practicing together.
 
-[![IMG_2352](http://static.flickr.com/45/133457178_af5f8bfacc.jpg)](http://www.flickr.com/photos/bandon1/133457178/ "Photo Sharing")
+[![IMG_2352](/images/flickr/2024_download/133457178_af5f8bfacc.jpg)](http://www.flickr.com/photos/bandon1/133457178/ "Photo Sharing")
 
 Someone left their bike out in the rain for too long.
 
-[![IMG_2346](http://static.flickr.com/56/133456783_6cb31a5ab1.jpg)](http://www.flickr.com/photos/bandon1/133456783/ "Photo Sharing")  [
+[![IMG_2346](/images/flickr/2024_download/133456783_6cb31a5ab1.jpg)](http://www.flickr.com/photos/bandon1/133456783/ "Photo Sharing")  [
 
 <a href="https://www.youtube.com/watch?v=wgfJiN3R9FQ">Crappy Video 1 over at YouTube](https://www.youtube.com/watch?v=wgfJiN3R9FQ)
 

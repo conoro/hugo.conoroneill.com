@@ -12,7 +12,7 @@ Back in January I got a comment on [a very old post](http://conoroneill.com/2006
 
 In no time at all, a box arrived with nine big bottles in it. Three each of EZ Earl's Blazin Hot Stuff, Smokin Hot Stuff and Spicy Sauces. Mark told me that they have been refining the recipe in these sauces for generations. I couldn't wait to try them out and immediately tried the hottest (Blazin) on a tray of chicken pieces in the oven. It blew my face off. Seriously, this makes vindaloo curry taste like a korma!
 
-[![Chicken Pieces with EZ Earl Blazin Hot Stuff](http://farm4.static.flickr.com/3270/2654526137_35dffe7bfa.jpg)](http://www.flickr.com/photos/bandon1/2654526137/ "Chicken Pieces with EZ Earl Blazin Hot Stuff by bandon1, on Flickr")
+[![Chicken Pieces with EZ Earl Blazin Hot Stuff](/images/flickr/2024_download/2654526137_35dffe7bfa.jpg)](http://www.flickr.com/photos/bandon1/2654526137/ "Chicken Pieces with EZ Earl Blazin Hot Stuff by bandon1, on Flickr")
 
 Over the next while we tried out all three levels of heat both at home and on some of my extended family. It turns out we are all a bunch of big girl's blouses and the lowest heat (Spicy) is our favourite. All three work brilliantly well on buffalo wings but the hottest is just too hot for us in things like pitta kebabs.
 

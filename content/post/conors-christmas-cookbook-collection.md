@@ -8,7 +8,7 @@ comment = false
 
 UPDATE 1: Normally when I do reviews I use the Structured Blogging plug-in. Its biggest flaw is that you can only do one review per post and the "reviews" below do not warrent separate posts. An alternative is to use the simple [hReview creator](http://microformats.org/code/hreview/creator) over at microformats.org and then just cut n past a bunch of reviews into one post. So I have restructured and republished this review in that format (after seeing [Tantek ](http://tantek.com/log/2006/07.html#d07t1555)do the same).
 
-[![Book Backlog](http://static.flickr.com/30/93714845_c94ec8ece0_m.jpg)](http://www.flickr.com/photos/bandon1/93714845/ "Photo Sharing")
+[![Book Backlog](/images/flickr/2024_download/93714845_c94ec8ece0_c.jpg)](http://www.flickr.com/photos/bandon1/93714845/ "Photo Sharing")
 
 So that's a picture I took back on Jan 31st of the big stack of cookbooks I had to get through in 2006\. Most of em I got for Christmas. One, "Les Halles", I got the previous Christmas. "Salt" I bought for myself and "Bridges" has nothing to do with food but I did get it for Christmas.
 

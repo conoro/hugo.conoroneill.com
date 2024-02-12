@@ -8,7 +8,7 @@ comment = false
 
 Hand me this receipt in a bar in Paris after I order four bottles of beer:
 
-[![Bar Receipt from Buddha Bar](http://farm3.static.flickr.com/2126/2107958847_edd78112cd.jpg)](http://www.flickr.com/photos/bandon1/2107958847/ "Bar Receipt from Buddha Bar by bandon1, on Flickr")
+[![Bar Receipt from Buddha Bar](/images/flickr/2024_download/2107958847_edd78112cd.jpg)](http://www.flickr.com/photos/bandon1/2107958847/ "Bar Receipt from Buddha Bar by bandon1, on Flickr")
 
 Next time I'll order wine.
 

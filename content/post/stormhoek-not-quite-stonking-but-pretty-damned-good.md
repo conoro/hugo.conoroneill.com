@@ -8,7 +8,7 @@ comment = false
 
 My bottle of [Stormhoek Sauvignon Blanc 2005](http://www.stormhoek.com/) from the [gapingvoid freebie](http://www.gapingvoid.com/Moveable_Type/archives/001646.html) arrived by courier this evening. I was going to wait until tomorrow to review but one dead linux server has fast-tracked the opening.
 
-[![IMG_1454](http://static.flickr.com/29/43079659_2ba40ab4f7_m.jpg)](http://www.flickr.com/photos/bandon1/43079659/ "Photo Sharing")
+[![IMG_1454](/images/flickr/2024_download/43079659_2ba40ab4f7_c.jpg)](http://www.flickr.com/photos/bandon1/43079659/ "Photo Sharing")
 
 It uses a screw-cap which I support 100% for Sauvignons. I am sick to the back teeth of getting ruined bottles of Sancerre and Pouilly Fumé with their crappy corks.
 
