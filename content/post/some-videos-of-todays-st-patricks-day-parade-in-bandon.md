@@ -2,6 +2,7 @@
 title = "Some videos of today's St Patrick's Day Parade in Bandon"
 slug = "some-videos-of-todays-st-patricks-day-parade-in-bandon"
 date = "2009-03-17T16:08:52+00:00"
+draft = true
 id = 829
 comment = false
 +++
