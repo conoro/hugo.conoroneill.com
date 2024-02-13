@@ -8,4 +8,4 @@ comment = false
 
 BBC online reported an earthquake in Greece. They felt the need to locate it.
 
-[![where_is_greece](http://farm3.static.flickr.com/2239/2171675094_87e7b97319_o.png)](http://www.flickr.com/photos/bandon1/2171675094/ "where_is_greece by bandon1, on Flickr")
+[![where_is_greece](/images/flickr/2024_download/2171675094_87e7b97319_o.png)](http://www.flickr.com/photos/bandon1/2171675094/ "where_is_greece by bandon1, on Flickr")

@@ -14,7 +14,7 @@ Then, as a cub and scout for eight years, I tried everything to get my Swiss Arm
 
 As I got older and into my twenties, the obsession moved to kitchen knives. I tried and failed to use a standard steel a bit like this Wusthof:
 
-[![CL_4474-26cm honing](http://static.flickr.com/28/42377101_d45558ac3e_o.gif)](http://www.flickr.com/photos/bandon1/42377101/ "Photo Sharing")
+[![CL_4474-26cm honing](/images/flickr/2024_download/42377101_d45558ac3e_o.gif)](http://www.flickr.com/photos/bandon1/42377101/ "Photo Sharing")
 
 Then I got the classic Kitchen Devils "mini crossed steels" sharpener. I think this was the first one where I actually got a result. The knives were never razor sharp but they were always able to do a reasonable job.
 

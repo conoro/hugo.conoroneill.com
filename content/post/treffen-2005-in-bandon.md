@@ -16,8 +16,14 @@ Events like this are great for a town and hopefully this will encourage more Clu
 
 [![IMG_1411](/images/flickr/2024_download/39019044_96ecd688c3_c.jpg)](http://www.flickr.com/photos/bandon1/39019044/ "Photo Sharing")
 
-[Treffen Flickr Set](http://www.flickr.com/photos/bandon1/39019044/in/set-859816/)
+* The [Treffen Flickr Set](http://www.flickr.com/photos/bandon1/39019044/in/set-859816/)
 
-[Treffen The Movie](http://conoroneill.com/pictures/MVI_1412.avi)
+<center>
+<video width="640" height="480" controls>
+  <source src="/images/flickr/2024_download/Treffen_2005.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</center>
+
 
 [tags]treffen, bandon[/tags]
