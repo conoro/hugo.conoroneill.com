@@ -32,4 +32,6 @@ I don't care what went wrong between Pineberry and Fedex Poland. It's not my pro
 
 So Fedex and Pineberry, get your shit together and sort this out.
 
+Pineberry Pi, I know you're a new company. But if you think this is how customer support works, you won't last very long.
+
 Everyone else. Have a long hard think about who you want to do business with. I'll be buying my next SSD Hat from the fantastic team in [Pimoroni](https://shop.pimoroni.com/).
