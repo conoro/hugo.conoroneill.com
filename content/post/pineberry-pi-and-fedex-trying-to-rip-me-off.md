@@ -24,6 +24,8 @@ Then the letters started arriving. Approx one a week. For the past two months! G
 
 I once again tried to contact Fedex and Pineberry Pi. The very helpful Fedex Twitter team pointed me to an Irish email address. The Pineberry guys responded with an automatic email stating that something had gone wrong in the automated setup of all the deliveries via the Fedex API. The email said I was to explain this and tell the local Irish team to contact the Poland team. Then the problem would then go away.
 
+Fedex Ireland replied once to say some box had been ticked incorrectly by Pineberry Pi, as if this was my fault.
+
 That was two months ago. The letters keep coming. I've emailed and Tweeted both Fedex and Pineberry Pi multiple times. They just ignore me. And the letters keep coming.
 
 I don't care what went wrong between Pineberry and Fedex Poland. It's not my problem. I never agreed to pay import duties of any kind. I am not liable for anything here. It's only a small amount of money, but I'm not paying a nonsensical charge on an Intra-EU shipment. I'm not going to be bullied into paying for something I don't owe. I'm not going to be threatened by debt collectors for something I don't owe.
