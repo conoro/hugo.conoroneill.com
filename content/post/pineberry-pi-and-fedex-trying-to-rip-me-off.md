@@ -2,7 +2,7 @@
 Categories = []
 Description = "Three months of this nonsense. I'm sick of it."
 Tags = ["customer service"]
-draft = false
+draft = true
 date = "2024-02-26T07:17:32+00:00"
 title = "Pineberry Pi and Fedex trying to rip me off for import duties on an intra-EU delivery"
 slug = "pineberry-pi-and-fedex-trying-to-rip-me-off"
