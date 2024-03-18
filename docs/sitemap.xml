@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://conoroneill.com/tags/blogging/</loc>
-    <lastmod>2024-02-09T06:17:32+00:00</lastmod>
+    <loc>https://conoroneill.com/categories/</loc>
+    <lastmod>2024-03-18T09:17:32+00:00</lastmod>
   </url><url>
     <loc>https://conoroneill.com/</loc>
+    <lastmod>2024-03-18T09:17:32+00:00</lastmod>
+  </url><url>
+    <loc>https://conoroneill.com/post/</loc>
+    <lastmod>2024-03-18T09:17:32+00:00</lastmod>
+  </url><url>
+    <loc>https://conoroneill.com/categories/reviews/</loc>
+    <lastmod>2024-03-18T09:17:32+00:00</lastmod>
+  </url><url>
+    <loc>https://conoroneill.com/2024/03/18/the-brooks-caldera-7-is-a-step-backwards-from-the-6/</loc>
+    <lastmod>2024-03-18T09:17:32+00:00</lastmod>
+  </url><url>
+    <loc>https://conoroneill.com/tags/blogging/</loc>
     <lastmod>2024-02-09T06:17:32+00:00</lastmod>
   </url><url>
     <loc>https://conoroneill.com/tags/content-ownership/</loc>
@@ -15,9 +27,6 @@
     <lastmod>2024-02-09T06:17:32+00:00</lastmod>
   </url><url>
     <loc>https://conoroneill.com/2024/02/09/owning-your-own-content-part-986/</loc>
-    <lastmod>2024-02-09T06:17:32+00:00</lastmod>
-  </url><url>
-    <loc>https://conoroneill.com/post/</loc>
     <lastmod>2024-02-09T06:17:32+00:00</lastmod>
   </url><url>
     <loc>https://conoroneill.com/tags/structured-reviews/</loc>
@@ -43,9 +52,6 @@
   </url><url>
     <loc>https://conoroneill.com/2023/02/13/columbia-outdry-extreme-mesh-running-jacket-ive-been-dreaming-of/</loc>
     <lastmod>2023-02-13T05:42:00+00:00</lastmod>
-  </url><url>
-    <loc>https://conoroneill.com/categories/</loc>
-    <lastmod>2022-09-09T11:00:32+00:00</lastmod>
   </url><url>
     <loc>https://conoroneill.com/2022/09/09/conors-top-tips-for-dnfing-the-kerry-way-ultra/</loc>
     <lastmod>2022-09-09T11:00:32+00:00</lastmod>
