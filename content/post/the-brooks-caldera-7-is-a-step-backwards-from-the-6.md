@@ -28,7 +28,7 @@ I did a tough run in late February on very bad steep ground. It was in relentles
 
 Brooks are using the same name for the rubber on the 6 and the 7 but something has clearly changed for the worse. I hope becoming "carbon neutral" doesn't also involve losing the main benefit of the Caldera versus Speedgoats and others. I've had to retire both the 6 and the 7 from bad ground running permanently and plan to only use them on light candy-ass dry trails over the summer.
 
-I thought that left me in a hard place. Shoes with narrow deep lugs tend to be designed for very short runs and have thin midsoles. Long distance shoes with shallower wider lugs aren't able to handle bad conditions. But I *think* I've found a surprising replacement for the bad stuff over long distances - The Saucony Endorphin Rift. Check out my next review about that.
+I thought that left me in a hard place. Shoes with narrow deep lugs tend to be designed for very short runs and have thin midsoles. Long distance shoes with shallower wider lugs aren't able to handle bad conditions. But I *think* I've found a surprising replacement for the bad stuff over long distances - The Saucony Endorphin Rift. Check out [my next review](/2024/03/18/is-the-saucony-endorphin-rift-my-new-do-anything-trail-shoe/) about that.
 
 
 <script type="application/ld+json">{
