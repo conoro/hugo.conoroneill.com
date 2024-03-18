@@ -1,5 +1,6 @@
 +++
 date = "2023-05-22T12:00:00.000Z"
+Categories = ["Reviews"]
 draft = false
 title = "The Brooks Caldera 6 is an ultra-devouring monster (but)"
 slug = "the-brooks-caldera-6-is-an-ultra-devouring-monster"
