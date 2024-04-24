@@ -38,6 +38,7 @@ Improvements in V2? I'd still suggest a softer broader heel counter. The shoes a
 
 Based on those two runs, I think the Endorphin Rifts are my new trail running shoes for most off-road situations. They may displace both the Speedgoats and the Calderas. I'll probably start with them in the [Waterville Trail Running festival](https://www.watervilletrailrunningfestival.com/130km) in May and see how they get on at ultra distances.
 
+UPDATE: I have to add one caution here. On a 16 mile training run for the Beara Way Ultra last weekend, I had some bad rubbing on the bottom of my ankle from the high cuff of the Rifts and it eventually blistered and broke skin. I'm pretty sure this is because the first two runs were in heavy waterproof socks and this run was in a light pair of Odlo socks. Just something to be aware of. As a result I may just keep them as backups in WTF, unless the ground is terrible and I wear the heavier socks again.
 
 <script type="application/ld+json">{
   "@context": "http://schema.org/",
