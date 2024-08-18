@@ -16,8 +16,8 @@ And that was the beginning of everything going a bit pear shaped for me in runni
 
 And things continued to get worse. 2023 was an absolute car-crash for me.
 
-* Waterville Trail Running Festival Ultra - Timed-Out after two loops
-* Beara Way Ultra - Timed-Out/DNF after 58km
+* Waterville Trail Running Festival Ultra - Timed-Out after two loops (88km)
+* Beara Way Ultra - Timed-Out after 58km
 * Kerry Way Ultra attempt 2 - Timed-Out after 78km
 
 In all of the above I was too slow, suffered badly from the heat and had various leg issues.
