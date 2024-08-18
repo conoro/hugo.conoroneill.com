@@ -30,9 +30,9 @@ I started trying to ramp up training again this February and my body responded b
 
 My plan for 2024 was to replay 2023 but this time finish everything. How's that going, you ask?
 
-* WTF 2024 - Timed out after one loop
+* WTF 2024 - Timed-Out after one loop
 * Beara Way Ultra 2024 - DNS 
-* KWU 2024 - I'll tell you in 3 weeks 
+* Kerry Way Ultra attempt 3 - I'll tell you in 3 weeks 
 
 The tear near my knee and the plantar eventually landed me in with the physio in May, after WTF was a total shit-show. Unsurprisingly he just said "stop". I needed to rest and let the tear recover, do rehab exercises and get shockwave therapy in my heel. 
 
@@ -54,4 +54,14 @@ Next week I will do one proper final off-road run. If it's not a catastrophe, I'
 
 The big difference this time is that I'm going in with no expectations. I'm going to have a lovely day+ out in one of my favourite places on planet earth. I'm going to enjoy the people and the views. And I'm going to push it until I'm either timed out or I can barely walk.
 
-Hope to see you out there.
+I know this has been a moany old blogpost but I just had to get it off my chest. And the reality is that I remain incredibly upbeat. I'm still able to do whatever I want running-wise. 
+
+And on that note I wanted to call out [Hannah Irwin](https://www.youtube.com/@hannahirwin_) who has had to deal with multiple injuries but whose positivity online has been a huge inspiration in helping with me to deal with my minor issues. 
+
+And if you want to see another bad-ass woman not giving up, watch the awesome Amy Winters doing the tough Tenerife Bluetrail with one blade:
+
+
+{{< youtube gkXFtuxSduM >}}
+
+
+Hope to see some of you out there in Kerry, Ecotrail and Dublin City Marathon!
