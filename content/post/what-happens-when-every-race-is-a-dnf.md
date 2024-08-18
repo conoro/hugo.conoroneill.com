@@ -10,7 +10,7 @@ slug = "what-happens-when-every-race-is-a-dnf"
 
 I took up running in 2009 to try and lose weight. It didn't work but I ended up loving the sport anyway. Despite having completed over 25 marathons and a handful of ultras I'm still a terrible runner and brutally slow.
 
-Having said that, I see 2021 and early 2022 as the pinnacle of my running to date. The Kerry Way Ultra Lite in 2021 was the first time I'd ever finished a race "mid-pack". I PRed my Half Marathon on a hilly training run a few months later. Everything seemed to be going brilliantly. I did a bunch of very long runs in 2022 which I loved and thought I was ready for the full Kerry Way Ultra. Unfortunately I ended up DNFing at around 155km which I should be proud of but it still rankles.
+Having said that, I see 2021 and early 2022 as the pinnacle of my running, to-date. The Kerry Way Ultra Lite in 2021 was the first time I'd ever finished a race "mid-pack". I PRed my Half Marathon on a hilly training run a few months later. Everything seemed to be going brilliantly. I did a bunch of very long runs in 2022 which I loved and thought I was ready for the full Kerry Way Ultra. Unfortunately I ended up DNFing at around 155km which I should be proud of but it still rankles.
 
 And that was the beginning of everything going a bit pear shaped for me in running. Whilst I've had various injuries over the years and a constant niggle with my IT band on my hip, overall I've been very lucky. But a double whammy of Covid in quick succession in 2022 was the start of me losing fitness and taking my foot off the pedal. I attempted the Dublin City Marathon at the end of 2022 and it was a mess. At one point I thought I was going to pass out. 
 
