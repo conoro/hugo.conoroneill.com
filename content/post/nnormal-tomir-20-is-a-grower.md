@@ -32,4 +32,41 @@ If you are a Speedgoat fan, I think you'll like these a lot. And they should go 
 
 Worth a look for sure.
 
-
+<script type="application/ld+json">{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "NNormal Tomir 2.0",
+  "image": "https://conoroneill.com/images/2024/09/tomir20.png",
+  "brand": "NNormal",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "bestRating": "5",
+    "worstRating": "0",
+    "ratingCount": 1,
+    "reviewCount": 1
+  },
+  "review": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "Review",
+      "name": "I think Kilian is on to something with NNormal",
+      "reviewBody": "NNormal has a Speedgoat competitor with this shoe. I expect them to last a lot longer than the Speedgoats too. Tough upper, lovely midsole, great outsole lugs.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4,
+        "bestRating": "5",
+        "worstRating": "0"
+      },
+      "datePublished": "09/01/2024",
+      "author": {
+        "@type": "Person",
+        "name": "Conor O'Neill"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "conoroneill.com"
+      }
+    }
+  ]
+}</script>

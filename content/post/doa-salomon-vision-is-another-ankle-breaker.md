@@ -1,5 +1,5 @@
 +++
-Categories = ["Trail-Running-And-Hiking"]
+Categories = ["Reviews"]
 Description = "Or as they should be called, the Ankle Roller 5000s"
 Tags = []
 draft = false
@@ -60,3 +60,42 @@ Of course this situation is entirely my fault, I should never have put them on 6
 Unless you are François D'Haene, avoid the Salmon Visions like the plague. I predict they will disappear without a trace, just like their ankle-breaking predecessors, the Sense Pro Max.
 
 End-rant.
+
+<script type="application/ld+json">{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Salomon Vision",
+  "image": "https://conoroneill.com/images/2024/09/vision1.jpg",
+  "brand": "Salomon",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "1",
+    "bestRating": "5",
+    "worstRating": "0",
+    "ratingCount": 1,
+    "reviewCount": 1
+  },
+  "review": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "Review",
+      "name": "The DOA Salomon Vision is another ankle breaker",
+      "reviewBody": "Another completely unstable high-stack shoe from Salomon. They should be called the Ankle Roller 5000s. Avoid at all costs.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 1,
+        "bestRating": "5",
+        "worstRating": "0"
+      },
+      "datePublished": "09/01/2024",
+      "author": {
+        "@type": "Person",
+        "name": "Conor O'Neill"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "conoroneill.com"
+      }
+    }
+  ]
+}</script>
