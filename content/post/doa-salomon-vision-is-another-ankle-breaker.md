@@ -53,7 +53,7 @@ After spending from April-August this year diligently dealing with problems arou
 
 I have been wondering why none of the main running shoe review channels that I follow on YouTube have covered the Vision. Has Salomon not been sending out review pairs? Why? Do they know they have a turkey on their hands?
 
-Is it a case of them being better for the environment but not actually any good?
+Is it a case of them being better for the environment but not actually any good? I don't think Salomon knows how to do high-stack shoes. They should pop down to any local running store in Annecy or Cham and check out how Hoka, Brooks, Saucony and even Asics do things.
 
 Of course this situation is entirely my fault, I should never have put them on 6 days before my biggest race of the year. 
 
