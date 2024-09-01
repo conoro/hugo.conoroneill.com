@@ -57,6 +57,6 @@ Is it a case of them being better for the environment but not actually any good?
 
 Of course this situation is entirely my fault, I should never have put them on 6 days before my biggest race of the year. 
 
-But unless you are François D'Haene, avoid the Salmon Visions like the plague. I predict they will disappear without a trace, just like their ankle breaking predecessors, the Sense Pro Max.
+Unless you are François D'Haene, avoid the Salmon Visions like the plague. I predict they will disappear without a trace, just like their ankle-breaking predecessors, the Sense Pro Max.
 
 End-rant.
