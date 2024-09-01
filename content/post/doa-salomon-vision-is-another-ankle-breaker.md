@@ -35,7 +35,7 @@ I wore them around the house for two days and the comfort was confirmed. But bei
 
 ![Salomon Vision](/images/2024/09/vision2.jpg)
 
-So yesterday morning I headed down to Courtmacsherry in West Cork for a little 3 mile amble on the Fuschia Way part of the Seven Heads. It's one of my favourite short runs. Gravel, forest, fields, incredible views, paths and then road back down. In the past 10+ years, the worst thing that ever happened to me was sliding on the wet mud and landing on my ass. In the Ultra Glides.
+So yesterday morning I headed down to Courtmacsherry in West Cork for a little 3 mile amble on the Fuschia Way part of the Seven Heads. It's one of my favourite short runs. Gravel, forest, fields, incredible views, paths and then road back down. In the past 10+ years, the worst thing that ever happened to me there was sliding on the wet mud and landing on my ass. In the Ultra Glides.
 
 I walked the first bit to confirm my knee was still ok and once the forest appeared, I started jogging slowly. The main thought in my head was how good I felt, how my head was in a great place for KWU and how lucky I am to get to go running in amazing places.
 
@@ -45,7 +45,7 @@ I hobbled back to the car, drove to Timoleague, bought a big bag of ice and wrap
 
 I also took one of the Visions and placed it back-to-back to the Ultra Glides and confirmed they are centimetres narrower at the rear. 
 
-Here I am, a day later. The ankle is still fucked. But at least I can walk. I am seeing the physiotherapist in 2 days anyway as a final systems check for Kerry. I'm 95% sure what he is going to tell me - Don't even think about it. The chances of me starting on Friday are probably 10%. But I remain an eternal optimist. And owner of many pain killers.
+Here I am, a day later. The ankle is still fucked. But at least I can walk. I am seeing the physiotherapist in 2 days anyway as a final systems check for Kerry. I'm 90% sure what he is going to tell me - Don't even think about it. The chances of me starting on Friday are probably 10%. But I remain an eternal optimist. And owner of many pain killers.
 
 ![Ankle Vision](/images/2024/09/ankle.jpg)
 
