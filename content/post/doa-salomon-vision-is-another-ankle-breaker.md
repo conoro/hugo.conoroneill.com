@@ -16,7 +16,7 @@ Then a few years ago they came out with the Sense Pro Max. It ticked a lot of my
 
 Not a great start with the brand. But I always like to give second chances and eventually I got a pair of Speedcross 5s. They are great for very specific terrain - Irish bogs. Those lugs work incredibly well there. Not so great on wet rocks but not terrible. I don't use them often but they are the right tool at the right time.
 
-When the original Ultra Glides appeared, the reviews were solid and I liked the sound of them. I don't have much to say about them other than I just don't reach for them. Again, those rubbish shallow diamond-shaped lugs, a comfy upper, speedlaces and a mediocre midsole. Compared to Speedgoats, they are just not competitive. Not terrible but not brilliant at anything. Good fashion shoes maybe for Millenials.
+When the original Ultra Glides appeared, the reviews were solid and I liked the sound of them. I don't have much to say about them other than I just don't reach for them. Again, those rubbish shallow diamond-shaped lugs, a comfy upper, speedlaces and a mediocre midsole. Compared to Speedgoats, they are just not competitive. Not terrible but not brilliant at anything. Good fashion shoes maybe for Millennials.
 
 So finally we get to the review of the Salomon Vision. I follow Salomon on YouTube and I really liked the message around the Vision. Very similar to that of the [NNormal Tomir 2.0](https://conoroneill.com/2024/09/01/nnormal-tomir-20-is-a-grower/) that I reviewed positively earlier today.
 
