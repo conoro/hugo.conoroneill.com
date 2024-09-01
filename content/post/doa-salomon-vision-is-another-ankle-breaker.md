@@ -8,7 +8,7 @@ title = "The DOA Salomon Vision is another ankle breaker"
 slug = "doa-salomon-vision-is-another-ankle-breaker"
 +++
 
-This won't be a long review. How could it be when I've only done 0.35 miles in the Salomon Vision. It's more of a rant.
+This won't be a long review. How could it be when I've only done 1 km in the Salomon Vision. It's more of a rant.
 
 I buy maybe 6-7 pairs of running shoes a year. Usually equally split between road and trail. For many years the trail ones were Altra, Hoka, Inov-8 and Brooks. I wanted to try Salomon but every review made it sound like I'd have to remove two toes to fit into them.
 
