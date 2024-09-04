@@ -59,6 +59,11 @@ Of course this situation is entirely my fault, I should never have put them on 6
 
 Unless you are François D'Haene, avoid the Salmon Visions like the plague. I predict they will disappear without a trace, just like their ankle-breaking predecessors, the Sense Pro Max.
 
+I believe this is an early picture of version 2.0
+
+
+![Vision 2.0](/images/2024/09/vision_future.jpg)
+
 End-rant.
 
 <script type="application/ld+json">{
