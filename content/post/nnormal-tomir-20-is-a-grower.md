@@ -1,11 +1,11 @@
 +++
-Categories = ["Trail-Running-And-Hiking"]
+Categories = ["Reviews"]
 Description = "I think Kilian is on to something with NNormal"
 Tags = []
 draft = false
 date = "2024-09-01T07:00:32+00:00"
-title = "The NNormal Tomir 2.0 is a grower"
-slug = "nnormal-tomir-20-is-a-grower"
+title = "The NNormal Tomir 2.0 is a grower - Running Shoe Review"
+slug = "nnormal-tomir-20-review-a-grower"
 +++
 
 I can't imagine there's a trail runner alive who hasn't heard of Kilian Jornet. He's the goat when it comes to mountains. 6 years ago my kids brilliantly reached out to him and John Kelly to see if they could get an autograph or something to mark my 50th birthday. Kilian sent a very cool signed card and John, the legend, sent me a video, which I'll never forget.

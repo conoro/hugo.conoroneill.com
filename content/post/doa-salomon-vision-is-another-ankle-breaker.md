@@ -4,8 +4,8 @@ Description = "Or as they should be called, the Ankle Roller 5000s"
 Tags = []
 draft = false
 date = "2024-09-01T13:01:32+00:00"
-title = "The DOA Salomon Vision is another ankle breaker"
-slug = "doa-salomon-vision-is-another-ankle-breaker"
+title = "The DOA Salomon Vision is another ankle breaker - Running Shoe Review"
+slug = "salomon-vision-review-is-another-ankle-breaker"
 +++
 
 This won't be a long review. How could it be when I've only done 1 km in the Salomon Vision. It's more of a rant.
