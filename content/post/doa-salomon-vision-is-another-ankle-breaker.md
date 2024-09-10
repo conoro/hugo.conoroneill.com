@@ -24,7 +24,9 @@ I figured I needed one more backup pair of shoes for the [Kerry Way Ultra](https
 
 ![Salomon Vision](/images/2024/09/vision1.jpg)
 
-A person in the EU trying to buy running shoes from a company in the EU? Don't be ridiculous Conor. It's not 1967 any more guys. De Gaulle didn't manage to block our joining of the EEC the second time in 1972.
+A person in the EU trying to buy running shoes from a company in the EU? Don't be ridiculous Conor. 
+
+It's not 1967 any more guys. De Gaulle didn't manage to block our joining of the EEC the second time in 1972.
 
 Anyway, Alltricks (also in France), had them.
 
@@ -53,11 +55,11 @@ After spending from April-August this year diligently dealing with problems arou
 
 I have been wondering why none of the main running shoe review channels that I follow on YouTube have covered the Vision. Has Salomon not been sending out review pairs? Why? Do they know they have a turkey on their hands?
 
-Is it a case of them being better for the environment but not actually any good? I don't think Salomon knows how to do high-stack shoes. They should pop down to any local running store in Annecy or Cham and check out how Hoka, Brooks, Saucony and even Asics do things.
+Is it a case of the shoes being better for the environment but not actually any good? Are they the paper drinking straws of the running shoe world? I don't think Salomon knows how to do high-stack shoes. They should pop down to any local running store in Annecy or Cham and check out how Hoka, Brooks, Saucony and even Asics do things.
 
 Of course this situation is entirely my fault, I should never have put them on 6 days before my biggest race of the year. 
 
-Unless you are François D'Haene, avoid the Salmon Visions like the plague. I predict they will disappear without a trace, just like their ankle-breaking predecessors, the Sense Pro Max.
+In summary, unless you are François D'Haene, avoid the Salmon Visions like the plague. I predict they will disappear without a trace, just like their ankle-breaking predecessors, the Sense Pro Max.
 
 I believe this is an early picture of version 2.0
 
