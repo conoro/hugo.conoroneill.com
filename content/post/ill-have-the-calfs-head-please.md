@@ -6,21 +6,13 @@ id = 503
 comment = false
 +++
 
-<div lang="en" class="hreview">
-
 ### Ancient Parisian restaurant still serving great food at amazing prices
 
-    <div>
-        Review of <span class="type">business</span>
-        <span class="item vcard">
-            </span><span class="fn org">[Au Petit Riche Restaurant](http://www.aupetitriche.com)</span>
-            <span class="street-address">25, Rue Le Peletier</span> <span class="locality">Paris</span> <span class="region"></span> <span class="postal-code">75009</span> <span class="country-name">France</span>
+Review of [Au Petit Riche Restaurant](http://www.aupetitriche.com). 
 
-    </div>
-    <div>
-        Rating: <span class="rating">4</span> stars out of 5 <span class="stars" title="4">![](http://beta.loudervoice.com/static/images/small-star.png)![](http://beta.loudervoice.com/static/images/small-star.png)![](http://beta.loudervoice.com/static/images/small-star.png)![](http://beta.loudervoice.com/static/images/small-star.png)![](http://beta.loudervoice.com/static/images/small-non-star.png)</span>
-    </div>
-    <div class="description">
+25, Rue Le Peletier, Paris, 75009, France
+
+Rating: 4 stars out of 5 
 
 A bunch of us geeks attended the pretty weak Le Web 3 conference in December 2006\. The main party was on near l'Opera and we wanted to get something decent to eat (we'd had a Chinese the previous night!).
 
@@ -81,7 +73,6 @@ We finished the first bottle and then agreed we would try the other variant "jus
 Only problem is that my brain is too small to remember all the French info.
 
 Back to the restaurant. Great great food in a lovely location with a killer price. If you are around l'Opera in Paris, you should definitely give it a go.
-</div>
-    <div class="review_tags">LouderVoice Review Tags: [classical](http://www.loudervoice.com/tags/classical), [dining](http://www.loudervoice.com/tags/dining), [food](http://www.loudervoice.com/tags/food), [french](http://www.loudervoice.com/tags/french), [restaurant](http://www.loudervoice.com/tags/restaurant), [wine](http://www.loudervoice.com/tags/wine)</div>
-    <div class="rate">Rate this review at [LouderVoice](http://www.loudervoice.com/reviews/167)</div>
-</div>
+
+LouderVoice Review Tags: [classical](http://www.loudervoice.com/tags/classical), [dining](http://www.loudervoice.com/tags/dining), [food](http://www.loudervoice.com/tags/food), [french](http://www.loudervoice.com/tags/french), [restaurant](http://www.loudervoice.com/tags/restaurant), [wine](http://www.loudervoice.com/tags/wine)
+
