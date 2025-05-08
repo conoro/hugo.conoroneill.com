@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quick Posts on Conor&#39;s Bandon Blog</title>
+    <link>https://conoroneill.com/categories/quick-posts/</link>
+    <description>Recent content in Quick Posts on Conor&#39;s Bandon Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 May 2025 06:00:32 +0000</lastBuildDate><atom:link href="https://conoroneill.com/categories/quick-posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I want exoskeletons not VR goggles</title>
+      <link>https://conoroneill.com/2025/05/08/i-want-exoskeletons-not-vr-goggles/</link>
+      <pubDate>Thu, 08 May 2025 06:00:32 +0000</pubDate>
+      
+      <guid>https://conoroneill.com/2025/05/08/i-want-exoskeletons-not-vr-goggles/</guid>
+      <description>Back in the blogging heyday I would sometimes post a few times per day. Sadly it&amp;rsquo;s been a few times per year for close to a decade now, with social taking over. I&amp;rsquo;m going to experiment a bit with reverting to quick posts that normally end up on Twitter or Threads.
+I must also use ChatGPT o3 to build a simple posting tool for the Hugo system this blog runs on, that doesn&amp;rsquo;t require me to change how I do everything.</description>
+    </item>
+    
+  </channel>
+</rss>

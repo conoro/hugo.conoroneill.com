@@ -6,7 +6,17 @@
     <description>Recent content on Conor&#39;s Bandon Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Sep 2024 07:01:32 +0000</lastBuildDate><atom:link href="https://conoroneill.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 May 2025 06:00:32 +0000</lastBuildDate><atom:link href="https://conoroneill.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I want exoskeletons not VR goggles</title>
+      <link>https://conoroneill.com/2025/05/08/i-want-exoskeletons-not-vr-goggles/</link>
+      <pubDate>Thu, 08 May 2025 06:00:32 +0000</pubDate>
+      
+      <guid>https://conoroneill.com/2025/05/08/i-want-exoskeletons-not-vr-goggles/</guid>
+      <description>Back in the blogging heyday I would sometimes post a few times per day. Sadly it&amp;rsquo;s been a few times per year for close to a decade now, with social taking over. I&amp;rsquo;m going to experiment a bit with reverting to quick posts that normally end up on Twitter or Threads.
+I must also use ChatGPT o3 to build a simple posting tool for the Hugo system this blog runs on, that doesn&amp;rsquo;t require me to change how I do everything.</description>
+    </item>
+    
     <item>
       <title>The Hoka Speedgoat 5 Mid GTX boots are life savers - Running Shoe Review</title>
       <link>https://conoroneill.com/2024/09/07/hoka-speedgoat-5-mid-gtx-boots-are-life-savers-running-shoe-review/</link>
@@ -198,16 +208,6 @@ We humans have an ability to let trauma fade, which helps us in countless ways f
       <guid>https://conoroneill.com/2021/09/22/hoka-speedgoat-4-the-perfect-trail-running-shoe/</guid>
       <description>I&amp;rsquo;ve been having mixed success with trail runners in 2021 which you can read about in previous mini-reviews:
  Hoka Challenger ATR 5 GTX - Love the comfort and waterproofedness. Great for road-to-trail. Did 50-60 mile Sheeps&amp;rsquo;s Head Way twice in them. But very little grip in the wet. Saucony Peregrine 10 - Killed my heel. Unwearable. Great grip. Inov-8 TrailFly Ultra G 300 Max - Heavy, blister-inducing on rough ground, lethal on wet rocks.</description>
-    </item>
-    
-    <item>
-      <title>Twenty years of blogging on conoroneill.com</title>
-      <link>https://conoroneill.com/2021/09/20/twenty-years-of-blogging-on-conoroneill-com/</link>
-      <pubDate>Mon, 20 Sep 2021 07:00:00 +0000</pubDate>
-      
-      <guid>https://conoroneill.com/2021/09/20/twenty-years-of-blogging-on-conoroneill-com/</guid>
-      <description>I somehow missed the actual 20th Anniversary of the Blog back in April and finally noticed last week. This could be a massive post with links to highlights and lowlights over the past twenty years but I think I&amp;rsquo;d prefer to keep it short.
- After using Frontpage in the 90s and hosting a &amp;ldquo;homepage&amp;rdquo; on Indigo, Geocities and others, I made the move to Blogger on April 17th 2001. That was followed by the golden years of blogging from 2006-2010 on WordPress and eventually the move via various static site generators to Hugo a few years back.</description>
     </item>
     
   </channel>
