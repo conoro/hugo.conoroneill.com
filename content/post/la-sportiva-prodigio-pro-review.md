@@ -14,7 +14,11 @@ I've spent the past few years mostly running in the Hoka Speedgoat and the Brook
 
 Then the Prodigio Pro (let's call it the PP for short) arrived and all the YouTube and Blog reviewers raved about them. I've always avoided La Sportiva as they have a reputation for narrowness and very hard misoles. But the PP apparently was the complete opposite.
 
-Most reviews warned to go up half or a full size which I did. Unusually, I ordered them directly from La Sportiva themselves in Italy. Why don't more brands do this (cough Salomon)? They only took a week to Ireland.
+Most reviews warned to go up half or a full size which I did.
+
+UPDATE: The advice above *only* applies to US and UK sizing. I went from my usual 44 to 44.5 EU and they were too big. Just enough the the front of my foot slid around a bit. I made the same mistake with the Prodigio Max. I then bought a second pair of Pros in size 44 and they are absolutely perfect. The rest of this review is about true-to-size 44.
+
+Unusually, I ordered them directly from La Sportiva themselves in Italy. Why don't more brands do this (cough Salomon)? They only took a week to Ireland.
 
 ![La Sportiva Prodigio Pro](/images/2025/07/la-sportiva-prodigio-pro.jpg)
 
@@ -22,17 +26,15 @@ Initial impressions were that I loved the sock-like collar to keep grit out, the
 
 I did a couple of short runs initially and fell in love instantly. Everything just worked. They felt like what the Speedgoat should be in 2025, instead of stuck in a rut like they are. But more than anything, those lugs, holy moly, those lugs. The PP will stick to anything. I tried them on ridiculously sloped smooth wet rocks and had zero slippage. I'd have been in a heap on the ground with any Vibram Megagrip shoe. Every type of surface was handled perfectly.
 
-The only concern I had at all was the front of the shoe being too voluminous. I hate the feeling of my foot sliding around at all in a shoe because it always leads to horrendous blisters over long distances. This was a bit strange to me as it's the opposite of La Sportiva's reputation. But at the same time, I think going up half a size was the right thing to do, as otherwise my big toe would have been too close to the front.
+My earlier worry about the narrowness of the back of the shoe had some merit. There's a lot of midsole and I have had a few small mini ankle rolls. Nothing like the Vision but more than I'd get in Calderas.
 
-My earlier worry about the narrowness of the back of the shoe had some merit. There's a lot of midsole and I have had a few small mini ankle rolls. Nothing like the Vision but more than I'd get in Calderas. 
-
-On Friday morning I had a big decision to make. I was about to do my first ever Alpine race.  The [Grossglockner Ultra Trail (GGUT) GWT 35km](https://conoroneill.com/2025/07/27/the-glorious-grossglockner-ggut-gwt-35/) is not very long but the underfoot conditions are brutal particularly since it has been raining. So did I take my trusty Brooks Caldera 6 (the outsole on the 7 isn't good enough) or the La Sportiva Prodigio Pro? My biggest concerns about the PP were the aforementioned volume and the potential for ankle rolls. My biggest concern about the Calderas was that they are not as good on wet rock and mud as the PP.
+On Friday morning I had a big decision to make. I was about to do my first ever Alpine race.  The [Grossglockner Ultra Trail (GGUT) GWT 35km](https://conoroneill.com/2025/07/27/the-glorious-grossglockner-ggut-gwt-35/) is not very long but the underfoot conditions are brutal, particularly since it has been raining. So did I take my trusty Brooks Caldera 6 (the outsole on the 7 isn't good enough) or the La Sportiva Prodigio Pro? My biggest concern about the PP was the potential for ankle rolls. My biggest concern about the Calderas was that they are not as good on wet rock and mud as the PP.
 
 I went with the PP and it was the best decision I could have made. They absolutely nailed it. I would not have made the cut-offs in any other shoe. Whilst people around me were slipping and sliding, I was able to move much more quickly than I usually would. I could run/clamber/scramble/walk downhill on slippy everything that would have had me crawling in any other shoe. The lugs are just phenomenal.
 
 I had one minor fall due to rocks sliding underfoot but that's not the shoe's fault. I also had a couple of mini ankle rolls but nothing that caused me any pain or concern. The only thing the PP couldn't handle was deep steep mud. But nothing can handle that since there is nothing to grip onto. I had to gingerly walk or slide down those sections. I was far more stable than others in Hokas, Scott and Merrell.
 
-As for the volume, it was a non-issue. I had no blisters at all and my feet felt great after 35km of brutal terrain. The sock-like collar worked perfectly to keep out grit and mud.
+I had no blisters at all and my feet felt great after 35km of brutal terrain. The sock-like collar worked perfectly to keep out grit and mud.
 
 I suspect the outsole will wear quickly on hard surfaces so I'll use them sparingly when doing road to trail. But when it comes to the rough stuff, the PP is now my go-to shoe. 
 
