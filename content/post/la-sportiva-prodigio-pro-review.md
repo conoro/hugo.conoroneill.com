@@ -18,6 +18,8 @@ Most reviews warned to go up half or a full size which I did.
 
 UPDATE: The advice above *only* applies to US and UK sizing. I went from my usual 44 to 44.5 EU and they were too big. Just enough the the front of my foot slid around a bit. I made the same mistake with the Prodigio Max. I then bought a second pair of Pros in size 44 and they are absolutely perfect. The rest of this review is about true-to-size 44.
 
+UPDATE 2: I used the true-to-size shoes in the first 44km of the Kerry Way Ultra. By the end, my big toe was very sore with the steep rough downhills and the slight foot swelling. So either go up half a size for longer harder terrain or keep the Pros for shorter runs only.
+
 Unusually, I ordered them directly from La Sportiva themselves in Italy. Why don't more brands do this (cough Salomon)? They only took a week to Ireland.
 
 ![La Sportiva Prodigio Pro](/images/2025/07/la-sportiva-prodigio-pro.jpg)
