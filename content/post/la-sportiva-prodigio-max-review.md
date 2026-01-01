@@ -22,7 +22,7 @@ Towards the end of the run, I was almost tip-toeing downhill to avoid yet anothe
 
 I actually parked them from August until December but decided to try them on 3 short runs over Christmas. This time on much much easier terrain. Mostly gritted forest trails plus some fields. And they were great. The same lugs as the Pro continue to impress. The midsole has some decent bounce too. But they are clearly not designed for anything rough. I could imagine using them on long candy-ass groomed trails but these are not my ultra shoes sadly.
 
-The problem is that the Pros are much better for the shorter routes so I suspect the Maxes are going to suffer the same fate as the Worst Trail Shoe of All Time™ (the Salomon Index) and become my civilian fashion shoes. They are a bit garish for that but I kinda like it.
+The problem is that the Pros are much better for the shorter routes so I suspect the Maxes are going to suffer the same fate as the Worst Trail Shoe of All Time™ (the Salomon Vision) and become my civilian fashion shoes. They are a bit garish for that but I kinda like it.
 
 So please La Sportiva, drop this design, it's a dead end. For Max V2, take the Pro, widen it a bit, add some more midsole at the front, lower the durometer on the midsole a touch, and you'll have a 100+ mile race winner on your hands.
 
