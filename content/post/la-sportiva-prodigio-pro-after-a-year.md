@@ -16,11 +16,11 @@ Everything I said in [my original review](https://conoroneill.com/2025/07/28/la-
 
 The original concerns are still there too. Whilst heel lockdown is great, the front of the shoe is too baggy and my foot still moves around too much. Dropping half a size in the second pair to deal with that problem has left me with even more black toenails.
 
-Unfortunately there are some issues which only reared their head on technical runs and after quite a bit of use. They are related to the hard edge of the upper where the elastic bootee meets the shoe. First is ankle rub. I cannot wear them now without taping the bottom of my ankles after being rubbed raw on multiple runs. The second is the same on my heel/achilles. The "pods" at the back of the shoes have squished flaf so now my achilles rubs against the same hard edge as my ankle. I have partially solved this by glueing some extra padding into the heel area. Crude but effective.
+Unfortunately there are some issues which only reared their head on technical runs and after quite a bit of use. They are related to the hard edge of the upper where the elastic bootee meets the shoe. First is ankle rub. I cannot wear them now without taping the bottom of my ankles after being rubbed raw on multiple runs. The second is the same on my heel/achilles. The "pods" at the back of the shoes have squished flat so now my achilles rubs against the same hard edge as my ankle. I have partially solved this by glueing some extra padding into the heel area. Crude and difficult to keep them glued in.
 
 I still love running in them but they are now mostly for short runs because of those problems.
 
-Hopefully this is something they fix in version 2. But in the meantime I reverted to Speedgoat 7 recently in prep for long races. And was reminded what a soft collar and well locked-down forefoot feel like.
+Hopefully this is something they will fix in version 2. But in the meantime I reverted to Speedgoat 7 recently in prep for a certain long race. And was reminded what a soft collar and well locked-down forefoot feels like yesterday.
 
 I have an OpenClaw Agent running every day watching the price of the Pro online across multiple stores. My theory is that the price of shoes drops hugely when a new version is due to come out. We've all seen that happen. But there hasn't been any major drops on the Pro online. Which means we may not be getting a V2 this year?
 
