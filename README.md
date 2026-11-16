@@ -11,14 +11,14 @@ The wrapper finds `hugo` on PATH, then `~/bin/hugo`. Set `HUGO_BIN` to select a 
 ./scripts/hugo server --buildDrafts --disableFastRender --renderToMemory
 ```
 
-Open the local URL printed by Hugo. Photo Revival is a draft at `/2026/11/16/photo-revival/`; edit `content/post/photo-revival.md`. Its four approved photographic derivatives live in `static/images/2026/11/photo-revival/`. Add the personal introduction before setting `draft = false`.
+Open the local URL printed by Hugo. Photo Revival is published at `/2026/11/16/photo-revival-improving-old-family-photo-scans/`; edit `content/post/photo-revival-improving-old-family-photo-scans.md`. Its four approved photographic derivatives live in `static/images/2026/11/photo-revival/`.
 
 ```bash
 python3 scripts/check-build.py
-./scripts/hugo --panicOnWarning
+./scripts/build-production
 ```
 
-The check builds both production and drafts into temporary directories, verifies every published content route, archive/pagination routes, XML feeds, the new article's canonical/repository links and its assets. The normal build writes to the existing `docs` publish directory. This directory contains tracked historical output; review a production build's changes before committing it. Do not build drafts into `docs` for publication.
+The check builds both production and drafts into temporary directories, verifies every published content route, archive/pagination routes, XML feeds, the new article's canonical/repository links and its assets. The production script builds and validates a clean temporary site with the public domain before replacing `docs`, preserving `CNAME`. Raw `hugo server` writes only to the ignored `.hugo-preview` directory; the wrapper additionally forces in-memory previews. CI rejects localhost URLs and live-reload scripts in the actual committed `docs` files. This directory contains tracked historical output; review a production build's changes before committing it. Do not build drafts into `docs` for publication.
 
 ## Hugo compatibility changes
 

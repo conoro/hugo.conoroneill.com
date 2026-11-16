@@ -11,7 +11,7 @@ import xml.etree.ElementTree as ET
 
 ROOT=Path(__file__).resolve().parents[1]
 HUGO=str(ROOT/'scripts/hugo')
-POST='/2026/11/16/photo-revival/'
+from check_publication import check_publication
 class Page(HTMLParser):
     def __init__(self):super().__init__();self.assets=[];self.links=[];self.canonical=[]
     def handle_starttag(self,tag,attrs):
@@ -40,10 +40,16 @@ with tempfile.TemporaryDirectory(prefix='hugo-blog-check-') as folder:
         for route in ['/', '/post/', '/tags/', '/categories/', '/page/2/']:
             assert file_for(dest,route).is_file(),route
         for xml in ['index.xml','sitemap.xml']:ET.parse(dest/xml)
-        assert file_for(dest,POST).exists()==drafts,'Draft leaked into production or missing in preview'
+        if not drafts:check_publication(dest)
+        all_rows=list(csv.DictReader(io.StringIO(subprocess.check_output([HUGO,'list','all'],cwd=ROOT,text=True))))
+        for item in all_rows:
+            if item['draft']=='true':
+                assert file_for(dest,item['permalink']).exists()==drafts, item['path']
+        article=next(r for r in all_rows if 'photo-revival' in r['path'])
+        post_url=article['permalink']
         if drafts:
-            page=document(file_for(dest,POST))
-            assert page.canonical==['https://conoroneill.com'+POST],page.canonical
+            page=document(file_for(dest,post_url))
+            assert page.canonical==[post_url],page.canonical
             assert 'https://github.com/conoro/photo-revival' in page.links
             assert '/index.xml' in page.links, 'Footer must link to the site feed'
             for asset in page.assets:

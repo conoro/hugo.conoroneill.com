@@ -12,4 +12,7 @@ else
   exit 1
 fi
 cd "$project_dir"
+if [[ "${1:-}" == "server" ]]; then
+  exec "$hugo_bin" "$@" --renderToMemory
+fi
 exec "$hugo_bin" "$@"

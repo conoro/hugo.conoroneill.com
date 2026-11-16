@@ -1,4 +1,5 @@
 +++
+aliases = ["/2025/12/21/la-sportiva-prodigio-max-review/"]
 Categories = ["Reviews"]
 Description = "An odd mis-step after the brilliant Prodigio Pro."
 Tags = []
