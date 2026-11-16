@@ -116,3 +116,6 @@ $RECYCLE.BIN/
 
 # Local Hugo preview output must never reach GitHub Pages.
 /.hugo-preview/
+
+# Python bytecode from the automated publication check.
+__pycache__/

@@ -1,34 +1,14 @@
 # Conor's Bandon Blog
 
-Hugo source for https://conoroneill.com, using the vendored CleanWhite theme. Tested with **Hugo 0.170.0** (standard Linux binary); Extended Hugo is not required by this theme.
+Hugo source for https://conoroneill.com, using the existing CleanWhite theme.
 
-## Preview and build
-
-The wrapper finds `hugo` on PATH, then `~/bin/hugo`. Set `HUGO_BIN` to select a different executable.
-
-```bash
-./scripts/hugo version
-./scripts/hugo server --buildDrafts --disableFastRender --renderToMemory
+```sh
+hugo serve   # local preview
+hugo         # production build into docs, for GitHub Pages
 ```
 
-Open the local URL printed by Hugo. Photo Revival is published at `/2026/11/16/photo-revival-improving-old-family-photo-scans/`; edit `content/post/photo-revival-improving-old-family-photo-scans.md`. Its four approved photographic derivatives live in `static/images/2026/11/photo-revival/`.
+Hugo 0.170.0 writes previews to disk by default. The two-line development configuration directs them to the ignored `.hugo-preview` folder, so plain `hugo serve` cannot overwrite the production files in `docs`. No wrapper or extra command is needed.
 
-```bash
-python3 scripts/check-build.py
-./scripts/build-production
-```
+Post navigation, canonical links and local assets use site-relative URLs. The original theme directory structure is retained; compatibility fixes cover removed Hugo APIs, pagination, services and old tweet embeds.
 
-The check builds both production and drafts into temporary directories, verifies every published content route, archive/pagination routes, XML feeds, the new article's canonical/repository links and its assets. The production script builds and validates a clean temporary site with the public domain before replacing `docs`, preserving `CNAME`. Raw `hugo server` writes only to the ignored `.hugo-preview` directory; the wrapper additionally forces in-memory previews. CI rejects localhost URLs and live-reload scripts in the actual committed `docs` files. This directory contains tracked historical output; review a production build's changes before committing it. Do not build drafts into `docs` for publication.
-
-## Hugo compatibility changes
-
-- Modern template layout names: `home.html`, `single.html`, `section.html`, `taxonomy.html`, `term.html`, `_partials` and `_shortcodes`.
-- Separate archive and taxonomy rendering, preserving the dated post permalink pattern.
-- `pagination.pagerSize`, `locale` and `services` configuration replace removed keys/APIs.
-- Canonical URLs and neighbouring-post links use supported page permalink methods.
-- Analytics is configured once through Hugo's embedded template. Disqus uses the current services API.
-- Historical `tweet` shortcodes retain their IDs and link/embed in the browser, without calling a social-media API during a build. Deleted tweets may remain unavailable.
-
-Reference: [Hugo template lookup](https://gohugo.io/templates/lookup-order/), [pagination](https://gohugo.io/configuration/pagination/) and [services](https://gohugo.io/configuration/services/).
-
-The GitHub workflow runs the same checks with a checksum-verified Hugo 0.170.0 binary. It does not deploy. The old root-level `circle.yml` is a historical deployment configuration, not the active compatibility workflow; review its cloud tooling separately before reusing it.
+The automated check rejects localhost URLs and live-reload scripts in published HTML/XML. The custom domain remains in `docs/CNAME`.

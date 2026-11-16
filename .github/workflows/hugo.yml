@@ -22,5 +22,8 @@ jobs:
           echo "$RUNNER_TEMP/hugo" >> "$GITHUB_PATH"
       - name: Reject preview output committed to Pages
         run: python3 scripts/check_publication.py docs
-      - name: Verify published and draft builds
-        run: python3 scripts/check-build.py
+      - name: Verify a production build
+        run: |
+          hugo --environment production --panicOnWarning --destination "$RUNNER_TEMP/hugo-site"
+          python3 scripts/check_publication.py "$RUNNER_TEMP/hugo-site"
+
