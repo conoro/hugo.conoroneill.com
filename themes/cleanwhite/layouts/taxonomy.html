@@ -1,0 +1,6 @@
+{{ define "main" }}
+<main class="container"><div class="row"><div class="col-lg-8 col-lg-offset-2 post-container">
+<h1>{{ .Title }}</h1>{{ .Content }}
+<ul>{{ range .Pages.ByTitle }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> ({{ len .RegularPages }})</li>{{ end }}</ul>
+</div></div></main>
+{{ end }}

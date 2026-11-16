@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+project_dir="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
+if [[ -n "${HUGO_BIN:-}" ]]; then
+  hugo_bin="$HUGO_BIN"
+elif command -v hugo >/dev/null 2>&1; then
+  hugo_bin="$(command -v hugo)"
+elif [[ -x "$HOME/bin/hugo" ]]; then
+  hugo_bin="$HOME/bin/hugo"
+else
+  echo 'Install Hugo 0.170.0 or set HUGO_BIN to its executable.' >&2
+  exit 1
+fi
+cd "$project_dir"
+exec "$hugo_bin" "$@"

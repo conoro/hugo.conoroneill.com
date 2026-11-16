@@ -1,0 +1,8 @@
+{{- /* Preserve historical tweet IDs without fetching an external API during builds. */ -}}
+{{- $id := .Get 0 -}}
+{{- if .IsNamedParams }}{{ $id = .Get "id" }}{{ end -}}
+<blockquote class="twitter-tweet"><a href="https://twitter.com/i/web/status/{{ $id }}">View the original post on Twitter / X</a></blockquote>
+{{- if not (.Page.Store.Get "twitter-widget") -}}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{- .Page.Store.Set "twitter-widget" true -}}
+{{- end -}}

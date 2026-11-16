@@ -1,13 +1,9 @@
 baseurl = "https://conoroneill.com/"
 title = "Conor's Bandon Blog"
 theme = ["cleanwhite"]
-languageCode = "en-us"
-Paginate = 10
-disqusShortname = "conorbandon"
+locale = "en-US"
 rssLimit = 20
 publishdir = "docs"
-ignoreErrors = ["error-remote-getjson"]
-preserveTaxonomyNames = true
 authorlocation = "Bandon, Cork, Ireland"
 
 [outputs]
@@ -73,3 +69,12 @@ home = ["HTML", "RSS"]
 
 
 
+
+[pagination]
+  pagerSize = 10
+
+[services.disqus]
+  shortname = "conorbandon"
+
+[services.googleAnalytics]
+  id = "G-YGC7R427ZH"

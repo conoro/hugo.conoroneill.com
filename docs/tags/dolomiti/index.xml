@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>dolomiti on Conor&#39;s Bandon Blog</title>
-    <link>https://conoroneill.com/tags/dolomiti/</link>
-    <description>Recent content in dolomiti on Conor&#39;s Bandon Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 15 Oct 2021 04:00:00 +0000</lastBuildDate><atom:link href="https://conoroneill.com/tags/dolomiti/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tre Cime di Lavaredo - A European wonder hiding in plain sight</title>
-      <link>https://conoroneill.com/2021/10/15/tre-cime-di-lavaredo-a-european-wonder-hiding-in-plain-sight/</link>
-      <pubDate>Fri, 15 Oct 2021 04:00:00 +0000</pubDate>
-      
-      <guid>https://conoroneill.com/2021/10/15/tre-cime-di-lavaredo-a-european-wonder-hiding-in-plain-sight/</guid>
-      <description>I got those Pandemic City Blues Four weeks ago I&amp;rsquo;d never heard of Tre Cime di Lavaredo. Last weekend we hiked around it and I&amp;rsquo;m still struggling to find the English to describe the beauty of what we saw. How we got there is kind of a funny story.
-We humans have an ability to let trauma fade, which helps us in countless ways from childbirth and broken limbs to the death of loved ones.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Dolomiti on Conor&#39;s Bandon Blog</title>
+		<link>http://localhost:1313/tags/dolomiti/</link>
+		<description>Recent content in Dolomiti on Conor&#39;s Bandon Blog</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 15 Oct 2021 04:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/dolomiti/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tre Cime di Lavaredo - A European wonder hiding in plain sight</title>
+				<link>http://localhost:1313/2021/10/15/tre-cime-di-lavaredo-a-european-wonder-hiding-in-plain-sight/</link>
+				<pubDate>Fri, 15 Oct 2021 04:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/2021/10/15/tre-cime-di-lavaredo-a-european-wonder-hiding-in-plain-sight/</guid>
+				<description>&lt;h2 id=&#34;i-got-those-pandemic-city-blues&#34;&gt;I got those Pandemic City Blues&lt;/h2&gt;&#xA;&lt;p&gt;Four weeks ago I&amp;rsquo;d never heard of &lt;a href=&#34;https://en.wikipedia.org/wiki/Tre_Cime_di_Lavaredo&#34;&gt;Tre Cime di Lavaredo&lt;/a&gt;. Last weekend we hiked around it and I&amp;rsquo;m still struggling to find the English to describe the beauty of what we saw. How we got there is kind of a funny story.&lt;/p&gt;&#xA;&lt;p&gt;We humans have an ability to let trauma fade, which helps us in countless ways from childbirth and broken limbs to the death of loved ones. It strikes me that many of us have already forgotten just how awful things were in April, May and June 2020. The extreme lockdown in Ireland achieved its aims but I particularly remember those three months being the hardest of all mentally. And for others, it was far far worse than that.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
