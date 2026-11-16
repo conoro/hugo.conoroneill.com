@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Conor&#39;s Bandon Blog</title>
-		<link>http://localhost:1313/tags/</link>
+		<link>https://conoroneill.com/tags/</link>
 		<description>Recent content in Tags on Conor&#39;s Bandon Blog</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,145 +12,145 @@
 		
 			<lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://conoroneill.com/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Family Photographs</title>
-				<link>http://localhost:1313/tags/family-photographs/</link>
+				<link>https://conoroneill.com/tags/family-photographs/</link>
 				<pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/family-photographs/</guid>
+				<guid>https://conoroneill.com/tags/family-photographs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Open Source</title>
-				<link>http://localhost:1313/tags/open-source/</link>
+				<link>https://conoroneill.com/tags/open-source/</link>
 				<pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/open-source/</guid>
+				<guid>https://conoroneill.com/tags/open-source/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Photo Revival</title>
-				<link>http://localhost:1313/tags/photo-revival/</link>
+				<link>https://conoroneill.com/tags/photo-revival/</link>
 				<pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/photo-revival/</guid>
+				<guid>https://conoroneill.com/tags/photo-revival/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Blogging</title>
-				<link>http://localhost:1313/tags/blogging/</link>
+				<link>https://conoroneill.com/tags/blogging/</link>
 				<pubDate>Fri, 09 Feb 2024 06:17:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/blogging/</guid>
+				<guid>https://conoroneill.com/tags/blogging/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Content Ownership</title>
-				<link>http://localhost:1313/tags/content-ownership/</link>
+				<link>https://conoroneill.com/tags/content-ownership/</link>
 				<pubDate>Fri, 09 Feb 2024 06:17:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/content-ownership/</guid>
+				<guid>https://conoroneill.com/tags/content-ownership/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Hreview</title>
-				<link>http://localhost:1313/tags/hreview/</link>
+				<link>https://conoroneill.com/tags/hreview/</link>
 				<pubDate>Fri, 09 Feb 2024 06:17:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/hreview/</guid>
+				<guid>https://conoroneill.com/tags/hreview/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Structured Reviews</title>
-				<link>http://localhost:1313/tags/structured-reviews/</link>
+				<link>https://conoroneill.com/tags/structured-reviews/</link>
 				<pubDate>Fri, 09 Feb 2024 06:17:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/structured-reviews/</guid>
+				<guid>https://conoroneill.com/tags/structured-reviews/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Tech</title>
-				<link>http://localhost:1313/tags/tech/</link>
+				<link>https://conoroneill.com/tags/tech/</link>
 				<pubDate>Fri, 09 Feb 2024 06:17:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/tech/</guid>
+				<guid>https://conoroneill.com/tags/tech/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ireland</title>
-				<link>http://localhost:1313/tags/ireland/</link>
+				<link>https://conoroneill.com/tags/ireland/</link>
 				<pubDate>Fri, 09 Sep 2022 11:00:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/ireland/</guid>
+				<guid>https://conoroneill.com/tags/ireland/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kerry</title>
-				<link>http://localhost:1313/tags/kerry/</link>
+				<link>https://conoroneill.com/tags/kerry/</link>
 				<pubDate>Fri, 09 Sep 2022 11:00:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/kerry/</guid>
+				<guid>https://conoroneill.com/tags/kerry/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kerry Way</title>
-				<link>http://localhost:1313/tags/kerry-way/</link>
+				<link>https://conoroneill.com/tags/kerry-way/</link>
 				<pubDate>Fri, 09 Sep 2022 11:00:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/kerry-way/</guid>
+				<guid>https://conoroneill.com/tags/kerry-way/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kerry Way Ultra</title>
-				<link>http://localhost:1313/tags/kerry-way-ultra/</link>
+				<link>https://conoroneill.com/tags/kerry-way-ultra/</link>
 				<pubDate>Fri, 09 Sep 2022 11:00:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/kerry-way-ultra/</guid>
+				<guid>https://conoroneill.com/tags/kerry-way-ultra/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>KWU</title>
-				<link>http://localhost:1313/tags/kwu/</link>
+				<link>https://conoroneill.com/tags/kwu/</link>
 				<pubDate>Fri, 09 Sep 2022 11:00:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/kwu/</guid>
+				<guid>https://conoroneill.com/tags/kwu/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>The Kerry Way</title>
-				<link>http://localhost:1313/tags/the-kerry-way/</link>
+				<link>https://conoroneill.com/tags/the-kerry-way/</link>
 				<pubDate>Fri, 09 Sep 2022 11:00:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/the-kerry-way/</guid>
+				<guid>https://conoroneill.com/tags/the-kerry-way/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ultrarunning</title>
-				<link>http://localhost:1313/tags/ultrarunning/</link>
+				<link>https://conoroneill.com/tags/ultrarunning/</link>
 				<pubDate>Fri, 09 Sep 2022 11:00:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/ultrarunning/</guid>
+				<guid>https://conoroneill.com/tags/ultrarunning/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Food</title>
-				<link>http://localhost:1313/tags/food/</link>
+				<link>https://conoroneill.com/tags/food/</link>
 				<pubDate>Sun, 17 Oct 2021 13:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/food/</guid>
+				<guid>https://conoroneill.com/tags/food/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Oat Milk</title>
-				<link>http://localhost:1313/tags/oat-milk/</link>
+				<link>https://conoroneill.com/tags/oat-milk/</link>
 				<pubDate>Sun, 17 Oct 2021 13:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/oat-milk/</guid>
+				<guid>https://conoroneill.com/tags/oat-milk/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Plant Milk</title>
-				<link>http://localhost:1313/tags/plant-milk/</link>
+				<link>https://conoroneill.com/tags/plant-milk/</link>
 				<pubDate>Sun, 17 Oct 2021 13:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/plant-milk/</guid>
+				<guid>https://conoroneill.com/tags/plant-milk/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Vegan</title>
-				<link>http://localhost:1313/tags/vegan/</link>
+				<link>https://conoroneill.com/tags/vegan/</link>
 				<pubDate>Sun, 17 Oct 2021 13:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/vegan/</guid>
+				<guid>https://conoroneill.com/tags/vegan/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dolomites</title>
-				<link>http://localhost:1313/tags/dolomites/</link>
+				<link>https://conoroneill.com/tags/dolomites/</link>
 				<pubDate>Fri, 15 Oct 2021 04:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/tags/dolomites/</guid>
+				<guid>https://conoroneill.com/tags/dolomites/</guid>
 				<description></description>
 			</item>
 	</channel>

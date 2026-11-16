@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Software on Conor&#39;s Bandon Blog</title>
-		<link>http://localhost:1313/categories/software/</link>
+		<link>https://conoroneill.com/categories/software/</link>
 		<description>Recent content in Software on Conor&#39;s Bandon Blog</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/categories/software/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://conoroneill.com/categories/software/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Photo Revival: improving old family photo scans on your own computer</title>
-				<link>http://localhost:1313/2026/11/16/photo-revival-improving-old-family-photo-scans/</link>
+				<link>https://conoroneill.com/2026/11/16/photo-revival-improving-old-family-photo-scans/</link>
 				<pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/2026/11/16/photo-revival-improving-old-family-photo-scans/</guid>
+				<guid>https://conoroneill.com/2026/11/16/photo-revival-improving-old-family-photo-scans/</guid>
 				<description>&lt;p&gt;I have a collection of old family photos from the 1920s to the 1980s that I have been meaning to scan and fix for several years now. I had a small bit of success with the Windows software that came with the cheap Canon LiDE 400 scanner I bought in 2023 but always thought it could be better and hated having to do things photo by photo.&lt;/p&gt;&#xA;&lt;p&gt;Attempts to use both free open source tools and pay-for photo tools required far too much knowledge on my part. Things improved massively over the past 3 years with the arrival of various online AI tools but it was still photo by photo.&lt;/p&gt;</description>
 			</item>
 	</channel>
